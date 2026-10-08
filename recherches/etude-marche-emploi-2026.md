@@ -990,4 +990,122 @@ Pour la grande majorité des combinaisons, le volume réel d'offres identifiable
 - **Répartition géographique : 5/10 (50 %) Bouches-du-Rhône/PACA ; 5/10 (50 %) reste de la France.**
 - **Limites :** meilleure proportion PACA de toute l'étude à ce stade — les grandes collectivités de la région (métropoles, département) publient régulièrement ce type de poste. Les missions détaillées reposent partiellement sur le recoupement avec les volets « relations presse » déjà identifiés dans les fiches communication publique (combinaisons 1-C et 5-C), la plupart des fiches PACA spécifiques ayant été dépubliées avant lecture intégrale.
 
-<!-- PROCHAINE SECTION A REDIGER : 11. Brand content manager / Brand manager (secteurs A, B, C) -->
+## 11. Brand content manager / Brand manager
+
+> **Note de filtrage :** les offres « évaluateur/évaluatrice de marques de luxe » (CXG, nombreuses en PACA) sont des missions de mystery shopping rémunérées à la mission, sans rapport avec la fonction de brand manager — elles ont été explicitement écartées de l'échantillon malgré leur forte présence dans les résultats bruts. Les postes de « store manager »/« team manager » en boutique (Ralph Lauren, Prada) ont également été écartés (gestion de point de vente, non gestion de marque).
+
+### A. Secteur privé — TPE / PME / Startup (< 50 salariés)
+
+**A. Compétences les plus demandées (échantillon n = 4)**
+
+| Compétence (CV) | Fréquence |
+|---|---|
+| Stratégie de marque | 4/4 (100 %) |
+| Storytelling / contenu premium | 4/4 (100 %) |
+| Relations presse et influence | 3/4 (75 %) |
+| LinkedIn / réseaux B2B | 3/4 (75 %) |
+| Anglais courant | 4/4 (100 %) |
+| Pilotage d'agences/prestataires | 3/4 (75 %) |
+| Management d'équipe | 3/4 (75 %) |
+| IA générative (usage quotidien) | 2/4 (50 %) |
+
+**B. Missions les plus demandées**
+
+| Mission | Fréquence |
+|---|---|
+| Définition du positionnement et de l'identité de marque | 4/4 |
+| Garantie de la cohérence de la marque sur tous les points de contact | 4/4 |
+| Pilotage de la stratégie de communication corporate | 3/4 |
+| Développement des relations presse France/international | 3/4 |
+| Animation de la présence LinkedIn de la marque/des dirigeants | 3/4 |
+| Production de contenus premium (études de cas, livres blancs) | 3/4 |
+| Coordination d'agences, freelances et prestataires créatifs | 3/4 |
+| Pilotage du calendrier éditorial multicanal | 3/4 |
+| Construction de la marque employeur | 2/4 |
+| Accompagnement du déploiement international de la marque | 2/4 |
+| Management et recrutement de l'équipe Brand | 2/4 |
+| Mesure de l'impact des contenus et ajustement des formats | 2/4 |
+| Collaboration avec les équipes Growth/Produit/Design | 2/4 |
+| Supervision de l'expérience de marque en point de vente | 1/4 |
+| Pilotage budgétaire de la fonction Brand | 2/4 |
+
+**C. Transparence**
+
+- **4 offres identifiées et analysées** : 3 lues intégralement (Meteoria, Marseille 13 — « Brand & Communication Lead », startup en forte croissance ; Onatera, Aix-en-Provence 13 — « Head of Brand », scale-up santé naturelle ; Yousign, Paris — « Brand & Content Manager », scale-up tech), 1 identifiée par métadonnées (Talexim, Chambéry).
+- **Répartition géographique : 2/4 (50 %) Bouches-du-Rhône/PACA** (Meteoria-Marseille ; Onatera-Aix-en-Provence) ; **2/4 (50 %) reste de la France.**
+- **Limites :** excellente surprise pour ce croisement — les deux fiches PACA sont parmi les plus riches de toute l'étude. La taille exacte (< 50 salariés) n'est pas confirmée numériquement pour Onatera, qui se situe peut-être à la frontière PME/ETI (comité de direction, trois pôles d'activité) ; elle est conservée en A au vu de son positionnement explicite « scale-up ».
+
+### B. Secteur privé — Grande entreprise (> 50 salariés)
+
+**A. Compétences les plus demandées (échantillon n = 10)**
+
+| Compétence (CV) | Fréquence |
+|---|---|
+| Marketing multicanal | 9/10 (90 %) |
+| Gestion de P&L marque | 6/10 (60 %) |
+| Anglais courant | 7/10 (70 %) |
+| Coordination internationale | 6/10 (60 %) |
+| Pilotage d'agences | 6/10 (60 %) |
+| Lancement de produits | 6/10 (60 %) |
+| Analyse de performance/KPI | 5/10 (50 %) |
+| Packaging/merchandising | 4/10 (40 %) |
+
+**B. Missions les plus demandées**
+
+| Mission | Fréquence |
+|---|---|
+| Pilotage de la stratégie de marque sur le marché France/international | 9/10 |
+| Coordination du lancement de nouveaux produits/marques | 7/10 |
+| Gestion du P&L et des budgets marketing de la marque | 6/10 |
+| Pilotage d'agences créatives et médias | 6/10 |
+| Déclinaison de la stratégie groupe sur les marchés locaux | 5/10 |
+| Analyse de performance et reporting | 5/10 |
+| Pilotage du packaging et du merchandising | 4/10 |
+| Coordination avec les équipes R&D/supply chain | 4/10 |
+| Gestion de portefeuille de marques multiples | 4/10 |
+| Coordination avec les équipes commerciales/trade marketing | 3/10 |
+| Veille concurrentielle et de marché | 3/10 |
+| Pilotage de campagnes publicitaires multicanal | 3/10 |
+
+**C. Transparence**
+
+- **10 offres identifiées et analysées** (métadonnées détaillées pour toutes, cohérentes entre elles) : Safran (5 postes distincts « marques industrielles »/« chef de marque », plusieurs sites), Amazon (Prime Video, Clichy), JCDecaux (Neuilly-sur-Seine), Aldi (Villepinte), BPCE (Paris), Pierre Fabre/Ducray (Tarn), Coty (Paris), Electra (Paris), Havea (Vendée), Groupe Savencia (international).
+- **Répartition géographique : 0/10 (0 %) Bouches-du-Rhône/PACA ; 10/10 (100 %) reste de la France.**
+- **Limites :** aucune offre grande entreprise identifiée en PACA pour ce croisement ; échantillon à dominante Île-de-France, cohérent avec la localisation habituelle des sièges marketing/marque.
+
+### C. Secteur public / institutionnel
+
+> **Échantillon quasi nul (n = 1) — confirmé comme annoncé par le donneur d'ordre pour ce croisement précis.**
+
+**A. Compétences identifiées**
+
+| Compétence (CV) | Fréquence |
+|---|---|
+| Stratégie éditoriale réseaux sociaux | 1/1 |
+| Charte graphique institutionnelle | 1/1 |
+| Veille e-réputation | 1/1 |
+| Gestion de projet multimédia | 1/1 |
+| Communication de crise | 1/1 |
+
+**B. Missions identifiées**
+
+| Mission | Fréquence |
+|---|---|
+| Élaboration de la stratégie éditoriale des réseaux sociaux ministériels | 1/1 |
+| Production de contenus multi-formats (posts, stories, vidéos, infographies) | 1/1 |
+| Animation et modération des communautés | 1/1 |
+| Mesure de performance et rédaction de rapports d'activité | 1/1 |
+| Préparation de briefs de production (motion design, vidéo) | 1/1 |
+| Participation à la communication de crise | 1/1 |
+
+**C. Transparence**
+
+- **1 offre identifiée et lue intégralement** : DICOM (délégation à l'information et à la communication), vraisemblablement ministère de l'Intérieur, poste de contractuel intitulé explicitement « Brand Content Manager » au sein de la nomenclature interne, Paris 12e puis Saint-Denis à partir de fin 2026/début 2027.
+- **Répartition géographique : 0/1 Bouches-du-Rhône/PACA.**
+- **Limites — conforme à l'anticipation du donneur d'ordre :** ce croisement est explicitement signalé comme à très faible volume. L'unique offre trouvée est cependant authentique, précisément intitulée et entièrement documentée — elle montre que le terme anglophone « Brand Content Manager » infuse désormais jusque dans la nomenclature de postes de l'État, mais reste un cas isolé. **Aucune fréquence sur un échantillon >1 n'est présentée au-delà de ce poste unique**, conformément à la consigne de rigueur scientifique.
+
+---
+
+# Fin de l'étude par intitulé — synthèse à suivre
+
+<!-- PROCHAINE ÉTAPE : compilation finale, relecture de cohérence, puis envoi -->
