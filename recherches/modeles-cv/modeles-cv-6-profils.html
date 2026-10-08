@@ -1,0 +1,547 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Modèles de CV par profil</title>
+<style>
+  :root {
+    --ink: #1d232b;
+    --muted: #5b6573;
+    --line: #c9d0d8;
+    --note: #c2410c;          /* couleur des annotations (à supprimer du CV réel) */
+    --note-bg: #fff4ec;
+    --sec: #7a8594;           /* contour des blocs de texte */
+    --paper: #ffffff;
+    --desk: #e9ecef;
+  }
+  @page { size: A4; margin: 0; }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; padding: 0; background: var(--desk); color: var(--ink);
+    font-family: Arial, "Liberation Sans", "DejaVu Sans", Helvetica, sans-serif; }
+  .page { width: 210mm; height: 297mm; background: var(--paper); margin: 10mm auto; position: relative;
+    overflow: hidden; box-shadow: 0 2px 10px rgba(0,0,0,.12); page-break-after: always; break-after: page; }
+  @media print { body { background: none; } .page { margin: 0; box-shadow: none; } }
+
+  /* bandeau d'annotation dans la marge haute et basse */
+  .meta-top, .meta-bottom { position: absolute; left: 6mm; right: 6mm; font: 6.6pt/1.25 "DejaVu Sans Mono", "Liberation Mono", monospace;
+    color: var(--note); letter-spacing: .1px; }
+  .meta-top { top: 3mm; }
+  .meta-bottom { bottom: 3mm; }
+  .meta-top b { background: var(--note); color: #fff; padding: 0 4px; border-radius: 2px; margin-right: 4px; }
+
+  .sheet { position: absolute; inset: 0; }
+  .content { position: absolute; }
+
+  /* zones annotées */
+  .zone { position: relative; outline: 1.4px dashed var(--note); outline-offset: 0; }
+  .sec { position: relative; outline: 1px dotted var(--sec); outline-offset: 1.2mm; margin-bottom: 5.2mm; padding-top: 1.2mm; }
+  .tag { position: absolute; right: 0; top: -2.9mm; transform: translateY(-50%); font: 6.2pt/1 "DejaVu Sans Mono", "Liberation Mono", monospace;
+    color: var(--note); background: var(--note-bg); border: 1px solid var(--note); padding: 1px 4px; border-radius: 2px; white-space: nowrap; z-index: 2; }
+  .sec > .tag { color: #4b5563; background: #f3f4f6; border-color: #9ca3af; top: -1.2mm; }
+  .hint { font: 6.4pt/1.3 "DejaVu Sans Mono", "Liberation Mono", monospace; color: var(--note); }
+
+  /* photo et vignettes : cadre barré, comme un emplacement réservé */
+  .ph { width: 30mm; height: 35mm; border: 1.4px dashed var(--note); position: relative; background:
+    linear-gradient(to top right, transparent calc(50% - .6px), rgba(194,65,12,.45) 50%, transparent calc(50% + .6px)),
+    linear-gradient(to bottom right, transparent calc(50% - .6px), rgba(194,65,12,.45) 50%, transparent calc(50% + .6px)), #fffaf6; }
+  .ph span { position: absolute; left: 0; right: 0; bottom: 2mm; text-align: center; font: 6.2pt/1.25 "DejaVu Sans Mono", monospace; color: var(--note); background: rgba(255,250,246,.92); }
+
+  /* typographie du CV */
+  .name { font-weight: 700; letter-spacing: .2px; margin: 0; }
+  .title { margin: 1.2mm 0 0; }
+  .contact { font-size: 9.8pt; color: var(--muted); margin-top: 1.4mm; line-height: 1.45; }
+  h3 { font-size: 12pt; margin: 0 0 1.6mm; letter-spacing: .3px; text-transform: uppercase; }
+  p, li { font-size: 10.2pt; line-height: 1.42; margin: 0; }
+  ul { margin: 0.6mm 0 0; padding-left: 4.2mm; }
+  li { margin-bottom: .5mm; }
+  .job { margin-bottom: 3.2mm; }
+  .job .h { font-weight: 700; font-size: 10.4pt; }
+  .job .d { color: var(--muted); font-size: 9.4pt; }
+  .scope { font-size: 9.6pt; background: #f6f7f9; border-left: 2px solid var(--line); padding: 1mm 2mm; margin: .8mm 0 .6mm; }
+  .ph-text { color: #3b4350; }
+  .muted { color: var(--muted); }
+  .small { font-size: 9.2pt; }
+  .aere p, .aere li { line-height: 1.62; }
+  .aere .sec { margin-bottom: 6.6mm; }
+  .aere .job { margin-bottom: 4mm; }
+  .pagecount { position: absolute; right: 20mm; bottom: 13mm; font-size: 7.5pt; color: var(--muted); }
+
+  /* couverture / légende */
+  .cover { padding: 22mm 20mm; }
+  .cover h1 { font-size: 22pt; margin: 0 0 3mm; }
+  .cover h2 { font-size: 12pt; margin: 8mm 0 2.5mm; text-transform: uppercase; letter-spacing: .4px; }
+  .cover p, .cover li { font-size: 10pt; line-height: 1.45; }
+  .legend { display: grid; grid-template-columns: 34mm 1fr; gap: 3mm 5mm; align-items: center; margin-top: 2mm; }
+  .sw { height: 11mm; position: relative; }
+  .sw.z { outline: 1.4px dashed var(--note); }
+  .sw.s { outline: 1px dotted var(--sec); }
+  .sw.p { width: 11mm; }
+  table.cmp { border-collapse: collapse; width: 100%; font-size: 8.6pt; margin-top: 2mm; }
+  table.cmp th, table.cmp td { border: 1px solid #d5dbe1; padding: 1.4mm 1.6mm; text-align: left; vertical-align: top; }
+  table.cmp th { background: #f1f3f5; }
+</style>
+</head>
+<body>
+
+<!-- ============================ COUVERTURE / LÉGENDE ============================ -->
+<section class="page" data-id="00-legende">
+  <div class="cover">
+    <h1>Six modèles de CV — maquettes A4</h1>
+    <p>Communication, affaires publiques et marketing · Bouches-du-Rhône · CDI et CDD.<br>
+    Maquettes tirées de la partie 2 du rapport « Architecture CV communication par profil » (octobre 2026).
+    Ce sont des propositions déduites des sources, pas des formats testés.</p>
+
+    <h2>Comment lire les maquettes</h2>
+    <div class="legend">
+      <div class="sw z"><span class="tag" style="top:50%;right:auto;left:2mm;transform:translateY(-50%)">[G1] ZONE</span></div>
+      <div><p><b>Cadre orange en tirets</b> : zone graphique [G1], [G2] ou photo [P]. Sa taille et sa place sont des consignes ; le cadre et son étiquette disparaissent du CV réel.</p></div>
+      <div class="sw s"><span class="tag" style="top:50%;right:auto;left:2mm;transform:translateY(-50%);color:#4b5563;background:#f3f4f6;border-color:#9ca3af">BLOC · 3–4 lignes</span></div>
+      <div><p><b>Cadre gris en pointillés</b> : bloc de texte, dans l'ordre où un ATS et un copier-coller du PDF doivent le lire. L'étiquette grise donne la longueur conseillée.</p></div>
+      <div class="ph sw p" style="height:13mm"></div>
+      <div><p><b>Cadre barré</b> : emplacement réservé à une image (photo ou vignette de réalisation).</p></div>
+      <div class="hint" style="font-size:8pt">texte orange</div>
+      <div><p>Annotations et consignes (marges haute et basse de chaque page) : à supprimer.</p></div>
+    </div>
+
+    <h2>Les six profils</h2>
+    <table class="cmp">
+      <tr><th>Profil</th><th>Format</th><th>Colonnes</th><th>Photo</th><th>Graphisme</th><th>Bloc distinctif</th></tr>
+      <tr><td><b>A1</b> Direction, structure &lt; 50 salariés</td><td>1 page (2 au-delà de 10 ans)</td><td>1</td><td>Facultative</td><td>Bandeau, 1 couleur d'accent</td><td>Réalisations clés et périmètre</td></tr>
+      <tr><td><b>A2</b> Chargé·e, structure &lt; 50 salariés</td><td>1 page</td><td>1 + latérale facultative testée</td><td>Facultative</td><td>Bandeau, 2 couleurs, vignettes</td><td>Portfolio en tête, projets</td></tr>
+      <tr><td><b>B1</b> Direction, entreprise ≥ 50 salariés</td><td>2 pages</td><td>1, strictement</td><td>Non (version portail)</td><td>Filet fin</td><td>Périmètre et chiffres clés</td></tr>
+      <tr><td><b>B2</b> Chargé·e, entreprise ≥ 50 salariés</td><td>1 page</td><td>1, strictement</td><td>Non</td><td>Aucun</td><td>Compétences clés reprises de l'annonce</td></tr>
+      <tr><td><b>C1</b> Direction, employeur public</td><td>2 pages au plus</td><td>1</td><td>Facultative</td><td>Filet fin, imprimable en gris</td><td>Statut et périmètre public</td></tr>
+      <tr><td><b>C2</b> Chargé·e, employeur public</td><td>1 page recto</td><td>1</td><td>Facultative</td><td>Aucun, imprimable</td><td>Statut et réalisations en ligne</td></tr>
+    </table>
+
+    <h2>Test commun aux six modèles</h2>
+    <p>Exporter en PDF depuis le traitement de texte, puis copier-coller tout le texte dans un éditeur : il doit sortir dans l'ordre des blocs gris. Nom du fichier : « NOM_Prenom_[intitulé].pdf ».</p>
+  </div>
+</section>
+
+<!-- ================================== A1 ================================== -->
+<section class="page" data-id="A1">
+  <div class="meta-top"><b>A1</b>Direction communication &amp; marketing · structure &lt; 50 salariés · A4 · 1 page (2 au-delà de 10 ans d'expérience) · marges 1,8 cm · 1 colonne</div>
+  <div class="content" style="left:18mm;right:18mm;top:12mm;">
+    <div class="zone" style="background:#0f5e6e;color:#fff;padding:5mm 6mm 5mm 42mm;min-height:36mm;margin:0 -6mm 7mm;">
+      <span class="tag">[G1] BANDEAU D'EN-TÊTE · couleur d'accent n°1 · ≈ 3 cm · texte réel</span>
+      <div class="ph" style="position:absolute;left:6mm;top:3mm;width:28mm;height:31mm;background-color:#e6f0f2;"><span>[P] PHOTO<br>facultative<br>3 × 3,5 cm</span></div>
+      <p class="name" style="font-size:21pt;color:#fff">[PRÉNOM NOM]</p>
+      <p class="title" style="font-size:13pt;color:#fff">[Intitulé exact de l'annonce]</p>
+      <p class="contact" style="color:#d8eef2">[Ville (13)] · [06 00 00 00 00] · [prenom.nom@domaine.fr]<br>[linkedin.com/in/prenom-nom] · Portfolio : [URL courte]</p>
+    </div>
+
+    <div class="sec"><span class="tag">PROFIL · 3–4 lignes</span>
+      <h3 style="color:#0f5e6e">Profil</h3>
+      <p class="ph-text">[X] ans à la tête de la communication et du marketing de [start-up / PME / agence] en [secteurs]. [Résultat signature : indicateur de A à B en N mois]. Pour [Nom de l'entreprise] : [enjeu repris de l'annonce] et [apport concret].</p>
+    </div>
+
+    <div class="sec"><span class="tag">RÉALISATIONS CLÉS · 3–4 puces chiffrées</span>
+      <h3 style="color:#0f5e6e">Réalisations clés</h3>
+      <ul>
+        <li>Création de la fonction [communication-marketing] : de [0] à [N] personnes, budget [X k€]</li>
+        <li>[Verbe] [objectif] : [indicateur] de [A] à [B] en [durée], grâce à [méthode]</li>
+        <li>[Lancement / repositionnement] de [produit, marque, offre] : [résultat + base de comparaison]</li>
+      </ul>
+    </div>
+
+    <div class="sec"><span class="tag">EXPÉRIENCE · ligne Périmètre + 3–4 puces par poste récent</span>
+      <h3 style="color:#0f5e6e">Expérience professionnelle</h3>
+      <div class="job">
+        <div class="h">[Intitulé du poste] — [Entreprise] ([secteur], [N] salariés) — [Ville]</div>
+        <div class="d">[Mois AAAA] – [Mois AAAA] · [CDI]</div>
+        <div class="scope">Périmètre : budget [X k€] · équipe [N] (dont [N] en direct, [N] prestataires) · rattachement [CEO / DG] · canaux [site, réseaux sociaux, RP, événementiel, CRM]</div>
+        <ul>
+          <li>[Verbe d'action] [action] : [résultat chiffré avec sa base]</li>
+          <li>[Projet mené de bout en bout : du brief à la livraison, délai, résultat]</li>
+          <li>[Arbitrage budgétaire ou choix de prestataire : économie ou gain mesuré]</li>
+        </ul>
+      </div>
+      <div class="job">
+        <div class="h">[Intitulé] — [Entreprise] ([secteur], [N] salariés) — [Ville]</div>
+        <div class="d">[Mois AAAA] – [Mois AAAA] · [CDI / CDD]</div>
+        <ul><li>[2 à 3 puces, même structure : verbe + action + résultat chiffré]</li></ul>
+      </div>
+      <p class="small muted">[Postes de plus de 10 ans : une ligne chacun — intitulé, entreprise, années]</p>
+    </div>
+
+    <div class="sec"><span class="tag">COMPÉTENCES · texte simple, ni jauge ni étoile</span>
+      <h3 style="color:#0f5e6e">Compétences et outils</h3>
+      <p>Stratégie de marque · Acquisition et SEO (référencement naturel) · Relations presse · CRM (gestion de la relation client) : [outil] · [Suite Adobe / Figma / Canva] · [Analytics]</p>
+    </div>
+
+    <div style="display:block">
+      <div class="sec"><span class="tag">FORMATION</span><h3 style="color:#0f5e6e">Formation</h3><p>[Diplôme] — [École / Université] — [AAAA]</p></div>
+      <div class="sec"><span class="tag">LANGUES</span><h3 style="color:#0f5e6e">Langues</h3><p>Anglais : [courant (C1)] · [Langue] : [niveau en toutes lettres]</p></div>
+    </div>
+
+    <div class="sec"><span class="tag">FACULTATIF · 1 ligne · 1 touche d'humour au plus</span>
+      <h3 style="color:#0f5e6e">Centres d'intérêt</h3>
+      <p>[Activité précise + durée ou réalisation] · [Engagement : rôle + durée] · [Touche d'autodérision factuelle, ex. « Guitare (10 ans de pratique ; désormais surtout en plein air, entre amis) »]</p>
+    </div>
+  </div>
+  <div class="meta-bottom">Couleur n°1 = bandeau + titres de section, jamais en fond de paragraphe · photo facultative · test : PDF → copier-coller, le texte doit sortir dans cet ordre</div>
+</section>
+
+<!-- ================================== A2 ================================== -->
+<section class="page" data-id="A2">
+  <div class="meta-top"><b>A2</b>Chargé·e de communication ou de marketing · structure &lt; 50 salariés · A4 · 1 page · marges 1,5 cm · colonne latérale seulement après test du copier-coller</div>
+  <div class="content" style="left:15mm;right:15mm;top:11mm;">
+    <div class="zone" style="background:linear-gradient(90deg,#0f5e6e 0%,#0f5e6e 72%,#e8a33d 72%);color:#fff;padding:5mm 44mm 5mm 6mm;min-height:33mm;margin:0 -4mm 4mm;">
+      <span class="tag">[G1] BANDEAU · accents n°1 et n°2 · 2,5–3 cm</span>
+      <p class="name" style="font-size:20pt;color:#fff">[PRÉNOM NOM]</p>
+      <p class="title" style="font-size:13pt;color:#fff">[Intitulé exact de l'annonce]</p>
+      <p class="contact" style="color:#e6f3f5"><b style="color:#fff">Portfolio : [URL courte, cliquable]</b> <span class="hint" style="color:#ffe1b8">← en premier</span><br>[Ville (13)] · [06 00 00 00 00] · [e-mail] · [linkedin.com/in/…]</p>
+      <div class="ph" style="position:absolute;right:7mm;top:2.5mm;width:27mm;height:30mm;background-color:#fdf3e2;"><span>[P] PHOTO<br>facultative<br>3 × 3,5 cm</span></div>
+    </div>
+
+    <div class="sec" style="margin-bottom:4.5mm"><span class="tag">ACCROCHE · 1–2 lignes · 2 mots-clés de l'annonce</span>
+      <p class="ph-text"><b>[Métier]</b> spécialisé·e en <b>[spécialité]</b> : [apport pour [Nom de l'entreprise], avec deux mots-clés de l'annonce].</p>
+    </div>
+
+    <div style="display:flex;gap:6mm;align-items:flex-start">
+      <div style="flex:0 0 69%">
+        <div class="sec"><span class="tag">COLONNE PRINCIPALE ≈ 70 % · EXPÉRIENCE · 3–4 puces action-résultat</span>
+          <h3 style="color:#0f5e6e">Expérience professionnelle</h3>
+          <div class="job">
+            <div class="h">[Intitulé] — [Entreprise] ([secteur], [N] salariés) — [Ville]</div>
+            <div class="d">[Mois AAAA] – [Mois AAAA] · [CDI / CDD]</div>
+            <ul>
+              <li>[Verbe] [production : newsletter, vidéo, campagne] : [indicateur de A à B, ex. taux d'ouverture de A % à B % en N mois]</li>
+              <li>[Verbe] [compte de réseau social] : [abonnés ou engagement de A à B en N mois]</li>
+              <li>[Projet mené seul de bout en bout : livrable, délai, résultat]</li>
+            </ul>
+          </div>
+          <div class="job">
+            <div class="h">[Poste précédent] — [Entreprise] ([secteur], [N] salariés) — [Ville]</div>
+            <div class="d">[Mois AAAA] – [Mois AAAA] · [CDI / CDD]</div>
+            <ul><li>[Verbe] [support ou canal] : [résultat chiffré avec sa base]</li><li>[Verbe] [événement ou campagne] : [participation, retombées]</li></ul>
+          </div>
+          <div class="job">
+            <div class="h">[Poste antérieur] — [Entreprise] — [Ville]</div>
+            <div class="d">[Mois AAAA] – [Mois AAAA] · [CDD]</div>
+            <ul><li>[1 à 2 puces, même structure]</li></ul>
+          </div>
+        </div>
+        <div class="sec"><span class="tag">FACULTATIF</span>
+          <h3 style="color:#0f5e6e">Projets personnels</h3>
+          <p>[Podcast / blog / association : rôle, durée, audience]</p><p class="small muted" style="margin-top:1mm">[Lien vers le projet] · [chiffre d'audience ou de participation]</p>
+        </div>
+      </div>
+      <div style="flex:1">
+        <div class="zone" style="padding:2.5mm 2.5mm .5mm;background:#f7f4ee;">
+          <span class="tag" style="right:auto;left:0">LATÉRALE ≤ 30 % · facultative</span>
+          <div class="sec" style="margin-bottom:3mm"><h3 style="color:#b8741a;font-size:10pt">Compétences clés</h3><p class="small">Rédaction web · Community management · PAO (publication assistée par ordinateur) · SEO (référencement naturel)</p></div>
+          <div class="sec" style="margin-bottom:3mm"><h3 style="color:#b8741a;font-size:10pt">Outils</h3><p class="small">[Suite Adobe] · [Canva] · [CMS : WordPress…] · [Meta Business Suite] · [outil d'e-mailing]</p></div>
+          <div class="sec" style="margin-bottom:3mm"><h3 style="color:#b8741a;font-size:10pt">Langues</h3><p class="small">Anglais : [intermédiaire (B2)]</p></div>
+          <div class="sec" style="margin-bottom:3mm"><h3 style="color:#b8741a;font-size:10pt">Formation</h3><p class="small">[Diplôme] — [École] — [AAAA]</p><p class="hint">← en tête de colonne si &lt; 3 ans d'expérience</p></div>
+          <div class="sec" style="margin-bottom:2mm"><h3 style="color:#b8741a;font-size:10pt">Centres d'intérêt</h3><p class="small">[Intérêt lié au métier : photo, écriture, vidéo + précision] · [Intérêt précis] · [1 élément ludique au plus]</p></div>
+        </div>
+      </div>
+    </div>
+
+    <div class="zone" style="margin-top:3mm;padding:3mm;">
+      <span class="tag">[G2] 2 À 3 VIGNETTES DE RÉALISATIONS · facultatif · légende en texte + lien</span>
+      <div style="display:flex;gap:4mm;">
+        <div style="flex:1"><div class="ph" style="width:100%;height:34mm"><span>[Vignette 1]</span></div><p class="small" style="margin-top:1mm">[Projet, année, résultat] · [lien]</p></div>
+        <div style="flex:1"><div class="ph" style="width:100%;height:34mm"><span>[Vignette 2]</span></div><p class="small" style="margin-top:1mm">[Projet, année, résultat] · [lien]</p></div>
+        <div style="flex:1"><div class="ph" style="width:100%;height:34mm"><span>[Vignette 3]</span></div><p class="small" style="margin-top:1mm">[Projet, année, résultat] · [lien]</p></div>
+      </div>
+    </div>
+  </div>
+  <div class="meta-bottom">Si au copier-coller des lignes de la colonne latérale s'intercalent dans les expériences : supprimer la colonne et placer ses rubriques après les expériences · les vignettes ne portent aucune info propre (un ATS ne lit que la légende) · 2 couleurs d'accent au plus</div>
+</section>
+
+<!-- ================================ B1 p.1 ================================ -->
+<section class="page" data-id="B1-p1">
+  <div class="meta-top"><b>B1</b>Direction communication, marketing ou affaires publiques · entreprise ≥ 50 salariés · A4 · 2 pages · marges 2 cm · 1 colonne stricte · page 1/2</div>
+  <div class="content" style="left:20mm;right:20mm;top:13mm;">
+    <div class="sec" style="margin-bottom:2mm"><span class="tag">EN-TÊTE · texte réel · aucune zone photo (version portail / ATS)</span>
+      <p class="name" style="font-size:21pt">[PRÉNOM NOM]</p>
+      <p class="title" style="font-size:13pt">[Intitulé standard du poste visé, ex. « Directeur·rice de la communication »]</p>
+      <p class="contact">[Ville (13)] · [06 00 00 00 00] · [e-mail] · [linkedin.com/in/…]</p>
+    </div>
+    <div class="zone" style="height:3.2mm;margin:3mm 0 7mm;"><div style="position:absolute;left:0;right:0;top:1.2mm;border-top:1.2pt solid #1f2a44"></div>
+      <span class="tag">[G1] FILET FIN · bleu nuit · seul élément graphique</span></div>
+
+    <div class="sec"><span class="tag">PROFIL · 4 lignes</span>
+      <h3 style="color:#1f2a44">Profil</h3>
+      <p class="ph-text">[X] ans de direction de la communication [corporate / de marque / des affaires publiques] dans [secteurs], au sein d'entreprises de [N] à [N] salariés. [Périmètre maximal géré]. [Deux résultats sur l'activité]. [Expertise métier + maîtrise technologique (IA, data) + vision business].</p>
+    </div>
+    <div class="sec"><span class="tag">PÉRIMÈTRE ET CHIFFRES CLÉS · 2–3 lignes de texte</span>
+      <h3 style="color:#1f2a44">Périmètre et chiffres clés</h3>
+      <p>Budget annuel piloté : [X M€] · Équipe : [N] en direct, [N] en fonctionnel, [N] agences<br>Rattachement : [Président·e / DG / membre du comité exécutif] · [N] marques · [N] pays · [canaux]</p>
+    </div>
+    <div class="sec"><span class="tag">RÉALISATIONS CLÉS · 3–5 puces</span>
+      <h3 style="color:#1f2a44">Réalisations clés</h3>
+      <ul>
+        <li>[Transformation conduite : réorganisation, plateforme de marque, internalisation] : [résultat + base de comparaison]</li>
+        <li>[Effet sur l'activité : notoriété, prospects, chiffre d'affaires attribuable] : de [A] à [B] en [durée]</li>
+        <li>[Dossier sensible géré] : [issue factuelle, sans élément confidentiel] <span class="hint">← seulement si c'est un fait marquant</span></li>
+        <li>[Partenariat, prix ou reconnaissance externe] : [fait vérifiable + année]</li>
+      </ul>
+    </div>
+    <div class="sec"><span class="tag">EXPÉRIENCE · ligne Périmètre + 3–5 puces par poste récent · suite page 2</span>
+      <h3 style="color:#1f2a44">Expérience professionnelle</h3>
+      <div class="job">
+        <div class="h">[Intitulé du poste]</div>
+        <div class="h" style="font-weight:400">[Entreprise] <span class="hint">← nom seul sur sa ligne (lecture ATS)</span></div>
+        <div class="d">[Secteur] · [N] salariés · [Ville] · [Mois AAAA] – [Mois AAAA] · [CDI]</div>
+        <div class="scope">Périmètre : budget [X] · équipe [N] (dont [N] managers) · rattachement [ ]</div>
+        <ul>
+          <li>[Verbe + action + résultat chiffré avec sa base]</li>
+          <li>[Verbe + action + résultat chiffré avec sa base]</li>
+          <li>[Verbe + action + résultat chiffré avec sa base]</li>
+          <li>[Verbe + action + résultat chiffré avec sa base]</li>
+        </ul>
+      </div>
+      <div class="job">
+        <div class="h">[Intitulé du poste précédent]</div>
+        <div class="h" style="font-weight:400">[Entreprise]</div>
+        <div class="d">[Secteur] · [N] salariés · [Ville] · [Mois AAAA] – [Mois AAAA] · [CDI]</div>
+        <ul><li>[2 à 3 puces, même structure]</li></ul>
+      </div>
+      <div class="job">
+        <div class="h">[Intitulé du poste antérieur]</div>
+        <div class="h" style="font-weight:400">[Entreprise]</div>
+        <div class="d">[Secteur] · [N] salariés · [Ville] · [Mois AAAA] – [Mois AAAA] · [CDI]</div>
+        <div class="scope">Périmètre : budget [X] · équipe [N] · rattachement [ ]</div>
+        <ul><li>[Verbe + action + résultat chiffré avec sa base]</li><li>[Verbe + action + résultat chiffré avec sa base]</li></ul>
+      </div>
+    </div>
+  </div>
+  <div class="pagecount">1 / 2 — suite →</div>
+  <div class="meta-bottom">Une seule version, portail ou consultant : sans photo, sans autre graphisme que le filet · dates « mois année – mois année » · titre du CV = titre du profil LinkedIn</div>
+</section>
+
+<!-- ================================ B1 p.2 ================================ -->
+<section class="page" data-id="B1-p2">
+  <div class="meta-top"><b>B1</b>page 2/2 · même colonne unique · en-tête de page 2 réduit au nom</div>
+  <div class="content" style="left:20mm;right:20mm;top:13mm;">
+    <p class="small muted" style="margin-bottom:6mm">[PRÉNOM NOM] — [Intitulé du poste visé] — page 2</p>
+    <div class="sec"><span class="tag">EXPÉRIENCE (suite) · 2–3 puces par poste</span>
+      <h3 style="color:#1f2a44">Expérience professionnelle (suite)</h3>
+      <div class="job">
+        <div class="h">[Intitulé du poste]</div>
+        <div class="h" style="font-weight:400">[Entreprise]</div>
+        <div class="d">[Secteur] · [N] salariés · [Ville] · [Mois AAAA] – [Mois AAAA] · [CDI]</div>
+        <ul><li>[Verbe + action + résultat chiffré avec sa base]</li><li>[Verbe + action + résultat chiffré avec sa base]</li></ul>
+      </div>
+      <div class="job">
+        <div class="h">[Intitulé du poste]</div>
+        <div class="h" style="font-weight:400">[Entreprise]</div>
+        <div class="d">[Secteur] · [N] salariés · [Ville] · [Mois AAAA] – [Mois AAAA] · [CDI]</div>
+        <ul><li>[Verbe + action + résultat chiffré avec sa base]</li></ul>
+      </div>
+      <p class="small muted">[Postes de plus de 10 ans : une ligne chacun — intitulé, entreprise, années]</p>
+    </div>
+    <div class="sec"><span class="tag">EXPERTISES · termes de l'annonce</span>
+      <h3 style="color:#1f2a44">Expertises</h3>
+      <p>Communication corporate et institutionnelle · Relations presse · Communication interne · Marque employeur · Pilotage d'agences · Data et IA appliquées à la communication</p>
+      <p class="small muted" style="margin-top:1.2mm">[Variante affaires publiques : dossiers réglementaires suivis · institutions (Parlement, ministères, collectivités, institutions européennes) · livrables (notes, amendements) · interlocuteurs désignés par leur fonction, jamais par leur nom]</p>
+    </div>
+    <div class="sec"><span class="tag">FORMATION</span><h3 style="color:#1f2a44">Formation</h3><p>[Diplôme] — [École] — [AAAA]</p></div>
+    <div class="sec"><span class="tag">LANGUES</span><h3 style="color:#1f2a44">Langues</h3><p>Anglais : [courant (C1)] · [Langue] : [niveau]</p></div>
+    <div class="sec"><span class="tag">FACULTATIF</span><h3 style="color:#1f2a44">Mandats et prises de parole</h3><p>[Association professionnelle : rôle, années] · [Intervention : titre, année]</p></div>
+    <div class="sec"><span class="tag">FACULTATIF · souvent omis · 1 ligne sobre</span><h3 style="color:#1f2a44">Centres d'intérêt</h3><p>[Engagement ou activité précise, sans signal religieux, syndical ou politique]</p></div>
+  </div>
+  <div class="pagecount">2 / 2</div>
+  <div class="meta-bottom">Compétences et langues à recopier mot pour mot dans le formulaire de l'ATS (Workday ne les pré-remplit pas) · aucun humour par défaut</div>
+</section>
+
+<!-- ================================== B2 ================================== -->
+<section class="page" data-id="B2">
+  <div class="meta-top"><b>B2</b>Chargé·e de communication ou de marketing · entreprise ≥ 50 salariés · A4 · 1 page · marges 2 cm · 1 colonne stricte · aucune zone photo ni graphique</div>
+  <div class="content" style="left:20mm;right:20mm;top:13mm;">
+    <div class="sec" style="margin-bottom:6mm"><span class="tag">EN-TÊTE · texte réel · ni photo ni graphisme</span>
+      <p class="name" style="font-size:19pt">[PRÉNOM NOM]</p>
+      <p class="title" style="font-size:13pt">[Intitulé EXACT de l'annonce, s'il est véridique, ex. « Chargé·e de marketing digital »]</p>
+      <p class="contact">[Ville (13)] · [06 00 00 00 00] · [e-mail] · [linkedin.com/in/…]<br>Portfolio : [URL courte]</p>
+    </div>
+    <div class="sec"><span class="tag">ACCROCHE · 1–2 lignes · mots-clés de l'annonce</span>
+      <p class="ph-text">[Métier] spécialisé·e en [deux mots-clés de l'annonce], [X] ans en [secteur] ; [résultat signature avec sa base].</p>
+    </div>
+    <div class="sec"><span class="tag">COMPÉTENCES CLÉS · 1 ligne · 6–8 termes · sigle + terme complet</span>
+      <h3 style="color:#1f3a5f">Compétences clés</h3>
+      <p>SEO (référencement naturel) · SEA (référencement payant) · CRM (gestion de la relation client) · Marketing automation · Rédaction web · Gestion de projet · Relations presse</p>
+    </div>
+    <div class="sec"><span class="tag">EXPÉRIENCE · 3–4 puces par poste</span>
+      <h3 style="color:#1f3a5f">Expérience professionnelle</h3>
+      <div class="job">
+        <div class="h">[Intitulé du poste]</div>
+        <div class="h" style="font-weight:400">[Entreprise] <span class="hint">← nom seul sur sa ligne</span></div>
+        <div class="d">[Secteur] · [N] salariés · [Ville] · [Mois AAAA] – [Mois AAAA] · [CDI / CDD]</div>
+        <ul>
+          <li>[Verbe] [campagne / contenu] : [indicateur] de [A] à [B] en [durée]</li>
+          <li>[Verbe] [canal] : [volume produit] et [résultat obtenu]</li>
+          <li>[Analyse ou reporting : tableau de bord créé, décision qu'il a permise]</li>
+        </ul>
+      </div>
+      <div class="job">
+        <div class="h">[Intitulé du poste précédent]</div>
+        <div class="h" style="font-weight:400">[Entreprise]</div>
+        <div class="d">[Secteur] · [N] salariés · [Ville] · [Mois AAAA] – [Mois AAAA] · [CDI / CDD]</div>
+        <ul><li>[Même structure : verbe + action + résultat chiffré]</li><li>[Même structure]</li></ul>
+      </div>
+      <div class="job">
+        <div class="h">[Intitulé du poste antérieur]</div>
+        <div class="h" style="font-weight:400">[Entreprise]</div>
+        <div class="d">[Secteur] · [N] salariés · [Ville] · [Mois AAAA] – [Mois AAAA] · [CDD]</div>
+        <ul><li>[Même structure]</li></ul>
+      </div>
+    </div>
+    <div class="sec"><span class="tag">OUTILS</span><h3 style="color:#1f3a5f">Outils</h3><p>[Google Analytics 4] · [HubSpot / Salesforce] · [Suite Adobe] · [CMS] · [Meta Ads]</p></div>
+    <div class="sec"><span class="tag">FORMATION · avant les expériences si &lt; 3 ans d'expérience</span><h3 style="color:#1f3a5f">Formation</h3><p>[Diplôme bac+5] — [École] — [AAAA]</p></div>
+    <div class="sec"><span class="tag">LANGUES · niveau CECRL en toutes lettres</span><h3 style="color:#1f3a5f">Langues</h3><p>Anglais : [courant (C1)] · [Langue] : [niveau]</p></div>
+    <div class="sec"><span class="tag">2–3 éléments · sans plaisanterie</span><h3 style="color:#1f3a5f">Centres d'intérêt</h3><p>[Intérêt précis + durée] · [Engagement : rôle] · [Intérêt distinctif]</p></div>
+  </div>
+  <div class="meta-bottom">À chaque candidature : intitulé, accroche et ligne de compétences reprennent les termes de l'annonce (en restant véridique) · aucun tableau, zone de texte ni icône · PDF texte (DOCX si le portail le demande)</div>
+</section>
+
+<!-- ================================ C1 p.1 ================================ -->
+<section class="page" data-id="C1-p1">
+  <div class="meta-top"><b>C1</b>Direction de la communication · employeur public ou institutionnel · A4 · 2 pages au plus · marges 2 cm · interligne aéré · 1 colonne · page 1/2</div>
+  <div class="content aere" style="left:20mm;right:20mm;top:13mm;">
+    <div class="sec" style="margin-bottom:2mm;padding-right:36mm;min-height:36mm"><span class="tag" style="right:36mm">EN-TÊTE · nom, poste, STATUT, contacts</span>
+      <p class="name" style="font-size:19pt">[PRÉNOM NOM]</p>
+      <p class="title" style="font-size:12.5pt">[Intitulé exact du poste visé, ex. « Directeur·rice de la communication et de l'attractivité »]</p>
+      <p style="margin-top:1.5mm;font-size:9.6pt"><b>[Statut : « Attaché·e territorial·e principal·e » / « Lauréat·e du concours d'attaché territorial (session AAAA) » / « Candidat·e à un recrutement contractuel »]</b></p>
+      <p class="contact">[Ville (13)] · [06 00 00 00 00] · [e-mail] · Réalisations en ligne : [URL] · [LinkedIn]</p>
+      <div class="ph" style="position:absolute;right:0;top:0;width:28mm;height:33mm;"><span>[P] PHOTO<br>facultative<br>petite</span></div>
+    </div>
+    <div class="zone" style="height:3.2mm;margin:3mm 0 7mm;"><div style="position:absolute;left:0;right:0;top:1.2mm;border-top:1.2pt solid #2b3a4a"></div>
+      <span class="tag">[G1] FILET FIN · couleur foncée lisible en gris · aucun autre graphisme</span></div>
+
+    <div class="sec"><span class="tag">ACCROCHE · 3–5 lignes · mots de la fiche de poste</span>
+      <p class="ph-text" style="line-height:1.5">[X] ans de direction de la communication dans [types de collectivités ou d'établissements] ; pilotage de [domaines] ; travail avec [exécutif, DGS, cabinet] ; apport pour [Nom de la collectivité] : [enjeu de la fiche de poste].</p>
+    </div>
+    <div class="sec"><span class="tag">PÉRIMÈTRE ACTUEL</span>
+      <h3 style="color:#2b3a4a">Périmètre actuel</h3>
+      <p style="line-height:1.5">[Collectivité / établissement] : [N] habitants · [N] agents · équipe de [N] personnes ([N] en direct) · budget de communication [X k€] · rattachement : [DGS / directeur·rice de cabinet]</p>
+    </div>
+    <div class="sec"><span class="tag">EXPÉRIENCE · missions correspondant à l'offre en premier · suite page 2</span>
+      <h3 style="color:#2b3a4a">Expérience professionnelle</h3>
+      <div class="job">
+        <div class="h">[Intitulé] — [Collectivité ou entreprise] ([taille : habitants / agents / salariés]) — [Ville]</div>
+        <div class="d">[AAAA] – [AAAA] · [Titulaire / Contractuel·le / CDI de droit privé]</div>
+        <ul style="line-height:1.5">
+          <li>[Stratégie de communication : élaboration, validation par l'exécutif, mise en œuvre, résultat]</li>
+          <li>[Communication interne / marketing territorial / numérique / concertation : action et indicateur]</li>
+          <li>[Pilotage du budget et des prestataires : montant, procédure, résultat] <span class="hint">← seulement si c'est vrai</span></li>
+        </ul>
+      </div>
+      <div class="job">
+        <div class="h">[Intitulé] — [Collectivité ou entreprise] ([taille]) — [Ville]</div>
+        <div class="d">[AAAA] – [AAAA] · [Titulaire / Contractuel·le / CDI de droit privé]</div>
+        <ul style="line-height:1.5"><li>[Mission correspondant à l'offre : action et résultat]</li><li>[Mission correspondant à l'offre : action et résultat]</li></ul>
+      </div>
+      <div class="job">
+        <div class="h">[Intitulé] — [Collectivité ou entreprise] ([taille]) — [Ville]</div>
+        <div class="d">[AAAA] – [AAAA] · [Titulaire / Contractuel·le / CDI de droit privé]</div>
+        <ul style="line-height:1.5"><li>[Mission correspondant à l'offre : action et résultat]</li><li>[Mission correspondant à l'offre : action et résultat]</li></ul>
+      </div>
+      <div class="job">
+        <div class="h">[Intitulé] — [Structure] ([taille]) — [Ville]</div>
+        <div class="d">[AAAA] – [AAAA] · [statut]</div>
+        <ul><li>[Mission correspondant à l'offre : action et résultat]</li></ul>
+      </div>
+    </div>
+  </div>
+  <div class="pagecount">1 / 2 — suite →</div>
+  <div class="meta-bottom">Ni « Curriculum Vitae », ni signature, ni prétentions salariales · sigles (DGS, EPCI, PAO) développés une fois · relire après impression noir et blanc · + lettre d'une page signée, adressée à l'autorité territoriale</div>
+</section>
+
+<!-- ================================ C1 p.2 ================================ -->
+<section class="page" data-id="C1-p2">
+  <div class="meta-top"><b>C1</b>page 2/2 · interligne aéré · lisible par un jury non spécialiste</div>
+  <div class="content aere" style="left:20mm;right:20mm;top:13mm;">
+    <p class="small muted" style="margin-bottom:6mm">[PRÉNOM NOM] — [Intitulé du poste visé] — page 2</p>
+    <div class="sec"><span class="tag">EXPÉRIENCE (suite) · même structure</span>
+      <h3 style="color:#2b3a4a">Expérience professionnelle (suite)</h3>
+      <div class="job">
+        <div class="h">[Intitulé] — [Collectivité ou entreprise] ([taille]) — [Ville]</div>
+        <div class="d">[AAAA] – [AAAA] · [Titulaire / Contractuel·le / CDI de droit privé]</div>
+        <ul style="line-height:1.5"><li>[Mission correspondant à l'offre : action et résultat]</li><li>[Mission correspondant à l'offre : action et résultat]</li></ul>
+      </div>
+      <div class="job">
+        <div class="h">[Intitulé] — [Structure] ([taille]) — [Ville]</div>
+        <div class="d">[AAAA] – [AAAA] · [statut]</div>
+        <ul style="line-height:1.5"><li>[Mission : action et résultat]</li></ul>
+      </div>
+      <p class="small muted">[Postes anciens : une ligne chacun — intitulé, structure, années]</p>
+    </div>
+    <div class="sec"><span class="tag">DOMAINES D'EXPERTISE</span>
+      <h3 style="color:#2b3a4a">Domaines d'expertise</h3>
+      <p style="line-height:1.5">Communication institutionnelle · Relations presse · Stratégie numérique · Communication interne · Marketing territorial et attractivité · Concertation citoyenne · Management d'équipe</p>
+    </div>
+    <div class="sec"><span class="tag">DIPLÔMES · CONCOURS · FORMATION CONTINUE</span>
+      <h3 style="color:#2b3a4a">Formations, concours et diplômes</h3>
+      <p style="line-height:1.5">[Diplôme] — [Établissement] — [AAAA] · [Concours, session] · [Formations continues liées au poste]</p>
+    </div>
+    <div class="sec"><span class="tag">LANGUES</span><h3 style="color:#2b3a4a">Langues</h3><p>Anglais : [niveau en toutes lettres]</p></div>
+    <div class="sec"><span class="tag">FACULTATIF · 1–2 lignes neutres</span>
+      <h3 style="color:#2b3a4a">Informations complémentaires</h3>
+      <p style="line-height:1.5">[Engagement décrit par le rôle et la durée, sans connotation confessionnelle, partisane ou syndicale]</p>
+    </div>
+  </div>
+  <div class="pagecount">2 / 2</div>
+  <div class="meta-bottom">Sur CSP (Choisir le service public), garder un « CV par défaut » au même niveau d'exigence : tous les gestionnaires concernés peuvent le voir · pas d'humour</div>
+</section>
+
+<!-- ================================== C2 ================================== -->
+<section class="page" data-id="C2">
+  <div class="meta-top"><b>C2</b>Chargé·e de communication · employeur public ou institutionnel · A4 · 1 page recto · marges 2 cm · interligne aéré · 1 colonne · aucune zone graphique</div>
+  <div class="content aere" style="left:20mm;right:20mm;top:13mm;">
+    <div class="sec" style="margin-bottom:6mm;padding-right:36mm;min-height:36mm"><span class="tag" style="right:36mm">EN-TÊTE · nom, offre, STATUT, réalisations en ligne</span>
+      <p class="name" style="font-size:19pt">[PRÉNOM NOM]</p>
+      <p class="title" style="font-size:12.5pt">[Intitulé exact de l'offre, ex. « Chargé·e de communication – community manager »]</p>
+      <p style="margin-top:1.5mm;font-size:9.6pt"><b>[Statut : grade (« Rédacteur·rice territorial·e ») / lauréat·e de concours / « Candidat·e à un recrutement contractuel »]</b></p>
+      <p class="contact"><b style="color:#2b3a4a">Réalisations en ligne : [URL courte]</b><br>[Ville (13)] · [06 00 00 00 00] · [e-mail] · [linkedin.com/in/…]</p>
+      <div class="ph" style="position:absolute;right:0;top:0;width:28mm;height:33mm;"><span>[P] PHOTO<br>facultative<br>petite</span></div>
+    </div>
+    <div class="sec"><span class="tag">ACCROCHE · 3–5 lignes · mots de la fiche de poste</span>
+      <p class="ph-text" style="line-height:1.5">[Métier] ; [spécialités : édition, numérique, événementiel] ; [types de structures] ; apport pour [Nom de la collectivité] avec les mots de la fiche de poste.</p>
+    </div>
+    <div class="sec"><span class="tag">EXPÉRIENCE · missions de l'offre d'abord · structure + taille · 3–4 puces</span>
+      <h3 style="color:#2b3a4a">Expérience professionnelle</h3>
+      <div class="job">
+        <div class="h">[Intitulé] — [Structure] ([secteur], [taille : habitants / agents / salariés]) — [Ville]</div>
+        <div class="d">[AAAA] – [AAAA] · [Contractuel·le / CDD / CDI]</div>
+        <ul style="line-height:1.5">
+          <li>[Rédaction : magazine, site, communiqués : volume, audience ou tirage]</li>
+          <li>[Réseaux sociaux : comptes gérés, abonnés ou engagement de A à B en N mois]</li>
+          <li>[Événement ou campagne : participation, partenaires, retombées presse]</li>
+          <li>[Partenariat ou projet transversal : rôle, partenaires, résultat]</li>
+        </ul>
+      </div>
+      <div class="job">
+        <div class="h">[Poste précédent] — [Structure] ([taille]) — [Ville]</div>
+        <div class="d">[AAAA] – [AAAA] · [Contractuel·le / CDD / CDI]</div>
+        <ul style="line-height:1.5"><li>[Rédaction ou réseaux sociaux : volume, audience]</li><li>[Événement ou campagne : participation, retombées]</li></ul>
+      </div>
+      <div class="job">
+        <div class="h">[Poste antérieur] — [Structure] ([taille]) — [Ville]</div>
+        <div class="d">[AAAA] – [AAAA] · [CDD]</div>
+        <ul style="line-height:1.5"><li>[Même structure]</li></ul>
+      </div>
+    </div>
+    <div class="sec"><span class="tag">COMPÉTENCES ET OUTILS</span>
+      <h3 style="color:#2b3a4a">Compétences et outils</h3>
+      <p style="line-height:1.5">Rédaction · Réseaux sociaux · PAO (publication assistée par ordinateur) : [Suite Adobe] · Web : [CMS] · Photo et vidéo : [outils] · Gestion de projet</p>
+    </div>
+    <div class="sec"><span class="tag">DIPLÔMES · CONCOURS</span>
+      <h3 style="color:#2b3a4a">Formations, concours et diplômes</h3>
+      <p>[Diplôme bac+3 à bac+5] — [Établissement] — [AAAA] · [Concours, session]</p>
+    </div>
+    <div class="sec"><span class="tag">LANGUES</span><h3 style="color:#2b3a4a">Langues</h3><p>Anglais : [niveau en toutes lettres]</p></div>
+    <div class="sec"><span class="tag">3–4 lignes au plus · sincères · sans humour</span>
+      <h3 style="color:#2b3a4a">Informations complémentaires</h3>
+      <p>[Intérêt précis et encore pratiqué] · [Engagement : rôle + durée, neutre] · [Intérêt distinctif]</p>
+    </div>
+  </div>
+  <div class="meta-bottom">Renseigner d'abord le profil CSP et la fiche CVthèque d'Emploi-Territorial (grade, métier, département) · titre = intitulé de l'offre mot pour mot · format antéchronologique · le portfolio porte la preuve graphique</div>
+</section>
+
+</body>
+</html>

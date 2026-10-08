@@ -405,11 +405,11 @@ C2 est le seul profil où la visibilité dépend autant des champs d'un profil e
 
 Chaque modèle comporte deux parties. La **maquette** situe les zones sur la page A4 : **[G1]** et **[G2]** désignent les zones graphiques, **[P]** la zone photo. Le **gabarit** donne ensuite le contenu dans l'ordre exact où un logiciel doit le lire, et où un copier-coller du PDF doit le restituer [D]. Les crochets signalent ce qu'il faut remplacer, et les flèches « ← » sont des consignes à supprimer. Les choix de zones, de tailles et de couleurs appliquent les recommandations de la partie 1. Ce sont donc des propositions déduites des sources, pas des formats testés.
 
-**Maquettes visuelles.** Chaque modèle est présenté ci-dessous en maquette A4, avec ses zones délimitées : les cadres orange en tirets signalent les zones graphiques [G1]/[G2] et la photo [P], les cadres gris en pointillés les blocs de texte dans leur ordre de lecture, et les cadres barrés les emplacements d'image. Les annotations orange en marge sont des consignes, à supprimer du CV réel. Les maquettes existent aussi en un seul PDF imprimable : [modeles-cv-6-profils.pdf](../recherches/modeles-cv/modeles-cv-6-profils.pdf) (légende en première page).
+**Maquettes visuelles.** Chaque modèle est présenté ci-dessous en maquette A4, avec ses zones délimitées : les cadres orange en tirets signalent les zones graphiques [G1]/[G2] et la photo [P], les cadres gris en pointillés les blocs de texte dans leur ordre de lecture, et les cadres barrés les emplacements d'image. Les annotations orange en marge sont des consignes, à supprimer du CV réel. Les maquettes existent aussi en un seul PDF imprimable : [modeles-cv-6-profils.pdf](modeles-cv/modeles-cv-6-profils.pdf) (légende en première page).
 
 ### Modèle A1 — Direction de la communication et du marketing, structure de moins de 50 salariés
 
-![Maquette visuelle du modèle A1](../recherches/modeles-cv/modele-A1.png)
+![Maquette visuelle du modèle A1](modeles-cv/modele-A1.png)
 
 **Maquette** (A4, une page jusqu'à dix ans d'expérience, deux au-delà, marges de 1,8 cm, une colonne)
 
@@ -488,7 +488,7 @@ en plein air, entre amis) »]
 
 ### Modèle A2 — Chargé·e de communication ou de marketing, structure de moins de 50 salariés
 
-![Maquette visuelle du modèle A2](../recherches/modeles-cv/modele-A2.png)
+![Maquette visuelle du modèle A2](modeles-cv/modele-A2.png)
 
 **Maquette** (A4, une page, marges de 1,5 cm ; colonne latérale admise seulement après le test du copier-coller)
 
@@ -566,8 +566,8 @@ CENTRES D'INTÉRÊT
 
 ### Modèle B1 — Direction de la communication, du marketing ou des affaires publiques, entreprise de 50 salariés et plus
 
-![Maquette visuelle du modèle B1 (page 1)](../recherches/modeles-cv/modele-B1-p1.png)
-![Maquette visuelle du modèle B1 (page 2)](../recherches/modeles-cv/modele-B1-p2.png)
+![Maquette visuelle du modèle B1 (page 1)](modeles-cv/modele-B1-p1.png)
+![Maquette visuelle du modèle B1 (page 2)](modeles-cv/modele-B1-p2.png)
 
 **Maquette** (A4, deux pages, marges de 2 cm, une colonne stricte)
 
@@ -652,7 +652,7 @@ CENTRES D'INTÉRÊT                                    ← facultatif, souvent o
 
 ### Modèle B2 — Chargé·e de communication ou de marketing, entreprise de 50 salariés et plus
 
-![Maquette visuelle du modèle B2](../recherches/modeles-cv/modele-B2.png)
+![Maquette visuelle du modèle B2](modeles-cv/modele-B2.png)
 
 **Maquette** (A4, une page, marges de 2 cm, une colonne stricte)
 
@@ -714,8 +714,8 @@ CENTRES D'INTÉRÊT
 
 ### Modèle C1 — Direction de la communication, employeur public ou institutionnel
 
-![Maquette visuelle du modèle C1 (page 1)](../recherches/modeles-cv/modele-C1-p1.png)
-![Maquette visuelle du modèle C1 (page 2)](../recherches/modeles-cv/modele-C1-p2.png)
+![Maquette visuelle du modèle C1 (page 1)](modeles-cv/modele-C1-p1.png)
+![Maquette visuelle du modèle C1 (page 2)](modeles-cv/modele-C1-p2.png)
 
 **Maquette** (A4, deux pages au plus, marges de 2 cm, interligne aéré, une colonne, rendu vérifié à l'impression)
 
@@ -788,7 +788,7 @@ INFORMATIONS COMPLÉMENTAIRES                         ← facultatif : 1 à 2 li
 
 ### Modèle C2 — Chargé·e de communication, employeur public ou institutionnel
 
-![Maquette visuelle du modèle C2](../recherches/modeles-cv/modele-C2.png)
+![Maquette visuelle du modèle C2](modeles-cv/modele-C2.png)
 
 **Maquette** (A4, une page recto, marges de 2 cm, interligne aéré, une colonne)
 
