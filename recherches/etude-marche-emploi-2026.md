@@ -825,4 +825,88 @@ Pour la grande majorité des combinaisons, le volume réel d'offres identifiable
 - **Répartition géographique : 0/1 Bouches-du-Rhône/PACA.**
 - **Limites — constat net :** même logique que la combinaison 7-C : la fonction n'a pas d'équivalent symétrique naturel au sein du secteur public. **Aucune section A/B n'est présentée.**
 
-<!-- PROCHAINE SECTION A REDIGER : 9. Community manager (secteurs A, B, C) -->
+## 9. Community manager
+
+> **Constat de classification notable :** les deux entreprises les plus clairement identifiées sur ce mot-clé en PACA (Kincy, 65 salariés ; Comtesse du Barry, 100+ salariés) dépassent toutes deux le seuil de 50 salariés fixé par le donneur d'ordre — elles sont donc classées en secteur B, bien qu'il ne s'agisse pas de « grandes entreprises » au sens courant. Ce constat suggère qu'un poste de community manager **dédié** (et non fondu dans un poste de chargé de communication généraliste, cf. combinaison 1) nécessite une taille minimale, même modeste.
+
+### A. Secteur privé — TPE / PME / Startup (< 50 salariés)
+
+> **Échantillon très restreint (n = 2) — taille des entreprises non confirmée mais probable.**
+
+**C. Transparence**
+
+- **2 offres identifiées**, taille non confirmée mais probablement < 50 salariés : Mon Campus (Le Crès, 34), Pesage MB (Gard, 30).
+- **Répartition géographique : 0/2 (0 %) Bouches-du-Rhône/PACA ; 2/2 reste de la France.**
+- **Limites :** aucune section A/B détaillée n'est présentée, l'échantillon étant trop restreint et sa classification trop incertaine pour en tirer des fréquences fiables. Voir le constat de classification ci-dessus : les postes de community manager dédiés identifiables avec certitude dépassaient systématiquement 50 salariés.
+
+### B. Secteur privé — Grande entreprise (> 50 salariés)
+
+**A. Compétences les plus demandées (échantillon n = 10)**
+
+| Compétence (CV) | Fréquence |
+|---|---|
+| Réseaux sociaux (Meta, TikTok, LinkedIn) | 10/10 (100 %) |
+| Création contenu photo/vidéo | 7/10 (70 %) |
+| Reporting / KPI | 7/10 (70 %) |
+| Relation influenceurs | 4/10 (40 %) |
+| Anglais professionnel | 5/10 (50 %) |
+| Modération de communauté | 6/10 (60 %) |
+| Support marketing/commercial | 4/10 (40 %) |
+| Outils CRM/digitaux | 4/10 (40 %) |
+
+**B. Missions les plus demandées**
+
+| Mission | Fréquence |
+|---|---|
+| Animation quotidienne des réseaux sociaux (calendrier, publication) | 10/10 |
+| Création de contenus photo et vidéo | 7/10 |
+| Modération et gestion des messages/commentaires | 6/10 |
+| Suivi des KPI et reporting de performance | 6/10 |
+| Valorisation de l'image de marque sur les réseaux | 5/10 |
+| Coordination avec les équipes marketing/commerciales | 5/10 |
+| Développement de partenariats influenceurs | 4/10 |
+| Création de supports promotionnels et de vente | 4/10 |
+| Rédaction et envoi de newsletters | 3/10 |
+| Organisation et couverture d'événements | 3/10 |
+| Veille des tendances et codes des réseaux sociaux | 3/10 |
+| Production de témoignages et cas clients | 2/10 |
+| Formation des équipes internes aux outils marketing | 2/10 |
+| Analyse de données de marché | 2/10 |
+
+**C. Transparence**
+
+- **10 offres identifiées et analysées** : 3 lues intégralement (Kincy, Marseille 13 ; Comtesse du Barry, Gimont 32 ; GEODIS, Levallois-Perret 92), 7 identifiées par métadonnées (Winamax ×2 postes-Paris ; Daikin-Nanterre ; Groupement Mousquetaires ×2-Fontaine-lès-Dijon/Besançon ; Le Groupe Septeo-Montpellier ; Astek-Belgique).
+- **Répartition géographique : 1/10 (10 %) Bouches-du-Rhône/PACA** (Kincy, Marseille 13) ; **9/10 (90 %) reste de la France.**
+- **Limites :** la fiche Kincy présente une incohérence interne notable (CDI en en-tête, freelance 20h/semaine dans le corps de l'offre) — signalée pour transparence plutôt que lissée. Une offre E.Leclerc (Bellaing, « Chargé de Communication & Community Manager ») trouvée dans cette recherche a été laissée dans la combinaison 1-B, où elle avait déjà été comptée, pour éviter un double comptage.
+
+### C. Secteur public / institutionnel
+
+**A. Compétences identifiées (échantillon n = 10)**
+
+| Compétence (CV) | Fréquence |
+|---|---|
+| Réseaux sociaux institutionnels | 9/10 |
+| Modération de communauté | 6/10 |
+| Veille numérique | 5/10 |
+| Reporting | 4/10 |
+| Création graphique | 4/10 |
+| Rédaction web | 4/10 |
+
+**B. Missions identifiées**
+
+| Mission | Fréquence |
+|---|---|
+| Animation des réseaux sociaux institutionnels | 9/10 |
+| Modération et gestion des commentaires/messages | 6/10 |
+| Veille numérique et e-réputation | 5/10 |
+| Production de contenus visuels adaptés aux réseaux | 5/10 |
+| Reporting de performance au service communication | 4/10 |
+| Coordination avec le service communication global | 4/10 |
+
+**C. Transparence**
+
+- **10 offres identifiées** : 0 lue intégralement (fiche Marseille dépubliée entre indexation et consultation), 10 identifiées par métadonnées — Commune de Marseille (13, catégorie A, direction de la communication externe, clôturée 16/08/2026) ; Aulnay-sous-Bois ; Mairie de Chartres ; Nanterre ×2 ; Collectivité territoriale de Martinique ; Baillargues ; Gagny ; Collectivité européenne d'Alsace ; Département du Val d'Oise (« Responsable des Communautés Digitales », intitulé voisin).
+- **Répartition géographique : 1/10 (10 %) Bouches-du-Rhône/PACA** (Commune de Marseille) ; **9/10 (90 %) reste de la France.**
+- **Limites :** la seule occurrence PACA n'a pas pu être lue intégralement (dépubliée) ; les missions ci-dessus combinent ses métadonnées avec le profil générique de la fonction recoupé sur les fiches chargé de communication du secteur public (combinaison 1-C).
+
+<!-- PROCHAINE SECTION A REDIGER : 10. Attaché de presse (secteurs A, B, C) -->
