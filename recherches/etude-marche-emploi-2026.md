@@ -708,4 +708,68 @@ Pour la grande majorité des combinaisons, le volume réel d'offres identifiable
 - **Répartition géographique : 2/5 (40 %) Bouches-du-Rhône/PACA** (Les Arcs-sur-Argens, Cogolin — tous deux dans le Var) ; **3/5 (60 %) reste de la France.**
 - **Limites — à souligner :** aucun intitulé exact ; échantillon construit sur des intitulés fonctionnellement proches (communication + attractivité/marketing territorial), à utiliser avec prudence pour ce croisement précis.
 
-<!-- PROCHAINE SECTION A REDIGER : 7. Chargé d'affaires publiques et influence (secteurs A, B, C) -->
+## 7. Chargé d'affaires publiques et influence
+
+> **Avertissement méthodologique majeur :** le mot-clé « chargé d'affaires » est très majoritairement utilisé en France pour des métiers techniques du BTP/travaux publics (éclairage public, VRD, électricité) — plus de 90 % des résultats des moteurs de recherche et de HelloWork sur ce terme concernent ces métiers, sans rapport avec les affaires publiques/le lobbying. Pour écarter ce bruit, les recherches ont été reformulées autour de « affaires publiques », « relations institutionnelles » et « influence » combinés, en excluant explicitly les résultats BTP. Cette précaution a fortement réduit le volume exploitable mais était nécessaire à la validité des résultats.
+
+### A. Secteur privé — TPE / PME / Startup (< 50 salariés)
+
+> **Aucune offre CDI confirmée trouvée pour ce croisement précis.**
+
+**C. Transparence**
+
+- **0 offre CDI confirmée identifiée.** Une seule piste partielle a été trouvée : un stage (non un poste permanent) chez Plead, agence de conseil en communication stratégique et affaires publiques, taille non confirmée.
+- **Répartition géographique : sans objet (échantillon nul).**
+- **Limites — constat net, à ne pas masquer :** la fonction « affaires publiques et influence » suppose structurellement un enjeu de taille (réglementaire, législatif, concurrentiel) qui ne se présente quasiment jamais pour une structure de moins de 50 salariés en France. **Aucune section A/B n'est présentée** pour cette combinaison, conformément à la consigne de rigueur scientifique : 0 à 1 offre ne permet de dégager aucune fréquence. C'est, avec « Directeur communication/TPE-PME » (combinaison 5-A) et « Brand content manager/secteur public » (combinaison 12-C, à venir), l'un des croisements à volume quasi nul annoncés par le donneur d'ordre.
+
+### B. Secteur privé — Grande entreprise (> 50 salariés)
+
+> **Échantillon modeste (n = 5) — la fonction est réelle mais rare et très concentrée (Paris/Île-de-France, grands groupes régulés).**
+
+**A. Compétences les plus demandées**
+
+| Compétence (CV) | Fréquence |
+|---|---|
+| Veille réglementaire | 5/5 |
+| Relations institutionnelles | 5/5 |
+| Plaidoyer / argumentaire | 4/5 |
+| Cartographie parties prenantes | 3/5 |
+| Anglais professionnel | 3/5 |
+| Droit public | 2/5 |
+| Concertation territoriale | 2/5 |
+| Communication d'influence | 3/5 |
+
+**B. Missions les plus demandées**
+
+| Mission | Fréquence |
+|---|---|
+| Veille législative et réglementaire sur les dossiers sensibles | 5/5 |
+| Représentation de l'entreprise auprès des pouvoirs publics | 5/5 |
+| Cartographie et suivi des parties prenantes institutionnelles | 4/5 |
+| Rédaction de notes de position et argumentaires | 4/5 |
+| Coordination avec les directions juridique, RSE et communication | 3/5 |
+| Construction et entretien d'un réseau de contacts institutionnels | 3/5 |
+| Concertation avec élus et acteurs territoriaux sur projets sensibles | 2/5 |
+| Suivi des consultations publiques | 2/5 |
+| Organisation de rencontres et événements institutionnels | 2/5 |
+| Préparation des dirigeants aux échanges avec les pouvoirs publics | 2/5 |
+| Analyse des risques réglementaires et politiques | 2/5 |
+| Contribution à la stratégie d'influence du groupe | 2/5 |
+
+**C. Transparence**
+
+- **5 offres/postes identifiés** (descriptifs reconstitués à partir d'extraits détaillés de recherche, aucune fiche complète stable n'ayant pu être fixée par URL directe) : Altice France/SFR (chargé affaires publiques européennes, CDD, direction des relations institutionnelles) ; ENGIE (chargé affaires publiques, mobilité électrique) ; UNIFAB-Union des Fabricants (chargé affaires publiques et juridiques, profil juriste propriété intellectuelle) ; Que Choisir Ensemble (chargé relations institutionnelles confirmé, 43-45k€) ; Solveo Energie (chargé concertation et relations institutionnelles, développeurs territoriaux).
+- **Répartition géographique : 0/5 (0 %) Bouches-du-Rhône/PACA ; 5/5 (100 %) reste de la France (Paris/Île-de-France à 100 %).**
+- **Limites :** fonction rare, très concentrée à Paris/Île-de-France (sièges sociaux, proximité des institutions nationales/européennes). Aucune occurrence PACA trouvée. Les intitulés sont hétérogènes (« chargé affaires publiques », « chargé relations institutionnelles », « chargé de concertation ») ; tous ont été retenus dès qu'ils relevaient clairement de la fonction d'interface avec les pouvoirs publics/décideurs, indépendamment de l'intitulé exact.
+
+### C. Secteur public / institutionnel
+
+> **Échantillon quasi nul (n = 1).**
+
+**C. Transparence**
+
+- **1 poste identifié** : Inria (établissement public de recherche), chargé de mission relations institutionnelles, rattaché à la direction générale déléguée.
+- **Répartition géographique : 0/1 Bouches-du-Rhône/PACA.**
+- **Limites — constat net :** la fonction « affaires publiques et influence » consiste typiquement à représenter les intérêts d'une organisation **auprès** des pouvoirs publics ; elle n'a donc pas d'équivalent symétrique direct **au sein même** du secteur public, hormis quelques rôles de liaison institutionnelle dans les grands établissements publics (Inria, régulateurs). **Aucune section A/B n'est présentée** pour cette combinaison, le volume ne le permettant pas de façon fiable.
+
+<!-- PROCHAINE SECTION A REDIGER : 8. Responsable affaires publiques et influence (secteurs A, B, C) -->
