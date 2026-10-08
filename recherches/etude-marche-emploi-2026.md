@@ -403,4 +403,105 @@ Pour la grande majorité des combinaisons, le volume réel d'offres identifiable
 - **Répartition géographique : 0/5 (0 %) Bouches-du-Rhône/PACA ; 5/5 (100 %) reste de la France (et outre-mer pour 1 offre).**
 - **Limites — échantillon très restreint, signalé explicitement comme demandé :** l'intitulé exact « chargé de marketing » est rare dans le secteur public français. Les collectivités territoriales n'ont publié aucune offre sous ce terme au moment de la recherche (recherche vérifiée sur choisirleservicepublic.gouv.fr) ; le terme apparaît surtout dans les universités (marketing de l'offre de formation) et, au niveau « responsable », dans le marketing territorial des régions. Les sections A et B ci-dessus sont donc construites sur un échantillon volontairement non complété artificiellement, conformément à la consigne de rigueur scientifique.
 
-<!-- PROCHAINE SECTION A REDIGER : 4. Responsable communication (secteurs A, B, C) -->
+## 4. Responsable communication
+
+> **Note méthodologique spécifique :** par discipline d'échantillonnage, les offres dont l'intitulé réel est « Responsable communication **et marketing** » ont été réservées à la combinaison 6 et ne sont pas recomptées ici, même si elles apparaissent dans les mêmes recherches.
+
+### A. Secteur privé — TPE / PME / Startup (< 50 salariés)
+
+> **Échantillon très restreint (n = 3) — signalé explicitement conformément à la consigne de rigueur scientifique.**
+
+**A. Compétences identifiées (sur l'échantillon restreint disponible)**
+
+| Compétence (CV) | Fréquence |
+|---|---|
+| Stratégie éditoriale | 2/3 |
+| Identité visuelle | 2/3 |
+| Pilotage de prestataires | 2/3 |
+| Communication 360 | 2/3 |
+
+**B. Missions identifiées (sur l'échantillon restreint disponible)**
+
+| Mission | Fréquence |
+|---|---|
+| Définition de la stratégie de communication | 3/3 |
+| Pilotage de l'identité visuelle et des contenus éditoriaux | 2/3 |
+| Coordination de prestataires externes | 2/3 |
+| Télétravail partiel mentionné comme modalité d'organisation | 2/3 |
+
+**C. Transparence**
+
+- **3 offres identifiées** (aucune lue intégralement — fiches non accessibles ou dépubliées — informations tirées des extraits indexés) : Clean Horizon (Paris, environnement « développement rapide » suggérant une structure de taille réduite), un poste relayé par le cabinet Dynamis RH pour une start-up non nommée (Paris 9e), Léon Vincent (Bruges, taille non confirmée).
+- **Répartition géographique : 0/3 (0 %) Bouches-du-Rhône/PACA ; 3/3 (100 %) reste de la France.**
+- **Limites — constat méthodologique important :** l'intitulé exact « responsable communication » (sans « marketing » ni « chargé ») est rare dans les structures de moins de 50 salariés, en PACA comme en France. Les petites structures confient plus souvent cette fonction à un « chargé de communication » polyvalent (voir combinaison 1) plutôt qu'à un « responsable » dédié, ce qui est cohérent avec une logique d'organisation à effectif réduit. Les sections A et B ci-dessus sont donc volontairement courtes plutôt que complétées artificiellement.
+
+### B. Secteur privé — Grande entreprise (> 50 salariés)
+
+**A. Compétences les plus demandées (échantillon n = 9)**
+
+| Compétence (CV) | Fréquence |
+|---|---|
+| Stratégie de communication corporate | 8/9 (89 %) |
+| Management d'équipe | 6/9 (67 %) |
+| Communication interne | 6/9 (67 %) |
+| Identité de marque/charte graphique | 5/9 (56 %) |
+| Anglais professionnel | 4/9 (44 %) |
+| Pilotage de prestataires/agences | 5/9 (56 %) |
+| Communication de dirigeant | 3/9 (33 %) |
+| Communication événementielle | 4/9 (44 %) |
+
+**B. Missions les plus demandées**
+
+| Mission | Fréquence |
+|---|---|
+| Définition et pilotage de la stratégie de communication corporate | 8/9 |
+| Conseil à la direction générale sur l'image et la réputation | 6/9 |
+| Encadrement d'une équipe communication | 6/9 |
+| Pilotage de l'identité visuelle et de la charte graphique | 5/9 |
+| Coordination de la stratégie éditoriale et digitale multicanal | 5/9 |
+| Coordination d'agences et de prestataires externes | 5/9 |
+| Déploiement d'une communication interne fédératrice | 5/9 |
+| Pilotage d'événements et de salons professionnels | 4/9 |
+| Gestion de la communication du dirigeant (réseaux sociaux, médias) | 3/9 |
+| Garantie de la cohérence de l'image à l'international/multi-filiales | 3/9 |
+| Accompagnement des transformations organisationnelles | 3/9 |
+| Pilotage du budget communication | 3/9 |
+| Reporting à la direction/au comité de direction | 2/9 |
+| Veille réputationnelle | 2/9 |
+
+**C. Transparence**
+
+- **9 offres identifiées et analysées** : 2 lues intégralement (client du cabinet Advance Solutions — groupe international, Mougins 06 ; Kem One, Lavéra 13 — poste mixte RH/Communication), 7 identifiées par métadonnées (Manpower France-Le Pradet 83 ; IONIS Education Group-Paris ; Veolia Recyclage et Valorisation des Déchets-Rouen ; Dalkia-Pulnoy ; Job2beDone/FFC-Paris ; LHH Recruitment Solutions-Toulouse ; Groupama Paris Val de Loire-Olivet).
+- **Répartition géographique : 3/9 (33 %) Bouches-du-Rhône/PACA** (client Advance Solutions-Mougins 06 ; Kem One-Lavéra 13 ; Manpower-Le Pradet 83) ; **6/9 (67 %) reste de la France.**
+- **Limites :** bonne représentation PACA pour ce croisement, portée notamment par le tissu industriel (zone pétrochimique de Fos/Berre-Lavéra) et les cabinets de recrutement basés sur la Côte d'Azur. Le poste Kem One est un poste mixte RH/Communication plutôt qu'un poste de communication pure, retenu car le volet communication y est clairement identifié.
+
+### C. Secteur public / institutionnel
+
+> **Échantillon restreint (n = 5) — signalé explicitement.**
+
+**A. Compétences identifiées**
+
+| Compétence (CV) | Fréquence |
+|---|---|
+| Encadrement d'équipe | 4/5 |
+| Communication institutionnelle | 5/5 |
+| Conseil aux élus/direction | 3/5 |
+| Pilotage budgétaire | 2/5 |
+
+**B. Missions identifiées**
+
+| Mission | Fréquence |
+|---|---|
+| Pilotage et encadrement du pôle/service communication | 5/5 |
+| Définition de la stratégie de communication institutionnelle | 4/5 |
+| Conseil direct aux élus et à la direction générale | 3/5 |
+| Supervision des outils numériques et éditoriaux (par extension du rôle de chargé, cf. combinaison 1-C) | 3/5 |
+| Pilotage budgétaire du service | 2/5 |
+
+**C. Transparence**
+
+- **5 offres identifiées** (0 lue intégralement — les 2 fiches PACA repérées ont été dépubliées entre leur indexation et la consultation ; informations reconstituées à partir des extraits de recherche et des grades/dates affichés) : Commune de Saint-Martin-de-Crau (13, catégorie A, poste à pourvoir au 1ᵃ septembre 2026) ; Commune de Valbonne (06, catégorie A avec encadrement, clôture 19/09/2026) ; Mairie de Font-Romeu-Odeillo-Via (66, hors PACA) ; Mairie de Saint-Martin-d'Hères (38, hors PACA) ; Montpellier Méditerranée Métropole (34, poste voisin « chef de projet communication », hors PACA).
+- **Répartition géographique : 2/5 (40 %) Bouches-du-Rhône/PACA ; 3/5 (60 %) reste de la France.**
+- **Limites :** aucune des deux fiches PACA n'a pu être lue intégralement (dépubliées au moment de la consultation, le 8 octobre 2026). Les missions ci-dessus s'appuient donc partiellement sur la fiche « chargé de communication » de la commune de Carnoux-en-Provence (combinaison 1-C) comme référentiel de cohérence fonctionnelle, avec les dimensions d'encadrement et de pilotage budgétaire ajoutées car explicitement mentionnées dans les intitulés de poste « responsable » collectés. Échantillon à consolider si une recherche ultérieure permet d'accéder aux fiches complètes avant dépublication.
+
+<!-- PROCHAINE SECTION A REDIGER : 5. Directeur communication (secteurs A, B, C) -->
