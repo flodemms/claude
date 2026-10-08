@@ -596,4 +596,116 @@ Pour la grande majorité des combinaisons, le volume réel d'offres identifiable
 - **Répartition géographique : 4/14 (29 %) Bouches-du-Rhône/PACA ; 10/14 (71 %) reste de la France.**
 - **Limites :** c'est, de loin, le secteur le plus actif sur l'intitulé exact « directeur de la communication » — cohérent avec le fait que seules les collectivités de taille significative (villes moyennes à grandes, départements, régions) structurent la fonction à ce niveau hiérarchique. Plusieurs fiches PACA repérées ont été dépubliées avant lecture intégrale ; les missions ci-dessus reposent principalement sur la fiche complète de Fos-sur-Mer, recoupée avec les intitulés et grades des autres offres.
 
-<!-- PROCHAINE SECTION A REDIGER : 6. Responsable communication et marketing (secteurs A, B, C) -->
+## 6. Responsable communication et marketing
+
+### A. Secteur privé — TPE / PME / Startup (< 50 salariés)
+
+**A. Compétences les plus demandées (échantillon n = 5)**
+
+| Compétence (CV) | Fréquence |
+|---|---|
+| Stratégie de marque | 4/5 (80 %) |
+| Communication corporate | 4/5 (80 %) |
+| Marketing digital | 4/5 (80 %) |
+| Anglais professionnel | 3/5 (60 %) |
+| Pilotage de KPI | 3/5 (60 %) |
+| Relations médias | 3/5 (60 %) |
+| Communication interne | 3/5 (60 %) |
+| Gestion budget/prestataires | 3/5 (60 %) |
+
+**B. Missions les plus demandées**
+
+| Mission | Fréquence |
+|---|---|
+| Pilotage de la stratégie de communication de l'entreprise | 5/5 |
+| Structuration du plan de communication annuel | 4/5 |
+| Définition de la ligne éditoriale et supervision des contenus | 4/5 |
+| Contribution au plan marketing et à l'appui commercial | 4/5 |
+| Gestion des relations médias et partenaires | 3/5 |
+| Pilotage d'agences et prestataires externes | 3/5 |
+| Structuration de la communication interne | 3/5 |
+| Veille concurrentielle et analyse de marché | 3/5 |
+| Définition et suivi des indicateurs de notoriété | 3/5 |
+| Pilotage du budget communication/marketing | 3/5 |
+| Conduite de projets de rebranding/identité de marque | 2/5 |
+| Accompagnement des projets de transformation/croissance | 2/5 |
+| Génération de leads et outils d'aide à la vente | 2/5 |
+| Conception d'événements internes | 2/5 |
+| Contribution à la marque employeur | 2/5 |
+
+**C. Transparence**
+
+- **5 offres identifiées** : 1 lue intégralement (EDL Group, Berre-l'Étang 13 — ESN « à taille humaine » en forte croissance), 4 identifiées par métadonnées (BILS DEROO-Sin-le-Noble ; CPA Serre-Boulazac Isle Manoire ; Looking-Schiltigheim ; Key Predict-Paris).
+- **Répartition géographique : 1/5 (20 %) Bouches-du-Rhône/PACA** (EDL Group, Berre-l'Étang 13) ; **4/5 (80 %) reste de la France.**
+- **Limites :** échantillon restreint ; EDL se situe à la frontière PME/ETI (entreprise en forte croissance, non chiffrée précisément dans l'annonce).
+
+### B. Secteur privé — Grande entreprise (> 50 salariés)
+
+**A. Compétences les plus demandées (échantillon n = 6)**
+
+| Compétence (CV) | Fréquence |
+|---|---|
+| Marketing digital | 5/6 (83 %) |
+| Management d'équipe | 5/6 (83 %) |
+| SEO / SEA | 4/6 (67 %) |
+| Communication multicanale | 5/6 (83 %) |
+| Anglais professionnel | 4/6 (67 %) |
+| Pilotage de KPI | 4/6 (67 %) |
+| Suite Adobe | 3/6 (50 %) |
+| Pilotage de prestataires | 4/6 (67 %) |
+
+**B. Missions les plus demandées**
+
+| Mission | Fréquence |
+|---|---|
+| Définition et pilotage de la stratégie marketing et communication groupe | 6/6 |
+| Encadrement d'une équipe communication/marketing | 5/6 |
+| Pilotage de la stratégie digitale (site, SEO, réseaux sociaux) | 5/6 |
+| Création de supports digitaux, print et événementiels | 4/6 |
+| Développement de la notoriété de marque sur plusieurs marchés | 4/6 |
+| Suivi des performances et ajustement des actions (KPI) | 4/6 |
+| Valorisation des expertises et réalisations du groupe | 3/6 |
+| Pilotage des partenaires et agences externes | 3/6 |
+| Accompagnement du lancement de nouvelles offres | 3/6 |
+| Génération d'opportunités commerciales par le marketing | 3/6 |
+| Développement de la marque employeur | 2/6 |
+| Négociation de contrats (médias, prestataires) | 2/6 |
+| Appui aux appels d'offres et soutenances commerciales | 2/6 |
+| Création d'argumentaires et outils commerciaux | 2/6 |
+
+**C. Transparence**
+
+- **6 offres identifiées et analysées** : 2 lues intégralement (Proman, Manosque 04 ; Technord, Villeneuve-d'Ascq), 4 identifiées par métadonnées (E.Leclerc-Aulnoye-Aymeries ; PIMAN Group-Limonest ; Ixora-Le Lamentin 972 ; Groupe Samse-Grenoble).
+- **Répartition géographique : 1/6 (17 %) Bouches-du-Rhône/PACA** (Proman, Manosque 04) ; **5/6 (83 %) reste de la France.**
+- **Limites :** échantillon correct en volume mais dispersé géographiquement ; une seule occurrence PACA, hors Bouches-du-Rhône stricto sensu (04).
+
+### C. Secteur public / institutionnel
+
+> **Aucune offre au titre exactement « responsable communication et marketing » n'a été trouvée dans le secteur public** — comme pour la combinaison 2, les collectivités emploient des intitulés voisins associant communication et attractivité/promotion territoriale. Les 5 offres ci-dessous sont les intitulés les plus proches identifiés ; elles sont retenues à titre indicatif, avec cette réserve explicite.
+
+**A. Compétences identifiées (sur intitulés voisins, n = 5)**
+
+| Compétence (CV) | Fréquence |
+|---|---|
+| Communication institutionnelle | 5/5 |
+| Attractivité territoriale | 3/5 |
+| Encadrement d'équipe | 3/5 |
+| Relations presse | 2/5 |
+
+**B. Missions identifiées (sur intitulés voisins)**
+
+| Mission | Fréquence |
+|---|---|
+| Pilotage de la stratégie de communication et d'attractivité | 4/5 |
+| Encadrement d'une équipe communication | 3/5 |
+| Promotion touristique/économique du territoire | 3/5 |
+| Gestion des relations presse | 2/5 |
+| Animation du calendrier éditorial | 2/5 |
+
+**C. Transparence**
+
+- **5 offres à intitulé voisin identifiées** : Grand Cognac (intercommunalité — « responsable de la communication et de l'attractivité », 8 agents encadrés), Gannat (« responsable communication », rattaché au maire), Les Arcs-sur-Argens (83, PACA — « responsable de communication »), Cogolin (83, PACA — « responsable communication »), Bocage Bressuirais (clôturée).
+- **Répartition géographique : 2/5 (40 %) Bouches-du-Rhône/PACA** (Les Arcs-sur-Argens, Cogolin — tous deux dans le Var) ; **3/5 (60 %) reste de la France.**
+- **Limites — à souligner :** aucun intitulé exact ; échantillon construit sur des intitulés fonctionnellement proches (communication + attractivité/marketing territorial), à utiliser avec prudence pour ce croisement précis.
+
+<!-- PROCHAINE SECTION A REDIGER : 7. Chargé d'affaires publiques et influence (secteurs A, B, C) -->
