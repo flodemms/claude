@@ -160,4 +160,126 @@ Pour la grande majorité des combinaisons, le volume réel d'offres identifiable
 - **Répartition géographique : 8/13 (62 %) Bouches-du-Rhône/PACA ; 5/13 (38 %) reste de la France.**
 - **Limites :** le secteur public est, de loin, le mieux documenté des trois en Bouches-du-Rhône/PACA grâce à choisirleservicepublic.gouv.fr. Beaucoup de fiches avaient une date limite de candidature déjà dépassée au 8 octobre 2026 ; elles ont néanmoins été retenues car leur date de publication reste bien située en 2026.
 
-<!-- PROCHAINE SECTION A REDIGER : 2. Chargé de communication et marketing (secteurs A, B, C) -->
+## 2. Chargé de communication et marketing
+
+### A. Secteur privé — TPE / PME / Startup (< 50 salariés)
+
+**A. Compétences les plus demandées (échantillon n = 11)**
+
+| Compétence (CV) | Fréquence |
+|---|---|
+| Création graphique | 8/11 (73 %) |
+| Réseaux sociaux | 8/11 (73 %) |
+| Communication digitale | 7/11 (64 %) |
+| Gestion de projet | 6/11 (55 %) |
+| Suivi budget/fournisseurs | 5/11 (45 %) |
+| Montage vidéo | 4/11 (36 %) |
+| Identité de marque | 4/11 (36 %) |
+| Relation partenaires/clients | 4/11 (36 %) |
+
+**B. Missions les plus demandées**
+
+| Mission | Fréquence |
+|---|---|
+| Conception de campagnes marketing et communication | 9/11 |
+| Création de supports graphiques print et digitaux | 8/11 |
+| Animation des réseaux sociaux et création de contenus | 8/11 |
+| Respect et diffusion de la charte graphique | 6/11 |
+| Gestion des relations prestataires/fournisseurs (devis, commandes) | 6/11 |
+| Production de contenus vidéo | 5/11 |
+| Rédaction de contenus web et réseaux sociaux | 5/11 |
+| Accompagnement/conseil auprès de partenaires ou franchisés | 4/11 |
+| Veille concurrentielle et sectorielle | 4/11 |
+| Suivi budgétaire de la communication | 4/11 |
+| Organisation d'événements internes | 3/11 |
+| Suivi des stocks et supports de communication (goodies, PLV) | 3/11 |
+| Gestion de présentations et documents internes | 3/11 |
+| Transmission des bonnes pratiques marketing en interne | 2/11 |
+| Mise à jour de supports d'affichage/vitrines | 2/11 |
+
+**C. Transparence**
+
+- **11 offres identifiées et analysées** : 1 lue intégralement (Nestenn France, La Garde 83), 10 identifiées par métadonnées structurées (OERIS-Cuers 83 ; MOB France-Paris ; Grande Pharmacie de Fleury-Fleury-Mérogis ; Magaloc-Guadeloupe ; FMI Florian Mantione Institut-Béziers ; CRAN-Nogent-sur-Seine ; Genoway-Lyon ; Thidesoft-Courbevoie ; Millet Investis-Vaulx-en-Velin ; S.R.C.-France).
+- **Répartition géographique : 2/11 (18 %) Bouches-du-Rhône/PACA** (Nestenn La Garde 83 ; OERIS Cuers 83) ; **9/11 (82 %) reste de la France**.
+- **Limites :** plusieurs offres trouvées pour ce mot-clé étaient en réalité des offres d'alternance publiées par des écoles (The Bridge Ecole Entreprises) ou des annonces non classables avec certitude (agences d'intérim, profils à l'étranger) : elles ont été écartées de l'échantillon retenu plutôt que classées par approximation.
+
+### B. Secteur privé — Grande entreprise (> 50 salariés)
+
+**A. Compétences les plus demandées (échantillon n = 9)**
+
+| Compétence (CV) | Fréquence |
+|---|---|
+| Réseaux sociaux | 7/9 (78 %) |
+| Communication digitale | 6/9 (67 %) |
+| Anglais courant | 5/9 (56 %) |
+| Suite PAO (Photoshop, Canva) | 5/9 (56 %) |
+| Gestion de projet multi-sites | 5/9 (56 %) |
+| Rédaction bilingue | 4/9 (44 %) |
+| Veille marché/concurrence | 4/9 (44 %) |
+| Reporting/KPI | 3/9 (33 %) |
+
+**B. Missions les plus demandées**
+
+| Mission | Fréquence |
+|---|---|
+| Pilotage de la stratégie de communication/marketing multicanal | 8/9 |
+| Animation des réseaux sociaux de l'enseigne/la marque | 7/9 |
+| Création et déploiement de supports de communication (PLV, affiches) | 6/9 |
+| Coordination des prestataires pour les opérations commerciales | 6/9 |
+| Rédaction de contenus en français et en anglais | 5/9 |
+| Organisation d'événements internes et externes | 5/9 |
+| Animation d'un réseau de correspondants dans les filiales/sites | 4/9 |
+| Suivi des indicateurs de performance (abonnés, avis clients, NPS) | 4/9 |
+| Veille des tendances marché et de la concurrence | 4/9 |
+| Production de kits/outils marketing pour les équipes commerciales | 3/9 |
+| Communication RSE/développement durable | 3/9 |
+| Gestion de la fidélisation client (programmes, cartes) | 3/9 |
+| Déploiement de modules de formation/sensibilisation interne | 2/9 |
+| Collaboration transverse avec plusieurs directions/filiales | 2/9 |
+
+**C. Transparence**
+
+- **9 offres identifiées et analysées** : 2 lues intégralement (E.Leclerc, Le Châtelet-en-Brie ; JCDecaux, Plaisir), 7 identifiées par métadonnées (Groupe Partouche-Salies-de-Béarn ; Amazon-Clichy ; Crowe France-Angers ; Actual group-La Réunion ; La Voix du Nord-Lille ; Compagnie de Saint-Gobain-Avignon 84 ; E.Leclerc ×2 autres sites).
+- **Répartition géographique : 1/9 (11 %) Bouches-du-Rhône/PACA** (Compagnie de Saint-Gobain, Avignon 84) ; **8/9 (89 %) reste de la France**.
+- **Limites :** aucune offre en Bouches-du-Rhône stricto sensu ; la seule occurrence régionale se situe en Vaucluse (84), retenue au titre de la région PACA élargie. Volume national correct (438 offres annoncées par HelloWork sur le mot-clé complet) mais fortement dilué par des intitulés voisins (marketing seul, ou communication seule) et des offres de cabinets de recrutement ne précisant pas toujours le client final.
+
+### C. Secteur public / institutionnel
+
+**A. Compétences les plus demandées (échantillon n = 11)**
+
+| Compétence (CV) | Fréquence |
+|---|---|
+| Communication institutionnelle | 9/11 (82 %) |
+| Suite Adobe / Canva | 7/11 (64 %) |
+| Relations presse et élus | 6/11 (55 %) |
+| Rédaction (bulletin municipal) | 6/11 (55 %) |
+| Montage vidéo | 5/11 (45 %) |
+| Gestion de crise | 4/11 (36 %) |
+| RGPD / droit d'auteur | 3/11 (27 %) |
+| Coordination transversale | 5/11 (45 %) |
+
+**B. Missions les plus demandées**
+
+| Mission | Fréquence |
+|---|---|
+| Coordination et diffusion de la communication municipale (web, réseaux, presse) | 9/11 |
+| Rédaction et coordination du bulletin municipal | 7/11 |
+| Conception de maquettes et supports print/numériques | 7/11 |
+| Réalisation de montages vidéo et gestion de photos/vidéos | 6/11 |
+| Assistance au Maire/aux élus (discours, courriers, agenda) | 5/11 |
+| Suivi du budget communication | 5/11 |
+| Veille numérique | 4/11 |
+| Coordination avec les services internes et les élus | 4/11 |
+| Communication de crise | 4/11 |
+| Relations presse | 4/11 |
+| Promotion de l'attractivité du territoire | 3/11 |
+| Gestion des panneaux municipaux et supports d'affichage | 3/11 |
+| Gestion administrative des envois (invitations, commémorations) | 2/11 |
+
+**C. Transparence**
+
+- **11 offres identifiées et analysées** : 1 lue intégralement (Commune de Cadenet, 84), 1 lue en substance (Moutiers-les-Mauxfaits, via extrait détaillé), 9 identifiées par métadonnées (Commune de Pertuis 84 [fiche dépubliée depuis, métadonnées seules] ; Guipry-Messac ; Ambérieu-en-Bugey ; Communauté de communes Norge et Tille ; Cusset ; Le Bourg-d'Oisans ; Communauté de communes de la Veyle ; Institut Polytechnique de Grenoble ; Université du Littoral Côte d'Opale).
+- **Répartition géographique : 2/11 (18 %) Bouches-du-Rhône/PACA** (Cadenet et Pertuis, tous deux Vaucluse 84) ; **9/11 (82 %) reste de la France**.
+- **Limites :** aucun intitulé trouvé n'utilisait exactement « communication et marketing » dans le secteur public ; les collectivités emploient plutôt « communication et attractivité » ou « communication » seul pour ce périmètre de missions. Les offres retenues combinent donc des intitulés voisins incluant une dimension marketing/attractivité territoriale explicite.
+
+<!-- PROCHAINE SECTION A REDIGER : 3. Chargé de marketing (secteurs A, B, C) -->
