@@ -20,37 +20,41 @@
 - **Plateformes inaccessibles :** APEC, Indeed, LinkedIn, Welcome to the Jungle.
 - **Rigueur :** quand une combinaison n'atteint pas 50 offres, l'effectif réel est indiqué tel quel, sans extrapolation.
 
-## 0. Classement des 15 intitulés selon le nombre de CDI dans les Bouches-du-Rhône (ordre croissant)
+## 0. Classement des 15 intitulés selon le nombre de CDI et de CDD dans les Bouches-du-Rhône (ordre croissant)
 
-**Méthode :** relevé du 8 octobre 2026. Le décompte est exhaustif sur France Travail (filtre CDI, département 13) et HelloWork (filtre CDI, Bouches-du-Rhône). Seuls les intitulés correspondant à la définition de chaque poste (dimensions ajoutées comprises) sont comptés. Une même offre publiée plusieurs fois ou sur les deux sites compte pour 1.
+**Méthode :** relevé du 8 octobre 2026. Le décompte est exhaustif sur France Travail (filtres CDI puis CDD, département 13) et HelloWork (filtres CDI puis CDD, Bouches-du-Rhône). Les CDD ont été intégrés à la demande.
 
-La colonne « Postes publics » compte les offres de collectivités et d'établissements publics publiées avec le statut « fonctionnaire ». Elles ne sont pas des CDI au sens strict, mais elles montrent où se trouvent les postes de communication dans le département.
+- **Ce qui est compté :** seuls les intitulés correspondant à la définition de chaque poste (dimensions ajoutées comprises). Une même offre publiée plusieurs fois ou sur les deux sites compte pour 1.
+- **Alternances exclues :** France Travail affiche beaucoup d'alternances sous l'étiquette « CDD ». Ces offres ont été retirées : intitulé ou description mentionnant l'alternance, offres collectées par « La bonne alternance ».
+- **Postes publics :** cette colonne compte les offres de collectivités et d'établissements publics publiées avec le statut « fonctionnaire ». Elles ne sont ni des CDI ni des CDD au sens strict, mais elles montrent où se trouvent les postes de communication dans le département.
 
-| Rang | Intitulé (et dimensions ajoutées) | CDI dans le 13 | Postes publics dans le 13 | Employeurs des CDI |
-|---|---|---|---|---|
-| 1 | Chargé de mission affaires publiques (+ relations publiques, relations institutionnelles) | 0 | 0 | — |
-| 2 | Responsable affaires publiques (+ relations publiques, relations institutionnelles) | 0 | 0 | — |
-| 3 | Attaché de presse (+ relations médias) | 0 | 1 | — (Métropole Aix-Marseille-Provence, poste public ¹) |
-| 4 | Directeur communication | 0 | 1 | — (Commune de Fos-sur-Mer, poste public) |
-| 5 | Chargé de communication | 0 | ≈10 | — (communes, intercommunalités, Région Sud, services de l'État) |
-| 6 | Responsable communication | 1 ² | 0 | Kem One (« Responsable RH & communication ») |
-| 7 | Responsable communication et marketing | 1 | 0 | EDL (Berre-l'Étang) |
-| 8 | Community manager (+ social media manager, gestion des communautés) | 1 | 1 | Kincy (Marseille) ; poste public : Commune d'Aubagne |
-| 9 | Chargé de marketing digital (+ chargé marketing) | 2 | 0 | Nokara (Arles), WAM (Aix-en-Provence) |
-| 10 | Brand content manager / Brand manager | 2 | 0 | Meteoria (« Brand & Communication Lead »), Onatera (« Head of Brand ») |
-| 11 | Chargé de communication et marketing | 3 | 0 | Société d'affinage et apprêts de métaux (Aubagne), Systerel (Aix), Transdev (Aix) |
-| 12 | Responsable marketing (+ responsable marketing digital) | 4 | 0 | Mantra, Groupe Blachère, PONANT (« Responsable activation marketing »), client de Dan Partners (« Marketing Lead ») |
-| 13 | Responsable développement commercial (+ activation commerciale, head of growth) | 7 | 0 | Equans, Aserti Electronic, Fed Business, Work & You, Alphea Conseil ; head of growth : Walter Learning, Onatera |
-| 14 | Chargé du développement commercial (+ activation commerciale, growth manager) | 15 | 0 | 14 chargés de développement commercial (Team.is, Koord, Walter Learning, cabinets d'assurance…) ; growth manager : Meteoria |
-| 15 | Business developer | 38 | 0 | Voir `repartition-intitules-developpement-2026.md` |
+| Rang | Intitulé (et dimensions ajoutées) | CDI | CDD | CDI + CDD dans le 13 | Postes publics dans le 13 | Employeurs |
+|---|---|---|---|---|---|---|
+| 1 | Chargé de mission affaires publiques (+ relations publiques, relations institutionnelles) | 0 | 0 | **0** | 0 | — |
+| 2 | Responsable affaires publiques (+ relations publiques, relations institutionnelles) | 0 | 0 | **0** | 0 | — |
+| 3 | Attaché de presse (+ relations médias) | 0 | 0 | **0** | 1 | Poste public : Métropole Aix-Marseille-Provence ¹ |
+| 4 | Directeur communication | 0 | 0 | **0** | 1 | Poste public : Commune de Fos-sur-Mer |
+| 5 | Responsable communication | 1 ² | 0 | **1** | 0 | Kem One (« Responsable RH & communication ») |
+| 6 | Responsable communication et marketing | 1 | 0 | **1** | 0 | EDL (Berre-l'Étang) |
+| 7 | Chargé de marketing digital (+ chargé marketing) | 2 | 0 | **2** | 0 | Nokara (Arles), WAM (Aix-en-Provence) |
+| 8 | Brand content manager / Brand manager | 2 | 0 | **2** | 0 | Meteoria (« Brand & Communication Lead »), Onatera (« Head of Brand ») |
+| 9 | Community manager (+ social media manager, gestion des communautés) | 1 | 1 | **2** | 1 | CDI : Kincy (Marseille) ; CDD : Groupe Onet (« Social Media Manager », 6 mois) ; poste public : Commune d'Aubagne |
+| 10 | Chargé de communication et marketing | 3 | 0 | **3** | 0 | Société d'affinage et apprêts de métaux (Aubagne), Systerel (Aix), Transdev (Aix) |
+| 11 | Chargé de communication | 0 | 3 | **3** | ≈10 | CDD : Photo RDV (Marignane), Association Serena (Marseille), service de l'État (« Chargé de mission stratégie de communication », Marseille) ; postes publics : communes, intercommunalités, Région Sud |
+| 12 | Responsable marketing (+ responsable marketing digital) | 4 | 0 | **4** | 0 | Mantra, Groupe Blachère, PONANT (« Responsable activation marketing »), client de Dan Partners (« Marketing Lead ») |
+| 13 | Responsable développement commercial (+ activation commerciale, head of growth) | 7 | 0 | **7** | 0 | Equans, Aserti Electronic, Fed Business, Work & You, Alphea Conseil ; head of growth : Walter Learning, Onatera |
+| 14 | Chargé du développement commercial (+ activation commerciale, growth manager) | 15 | 0 | **15** | 0 | 14 chargés de développement commercial (Team.is, Koord, Walter Learning, cabinets d'assurance…) ; growth manager : Meteoria |
+| 15 | Business developer | 38 | 2 | **40** | 0 | CDD : Magora (Aix), Manpower (« Business Developer Mutuelle Santé ») ; CDI : voir `repartition-intitules-developpement-2026.md` |
 
 ¹ France Travail affiche ce poste en CDI ; HelloWork le présente comme poste de fonctionnaire. Il est compté comme poste public.
 ² Intitulé mixte RH et communication.
 
+En cas d'égalité, les intitulés sont départagés par le nombre de postes publics. Les CDD affichés par France Travail pour « chargé du développement commercial » sont tous des alternances, d'où 0 CDD. Une offre « Responsable développement / Business Developer » (Studiava), comptée en CDD dans l'étude précédente, est probablement une alternance (offre collectée par « La bonne alternance ») ; elle est retirée ici.
+
 **Lecture :**
 
-- Dans les Bouches-du-Rhône, **les CDI de communication pure sont presque inexistants** à cette date (0 à 1 par intitulé). La grande majorité des offres « communication » du département sont des alternances ou des stages publiés par des écoles, ou des postes publics.
-- **Les intitulés commerciaux concentrent les CDI** : 60 CDI à eux trois pour « business developer », « chargé du développement commercial » et « responsable développement commercial ».
+- Dans les Bouches-du-Rhône, **les CDI et CDD de communication pure sont presque inexistants** à cette date (0 à 3 par intitulé). La grande majorité des offres « communication » du département sont des alternances ou des stages publiés par des écoles, ou des postes publics.
+- **Les intitulés commerciaux concentrent les CDI et CDD** : 62 à eux trois pour « business developer », « chargé du développement commercial » et « responsable développement commercial ».
 - **Le secteur public est le principal recruteur pour les postes de communication** dans le 13 : une dizaine de « chargé de communication », un directeur de la communication, un attaché de presse et un community manager, tous publiés par des collectivités ou des établissements publics.
 - **Intitulés non comptés** (hors définition, mais présents en CDI dans le 13) :
   - chef de projet marketing (Walter Learning, Klanik) ;
