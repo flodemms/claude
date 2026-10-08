@@ -772,4 +772,57 @@ Pour la grande majorité des combinaisons, le volume réel d'offres identifiable
 - **Répartition géographique : 0/1 Bouches-du-Rhône/PACA.**
 - **Limites — constat net :** la fonction « affaires publiques et influence » consiste typiquement à représenter les intérêts d'une organisation **auprès** des pouvoirs publics ; elle n'a donc pas d'équivalent symétrique direct **au sein même** du secteur public, hormis quelques rôles de liaison institutionnelle dans les grands établissements publics (Inria, régulateurs). **Aucune section A/B n'est présentée** pour cette combinaison, le volume ne le permettant pas de façon fiable.
 
-<!-- PROCHAINE SECTION A REDIGER : 8. Responsable affaires publiques et influence (secteurs A, B, C) -->
+## 8. Responsable affaires publiques et influence
+
+> **Même avertissement méthodologique que la combinaison 7** (bruit « chargé/responsable d'affaires » BTP écarté). Ce croisement confirme et accentue le constat de rareté déjà observé : au niveau « responsable » (plus senior que « chargé »), le marché est encore plus concentré sur un très petit nombre de grands groupes régulés (santé, énergie, e-commerce) basés en Île-de-France.
+
+### A. Secteur privé — TPE / PME / Startup (< 50 salariés)
+
+> **Aucune offre identifiée pour ce croisement.**
+
+**C. Transparence**
+
+- **0 offre identifiée.** Comme pour la combinaison 7-A, la fonction « responsable affaires publiques » suppose une taille et des enjeux réglementaires qui ne se présentent pas dans une structure de moins de 50 salariés.
+- **Aucune section A/B n'est présentée**, conformément à la consigne de rigueur scientifique : il est impossible de dégager une fréquence à partir d'un échantillon nul plutôt que d'en fabriquer un artificiellement.
+
+### B. Secteur privé — Grande entreprise (> 50 salariés)
+
+> **Échantillon très restreint (n = 3) — signalé explicitement.**
+
+**A. Compétences identifiées**
+
+| Compétence (CV) | Fréquence |
+|---|---|
+| Relations institutionnelles | 3/3 |
+| Veille réglementaire sectorielle | 3/3 |
+| Pilotage de dossiers complexes | 2/3 |
+| Anglais professionnel | 2/3 |
+| Coordination comité de direction | 2/3 |
+
+**B. Missions identifiées**
+
+| Mission | Fréquence |
+|---|---|
+| Pilotage de la stratégie d'affaires publiques sur un secteur régulé | 3/3 |
+| Organisation des rencontres avec les décideurs publics | 2/3 |
+| Coordination avec le comité de direction/exécutif | 2/3 |
+| Pilotage de la stratégie publique France | 2/3 |
+| Veille réglementaire et anticipation des évolutions législatives | 2/3 |
+
+**C. Transparence**
+
+- **3 postes identifiés** (descriptifs reconstitués à partir d'extraits détaillés de recherche) : Ipsen (deux postes « Responsable Affaires Publiques », l'un en environnement de santé fortement régulé, l'autre pilotant la stratégie publique France, Paris/Île-de-France) ; Cdiscount (manager, organisation des rencontres institutionnelles pour la direction des affaires publiques et le comité exécutif, Paris).
+- **Répartition géographique : 0/3 (0 %) Bouches-du-Rhône/PACA ; 3/3 (100 %) reste de la France (Île-de-France).**
+- **Limites :** échantillon très restreint ; secteur pharmaceutique et e-commerce seuls représentés dans les résultats directement exploitables. Aucune fiche complète stable n'a pu être fixée par URL directe au moment de la recherche — données issues de synthèses de recherche détaillées plutôt que de fiches intégrales.
+
+### C. Secteur public / institutionnel
+
+> **Échantillon quasi nul (n = 1).**
+
+**C. Transparence**
+
+- **1 poste identifié** : Commission de Régulation de l'Énergie (CRE, autorité administrative indépendante), poste de direction d'une unité communication et relations institutionnelles de 5 personnes — niveau hiérarchique supérieur à « responsable » mais retenu comme la seule occurrence publique clairement apparentée à la fonction.
+- **Répartition géographique : 0/1 Bouches-du-Rhône/PACA.**
+- **Limites — constat net :** même logique que la combinaison 7-C : la fonction n'a pas d'équivalent symétrique naturel au sein du secteur public. **Aucune section A/B n'est présentée.**
+
+<!-- PROCHAINE SECTION A REDIGER : 9. Community manager (secteurs A, B, C) -->
