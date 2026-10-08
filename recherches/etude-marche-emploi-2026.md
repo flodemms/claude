@@ -802,7 +802,7 @@ Pour la grande majorité des combinaisons, le volume réel d'offres identifiable
 
 ## 8. Responsable affaires publiques et influence
 
-> **Révision du 8 octobre 2026 (après-midi) :** combinaison re-recherchée avec le même filet élargi que la combinaison 7, **augmenté des intitulés « directeur »** à la demande du donneur d'ordre (responsable ET directeur des affaires publiques/relations institutionnelles/relations publiques/relations gouvernementales, et « Head of Public Affairs »). Gain net important par rapport à la version initiale, notamment en secteur B (3 → 12) et une première occurrence en secteur A (0 → 1).
+> **Révision du 8 octobre 2026 (après-midi, en deux temps) :** combinaison re-recherchée avec le même filet élargi que la combinaison 7, **augmenté des intitulés « directeur »**, puis complétée une seconde fois avec les termes **« réputation »** et **« relations institutionnelles »** (niveau responsable/directeur), à la demande du donneur d'ordre. Gain net cumulé important par rapport à la version initiale : secteur A 0 → 1, secteur B 3 → 14, secteur C 1 → 3 (dont désormais 2 occurrences PACA).
 
 ### A. Secteur privé — TPE / PME / Startup (< 50 salariés)
 
@@ -816,72 +816,76 @@ Pour la grande majorité des combinaisons, le volume réel d'offres identifiable
 
 ### B. Secteur privé — Grande entreprise (> 50 salariés)
 
-> **Échantillon élargi n = 12 (contre 3 initialement).**
+> **Échantillon élargi n = 14 (contre 3 initialement ; +2 après ajout des termes « réputation » et « relations institutionnelles »).**
 
 **A. Compétences les plus demandées**
 
 | Compétence (CV) | Fréquence |
 |---|---|
-| Stratégie affaires publiques | 11/12 (92 %) |
-| Relations avec administrations/autorités | 10/12 (83 %) |
-| Veille législative et réglementaire | 9/12 (75 %) |
-| Rédaction d'argumentaires | 7/12 (58 %) |
-| Management d'équipe | 6/12 (50 %) |
-| Anglais courant | 7/12 (58 %) |
-| Conformité / HATVP | 4/12 (33 %) |
-| Coordination transverse (juridique, réglementaire, market access) | 6/12 (50 %) |
+| Stratégie affaires publiques | 11/14 (79 %) |
+| Relations avec administrations/autorités | 11/14 (79 %) |
+| Veille législative et réglementaire | 9/14 (64 %) |
+| Rédaction d'argumentaires | 7/14 (50 %) |
+| Management d'équipe | 7/14 (50 %) |
+| Anglais courant | 8/14 (57 %) |
+| Coordination transverse (juridique, réglementaire, market access) | 6/14 (43 %) |
+| Gestion de réputation / image de marque | 2/14 (14 %) |
 
 **B. Missions les plus demandées**
 
 | Mission | Fréquence |
 |---|---|
-| Définition et pilotage de la stratégie d'affaires publiques | 11/12 |
-| Entretien des relations avec administrations, autorités et parlementaires | 10/12 |
-| Veille des évolutions législatives et réglementaires sectorielles | 9/12 |
-| Rédaction d'éléments de langage, notes de position et argumentaires | 7/12 |
-| Préparation des rendez-vous institutionnels | 6/12 |
-| Coordination avec les fonctions juridique, réglementaire et market access | 6/12 |
-| Management d'une équipe affaires publiques | 5/12 |
-| Participation aux amendements législatifs/réglementaires | 4/12 |
-| Production de notes de synthèse et analyses d'impact | 4/12 |
-| Pilotage des relations presse et publiques | 3/12 |
-| Conformité et transparence (déclarations HATVP) | 3/12 |
-| Pilotage de la représentation auprès des pouvoirs publics territoriaux | 3/12 |
-| Coordination avec le comité exécutif/direction générale | 3/12 |
-| Organisation de rencontres institutionnelles | 2/12 |
+| Définition et pilotage de la stratégie d'affaires publiques | 11/14 |
+| Entretien des relations avec administrations, autorités et parlementaires | 10/14 |
+| Veille des évolutions législatives et réglementaires sectorielles | 9/14 |
+| Rédaction d'éléments de langage, notes de position et argumentaires | 7/14 |
+| Préparation des rendez-vous institutionnels | 7/14 |
+| Coordination avec les fonctions juridique, réglementaire et market access | 6/14 |
+| Management d'une équipe dédiée (affaires publiques ou réputation) | 6/14 |
+| Participation aux amendements législatifs/réglementaires | 4/14 |
+| Production de notes de synthèse et analyses d'impact | 4/14 |
+| Pilotage des relations presse et publiques | 3/14 |
+| Conformité et transparence (déclarations HATVP) | 3/14 |
+| Pilotage de la représentation auprès des pouvoirs publics territoriaux | 3/14 |
+| Coordination avec le comité exécutif/direction générale | 3/14 |
+| Pilotage et optimisation de l'e-réputation/image de marque en ligne | 1/14 |
+| Organisation de rencontres institutionnelles | 2/14 |
 
 **C. Transparence**
 
-- **12 offres/postes identifiés et analysés** : 1 lue intégralement (Biogaran, Colombes 92 — « Responsable Affaires Publiques », laboratoire pharmaceutique), 11 identifiées par métadonnées ou extraits détaillés (Google-« Public Affairs Manager, Regional Data Centers », Paris ; Nespresso-« Responsable Affaires Publiques et territoriales », Issy-les-Moulineaux ; TEKEVER France-« Responsable des Affaires Publiques », secteur défense ; Unibail-Rodamco-Westfield-« Head of Parliamentary & Regulatory Affairs », Paris ; Diptyque Paris-« Responsable des Relations Presse et Publiques » ; Ipsen ×2-« Responsable Affaires Publiques », santé ; Cdiscount-manager affaires publiques ; Groupe Avem ×2-« Responsable de Service Relations Externes » ; Centre Oscar Lambret-« Directeur Communication et Relations Donateurs », centre de lutte contre le cancer).
-- **Répartition géographique : 0/12 (0 %) Bouches-du-Rhône/PACA ; 12/12 (100 %) reste de la France (Île-de-France très majoritaire).**
-- **Limites :** l'échantillon a quadruplé grâce à l'ajout du niveau « directeur » et des intitulés anglophones (« Public Affairs Manager », « Head of... »), très utilisés par les grands groupes internationaux implantés en France (Google, Unibail-Rodamco-Westfield). Zéro occurrence PACA malgré l'élargissement : constat robuste et confirmé deux fois (recherche initiale et recherche élargie), pas un artefact de méthode — cette fonction de direction reste, dans les faits, un métier de siège social parisien.
+- **14 offres/postes identifiés et analysés** : 1 lue intégralement (Biogaran, Colombes 92 — « Responsable Affaires Publiques », laboratoire pharmaceutique), 13 identifiées par métadonnées ou extraits détaillés (Google-« Public Affairs Manager, Regional Data Centers », Paris ; Nespresso-« Responsable Affaires Publiques et territoriales », Issy-les-Moulineaux ; TEKEVER France-« Responsable des Affaires Publiques », secteur défense ; Unibail-Rodamco-Westfield-« Head of Parliamentary & Regulatory Affairs », Paris ; Diptyque Paris-« Responsable des Relations Presse et Publiques » ; Ipsen ×2-« Responsable Affaires Publiques », santé ; Cdiscount-manager affaires publiques ; Groupe Avem ×2-« Responsable de Service Relations Externes » ; Centre Oscar Lambret-« Directeur Communication et Relations Donateurs », centre de lutte contre le cancer ; **RH Partners-« Responsable Relations Institutionnelles & Animation », Mérignac, cabinet pour client non nommé ; Chronopost (groupe Geopost)-« Responsable Social Media et E-Réputation », Paris, lue intégralement — environ 50 % du poste porte sur la construction d'un comité e-réputation et le pilotage de l'image de marque en ligne**).
+- **Répartition géographique : 0/14 (0 %) Bouches-du-Rhône/PACA ; 14/14 (100 %) reste de la France (Île-de-France très majoritaire).**
+- **Limites :** l'ajout des termes « réputation » et « relations institutionnelles » a apporté 2 offres supplémentaires, dont une (Chronopost) lue intégralement. **Nuance importante à signaler :** la fonction « réputation/e-réputation » est réelle mais se révèle, dans l'offre trouvée, à dominante social media/communication digitale (moitié du poste), plutôt que relations institutionnelles ou réglementaires au sens classique des « affaires publiques ». C'est un métier voisin et parfois convergent (les grandes entreprises rattachent parfois réputation et affaires publiques à une même direction), mais avec un socle de compétences différent — à garder à l'esprit si ce mot-clé sert à cibler un CV spécifiquement « affaires publiques ». Toujours zéro occurrence PACA.
 
 ### C. Secteur public / institutionnel
 
-> **Échantillon toujours restreint (n = 2) malgré l'ajout du niveau directeur — meilleure nouvelle : 1 occurrence est en PACA.**
+> **Échantillon élargi n = 3 (contre 1 initialement) — 2 occurrences sur 3 sont désormais en PACA, grâce à la recherche « relations institutionnelles ».**
 
 **A. Compétences identifiées**
 
 | Compétence (CV) | Fréquence |
 |---|---|
-| Pilotage de politiques publiques | 2/2 |
-| Management transversal | 2/2 |
-| Relations institutionnelles (France/UE) | 2/2 |
-| Négociation et représentation institutionnelle | 2/2 |
+| Pilotage de politiques publiques | 2/3 |
+| Management transversal | 3/3 |
+| Relations institutionnelles (France/UE/international) | 3/3 |
+| Négociation et représentation institutionnelle | 3/3 |
 
 **B. Missions identifiées**
 
 | Mission | Fréquence |
 |---|---|
-| Pilotage et mise en œuvre de politiques publiques sectorielles | 2/2 |
-| Coordination transversale avec les autres directions | 2/2 |
-| Représentation institutionnelle et animation de réseaux | 2/2 |
-| Conduite de projets partenariaux européens/de jumelage | 1/2 |
-| Direction d'une unité communication et relations institutionnelles | 1/2 |
+| Représentation institutionnelle et animation de réseaux | 3/3 |
+| Coordination transversale avec les autres directions | 3/3 |
+| Pilotage et mise en œuvre de politiques publiques sectorielles | 2/3 |
+| Conduite de projets partenariaux européens/de jumelage/coopération internationale | 2/3 |
+| Direction d'une unité communication et relations institutionnelles | 1/3 |
+| Accueil de délégations étrangères et promotion de la collectivité dans les réseaux de villes | 1/3 |
 
 **C. Transparence**
 
-- **2 postes identifiés et analysés** : 1 lu intégralement (Commune de La Ciotat, 13, PACA — « Directeur des Sports, Jeunesse, Affaires Européennes et Jumelage », poste de direction transversale incluant un volet affaires européennes/jumelage), 1 identifié par métadonnées (CRE-Commission de Régulation de l'Énergie, direction d'une unité communication et relations institutionnelles, Paris).
+- **3 postes identifiés et analysés** : 2 lus intégralement (Commune de La Ciotat, 13, PACA — « Directeur des Sports, Jeunesse, Affaires Européennes et Jumelage » ; **Commune de Marseille, 13, PACA — « Directeur des Relations Internationales et Europe », grade A+, rattaché à la direction générale adjointe relations extérieures et grands projets, pilotage de la coopération décentralisée, des relations européennes, des partenariats institutionnels, de l'accueil de délégations étrangères et du rayonnement de Marseille dans les réseaux de villes**), 1 identifié par métadonnées (CRE-Commission de Régulation de l'Énergie, direction d'une unité communication et relations institutionnelles, Paris).
+- **Répartition géographique : 2/3 (67 %) Bouches-du-Rhône/PACA** (La Ciotat et Marseille, toutes deux dans les Bouches-du-Rhône) ; **1/3 (33 %) reste de la France.**
+- **Limites :** la recherche sur « relations institutionnelles » a payé ici precisément parce que les grandes villes nomment souvent leur fonction de rayonnement international/européen « relations internationales et Europe » plutôt que « affaires publiques ». Les deux postes PACA restent toutefois des postes de direction généraliste (sports/jeunesse pour l'un, relations extérieures/grands projets pour l'autre) où le volet « affaires publiques/influence » est une composante importante mais non unique — à nuancer en conséquence pour un CV ciblé.
 - **Répartition géographique : 1/2 (50 %) Bouches-du-Rhône/PACA** (Commune de La Ciotat) ; **1/2 (50 %) reste de la France.**
 - **Limites :** l'ajout du niveau directeur a permis de doubler l'échantillon (1 → 2) et d'obtenir une première occurrence PACA, mais le poste de La Ciotat est un poste de direction généraliste (sports + jeunesse + affaires européennes + jumelage), dont le volet « affaires publiques/influence » n'est qu'une composante parmi d'autres — à utiliser avec cette réserve explicite pour la rédaction d'un CV ciblé spécifiquement sur les affaires publiques.
 
@@ -1181,13 +1185,13 @@ Pour la grande majorité des combinaisons, le volume réel d'offres identifiable
 | 5 | Directeur communication | 2, 0 % (pas de fréquence) | 5, 0 % | 14, 29 % |
 | 6 | Responsable communication et marketing | 5, 20 % | 6, 17 % | 5, 40 % (intitulés voisins) |
 | 7 | Chargé d'affaires publiques et influence *(révisé, intitulés élargis)* | 0 (pas de fréquence) | 9, 0 % | 7, 0 % |
-| 8 | Responsable affaires publiques et influence *(révisé, intitulés élargis + directeur)* | 1 (pas de fréquence) | 12, 0 % | 2, 50 % |
+| 8 | Responsable affaires publiques et influence *(révisé x2 : intitulés élargis + directeur, puis réputation + relations institutionnelles)* | 1 (pas de fréquence) | 14, 0 % | 3, 67 % |
 | 9 | Community manager | 2, 0 % (pas de fréquence) | 10, 10 % | 10, 10 % |
 | 10 | Attaché de presse | 2, 0 % (pas de fréquence) | 3, 33 % | 10, 50 % |
 | 11 | Brand content manager / Brand manager | 4, 50 % | 10, 0 % | 1 (pas de fréquence) |
-| | **Total** | **57 offres, 12 % PACA** | **102 offres, 7 % PACA** | **83 offres, 30 % PACA** |
+| | **Total** | **57 offres, 12 % PACA** | **104 offres, 7 % PACA** | **84 offres, 31 % PACA** |
 
-**Total général : 242 offres identifiées et analysées sur les 33 combinaisons, dont 39 (16 %) en Bouches-du-Rhône/PACA**, pour une cible théorique initiale de 1 650 (33 × 50). (Combinaisons 7 et 8 révisées le 8 octobre 2026 après-midi avec un filet de mots-clés élargi aux intitulés voisins, à la demande du donneur d'ordre — voir note en tête de chacune de ces deux sections ; les totaux ci-dessus intègrent déjà cette révision.) Cet écart est le résultat principal, et attendu, de la méthodologie demandée : rechercher et vérifier des offres réelles plutôt que d'en extrapoler le volume. Il reflète à la fois des limites d'outillage (voir « Contraintes techniques » en introduction) et des limites de marché réelles et cohérentes entre elles :
+**Total général : 245 offres identifiées et analysées sur les 33 combinaisons, dont 40 (16 %) en Bouches-du-Rhône/PACA**, pour une cible théorique initiale de 1 650 (33 × 50). (Combinaisons 7 et 8 révisées le 8 octobre 2026 après-midi avec un filet de mots-clés élargi aux intitulés voisins, à la demande du donneur d'ordre, puis la combinaison 8 complétée une seconde fois avec les termes « réputation » et « relations institutionnelles » — voir notes en tête de chacune de ces deux sections ; les totaux ci-dessus intègrent déjà ces deux révisions.) Cet écart est le résultat principal, et attendu, de la méthodologie demandée : rechercher et vérifier des offres réelles plutôt que d'en extrapoler le volume. Il reflète à la fois des limites d'outillage (voir « Contraintes techniques » en introduction) et des limites de marché réelles et cohérentes entre elles :
 
 - **Effet de seuil hiérarchique :** les intitulés « responsable », « directeur » et les fonctions dédiées (community manager, brand manager) sont structurellement rares dans les structures de moins de 50 salariés, qui confient plutôt ces missions à un « chargé » généraliste (combinaison 1).
 - **Effet de spécialisation géographique :** le secteur public francilien et le secteur privé parisien dominent très largement les intitulés de direction/expertise (affaires publiques, direction communication, brand management), tandis que le secteur public local (communes, métropoles, départements de PACA) documente mieux les fonctions opérationnelles (chargé de communication, attaché de presse) grâce à choisirleservicepublic.gouv.fr.
