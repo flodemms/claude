@@ -282,4 +282,125 @@ Pour la grande majorité des combinaisons, le volume réel d'offres identifiable
 - **Répartition géographique : 2/11 (18 %) Bouches-du-Rhône/PACA** (Cadenet et Pertuis, tous deux Vaucluse 84) ; **9/11 (82 %) reste de la France**.
 - **Limites :** aucun intitulé trouvé n'utilisait exactement « communication et marketing » dans le secteur public ; les collectivités emploient plutôt « communication et attractivité » ou « communication » seul pour ce périmètre de missions. Les offres retenues combinent donc des intitulés voisins incluant une dimension marketing/attractivité territoriale explicite.
 
-<!-- PROCHAINE SECTION A REDIGER : 3. Chargé de marketing (secteurs A, B, C) -->
+## 3. Chargé de marketing
+
+> **Note méthodologique spécifique :** une partie des offres trouvées pour « chargé de marketing et communication » (combinaison 2) réapparaissaient dans les recherches pour ce poste (même annonce, même URL). Ces doublons ont été retirés de l'échantillon ci-dessous et laissés dans la combinaison 2, pour ne pas gonfler artificiellement les deux échantillons avec les mêmes offres.
+
+### A. Secteur privé — TPE / PME / Startup (< 50 salariés)
+
+**A. Compétences les plus demandées (échantillon n = 9)**
+
+| Compétence (CV) | Fréquence |
+|---|---|
+| Campagnes multicanales | 7/9 (78 %) |
+| Réseaux sociaux | 6/9 (67 %) |
+| Anglais professionnel | 5/9 (56 %) |
+| Reporting / analyse | 5/9 (56 %) |
+| Veille concurrentielle | 5/9 (56 %) |
+| Gestion site web | 4/9 (44 %) |
+| Outils marketing (PLV, catalogues) | 4/9 (44 %) |
+| Coordination prestataires | 3/9 (33 %) |
+
+**B. Missions les plus demandées**
+
+| Mission | Fréquence |
+|---|---|
+| Mise en place de campagnes marketing multicanales | 7/9 |
+| Création de newsletters et emailing | 6/9 |
+| Développement d'actions d'acquisition et de fidélisation | 6/9 |
+| Production de reporting et analyse de performance | 5/9 |
+| Veille des tendances marketing et de la concurrence | 5/9 |
+| Coordination avec équipes internes et partenaires | 5/9 |
+| Gestion du site internet et des réseaux sociaux | 4/9 |
+| Création d'outils marketing pour les commerciaux/clients | 4/9 |
+| Pilotage de campagnes (conception à suivi des résultats) | 4/9 |
+| Création de supports (catalogues, PLV, bannières web) | 3/9 |
+| Coordination du lancement de nouveaux produits | 3/9 |
+| Production de contenus (vidéos, mises en situation) | 3/9 |
+| Garantie de la cohérence de l'identité de marque | 3/9 |
+| Analyse du marché et identification d'opportunités | 2/9 |
+| Développement de la présence internationale de la marque | 2/9 |
+
+**C. Transparence**
+
+- **9 offres identifiées et analysées** : 1 lue intégralement (SONOVENTE.COM, Palaiseau), 8 identifiées par métadonnées (TRESSOL CHABRIER-Montpellier ; Rouenel-Saint-Gérand-Croixanvec ; Emily-Tréflévénez ; Innoval-Noyal-sur-Vilaine ; ICD International-Meudon ; Transmanut-Vineuil ; Kreno Consulting-Val-d'Oise ; ACCEO-La Ciotat 13 [stage]).
+- **Répartition géographique : 1/9 (11 %) Bouches-du-Rhône/PACA** (ACCEO, La Ciotat 13 — en stage, pas en CDI) ; **8/9 (89 %) reste de la France**.
+- **Limites :** en Bouches-du-Rhône/PACA, la recherche sur l'intitulé exact « chargé de marketing » est très largement polluée par des offres d'alternance publiées par des écoles (MyDigitalSchool Nice, ISCOD, IDRAC, Groupe Alternance Aix-en-Provence, etc. — plus de 20 occurrences écartées de l'échantillon sur les 30 premiers résultats).
+
+### B. Secteur privé — Grande entreprise (> 50 salariés)
+
+**A. Compétences les plus demandées (échantillon n = 9)**
+
+| Compétence (CV) | Fréquence |
+|---|---|
+| CRM (Salesforce ou équivalent) | 6/9 (67 %) |
+| Veille concurrentielle structurée | 6/9 (67 %) |
+| Reporting / KPI | 6/9 (67 %) |
+| Marketing digital | 5/9 (56 %) |
+| Gestion de projet transverse | 5/9 (56 %) |
+| Analyse de données | 4/9 (44 %) |
+| Coordination réseau/enseignes | 4/9 (44 %) |
+| Outils de création (Canva, PPT) | 3/9 (33 %) |
+
+**B. Missions les plus demandées**
+
+| Mission | Fréquence |
+|---|---|
+| Élaboration et suivi de la stratégie marketing du groupe | 7/9 |
+| Coordination des campagnes marketing multicanal | 6/9 |
+| Mesure d'impact des actions (KPI, reporting) | 6/9 |
+| Pilotage et mise à jour de la base CRM | 5/9 |
+| Veille concurrentielle et sectorielle structurée | 5/9 |
+| Coordination et mutualisation des animations commerciales entre sites/enseignes | 4/9 |
+| Réalisation de catalogues produits et supports d'opérations | 4/9 |
+| Analyse de données liées à l'activité commerciale | 4/9 |
+| Animation de sites web de marques | 3/9 |
+| Contribution à des projets d'innovation/R&D | 3/9 |
+| Coordination transverse avec plusieurs directions/filiales | 3/9 |
+| Gestion des relations avec prestataires externes | 3/9 |
+| Animation de réunions et de groupes de travail | 2/9 |
+| Participation à des salons et webinaires professionnels | 2/9 |
+
+**C. Transparence**
+
+- **9 offres identifiées et analysées** : 2 lues intégralement (Scalian, Paris ; Groupe Samse, Grenoble), 7 identifiées par métadonnées (Crédit Agricole Lorraine-Laxou ; Spirica-Paris ; E.Leclerc-Ivry-sur-Seine ; Gemo-Montrevault-sur-Èvre ; JD Sports-Paris ; Groupe Agrica-Paris ; Mitsubishi Pencil-Boulogne-Billancourt).
+- **Répartition géographique : 0/9 (0 %) Bouches-du-Rhône/PACA ; 9/9 (100 %) reste de la France.**
+- **Limites :** aucune offre « chargé de marketing » en grande entreprise identifiée en PACA au moment de la recherche — limite réelle constatée. Échantillon à dominante Île-de-France.
+
+### C. Secteur public / institutionnel
+
+**A. Compétences les plus demandées (échantillon n = 5 — échantillon restreint, voir limites)**
+
+| Compétence (CV) | Fréquence |
+|---|---|
+| Plan marketing institutionnel | 4/5 |
+| SEO / SEA | 3/5 |
+| Rédaction d'argumentaires | 3/5 |
+| Reporting / bilans d'indicateurs | 3/5 |
+| Veille outils/concurrence | 3/5 |
+| Gestion budgétaire (cahiers des charges) | 2/5 |
+| Coordination prestataires externes | 2/5 |
+| Vision stratégique / innovation | 2/5 |
+
+**B. Missions les plus demandées** *(10 missions identifiées — en dessous de la cible de 15-20, voir limites)*
+
+| Mission | Fréquence |
+|---|---|
+| Élaboration et mise en œuvre du plan marketing annuel | 4/5 |
+| Conception de campagnes multicanales (e-mailing, salons, mediaweb) | 4/5 |
+| Mesure des résultats et production de bilans d'indicateurs | 3/5 |
+| Veille des outils marketing et de la concurrence | 3/5 |
+| Rédaction d'argumentaires de promotion par formation/offre | 2/5 |
+| Renforcement de la visibilité numérique (réseaux sociaux, SEO/SEA) | 2/5 |
+| Contribution à la définition du budget marketing | 2/5 |
+| Rédaction de cahiers des charges et suivi de prestataires | 2/5 |
+| Participation à des projets transversaux (appels d'offres, qualité) | 2/5 |
+| Coordination avec les directions communication/développement commercial | 2/5 |
+
+**C. Transparence**
+
+- **5 offres identifiées et analysées** : 2 lues intégralement (UPEC Créteil, marketing opérationnel direction ; UPEC Créteil, DIFPRO), 3 identifiées par métadonnées (La Rochelle Université ; Centre de gestion de Loire-Atlantique — marketing de l'emploi ; Région La Réunion — responsable cellule marketing territorial, niveau supérieur à « chargé », conservée à titre indicatif).
+- **Répartition géographique : 0/5 (0 %) Bouches-du-Rhône/PACA ; 5/5 (100 %) reste de la France (et outre-mer pour 1 offre).**
+- **Limites — échantillon très restreint, signalé explicitement comme demandé :** l'intitulé exact « chargé de marketing » est rare dans le secteur public français. Les collectivités territoriales n'ont publié aucune offre sous ce terme au moment de la recherche (recherche vérifiée sur choisirleservicepublic.gouv.fr) ; le terme apparaît surtout dans les universités (marketing de l'offre de formation) et, au niveau « responsable », dans le marketing territorial des régions. Les sections A et B ci-dessus sont donc construites sur un échantillon volontairement non complété artificiellement, conformément à la consigne de rigueur scientifique.
+
+<!-- PROCHAINE SECTION A REDIGER : 4. Responsable communication (secteurs A, B, C) -->
