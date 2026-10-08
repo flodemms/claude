@@ -504,4 +504,96 @@ Pour la grande majorité des combinaisons, le volume réel d'offres identifiable
 - **Répartition géographique : 2/5 (40 %) Bouches-du-Rhône/PACA ; 3/5 (60 %) reste de la France.**
 - **Limites :** aucune des deux fiches PACA n'a pu être lue intégralement (dépubliées au moment de la consultation, le 8 octobre 2026). Les missions ci-dessus s'appuient donc partiellement sur la fiche « chargé de communication » de la commune de Carnoux-en-Provence (combinaison 1-C) comme référentiel de cohérence fonctionnelle, avec les dimensions d'encadrement et de pilotage budgétaire ajoutées car explicitement mentionnées dans les intitulés de poste « responsable » collectés. Échantillon à consolider si une recherche ultérieure permet d'accéder aux fiches complètes avant dépublication.
 
-<!-- PROCHAINE SECTION A REDIGER : 5. Directeur communication (secteurs A, B, C) -->
+## 5. Directeur communication
+
+### A. Secteur privé — TPE / PME / Startup (< 50 salariés)
+
+> **Échantillon quasi inexistant (n = 2) — constat à signaler explicitement.**
+
+**C. Transparence**
+
+- **2 offres identifiées seulement**, aucune en Bouches-du-Rhône/PACA : Premi Homme (Côte-d'Or, « Directeur Communication et Marketing », taille non confirmée), Firdaous Charity France (Bobigny, association/structure caritative).
+- **Répartition géographique : 0/2 (0 %) Bouches-du-Rhône/PACA ; 2/2 (100 %) reste de la France.**
+- **Limites — constat net :** un poste de « directeur de la communication » dans une structure privée de moins de 50 salariés est, de fait, structurellement rare : à cette taille d'entreprise, la fonction communication est très majoritairement portée par un « chargé » (combinaison 1) ou, plus rarement, un « responsable » (combinaison 4), pas par un poste de direction dédié. **Aucune section A/B (compétences/missions) n'est présentée pour cette combinaison** : 2 offres ne permettent pas de dégager une fréquence significative, et en fabriquer une irait à l'encontre de la consigne de rigueur scientifique. C'est, avec « Brand content manager / secteur public » (combinaison 12-C), le cas de figure à faible volume annoncé par le donneur d'ordre.
+
+### B. Secteur privé — Grande entreprise (> 50 salariés)
+
+**A. Compétences les plus demandées (échantillon n = 5)**
+
+| Compétence (CV) | Fréquence |
+|---|---|
+| Communication corporate | 5/5 (100 %) |
+| Anglais courant | 4/5 (80 %) |
+| RSE / communication responsable | 3/5 (60 %) |
+| Relations médias | 4/5 (80 %) |
+| Pilotage budgétaire | 3/5 (60 %) |
+| Management international/filiales | 3/5 (60 %) |
+| KPI / reporting | 3/5 (60 %) |
+| Gestion de prestataires/agences | 3/5 (60 %) |
+
+**B. Missions les plus demandées**
+
+| Mission | Fréquence |
+|---|---|
+| Définition du plan de communication externe du groupe et des marques | 5/5 |
+| Pilotage de la stratégie de communication corporate | 5/5 |
+| Gestion des relations médias | 4/5 |
+| Définition et déploiement de la stratégie RSE | 3/5 |
+| Animation et accompagnement des filiales internationales | 3/5 |
+| Suivi des indicateurs de performance (KPI, tableaux de bord) | 3/5 |
+| Pilotage du budget de communication corporate | 3/5 |
+| Sélection et pilotage des prestataires et agences | 3/5 |
+| Veille concurrentielle structurée | 3/5 |
+| Organisation d'événements et de salons professionnels | 2/5 |
+| Production de contenus et d'outils de marque | 2/5 |
+| Encadrement des équipes communication digitale et produit | 2/5 |
+| Diffusion des outils de communication centraux à l'international | 2/5 |
+
+**C. Transparence**
+
+- **5 offres identifiées et analysées** : 1 lue intégralement (Gerflor, Tarare 69 — Group Corporate Communications Manager), 4 identifiées par métadonnées (FORVIA-Nanterre ; Kone-Trappes ; Gerflor-Saint-Paul-Trois-Châteaux [2ᵉ poste identique] ; Premi Homme-Côte-d'Or [limite avec secteur A]).
+- **Répartition géographique : 0/5 (0 %) Bouches-du-Rhône/PACA ; 5/5 (100 %) reste de la France.**
+- **Limites :** aucun poste de directeur communication en grande entreprise identifié en PACA au moment de la recherche — échantillon purement national, à dominante Île-de-France/Rhône.
+
+### C. Secteur public / institutionnel
+
+**A. Compétences les plus demandées (échantillon n = 14)**
+
+| Compétence (CV) | Fréquence |
+|---|---|
+| Stratégie de communication | 13/14 (93 %) |
+| Encadrement d'équipe | 11/14 (79 %) |
+| Communication de crise | 8/14 (57 %) |
+| Charte graphique / multimédia | 7/14 (50 %) |
+| Marketing territorial | 6/14 (43 %) |
+| Cadre juridique communication | 5/14 (36 %) |
+| Démocratie participative | 4/14 (29 %) |
+| Négociation | 4/14 (29 %) |
+
+**B. Missions les plus demandées**
+
+| Mission | Fréquence |
+|---|---|
+| Définition et pilotage de la stratégie de communication globale | 13/14 |
+| Encadrement et management de l'équipe communication | 11/14 |
+| Garantie de la cohérence des messages internes et externes | 9/14 |
+| Gestion de la communication de crise | 8/14 |
+| Organisation et diffusion de l'information sur les politiques publiques | 8/14 |
+| Pilotage du budget communication | 7/14 |
+| Conseil direct aux élus et à la direction générale | 7/14 |
+| Pilotage des supports multimédias et de la charte graphique | 6/14 |
+| Coordination des démarches participatives et de proximité | 5/14 |
+| Développement du marketing territorial et de l'attractivité | 5/14 |
+| Gestion des relations presse et médias | 5/14 |
+| Supervision des événements institutionnels | 4/14 |
+| Pilotage de la communication interne | 4/14 |
+| Coordination avec les prestataires et agences | 3/14 |
+| Veille juridique et réglementaire de la communication publique | 3/14 |
+
+**C. Transparence**
+
+- **14 offres identifiées et analysées** : 1 lue intégralement (Commune de Fos-sur-Mer, 13), 13 identifiées par métadonnées — dont 3 dépubliées entre indexation et consultation (Région PACA [2 postes de directeur adjoint] ; Commune de Menton 06 ; Commune de Hyères 83 [chef de service, fonction équivalente]) et 10 hors PACA (Les Ulis, Troyes, Pamiers, Le Pré-Saint-Gervais, Carrières-sur-Seine, Étampes, Le Kremlin-Bicêtre, Lannion-Trégor Communauté, Département de Seine-Saint-Denis, Mennecy — ce dernier étant la seule offre confirmée encore ouverte au 8 octobre 2026, clôture le 18/10/2026).
+- **Répartition géographique : 4/14 (29 %) Bouches-du-Rhône/PACA ; 10/14 (71 %) reste de la France.**
+- **Limites :** c'est, de loin, le secteur le plus actif sur l'intitulé exact « directeur de la communication » — cohérent avec le fait que seules les collectivités de taille significative (villes moyennes à grandes, départements, régions) structurent la fonction à ce niveau hiérarchique. Plusieurs fiches PACA repérées ont été dépubliées avant lecture intégrale ; les missions ci-dessus reposent principalement sur la fiche complète de Fos-sur-Mer, recoupée avec les intitulés et grades des autres offres.
+
+<!-- PROCHAINE SECTION A REDIGER : 6. Responsable communication et marketing (secteurs A, B, C) -->
