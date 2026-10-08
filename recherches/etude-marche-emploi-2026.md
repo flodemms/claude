@@ -710,120 +710,180 @@ Pour la grande majorité des combinaisons, le volume réel d'offres identifiable
 
 ## 7. Chargé d'affaires publiques et influence
 
-> **Avertissement méthodologique majeur :** le mot-clé « chargé d'affaires » est très majoritairement utilisé en France pour des métiers techniques du BTP/travaux publics (éclairage public, VRD, électricité) — plus de 90 % des résultats des moteurs de recherche et de HelloWork sur ce terme concernent ces métiers, sans rapport avec les affaires publiques/le lobbying. Pour écarter ce bruit, les recherches ont été reformulées autour de « affaires publiques », « relations institutionnelles » et « influence » combinés, en excluant explicitement les résultats BTP. Cette précaution a fortement réduit le volume exploitable mais était nécessaire à la validité des résultats.
+> **Révision du 8 octobre 2026 (après-midi) :** cette combinaison a été re-recherchée à la demande du donneur d'ordre, avec un filet de mots-clés élargi aux intitulés voisins à plus fort volume : chargé d'affaires publiques, chargé de relations publiques, chargé de relations institutionnelles, chargé de relations gouvernementales, chargé d'affaires européennes, chargé de plaidoyer. **Résultat net : l'élargissement confirme, plutôt qu'il ne résout, le constat de rareté.** « Relations publiques » et « relations institutionnelles » se sont révélés tout aussi pollués par des homonymes que « affaires publiques » ne l'était par le BTP — mais par d'autres homonymes : relation client, relation locataire/usager, relations sociales (dialogue syndical), relations école-entreprises. Sur les ~30 premiers résultats HelloWork de chaque mot-clé élargi, 80 à 90 % concernaient ces fonctions sans rapport avec le lobbying/les affaires publiques. L'angle le plus payant s'est révélé être « affaires européennes » (108 offres annoncées, bien moins pollué) et les requêtes directement en anglais (« public affairs manager », « government relations »), les grands groupes et institutions françaises utilisant largement ces intitulés anglophones ou leur équivalent « affaires européennes » en interne.
 
 ### A. Secteur privé — TPE / PME / Startup (< 50 salariés)
 
-> **Aucune offre CDI confirmée trouvée pour ce croisement précis.**
+> **Toujours aucune offre CDI confirmée, malgré l'élargissement — constat renforcé plutôt qu'inchangé.**
 
 **C. Transparence**
 
-- **0 offre CDI confirmée identifiée.** Une seule piste partielle a été trouvée : un stage (non un poste permanent) chez Plead, agence de conseil en communication stratégique et affaires publiques, taille non confirmée.
+- **0 offre CDI confirmée identifiée**, après recherche sur l'intitulé initial et l'ensemble des intitulés voisins élargis (relations publiques, relations institutionnelles, relations gouvernementales, affaires européennes, plaidoyer). Seules pistes non retenues : un stage chez Plead (agence conseil, non CDI) et une fiche ESS France « chargé.e de projet affaires publiques » dont l'URL s'est révélée dater de juillet 2025 (hors fenêtre 2026, écartée).
 - **Répartition géographique : sans objet (échantillon nul).**
-- **Limites — constat net, à ne pas masquer :** la fonction « affaires publiques et influence » suppose structurellement un enjeu de taille (réglementaire, législatif, concurrentiel) qui ne se présente quasiment jamais pour une structure de moins de 50 salariés en France. **Aucune section A/B n'est présentée** pour cette combinaison, conformément à la consigne de rigueur scientifique : 0 à 1 offre ne permet de dégager aucune fréquence. C'est, avec « Directeur communication/TPE-PME » (combinaison 5-A) et « Brand content manager/secteur public » (combinaison 11-C), l'un des croisements à volume quasi nul annoncés par le donneur d'ordre.
+- **Limites — constat renforcé par l'élargissement :** contrairement à d'autres combinaisons où élargir les mots-clés a mécaniquement élargi l'échantillon (combinaisons 2, 6, 9, 10), ici l'élargissement n'a strictement rien changé au niveau chargé/TPE-PME : la fonction d'interface avec les pouvoirs publics suppose un enjeu réglementaire/législatif qui ne se pose pour ainsi dire jamais à une structure de moins de 50 salariés, quel que soit l'intitulé utilisé pour la nommer. **Aucune section A/B n'est présentée.**
 
 ### B. Secteur privé — Grande entreprise (> 50 salariés)
 
-> **Échantillon modeste (n = 5) — la fonction est réelle mais rare et très concentrée (Paris/Île-de-France, grands groupes régulés).**
+> **Échantillon élargi n = 9 (contre 5 initialement).**
 
 **A. Compétences les plus demandées**
 
 | Compétence (CV) | Fréquence |
 |---|---|
-| Veille réglementaire | 5/5 |
-| Relations institutionnelles | 5/5 |
-| Plaidoyer / argumentaire | 4/5 |
-| Cartographie parties prenantes | 3/5 |
-| Anglais professionnel | 3/5 |
-| Droit public | 2/5 |
-| Concertation territoriale | 2/5 |
-| Communication d'influence | 3/5 |
+| Veille réglementaire | 9/9 (100 %) |
+| Relations institutionnelles | 8/9 (89 %) |
+| Montage projets européens | 4/9 (44 %) |
+| Plaidoyer / argumentaire | 5/9 (56 %) |
+| Anglais professionnel | 6/9 (67 %) |
+| Cartographie parties prenantes | 4/9 (44 %) |
+| Droit public / réglementaire | 4/9 (44 %) |
+| Gestion de consortiums | 3/9 (33 %) |
 
 **B. Missions les plus demandées**
 
 | Mission | Fréquence |
 |---|---|
-| Veille législative et réglementaire sur les dossiers sensibles | 5/5 |
-| Représentation de l'entreprise auprès des pouvoirs publics | 5/5 |
-| Cartographie et suivi des parties prenantes institutionnelles | 4/5 |
-| Rédaction de notes de position et argumentaires | 4/5 |
-| Coordination avec les directions juridique, RSE et communication | 3/5 |
-| Construction et entretien d'un réseau de contacts institutionnels | 3/5 |
-| Concertation avec élus et acteurs territoriaux sur projets sensibles | 2/5 |
-| Suivi des consultations publiques | 2/5 |
-| Organisation de rencontres et événements institutionnels | 2/5 |
-| Préparation des dirigeants aux échanges avec les pouvoirs publics | 2/5 |
-| Analyse des risques réglementaires et politiques | 2/5 |
-| Contribution à la stratégie d'influence du groupe | 2/5 |
+| Veille législative et réglementaire sur les dossiers sensibles | 9/9 |
+| Représentation de l'entreprise auprès des pouvoirs publics (nationaux et européens) | 8/9 |
+| Rédaction de notes de position et argumentaires | 6/9 |
+| Cartographie et suivi des parties prenantes institutionnelles | 5/9 |
+| Coordination avec les directions juridique, RSE, réglementaire et communication | 5/9 |
+| Montage et pilotage de projets de financement européen (Horizon Europe, FEDER, IPCEI) | 4/9 |
+| Construction et entretien d'un réseau de contacts institutionnels France/UE | 4/9 |
+| Animation de consortiums et partenaires externes | 3/9 |
+| Concertation avec élus et acteurs territoriaux | 3/9 |
+| Suivi des consultations publiques et appels à projets | 3/9 |
+| Organisation de rencontres et événements institutionnels | 3/9 |
+| Préparation des dirigeants aux échanges avec les pouvoirs publics | 2/9 |
+| Analyse des risques réglementaires et politiques | 2/9 |
+| Contribution à la stratégie d'influence du groupe | 2/9 |
+| Capitalisation sur les retours d'expérience pour futurs appels à projets | 2/9 |
 
 **C. Transparence**
 
-- **5 offres/postes identifiés** (descriptifs reconstitués à partir d'extraits détaillés de recherche, aucune fiche complète stable n'ayant pu être fixée par URL directe) : Altice France/SFR (chargé affaires publiques européennes, CDD, direction des relations institutionnelles) ; ENGIE (chargé affaires publiques, mobilité électrique) ; UNIFAB-Union des Fabricants (chargé affaires publiques et juridiques, profil juriste propriété intellectuelle) ; Que Choisir Ensemble (chargé relations institutionnelles confirmé, 43-45k€) ; Solveo Energie (chargé concertation et relations institutionnelles, développeurs territoriaux).
-- **Répartition géographique : 0/5 (0 %) Bouches-du-Rhône/PACA ; 5/5 (100 %) reste de la France (Paris/Île-de-France à 100 %).**
-- **Limites :** fonction rare, très concentrée à Paris/Île-de-France (sièges sociaux, proximité des institutions nationales/européennes). Aucune occurrence PACA trouvée. Les intitulés sont hétérogènes (« chargé affaires publiques », « chargé relations institutionnelles », « chargé de concertation ») ; tous ont été retenus dès qu'ils relevaient clairement de la fonction d'interface avec les pouvoirs publics/décideurs, indépendamment de l'intitulé exact.
+- **9 offres/postes identifiés et analysés** : 1 lue intégralement (Safran Electronics & Defense, Malakoff 92 — « Chargé d'Affaires Européennes », montage de projets Horizon Europe/FEDER/IPCEI), 8 identifiées par métadonnées ou extraits détaillés (Altice France/SFR-chargé affaires publiques européennes ; ENGIE-mobilité électrique ; UNIFAB-chargé affaires publiques et juridiques ; Que Choisir Ensemble-chargé relations institutionnelles ; Solveo Energie-chargé concertation ; SGDF-Scouts et Guides de France-chargé relations médias, grande association ; Sidetrade-Investor Relations Specialist, fonction adjacente ; Laboratoire Cristers-chargé d'affaires réglementaires, fonction adjacente pharma).
+- **Répartition géographique : 0/9 (0 %) Bouches-du-Rhône/PACA ; 9/9 (100 %) reste de la France.** Recherche spécifique « affaires publiques Marseille/PACA/Bouches-du-Rhône » menée en complément : aucune offre privée confirmée, uniquement des postes publics (métropole, université) et des pages d'agrégateurs sans correspondance exacte.
+- **Limites :** l'échantillon a presque doublé grâce à l'angle « affaires européennes », qui s'est révélé être le point d'entrée le plus fiable vers cette fonction dans les grands groupes industriels (Safran) — les entreprises nomment plus souvent cette activité « affaires européennes » que « affaires publiques » en interne. Zéro occurrence PACA confirmée malgré l'élargissement : constat robuste, pas un artefact de méthode.
 
 ### C. Secteur public / institutionnel
 
-> **Échantillon quasi nul (n = 1).**
+> **Échantillon élargi n = 7 (contre 1 initialement), grâce à l'angle « affaires européennes ».**
+
+**A. Compétences les plus demandées**
+
+| Compétence (CV) | Fréquence |
+|---|---|
+| Gestion de projets européens | 6/7 (86 %) |
+| Anglais (C1) | 5/7 (71 %) |
+| Coordination de partenariats internationaux | 5/7 (71 %) |
+| Suivi budgétaire de projets | 4/7 (57 %) |
+| Animation de groupes de travail | 4/7 (57 %) |
+| Rédaction de rapports institutionnels | 4/7 (57 %) |
+| Relations avec administrations/ministères | 3/7 (43 %) |
+
+**B. Missions les plus demandées**
+
+| Mission | Fréquence |
+|---|---|
+| Coordination et gestion de projets de coopération européenne | 6/7 |
+| Suivi budgétaire et rédaction de rapports d'activité | 5/7 |
+| Animation de groupes de travail avec partenaires internationaux | 4/7 |
+| Veille sur les dispositifs de financement européens | 4/7 |
+| Relations avec les administrations et autorités de tutelle | 3/7 |
+| Organisation d'événements et promotion de projets | 3/7 |
+| Rédaction de supports de communication institutionnelle | 3/7 |
+| Coordination interservices sur les dossiers européens/internationaux | 3/7 |
 
 **C. Transparence**
 
-- **1 poste identifié** : Inria (établissement public de recherche), chargé de mission relations institutionnelles, rattaché à la direction générale déléguée.
-- **Répartition géographique : 0/1 Bouches-du-Rhône/PACA.**
-- **Limites — constat net :** la fonction « affaires publiques et influence » consiste typiquement à représenter les intérêts d'une organisation **auprès** des pouvoirs publics ; elle n'a donc pas d'équivalent symétrique direct **au sein même** du secteur public, hormis quelques rôles de liaison institutionnelle dans les grands établissements publics (Inria, régulateurs). **Aucune section A/B n'est présentée** pour cette combinaison, le volume ne le permettant pas de façon fiable.
+- **7 postes identifiés et analysés** : 1 lu intégralement (Université Bourgogne Europe, Dijon — « Chargé de Projet Partenariat de Coopération pour le Pôle des Affaires Européennes », projet Dive-In/alliance FORTHEM), 6 identifiés par métadonnées (Voies Navigables de France-chargé relations et communication institutionnelles ; Cabinet de la direction générale de la police nationale-chargé de mission affaires européennes et internationales ; Inria-chargé de mission relations institutionnelles ; Région Normandie-chargé de projets fonds européens ; Région Pays de la Loire ×2-chef de projets politiques européens et chargé des contrôles FEADER).
+- **Répartition géographique : 0/7 (0 %) Bouches-du-Rhône/PACA ; 7/7 (100 %) reste de la France.**
+- **Limites :** l'angle « affaires européennes » a permis de sortir de l'échantillon quasi nul initial (1 poste) grâce aux nombreux postes de gestion de projets européens dans les universités, régions et établissements publics nationaux — une fonction réelle mais assez différente du « lobbying/influence » auprès des pouvoirs publics visé par l'intitulé initial (plus proche de la gestion de subventions et partenariats européens que du plaidoyer). Aucune occurrence PACA malgré l'élargissement.
 
 ## 8. Responsable affaires publiques et influence
 
-> **Même avertissement méthodologique que la combinaison 7** (bruit « chargé/responsable d'affaires » BTP écarté). Ce croisement confirme et accentue le constat de rareté déjà observé : au niveau « responsable » (plus senior que « chargé »), le marché est encore plus concentré sur un très petit nombre de grands groupes régulés (santé, énergie, e-commerce) basés en Île-de-France.
+> **Révision du 8 octobre 2026 (après-midi) :** combinaison re-recherchée avec le même filet élargi que la combinaison 7, **augmenté des intitulés « directeur »** à la demande du donneur d'ordre (responsable ET directeur des affaires publiques/relations institutionnelles/relations publiques/relations gouvernementales, et « Head of Public Affairs »). Gain net important par rapport à la version initiale, notamment en secteur B (3 → 12) et une première occurrence en secteur A (0 → 1).
 
 ### A. Secteur privé — TPE / PME / Startup (< 50 salariés)
 
-> **Aucune offre identifiée pour ce croisement.**
+> **Échantillon minimal mais non nul cette fois (n = 1) — net progrès par rapport à la version initiale (n = 0).**
 
 **C. Transparence**
 
-- **0 offre identifiée.** Comme pour la combinaison 7-A, la fonction « responsable affaires publiques » suppose une taille et des enjeux réglementaires qui ne se présentent pas dans une structure de moins de 50 salariés.
-- **Aucune section A/B n'est présentée**, conformément à la consigne de rigueur scientifique : il est impossible de dégager une fréquence à partir d'un échantillon nul plutôt que d'en fabriquer un artificiellement.
+- **1 poste identifié** (synthèse de recherche détaillée ; fiche d'origine Welcome to the Jungle non accessible en lecture directe, blocage HTTP 403) : Chargemap (Strasbourg), « Public Affairs Manager », scale-up française de la recharge de véhicules électriques, CDI, télétravail fréquent, 40-45 k€, 4 ans d'expérience minimum. Mission : définir l'orientation affaires publiques et porter la voix de l'entreprise auprès des autorités européennes et nationales, suivre l'évolution réglementaire du secteur.
+- **Répartition géographique : 0/1 Bouches-du-Rhône/PACA.**
+- **Limites :** échantillon d'une seule offre, insuffisant pour un tableau de fréquences A/B, mais sa seule existence est en soi une information utile : une fonction affaires publiques dédiée peut exister dans une scale-up française dès lors que son activité est directement soumise à régulation (ici : infrastructures de recharge électrique, sujet réglementaire européen). **Pas de tableau A/B compte tenu du n = 1.**
 
 ### B. Secteur privé — Grande entreprise (> 50 salariés)
 
-> **Échantillon très restreint (n = 3) — signalé explicitement.**
+> **Échantillon élargi n = 12 (contre 3 initialement).**
+
+**A. Compétences les plus demandées**
+
+| Compétence (CV) | Fréquence |
+|---|---|
+| Stratégie affaires publiques | 11/12 (92 %) |
+| Relations avec administrations/autorités | 10/12 (83 %) |
+| Veille législative et réglementaire | 9/12 (75 %) |
+| Rédaction d'argumentaires | 7/12 (58 %) |
+| Management d'équipe | 6/12 (50 %) |
+| Anglais courant | 7/12 (58 %) |
+| Conformité / HATVP | 4/12 (33 %) |
+| Coordination transverse (juridique, réglementaire, market access) | 6/12 (50 %) |
+
+**B. Missions les plus demandées**
+
+| Mission | Fréquence |
+|---|---|
+| Définition et pilotage de la stratégie d'affaires publiques | 11/12 |
+| Entretien des relations avec administrations, autorités et parlementaires | 10/12 |
+| Veille des évolutions législatives et réglementaires sectorielles | 9/12 |
+| Rédaction d'éléments de langage, notes de position et argumentaires | 7/12 |
+| Préparation des rendez-vous institutionnels | 6/12 |
+| Coordination avec les fonctions juridique, réglementaire et market access | 6/12 |
+| Management d'une équipe affaires publiques | 5/12 |
+| Participation aux amendements législatifs/réglementaires | 4/12 |
+| Production de notes de synthèse et analyses d'impact | 4/12 |
+| Pilotage des relations presse et publiques | 3/12 |
+| Conformité et transparence (déclarations HATVP) | 3/12 |
+| Pilotage de la représentation auprès des pouvoirs publics territoriaux | 3/12 |
+| Coordination avec le comité exécutif/direction générale | 3/12 |
+| Organisation de rencontres institutionnelles | 2/12 |
+
+**C. Transparence**
+
+- **12 offres/postes identifiés et analysés** : 1 lue intégralement (Biogaran, Colombes 92 — « Responsable Affaires Publiques », laboratoire pharmaceutique), 11 identifiées par métadonnées ou extraits détaillés (Google-« Public Affairs Manager, Regional Data Centers », Paris ; Nespresso-« Responsable Affaires Publiques et territoriales », Issy-les-Moulineaux ; TEKEVER France-« Responsable des Affaires Publiques », secteur défense ; Unibail-Rodamco-Westfield-« Head of Parliamentary & Regulatory Affairs », Paris ; Diptyque Paris-« Responsable des Relations Presse et Publiques » ; Ipsen ×2-« Responsable Affaires Publiques », santé ; Cdiscount-manager affaires publiques ; Groupe Avem ×2-« Responsable de Service Relations Externes » ; Centre Oscar Lambret-« Directeur Communication et Relations Donateurs », centre de lutte contre le cancer).
+- **Répartition géographique : 0/12 (0 %) Bouches-du-Rhône/PACA ; 12/12 (100 %) reste de la France (Île-de-France très majoritaire).**
+- **Limites :** l'échantillon a quadruplé grâce à l'ajout du niveau « directeur » et des intitulés anglophones (« Public Affairs Manager », « Head of... »), très utilisés par les grands groupes internationaux implantés en France (Google, Unibail-Rodamco-Westfield). Zéro occurrence PACA malgré l'élargissement : constat robuste et confirmé deux fois (recherche initiale et recherche élargie), pas un artefact de méthode — cette fonction de direction reste, dans les faits, un métier de siège social parisien.
+
+### C. Secteur public / institutionnel
+
+> **Échantillon toujours restreint (n = 2) malgré l'ajout du niveau directeur — meilleure nouvelle : 1 occurrence est en PACA.**
 
 **A. Compétences identifiées**
 
 | Compétence (CV) | Fréquence |
 |---|---|
-| Relations institutionnelles | 3/3 |
-| Veille réglementaire sectorielle | 3/3 |
-| Pilotage de dossiers complexes | 2/3 |
-| Anglais professionnel | 2/3 |
-| Coordination comité de direction | 2/3 |
+| Pilotage de politiques publiques | 2/2 |
+| Management transversal | 2/2 |
+| Relations institutionnelles (France/UE) | 2/2 |
+| Négociation et représentation institutionnelle | 2/2 |
 
 **B. Missions identifiées**
 
 | Mission | Fréquence |
 |---|---|
-| Pilotage de la stratégie d'affaires publiques sur un secteur régulé | 3/3 |
-| Organisation des rencontres avec les décideurs publics | 2/3 |
-| Coordination avec le comité de direction/exécutif | 2/3 |
-| Pilotage de la stratégie publique France | 2/3 |
-| Veille réglementaire et anticipation des évolutions législatives | 2/3 |
+| Pilotage et mise en œuvre de politiques publiques sectorielles | 2/2 |
+| Coordination transversale avec les autres directions | 2/2 |
+| Représentation institutionnelle et animation de réseaux | 2/2 |
+| Conduite de projets partenariaux européens/de jumelage | 1/2 |
+| Direction d'une unité communication et relations institutionnelles | 1/2 |
 
 **C. Transparence**
 
-- **3 postes identifiés** (descriptifs reconstitués à partir d'extraits détaillés de recherche) : Ipsen (deux postes « Responsable Affaires Publiques », l'un en environnement de santé fortement régulé, l'autre pilotant la stratégie publique France, Paris/Île-de-France) ; Cdiscount (manager, organisation des rencontres institutionnelles pour la direction des affaires publiques et le comité exécutif, Paris).
-- **Répartition géographique : 0/3 (0 %) Bouches-du-Rhône/PACA ; 3/3 (100 %) reste de la France (Île-de-France).**
-- **Limites :** échantillon très restreint ; secteur pharmaceutique et e-commerce seuls représentés dans les résultats directement exploitables. Aucune fiche complète stable n'a pu être fixée par URL directe au moment de la recherche — données issues de synthèses de recherche détaillées plutôt que de fiches intégrales.
-
-### C. Secteur public / institutionnel
-
-> **Échantillon quasi nul (n = 1).**
-
-**C. Transparence**
-
-- **1 poste identifié** : Commission de Régulation de l'Énergie (CRE, autorité administrative indépendante), poste de direction d'une unité communication et relations institutionnelles de 5 personnes — niveau hiérarchique supérieur à « responsable » mais retenu comme la seule occurrence publique clairement apparentée à la fonction.
-- **Répartition géographique : 0/1 Bouches-du-Rhône/PACA.**
-- **Limites — constat net :** même logique que la combinaison 7-C : la fonction n'a pas d'équivalent symétrique naturel au sein du secteur public. **Aucune section A/B n'est présentée.**
+- **2 postes identifiés et analysés** : 1 lu intégralement (Commune de La Ciotat, 13, PACA — « Directeur des Sports, Jeunesse, Affaires Européennes et Jumelage », poste de direction transversale incluant un volet affaires européennes/jumelage), 1 identifié par métadonnées (CRE-Commission de Régulation de l'Énergie, direction d'une unité communication et relations institutionnelles, Paris).
+- **Répartition géographique : 1/2 (50 %) Bouches-du-Rhône/PACA** (Commune de La Ciotat) ; **1/2 (50 %) reste de la France.**
+- **Limites :** l'ajout du niveau directeur a permis de doubler l'échantillon (1 → 2) et d'obtenir une première occurrence PACA, mais le poste de La Ciotat est un poste de direction généraliste (sports + jeunesse + affaires européennes + jumelage), dont le volet « affaires publiques/influence » n'est qu'une composante parmi d'autres — à utiliser avec cette réserve explicite pour la rédaction d'un CV ciblé spécifiquement sur les affaires publiques.
 
 ## 9. Community manager
 
@@ -1120,18 +1180,18 @@ Pour la grande majorité des combinaisons, le volume réel d'offres identifiable
 | 4 | Responsable communication | 3, 0 % (pas de fréquence) | 9, 33 % | 5, 40 % |
 | 5 | Directeur communication | 2, 0 % (pas de fréquence) | 5, 0 % | 14, 29 % |
 | 6 | Responsable communication et marketing | 5, 20 % | 6, 17 % | 5, 40 % (intitulés voisins) |
-| 7 | Chargé d'affaires publiques et influence | 0 (pas de fréquence) | 5, 0 % | 1 (pas de fréquence) |
-| 8 | Responsable affaires publiques et influence | 0 (pas de fréquence) | 3, 0 % | 1 (pas de fréquence) |
+| 7 | Chargé d'affaires publiques et influence *(révisé, intitulés élargis)* | 0 (pas de fréquence) | 9, 0 % | 7, 0 % |
+| 8 | Responsable affaires publiques et influence *(révisé, intitulés élargis + directeur)* | 1 (pas de fréquence) | 12, 0 % | 2, 50 % |
 | 9 | Community manager | 2, 0 % (pas de fréquence) | 10, 10 % | 10, 10 % |
 | 10 | Attaché de presse | 2, 0 % (pas de fréquence) | 3, 33 % | 10, 50 % |
 | 11 | Brand content manager / Brand manager | 4, 50 % | 10, 0 % | 1 (pas de fréquence) |
-| | **Total** | **56 offres, 16 % PACA** | **89 offres, 10 % PACA** | **76 offres, 34 % PACA** |
+| | **Total** | **57 offres, 12 % PACA** | **102 offres, 7 % PACA** | **83 offres, 30 % PACA** |
 
-**Total général : 221 offres identifiées et analysées sur les 33 combinaisons, dont 38 (17 %) en Bouches-du-Rhône/PACA**, pour une cible théorique initiale de 1 650 (33 × 50). Cet écart est le résultat principal, et attendu, de la méthodologie demandée : rechercher et vérifier des offres réelles plutôt que d'en extrapoler le volume. Il reflète à la fois des limites d'outillage (voir « Contraintes techniques » en introduction) et des limites de marché réelles et cohérentes entre elles :
+**Total général : 242 offres identifiées et analysées sur les 33 combinaisons, dont 39 (16 %) en Bouches-du-Rhône/PACA**, pour une cible théorique initiale de 1 650 (33 × 50). (Combinaisons 7 et 8 révisées le 8 octobre 2026 après-midi avec un filet de mots-clés élargi aux intitulés voisins, à la demande du donneur d'ordre — voir note en tête de chacune de ces deux sections ; les totaux ci-dessus intègrent déjà cette révision.) Cet écart est le résultat principal, et attendu, de la méthodologie demandée : rechercher et vérifier des offres réelles plutôt que d'en extrapoler le volume. Il reflète à la fois des limites d'outillage (voir « Contraintes techniques » en introduction) et des limites de marché réelles et cohérentes entre elles :
 
 - **Effet de seuil hiérarchique :** les intitulés « responsable », « directeur » et les fonctions dédiées (community manager, brand manager) sont structurellement rares dans les structures de moins de 50 salariés, qui confient plutôt ces missions à un « chargé » généraliste (combinaison 1).
 - **Effet de spécialisation géographique :** le secteur public francilien et le secteur privé parisien dominent très largement les intitulés de direction/expertise (affaires publiques, direction communication, brand management), tandis que le secteur public local (communes, métropoles, départements de PACA) documente mieux les fonctions opérationnelles (chargé de communication, attaché de presse) grâce à choisirleservicepublic.gouv.fr.
-- **Effet de nomenclature :** « affaires publiques et influence » recoupe mal le vocabulaire effectivement utilisé par les recruteurs (« relations institutionnelles », « lobbying », « government affairs ») et se heurte en plus à l'homonymie avec les métiers techniques du BTP (« chargé d'affaires » travaux publics/éclairage public), ce qui réduit mécaniquement le volume exploitable par mots-clés.
+- **Effet de nomenclature, confirmé par une recherche élargie dédiée :** « affaires publiques et influence » recoupe mal le vocabulaire effectivement utilisé par les recruteurs, et ce n'est pas qu'un problème du mot-clé initial. Une recherche élargie menée spécifiquement sur les combinaisons 7 et 8 (intitulés voisins : relations publiques, relations institutionnelles, relations gouvernementales, affaires européennes, plaidoyer, + l'ajout du niveau directeur pour la combinaison 8) a confirmé que chaque reformulation se heurte à sa propre pollution d'homonymes : « affaires d'affaires » et « chargé d'affaires » avec le BTP/l'éclairage public, « relations publiques »/« relations institutionnelles » avec la relation client, locataire, usager ou sociale (dialogue syndical). Les deux angles qui ont le mieux fonctionné sont « affaires européennes » (gestion de projets et financements UE) et les intitulés directement en anglais (« Public Affairs Manager », « Head of Public Affairs ») utilisés par les grands groupes internationaux implantés en France. Cette révision a permis de multiplier l'échantillon par 2 à 4 selon les sections (voir le détail dans les sections 7 et 8 elles-mêmes), sans toutefois faire apparaître d'offre en Bouches-du-Rhône/PACA pour le secteur privé : ce zéro est désormais un constat robuste (confirmé deux fois), pas un artefact de méthode.
 
 ## Sources institutionnelles de recoupement effectivement consultées
 
@@ -1145,7 +1205,7 @@ Pour la grande majorité des combinaisons, le volume réel d'offres identifiable
 
 - Les tableaux A (compétences) et B (missions) de chaque combinaison sont conçus pour être extraits directement : une ligne = un mot-clé ou un bullet point de CV prêt à l'emploi, avec sa fréquence d'apparition pour prioriser.
 - Pour les combinaisons à échantillon restreint (signalées explicitement), les compétences/missions listées restent des pistes réelles et sourcées, mais à pondérer avec plus de prudence qu'un échantillon de 20 offres ou plus.
-- Pour 7 sections (5-A, 7-A, 7-C, 8-A, 8-C, 9-A, 10-A), le volume était trop faible (0 à 2 offres) pour produire un tableau de fréquences A/B : s'y référer directement à la section C de la combinaison concernée pour le détail qualitatif disponible. Les combinaisons 4-A, 6-C et 11-C ont un échantillon tout aussi restreint mais présentent néanmoins un tableau A/B, à utiliser avec la même prudence que celle indiquée dans leurs limites respectives.
+- Pour 5 sections (5-A, 7-A, 8-A, 9-A, 10-A), le volume était trop faible (0 à 2 offres) pour produire un tableau de fréquences A/B : s'y référer directement à la section C de la combinaison concernée pour le détail qualitatif disponible. Les combinaisons 4-A, 6-C, 7-C, 8-C et 11-C ont un échantillon tout aussi restreint (1 à 7 offres) mais présentent néanmoins un tableau A/B, à utiliser avec la même prudence que celle indiquée dans leurs limites respectives.
 
 ---
 
