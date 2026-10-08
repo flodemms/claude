@@ -514,7 +514,7 @@ Pour la grande majorité des combinaisons, le volume réel d'offres identifiable
 
 - **2 offres identifiées seulement**, aucune en Bouches-du-Rhône/PACA : Premi Homme (Côte-d'Or, « Directeur Communication et Marketing », taille non confirmée), Firdaous Charity France (Bobigny, association/structure caritative).
 - **Répartition géographique : 0/2 (0 %) Bouches-du-Rhône/PACA ; 2/2 (100 %) reste de la France.**
-- **Limites — constat net :** un poste de « directeur de la communication » dans une structure privée de moins de 50 salariés est, de fait, structurellement rare : à cette taille d'entreprise, la fonction communication est très majoritairement portée par un « chargé » (combinaison 1) ou, plus rarement, un « responsable » (combinaison 4), pas par un poste de direction dédié. **Aucune section A/B (compétences/missions) n'est présentée pour cette combinaison** : 2 offres ne permettent pas de dégager une fréquence significative, et en fabriquer une irait à l'encontre de la consigne de rigueur scientifique. C'est, avec « Brand content manager / secteur public » (combinaison 12-C), le cas de figure à faible volume annoncé par le donneur d'ordre.
+- **Limites — constat net :** un poste de « directeur de la communication » dans une structure privée de moins de 50 salariés est, de fait, structurellement rare : à cette taille d'entreprise, la fonction communication est très majoritairement portée par un « chargé » (combinaison 1) ou, plus rarement, un « responsable » (combinaison 4), pas par un poste de direction dédié. **Aucune section A/B (compétences/missions) n'est présentée pour cette combinaison** : 2 offres ne permettent pas de dégager une fréquence significative, et en fabriquer une irait à l'encontre de la consigne de rigueur scientifique. C'est, avec « Brand content manager / secteur public » (combinaison 11-C), le cas de figure à faible volume annoncé par le donneur d'ordre.
 
 ### B. Secteur privé — Grande entreprise (> 50 salariés)
 
@@ -710,7 +710,7 @@ Pour la grande majorité des combinaisons, le volume réel d'offres identifiable
 
 ## 7. Chargé d'affaires publiques et influence
 
-> **Avertissement méthodologique majeur :** le mot-clé « chargé d'affaires » est très majoritairement utilisé en France pour des métiers techniques du BTP/travaux publics (éclairage public, VRD, électricité) — plus de 90 % des résultats des moteurs de recherche et de HelloWork sur ce terme concernent ces métiers, sans rapport avec les affaires publiques/le lobbying. Pour écarter ce bruit, les recherches ont été reformulées autour de « affaires publiques », « relations institutionnelles » et « influence » combinés, en excluant explicitly les résultats BTP. Cette précaution a fortement réduit le volume exploitable mais était nécessaire à la validité des résultats.
+> **Avertissement méthodologique majeur :** le mot-clé « chargé d'affaires » est très majoritairement utilisé en France pour des métiers techniques du BTP/travaux publics (éclairage public, VRD, électricité) — plus de 90 % des résultats des moteurs de recherche et de HelloWork sur ce terme concernent ces métiers, sans rapport avec les affaires publiques/le lobbying. Pour écarter ce bruit, les recherches ont été reformulées autour de « affaires publiques », « relations institutionnelles » et « influence » combinés, en excluant explicitement les résultats BTP. Cette précaution a fortement réduit le volume exploitable mais était nécessaire à la validité des résultats.
 
 ### A. Secteur privé — TPE / PME / Startup (< 50 salariés)
 
@@ -720,7 +720,7 @@ Pour la grande majorité des combinaisons, le volume réel d'offres identifiable
 
 - **0 offre CDI confirmée identifiée.** Une seule piste partielle a été trouvée : un stage (non un poste permanent) chez Plead, agence de conseil en communication stratégique et affaires publiques, taille non confirmée.
 - **Répartition géographique : sans objet (échantillon nul).**
-- **Limites — constat net, à ne pas masquer :** la fonction « affaires publiques et influence » suppose structurellement un enjeu de taille (réglementaire, législatif, concurrentiel) qui ne se présente quasiment jamais pour une structure de moins de 50 salariés en France. **Aucune section A/B n'est présentée** pour cette combinaison, conformément à la consigne de rigueur scientifique : 0 à 1 offre ne permet de dégager aucune fréquence. C'est, avec « Directeur communication/TPE-PME » (combinaison 5-A) et « Brand content manager/secteur public » (combinaison 12-C, à venir), l'un des croisements à volume quasi nul annoncés par le donneur d'ordre.
+- **Limites — constat net, à ne pas masquer :** la fonction « affaires publiques et influence » suppose structurellement un enjeu de taille (réglementaire, législatif, concurrentiel) qui ne se présente quasiment jamais pour une structure de moins de 50 salariés en France. **Aucune section A/B n'est présentée** pour cette combinaison, conformément à la consigne de rigueur scientifique : 0 à 1 offre ne permet de dégager aucune fréquence. C'est, avec « Directeur communication/TPE-PME » (combinaison 5-A) et « Brand content manager/secteur public » (combinaison 11-C), l'un des croisements à volume quasi nul annoncés par le donneur d'ordre.
 
 ### B. Secteur privé — Grande entreprise (> 50 salariés)
 
@@ -1106,6 +1106,47 @@ Pour la grande majorité des combinaisons, le volume réel d'offres identifiable
 
 ---
 
-# Fin de l'étude par intitulé — synthèse à suivre
+# Synthèse globale et transparence d'ensemble
 
-<!-- PROCHAINE ÉTAPE : compilation finale, relecture de cohérence, puis envoi -->
+## Tableau récapitulatif des 33 combinaisons
+
+« n » = nombre d'offres identifiées et analysées (toutes profondeurs de lecture confondues) ; « PACA » = proportion Bouches-du-Rhône/PACA dans cet échantillon. Un tiret signifie qu'aucune section A/B (compétences/missions) n'a été produite, l'échantillon étant trop restreint pour en tirer une fréquence fiable (valeur préservée plutôt que fabriquée).
+
+| # | Intitulé | A. TPE/PME (n, PACA) | B. Grande entreprise (n, PACA) | C. Secteur public (n, PACA) |
+|---|---|---|---|---|
+| 1 | Chargé de communication | 18, 6 % | 20, 0 % | 13, 62 % |
+| 2 | Chargé de communication et marketing | 11, 18 % | 9, 11 % | 11, 18 % |
+| 3 | Chargé de marketing | 9, 11 % | 9, 0 % | 5, 0 % |
+| 4 | Responsable communication | 3, 0 % (pas de fréquence) | 9, 33 % | 5, 40 % |
+| 5 | Directeur communication | 2, 0 % (pas de fréquence) | 5, 0 % | 14, 29 % |
+| 6 | Responsable communication et marketing | 5, 20 % | 6, 17 % | 5, 40 % (intitulés voisins) |
+| 7 | Chargé d'affaires publiques et influence | 0 (pas de fréquence) | 5, 0 % | 1 (pas de fréquence) |
+| 8 | Responsable affaires publiques et influence | 0 (pas de fréquence) | 3, 0 % | 1 (pas de fréquence) |
+| 9 | Community manager | 2, 0 % (pas de fréquence) | 10, 10 % | 10, 10 % |
+| 10 | Attaché de presse | 2, 0 % (pas de fréquence) | 3, 33 % | 10, 50 % |
+| 11 | Brand content manager / Brand manager | 4, 50 % | 10, 0 % | 1 (pas de fréquence) |
+| | **Total** | **56 offres, 16 % PACA** | **89 offres, 10 % PACA** | **76 offres, 34 % PACA** |
+
+**Total général : 221 offres identifiées et analysées sur les 33 combinaisons, dont 38 (17 %) en Bouches-du-Rhône/PACA**, pour une cible théorique initiale de 1 650 (33 × 50). Cet écart est le résultat principal, et attendu, de la méthodologie demandée : rechercher et vérifier des offres réelles plutôt que d'en extrapoler le volume. Il reflète à la fois des limites d'outillage (voir « Contraintes techniques » en introduction) et des limites de marché réelles et cohérentes entre elles :
+
+- **Effet de seuil hiérarchique :** les intitulés « responsable », « directeur » et les fonctions dédiées (community manager, brand manager) sont structurellement rares dans les structures de moins de 50 salariés, qui confient plutôt ces missions à un « chargé » généraliste (combinaison 1).
+- **Effet de spécialisation géographique :** le secteur public francilien et le secteur privé parisien dominent très largement les intitulés de direction/expertise (affaires publiques, direction communication, brand management), tandis que le secteur public local (communes, métropoles, départements de PACA) documente mieux les fonctions opérationnelles (chargé de communication, attaché de presse) grâce à choisirleservicepublic.gouv.fr.
+- **Effet de nomenclature :** « affaires publiques et influence » recoupe mal le vocabulaire effectivement utilisé par les recruteurs (« relations institutionnelles », « lobbying », « government affairs ») et se heurte en plus à l'homonymie avec les métiers techniques du BTP (« chargé d'affaires » travaux publics/éclairage public), ce qui réduit mécaniquement le volume exploitable par mots-clés.
+
+## Sources institutionnelles de recoupement effectivement consultées
+
+- **France Travail — ROME E1103 « Communication »** : activités et compétences de référence (production de supports écrits/visuels/audiovisuels, relations presse, choix des médias, contrôle qualité de l'information diffusée) recoupées avec les combinaisons 1, 2, 4, 5 et 6.
+- **France Compétences / RNCP** : fiches de certification professionnelle « Chargé de la communication » (RNCP 13889) et licence professionnelle communication (activités : stratégie, production de contenus, événementiel, mécénat, évaluation des résultats), utilisées en corroboration des missions identifiées dans les offres réelles.
+- **choisirleservicepublic.gouv.fr** utilisé à la fois comme source directe d'offres et comme référentiel de structure des postes de la fonction publique territoriale/d'État (grades, catégories A/B/C, régime contractuel).
+- **APEC** : accès direct au moteur de recherche d'offres non obtenu (blocage technique, voir Contraintes), mais les fiches métiers et podcasts institutionnels de l'APEC ont été utilisés en complément qualitatif pour la combinaison 7 (positionnement du métier de communicant).
+- Ces sources ont servi à **valider la cohérence** des tendances observées dans l'échantillon direct, conformément à la consigne — elles n'ont jamais remplacé la lecture d'offres réelles.
+
+## Note d'usage pour la rédaction des CV
+
+- Les tableaux A (compétences) et B (missions) de chaque combinaison sont conçus pour être extraits directement : une ligne = un mot-clé ou un bullet point de CV prêt à l'emploi, avec sa fréquence d'apparition pour prioriser.
+- Pour les combinaisons à échantillon restreint (signalées explicitement), les compétences/missions listées restent des pistes réelles et sourcées, mais à pondérer avec plus de prudence qu'un échantillon de 20 offres ou plus.
+- Pour 7 sections (5-A, 7-A, 7-C, 8-A, 8-C, 9-A, 10-A), le volume était trop faible (0 à 2 offres) pour produire un tableau de fréquences A/B : s'y référer directement à la section C de la combinaison concernée pour le détail qualitatif disponible. Les combinaisons 4-A, 6-C et 11-C ont un échantillon tout aussi restreint mais présentent néanmoins un tableau A/B, à utiliser avec la même prudence que celle indiquée dans leurs limites respectives.
+
+---
+
+*Document produit par recherche manuelle d'offres réelles (HelloWork, France Travail, choisirleservicepublic.gouv.fr, moteurs de recherche généralistes) et recoupement institutionnel (ROME, RNCP/France Compétences), entre le 8 octobre 2026 et la date de ce commit. Toute mise à jour ultérieure du marché de l'emploi n'est pas reflétée ici.*
