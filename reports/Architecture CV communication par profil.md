@@ -282,3 +282,122 @@ B2 est le seul profil où la règle « une page, une colonne, sans photo, vocabu
 
 **Rubrique recommandée et courte**, avec deux à trois éléments concrets. **L'humour est possible mais déconseillé comme choix par défaut.** Mieux vaut une originalité de fond, c'est-à-dire un intérêt précis et distinctif, qu'une plaisanterie. Il faut éviter les clichés (« lecture, sport et cinéma ») ([Welcome to the Jungle, 2020](https://www.welcometothejungle.com/fr/articles/loisirs-recruteurs-entretien)) et préciser la durée, la fréquence ou la réalisation, à la manière de « football depuis 5 ans au Club de… » ([France Travail](https://www.francetravail.fr/candidat/vos-recherches/preparer-votre-candidature/cv-lettre-de-motivation-e-mail/cv--des-exemples-pour-present-1.html)). Cette rubrique se lit peu au tri. Dans l'oculométrie de CVprofessionnel, environ un recruteur sur cinq saute le dernier tiers du CV, où elle se trouve en général. Elle sert surtout en entretien. Aucune source ne la déconseille à ce niveau. Une recruteuse de Volvo Group France note seulement que sa valeur « dépend de la séniorité des candidats et de la sensibilité des recruteurs » ([HelloWork, 2026](https://www.hellowork.com/fr-fr/medias/cv-centres-interet.html)).
 
+### C1 — Diriger la communication d'un employeur public : la recevabilité et le statut remplacent l'ATS
+
+#### 1. Compatibilité ATS et outils publics probables
+
+Dans le public, l'enjeu n'est pas le parseur mais trois autres choses : la recevabilité du dossier, les champs structurés et la lecture humaine. **Choisir le service public** (CSP) est obligatoire pour publier toute création ou vacance d'emploi permanent, ainsi que les emplois non permanents d'un an ou plus. D'après le guide, la communication n'entre pas dans les dérogations prévues, point à confirmer sur le texte du décret ([CSP, guide du gestionnaire RH, 2024](https://choisirleservicepublic.gouv.fr/wp-content/uploads/2026/03/CSP-Guide-candidatures.pdf)). Son back-office est un produit Talentsoft. Les CV s'y lisent dans une visionneuse, et le circuit recommandé va de la « première analyse » RH à l'avis du manager, puis à l'entretien. Une contrainte technique compte pour le candidat : tout gestionnaire RH d'un employeur auprès duquel il a postulé voit toutes ses pièces jointes. Il vaut donc mieux garder un « CV par défaut » irréprochable dans son espace [D]. Selon l'offre, la candidature se dépose dans l'outil (connexion par courriel ou FranceConnect, nom, prénom, code postal, CV et lettre), par courriel ou sur le site de l'employeur ([CSP, guide candidats, 2024](https://choisirleservicepublic.gouv.fr/wp-content/uploads/2024/10/Guide-candidats.pdf)). **Emploi-Territorial**, la bourse des centres de gestion, fonctionne ainsi : la candidature en ligne est activée offre par offre, et la lettre peut y être « non demandée », facultative ou obligatoire. Les profils de sa CVthèque sont validés par le centre de gestion pour trois mois renouvelables, puis filtrés par département, grade et métier ([guide Emploi-Territorial, 2025](https://www.emploi-territorial.fr/col/data/guide_col.pdf)). Dans les Bouches-du-Rhône, le site de recrutement de la Métropole Aix-Marseille-Provence est « propulsé par Eqwa ». Il classe les offres par type de recrutement (« Fonctionnaire et Contractuel », « Contractuel permanent », « Contractuel non permanent », « Contrat de projet ») et par catégorie, de A+ à C ([Métropole AMP](https://recrutement.ampmetropole.fr/), consulté le 8 octobre 2026). Le centre de gestion des Bouches-du-Rhône (CDG 13) publie sur CSP, et l'une de ses offres demandait le CV et la lettre par courriel ([CSP, offre CDG 13](https://choisirleservicepublic.gouv.fr/offre-emploi/conseiller-en-prevention-des-risques-professionnels---centre-de-gestion-des-bouches-du-rhne-reference-O013260618002073/) [NR]). D'autres logiciels sont cités ailleurs en France : Berger-Levrault, CIRIL, Gestmax, Astre RH, Civil Net RH ([rdvemploipublic.fr](https://rdvemploipublic.fr/charge-recrutement-rh-publique-attractivite-des-metiers-territoriaux/) [NR]). On ignore s'ils analysent les CV. **Aucune source ne signale Taleo ni Workday dans le public français.** La procédure applicable aux contractuels sur emploi permanent est fixée par le décret 2019-1414, connu ici par un commentaire juridique ; le texte officiel n'a pas été relu. Elle impose :
+
+- un avis public qui fixe la liste des pièces requises ;
+- un délai de dépôt d'au moins un mois, sauf urgence ;
+- une appréciation fondée sur « les compétences, les aptitudes, les qualifications et l'expérience professionnelles » ;
+- un entretien mené par au moins deux personnes dans les collectivités de plus de 40 000 habitants ([Landot & associés, 2020](https://blog.landot-avocats.net/2020/01/06/transformation-de-la-fonction-publique-precisions-sur-la-procedure-de-recrutement-des-contractuels-territoriaux-dans-les-emplois-permanents/)).
+
+Ce seuil de 40 000 habitants couvre notamment Marseille, Aix-en-Provence, la Métropole, le Département et la Région [D]. Une incertitude propre au niveau 1 demeure : un directeur de la communication est « parfois collaborateur de cabinet » ([Emploipublic, 2019](https://infos.emploipublic.fr/article/directions-de-la-communication-changement-de-cap-pour-les-recrutements-eea-9352)), et **on ne sait pas si ce recrutement échappe à la procédure**.
+
+#### 2. Architecture visuelle
+
+La sobriété est demandée explicitement. Le CDG de l'Ariège prescrit d'éviter « un surplus de couleurs » et de rester « sobre ». Le CDG de la Gironde recommande Arial ou Calibri, demande de vérifier le rendu des couleurs après impression et proscrit le titre « Curriculum Vitae » ([CDG 09, 2024](https://cdg09.fr/wp-content/uploads/2024/01/25_autre_rediger_un_cv.pdf) ; [CDG 33, 2024](https://www.cdg33.fr/wp-content/uploads/ressources/2024_GUIDE_RECHERCHE_EMPLOI_CEP.pdf)). Emploipublic recommande une mise en page aérée, avec un interligne de 1,5 ([Emploipublic, 2021](https://infos.emploipublic.fr/article/emploi-dans-la-fonction-publique-comment-batir-mon-cv-eea-6572)). **Longueur** : deux pages au maximum. C'est le plafond d'Emploipublic, et aucun guide public ne traite le CV de direction. **Photo** : les sources divergent. Le CDG 33 la juge « conseillée mais non obligatoire ». Emploipublic rappelle qu'elle « n'est pas obligatoire » et peut être source de discrimination ([Emploipublic, 2022](https://infos.emploipublic.fr/article/modele-de-cv-pour-la-fonction-publique-eea-11163)). Elle reste donc facultative ; si elle figure, elle est petite et professionnelle. Proposition [D] :
+
+- une seule colonne ;
+- une couleur d'accent assez foncée pour rester lisible imprimée en niveaux de gris ;
+- aucun graphisme ;
+- le lien vers les réalisations en ligne, que CSP reconnaît comme un atout pour la communication.
+
+#### 3. Architecture textuelle
+
+**Titre et statut.** On met en titre le poste visé, avec le grade dessous s'il y a lieu (exemple d'Emploipublic : « Attaché territorial 3e échelon »). Le CDG 33 demande aussi d'indiquer le grade actuel ou le concours dont on est lauréat. Pour un candidat venu du privé, la ligne de statut lève l'ambiguïté (« candidat·e à un recrutement contractuel ») [D]. La voie contractuelle est normale dans ces métiers : on comptait **45 % de non-titulaires** parmi les communicants territoriaux, contre 25 % dans l'ensemble de la fonction publique territoriale ([Banque des Territoires, 2018, d'après le CNFPT](https://www.banquedesterritoires.fr/qui-sont-les-quatorze-mille-personnes-travaillant-dans-la-communication-publique-territoriale)).
+
+**Ordre proposé** :
+
+1. titre et ligne de statut ;
+2. accroche de trois à cinq lignes (CDG 33) ;
+3. ligne de périmètre : type et taille de la collectivité en habitants et en agents, effectif de l'équipe, budget, rattachement au DGS ou au directeur de cabinet. Indiquer les collectivités « avec leur taille » est demandé par le CDG 33 ; le type de collectivité et le nombre d'agents, par Emploipublic ;
+4. expériences dans l'ordre antéchronologique, en plaçant d'abord les missions qui correspondent à l'offre (CDG 33) ;
+5. domaines d'expertise ;
+6. formations, concours et diplômes ;
+7. langues ;
+8. informations complémentaires.
+
+**Ce que le texte doit faire apparaître.** Cap'Com décrit le directeur comme un « chef d'orchestre » ([Emploipublic, 2023](https://infos.emploipublic.fr/article/yves-charmont-les-communicants-donnent-du-sens-a-l-action-publique-eea-11553)). Il cite quatre missions en croissance : la communication interne, le marketing territorial, le numérique et la concertation citoyenne. Pour le numérique, il attend « une stratégie numérique et pas uniquement une maîtrise des outils » ([Emploipublic, 2019](https://infos.emploipublic.fr/article/directions-de-la-communication-changement-de-cap-pour-les-recrutements-eea-9352)). La fiche du CNFPT, ancienne, ajoute que l'exercice public « réclame d'en maîtriser les aspects particuliers, notamment sur les plans juridiques et financiers » ([CNFPT](https://www.cnfpt.fr/sites/default/files/charge_de_communication.pdf), données de 2007). Un candidat venu du privé doit donc rendre visibles le cadre budgétaire et juridique et son travail avec un exécutif élu [D]. **Aucune source ne fait de la communication de crise ni du pilotage de marchés publics un critère de sélection** ; les mentionner relève de la déduction.
+
+**Chiffres.** Ils sont attendus : « Des faits, rien que des faits ! », avec le nombre de personnes managées et des indicateurs de performance ([Emploipublic, Cattiaux, 2022-2024](https://infos.emploipublic.fr/article/trouver-un-emploi-les-expressions-a-bannir-de-votre-candidature-eea-6593)).
+
+**Registre.** Neutre, factuel, en phrases nominales et sans « je ». Il reprend le vocabulaire de la fiche de poste et du répertoire des métiers du CNFPT. Les sigles sont traduits, car le DRH et les membres du jury « n'ont pas le même bagage technique ». Les formules creuses sont bannies, à commencer par « Passionné par le service public » (Cattiaux). On n'indique pas de rémunération souhaitée, et aucune appartenance religieuse, syndicale ou politique ([Emploipublic, 2021](https://infos.emploipublic.fr/article/emploi-dans-la-fonction-publique-comment-batir-mon-cv-eea-6572)).
+
+**RH et lecteur expert.** Le gestionnaire RH vérifie la recevabilité, les pièces et l'adéquation à la fiche de poste. Le DGS ou le directeur de cabinet donne un avis. Un jury de deux personnes au moins, parfois avec un élu ([CDG 33, 2024](https://www.cdg33.fr/wp-content/uploads/ressources/2024_GUIDE_RECHERCHE_EMPLOI_CEP.pdf)), prépare la décision de l'autorité territoriale. Ce lecteur expert est surtout politique et administratif : il juge la fiabilité et la discrétion autant que le savoir-faire [D]. Une expérience de campagne ou d'engagement partisan se traduit donc en compétences, sans nom de parti [D].
+
+**Lettre.** La lettre du dossier tient sur une page en PDF, signée et adressée à « Monsieur le Maire » ou « Madame la Présidente ». Son objet mentionne la référence de l'offre (CDG 33).
+
+#### 4. Sources
+
+| Source | Statut | Apport pour C1 |
+|---|---|---|
+| Choisir le service public, guides gestionnaire (déc. 2024) et candidats (oct. 2024) ([gestionnaire](https://choisirleservicepublic.gouv.fr/wp-content/uploads/2026/03/CSP-Guide-candidatures.pdf), [candidats](https://choisirleservicepublic.gouv.fr/wp-content/uploads/2024/10/Guide-candidats.pdf)) | Lus ; images des diapositives non examinées | Outil, circuit, lecture humaine, réalisation en ligne |
+| Guillaume Glénard, Landot & associés, 6 janv. 2020 ([lien](https://blog.landot-avocats.net/2020/01/06/transformation-de-la-fonction-publique-precisions-sur-la-procedure-de-recrutement-des-contractuels-territoriaux-dans-les-emplois-permanents/)) | Lu ; décret officiel non relu | Procédure, seuil de 40 000 habitants |
+| CDG 33, *Guide de la recherche d'emploi*, 2024 ; CDG 09, *Votre curriculum vitae*, 2024 | Lus | Titre, grade, une page, sobriété, impression, lettre |
+| Laure Martin, Emploipublic, 24 juill. 2019 ; Nathalie Perrier, Emploipublic, 20 févr. 2023 | Lus | Attentes de Cap'Com, statuts, « chef d'orchestre » |
+| CNFPT, fiche « Chargé de communication » (données 2007) ; étude 2017 via Banque des Territoires | Lues ; anciennes | Contractuels, spécificités juridiques et financières |
+| Métropole AMP, site de recrutement (Eqwa), consulté le 8 oct. 2026 | Lu ; formulaire non vu | Outil local, types de recrutement |
+
+**Rareté** : la fiche CNFPT « directeur de la communication » n'a pas été lue. Aucune source ne décrit le rôle effectif du DGS ou de l'élu dans le choix d'un directeur de la communication, et aucune déclaration de recruteur public des Bouches-du-Rhône n'a été trouvée.
+
+#### 5. Ce qui distingue C1 des cinq autres profils
+
+C1 est le seul profil dont le lecteur décisif est politique et administratif, et dont le dossier relève d'une procédure réglementée : pièces requises, entretien à plusieurs, décision de l'autorité territoriale. C'est aussi le seul qui doit afficher à la fois une ligne de statut et une ligne de périmètre public (habitants, agents, rattachement). Face à B1, la sobriété est la même mais pour d'autres raisons : l'impression et la neutralité, non le parseur. Face à C2, s'ajoutent la stratégie, l'arbitrage et la relation avec le cabinet [D].
+
+#### 6. Centres d'intérêt
+
+**Rubrique facultative**, avec un ou deux éléments sobres si elle est conservée. **L'humour est déconseillé** : aucune source publique ne l'autorise ni ne l'interdit. Cette recommandation est une déduction, qui s'appuie sur la sobriété demandée, sur la neutralité et sur les testings relatifs aux signaux d'appartenance. Emploipublic ne retient que les intérêts « qui révèlent certaines qualités et suscitent des questions à l'entretien ». Un engagement associatif se décrit par le rôle tenu et sa durée, sans connotation confessionnelle, partisane ou syndicale [D, d'après CDG 09 et Institut Montaigne]. Le devoir de réserve vise les agents en poste ([Loschak, HAL](https://hal.parisnanterre.fr/hal-01713675v1/document) [NR]). Pour un candidat, le risque est donc d'abord une question de perception.
+
+### C2 — Chargé·e de communication dans le public : une page sobre, un statut clair, des réalisations en ligne
+
+#### 1. Compatibilité ATS et outils publics probables
+
+Les outils sont ceux de C1 : CSP, Emploi-Territorial et les portails des employeurs, dont celui d'Eqwa pour la Métropole. Au niveau 2, la visibilité passe davantage par les **champs structurés**. CSP affirme que « renseigner précisément son profil candidat permet une meilleure visibilité de son profil par les employeurs » ([CSP, guide candidats, 2024](https://choisirleservicepublic.gouv.fr/wp-content/uploads/2024/10/Guide-candidats.pdf)). Emploi-Territorial filtre sa CVthèque par grade et par métier. Un candidat qui renseigne mal ces champs peut rester invisible, quelle que soit la qualité de son CV [D]. Les statuts usuels sont ceux de rédacteur (catégorie B) ou, de plus en plus, d'attaché (catégorie A) ([Emploipublic, 2019](https://infos.emploipublic.fr/article/directions-de-la-communication-changement-de-cap-pour-les-recrutements-eea-9352)). Selon la fiche du CNFPT, le chargé de communication est « plus fréquemment que pour d'autres métiers » recruté comme contractuel, en raison de la dimension politique du poste. Au tri, le seul point de vigilance documenté est la complétude du dossier et sa conformité à l'avis. Aucun tri par mots-clés n'est décrit [D d'après CSP et Landot].
+
+#### 2. Architecture visuelle
+
+Une page : le CDG 09 dit de se limiter à « une seule page recto », et le CDG 33 fait de la page unique un point de sa liste de contrôle. Le reste suit les consignes déjà vues en C1 : mise en page sobre et aérée, Arial ou Calibri, couleurs vérifiées à l'impression, une colonne, photo facultative. Le lien vers les réalisations en ligne figure en tête : c'est le seul conseil officiel qui vise nommément les métiers de la communication ([CSP, guide candidats, 2024](https://choisirleservicepublic.gouv.fr/wp-content/uploads/2024/10/Guide-candidats.pdf)). La compétence graphique se prouve dans le portfolio, pas dans le CV. Ce dernier doit simplement être impeccablement composé, ce qui constitue déjà une preuve de savoir-faire éditorial [D].
+
+#### 3. Architecture textuelle
+
+**Ordre proposé** :
+
+1. titre identique à l'intitulé de l'offre ;
+2. ligne de statut : grade, qualité de lauréat de concours, ou candidature à un recrutement contractuel ;
+3. coordonnées et lien vers les réalisations ;
+4. accroche de trois à cinq lignes ;
+5. expériences dans l'ordre antéchronologique, en commençant par les missions qui correspondent à l'offre et en supprimant les autres (CDG 33) ;
+6. compétences ;
+7. formations, concours et diplômes ;
+8. langues ;
+9. informations complémentaires sur trois ou quatre lignes au plus.
+
+Pour chaque employeur, le CDG 09 demande le nom, le secteur, la localisation, les responsabilités et les projets ; on ajoute la taille de la structure (CDG 33). Pour un poste d'attaché, le diplôme de niveau bac+3 à bac+5 sert de repère au gestionnaire : le CNFPT décrit un recrutement « le plus souvent au niveau master voire licence professionnelle » [D pour l'usage].
+
+**Ce que le texte doit faire apparaître.** Les productions, chiffrées quand c'est possible : magazine, site, réseaux sociaux, événements, relations presse (audiences, tirages, abonnés, participation) [D]. Les compétences que le secteur cite en tête : rédaction, réseaux sociaux, gestion de projet, PAO ([Sup'de Com/OpinionWay, 2024](https://www.blogdumoderateur.com/metiers-communication-competences-recherchees-2024/)). Les métiers d'édition et du numérique restent recherchés dans le public (Cap'Com, 2023). Les directions sont organisées par projets plutôt que par outils, et les agents sont « de moins en moins définis sur un métier précis » (Cap'Com, 2019). La polyvalence se montre donc par les projets menés.
+
+**Registre et lecteurs.** Le registre est celui de C1 : neutre, nominal, sigles traduits, sans formule creuse. Le lecteur RH vérifie l'adéquation à la fiche de poste et la complétude des pièces. Le lecteur expert, le directeur ou le responsable de la communication, juge la plume, la polyvalence et la compréhension de l'environnement des élus ; les annonces citées par Cap'Com demandent l'intérêt pour la vie des collectivités, la discrétion et la disponibilité ([Cap'Com, Bruz](https://www.cap-com.org/job/2109) [NR]).
+
+#### 4. Sources
+
+| Source | Statut | Apport pour C2 |
+|---|---|---|
+| CDG 09, *Votre curriculum vitae*, fichier de janv. 2024 ([lien](https://cdg09.fr/wp-content/uploads/2024/01/25_autre_rediger_un_cv.pdf)) | Lu | Une page recto, sobriété, contenu par employeur, rubrique de 3 ou 4 lignes |
+| CDG 33, *Guide de la recherche d'emploi*, 2024 ([lien](https://www.cdg33.fr/wp-content/uploads/ressources/2024_GUIDE_RECHERCHE_EMPLOI_CEP.pdf)) | Lu | Titre et grade, accroche, taille des collectivités, liste de contrôle |
+| Justine Kent, Emploipublic, 5 mai 2022 et 30 juin 2023 (mis à jour le 30 juill. 2024) | Lus | Titre, photo facultative, données chiffrées, un ou deux centres d'intérêt |
+| Choisir le service public, guide candidats, oct. 2024 | Lu | Profil structuré, réalisation en ligne pour la communication |
+| Guide Emploi-Territorial (gestionnaires), édition nov. 2025 ([lien](https://www.emploi-territorial.fr/col/data/guide_col.pdf)) | Lu ; contenu paraphrasé, la reproduction étant interdite | CVthèque filtrée par grade et métier |
+| José Billon, Blog du Modérateur, 16 févr. 2024 (Sup'de Com/OpinionWay) | Lu ; parrainage d'une école | Compétences citées |
+
+**Rareté** : aucune donnée sur le nombre de candidatures par poste de communication dans le public, aucune enquête sur ce que les jurys retiennent d'un CV, et aucun guide du CDG 13 n'a été trouvé.
+
+#### 5. Ce qui distingue C2 des cinq autres profils
+
+C2 est le seul profil où la visibilité dépend autant des champs d'un profil en ligne (grade, métier) que du CV, et où l'attente de sobriété est écrite noir sur blanc par des institutions. Face à A2, il renonce à toute licence graphique au profit du lien vers les réalisations. Face à B2, il remplace la course aux mots-clés par l'adéquation à la fiche de poste et la clarté du statut. Face à C1, il reste sur une page et montre des productions plutôt qu'un pilotage [D].
+
+#### 6. Centres d'intérêt
+
+**Rubrique recommandée et courte** : c'est le profil où les sources concordent le plus. Le CDG 40 la juge « pas obligatoire mais souhaitable ». Le CDG 09 la limite à « 3 ou 4 lignes maximum », sincères. Emploipublic conseille « un ou deux centres d'intérêt » et de vrais loisirs encore pratiqués plutôt que des mentions vagues comme « lecture » ou « cinéma ». Choisir le service public cite les activités sportives, culturelles ou associatives parmi les contenus du CV ([CDG 40](https://cdg40.fr/documents/emploi/rediger_un_cv.pdf) ; [CDG 09](https://cdg09.fr/wp-content/uploads/2024/01/25_autre_rediger_un_cv.pdf) ; [Emploipublic, 2023](https://infos.emploipublic.fr/article/fonction-publique-que-mettre-dans-son-cv-et-comment-aborder-l-entretien-de-recrutement-eea-10882) ; [CSP](https://choisirleservicepublic.gouv.fr/conseils/rediger-son-cv/)). **L'humour n'est pas recommandé par défaut**, aucune source publique ne l'évoquant. L'originalité de contenu reste permise : un intérêt précis et distinctif, comme l'ornithologie citée par France Travail. Le guide du CDG 40 conseille encore d'indiquer l'âge et le nombre d'enfants, contrairement aux consignes actuelles de lutte contre les discriminations : il faut lire ces guides avec discernement.
+
