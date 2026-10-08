@@ -909,4 +909,85 @@ Pour la grande majorité des combinaisons, le volume réel d'offres identifiable
 - **Répartition géographique : 1/10 (10 %) Bouches-du-Rhône/PACA** (Commune de Marseille) ; **9/10 (90 %) reste de la France.**
 - **Limites :** la seule occurrence PACA n'a pas pu être lue intégralement (dépubliée) ; les missions ci-dessus combinent ses métadonnées avec le profil générique de la fonction recoupé sur les fiches chargé de communication du secteur public (combinaison 1-C).
 
-<!-- PROCHAINE SECTION A REDIGER : 10. Attaché de presse (secteurs A, B, C) -->
+## 10. Attaché de presse
+
+> **Constat inverse de celui des combinaisons 7/8 :** « attaché de presse » est un intitulé rare dans le secteur privé (9 offres CDI nationales seulement sur HelloWork) mais bien représenté dans le secteur public en PACA, via les métropoles et départements.
+
+### A. Secteur privé — TPE / PME / Startup (< 50 salariés)
+
+> **Échantillon très restreint (n = 2).**
+
+**C. Transparence**
+
+- **2 offres identifiées**, toutes deux en agence de relations presse/communication : Volga RP (Paris, agence spécialisée tech & startups), client du cabinet ADEIS RH (agence de communication, région nantaise).
+- **Répartition géographique : 0/2 (0 %) Bouches-du-Rhône/PACA ; 2/2 reste de la France.**
+- **Limites :** aucune section A/B détaillée n'est présentée, l'échantillon étant trop restreint. Les missions mentionnées (gestion de comptes clients, contact quotidien avec les journalistes, communiqués et dossiers de presse, plans de communication, organisation d'interviews) sont cohérentes avec celles des secteurs B et C ci-dessous mais ne permettent pas de fréquences fiables à ce stade.
+
+### B. Secteur privé — Grande entreprise (> 50 salariés)
+
+**A. Compétences les plus demandées (échantillon n = 3 — à interpréter avec prudence)**
+
+| Compétence (CV) | Fréquence |
+|---|---|
+| Relations presse | 3/3 |
+| Gestion de l'influence | 2/3 |
+| Revue de presse | 2/3 |
+| Anglais professionnel | 2/3 |
+| Événementiel | 2/3 |
+
+**B. Missions les plus demandées**
+
+| Mission | Fréquence |
+|---|---|
+| Gestion des demandes d'interview et relations avec les journalistes | 3/3 |
+| Rédaction et diffusion de communiqués et dossiers de presse | 3/3 |
+| Gestion des revues de presse | 2/3 |
+| Coordination de campagnes d'influence et de partenariats influenceurs | 2/3 |
+| Organisation d'événements et de shootings presse | 2/3 |
+| Coordination de bureaux de presse externes | 2/3 |
+| Suivi du programme d'affiliation/sponsoring | 1/3 |
+| Reporting et analyse de performance des actions presse | 2/3 |
+
+**C. Transparence**
+
+- **3 offres identifiées** : 1 lue intégralement (American Vintage, Signes 83 — poste intitulé « Coordinateur Presse Influence et Relations Publiques »), 2 identifiées par métadonnées (Institut Pasteur-Paris ; Winamax-Paris).
+- **Répartition géographique : 1/3 (33 %) Bouches-du-Rhône/PACA** (American Vintage, Signes, Var 83) ; **2/3 (67 %) reste de la France.**
+- **Limites :** échantillon numériquement faible mais la seule fiche complète (American Vintage) est riche et bien située en PACA élargie (Var).
+
+### C. Secteur public / institutionnel
+
+**A. Compétences les plus demandées (échantillon n = 10)**
+
+| Compétence (CV) | Fréquence |
+|---|---|
+| Relations presse | 10/10 (100 %) |
+| Rédaction de communiqués | 8/10 (80 %) |
+| Revue de presse | 7/10 (70 %) |
+| Veille médiatique | 6/10 (60 %) |
+| Organisation de conférences de presse | 5/10 (50 %) |
+| Réseaux sociaux institutionnels | 4/10 (40 %) |
+| Coordination avec élus/cabinet | 4/10 (40 %) |
+| Rédaction institutionnelle | 4/10 (40 %) |
+
+**B. Missions les plus demandées**
+
+| Mission | Fréquence |
+|---|---|
+| Gestion des relations avec les journalistes et médias | 9/10 |
+| Rédaction et diffusion de communiqués et dossiers de presse | 8/10 |
+| Réalisation de la revue de presse quotidienne | 7/10 |
+| Veille médiatique et e-réputation | 6/10 |
+| Organisation de conférences et points presse | 5/10 |
+| Préparation des éléments de langage des élus/direction | 4/10 |
+| Coordination avec le cabinet du maire/président | 4/10 |
+| Gestion de la communication de crise avec la presse | 3/10 |
+| Animation des réseaux sociaux institutionnels | 3/10 |
+| Organisation de visites et déplacements presse | 2/10 |
+
+**C. Transparence**
+
+- **10 offres identifiées** : 0 lue intégralement (fiche d'Istres dépubliée entre indexation et consultation), 10 identifiées par métadonnées — dont 5 en Bouches-du-Rhône/PACA (Métropole Aix-Marseille-Provence, Marseille — **seule offre confirmée encore ouverte au 8 octobre 2026**, clôture 16/10/2026 ; Département des Alpes-Maritimes, Nice ; Métropole Nice Côte d'Azur ; Commune d'Istres 13 ; Région PACA — mention non confirmée) et 5 hors PACA (Mairie de Lille, Commune de Saint-Denis 974, Mairie de Chalon-sur-Saône, Ville d'Angers, Région Grand Est).
+- **Répartition géographique : 5/10 (50 %) Bouches-du-Rhône/PACA ; 5/10 (50 %) reste de la France.**
+- **Limites :** meilleure proportion PACA de toute l'étude à ce stade — les grandes collectivités de la région (métropoles, département) publient régulièrement ce type de poste. Les missions détaillées reposent partiellement sur le recoupement avec les volets « relations presse » déjà identifiés dans les fiches communication publique (combinaisons 1-C et 5-C), la plupart des fiches PACA spécifiques ayant été dépubliées avant lecture intégrale.
+
+<!-- PROCHAINE SECTION A REDIGER : 11. Brand content manager / Brand manager (secteurs A, B, C) -->
