@@ -319,6 +319,259 @@ Offres vues mais écartées : 4 offres de cabinets dont le client n'est pas dime
 
 ---
 
+## 4. Responsable communication
+
+**Bilan :** A = 1 offre, B = 9, C = 50 (+ 7 « indéterminé » comptées à part) ; 13 = 1, reste PACA = 4, reste France = 55 (indéterminé : 13 = 0, reste PACA = 3, reste France = 4) ; écartées = 67.
+
+### A. TPE / PME / start-up (moins de 50 salariés)
+
+**A. Compétences** (N = 1, résultats non significatifs)
+
+| Rang | Compétence | Offres | % |
+|---|---|---|---|
+| 1 | PAO (Adobe, Canva) | 1/1 | 100 % |
+| 1 | Photo / vidéo | 1/1 | 100 % |
+| 1 | Réseaux sociaux | 1/1 | 100 % |
+| 1 | SEO / référencement | 1/1 | 100 % |
+| 1 | Rédaction | 1/1 | 100 % |
+| 1 | Organisation | 1/1 | 100 % |
+| 1 | Rigueur | 1/1 | 100 % |
+| 1 | Connaissance secteur | 1/1 | 100 % |
+
+**B. Missions** (N = 1, non significatif : l'offre ne contient que 9 missions)
+
+| Rang | Mission | Offres | % |
+|---|---|---|---|
+| 1 | Animer les réseaux sociaux | 1/1 | 100 % |
+| 1 | Produire visuels, vidéos et calendrier éditorial | 1/1 | 100 % |
+| 1 | Créer les supports print et digitaux | 1/1 | 100 % |
+| 1 | Développer la marque employeur | 1/1 | 100 % |
+| 1 | Animer la communication interne | 1/1 | 100 % |
+| 1 | Organiser salons et événements emploi | 1/1 | 100 % |
+| 1 | Gérer les relations presse locales | 1/1 | 100 % |
+| 1 | Suivre le budget communication | 1/1 | 100 % |
+| 1 | Rendre compte à la direction (reporting) | 1/1 | 100 % |
+
+**C. Transparence**
+- **N = 1** (CasaJob, Villerbon, 41, CDD). Répartition : 13 = 0, reste PACA = 0, reste France = 1. Les résultats ne sont pas significatifs.
+- **Classement en A.** C'est un poste interne d'un groupe de travail temporaire (« remplacement sur notre poste »). L'API officielle place les entités CasaJob trouvées (BVAT 3, BVAT 7) en tranche 02 (3 à 5 salariés). L'entité juridique exacte qui recrute n'est pas identifiée.
+- **Pourquoi moins de 50, France entière.** Sur HelloWork (CDI, France), les intitulés conformes ne figurent qu'en pages 1 et 2 (environ 60 intitulés contenant « communic » sur 1 348 résultats). Les pages 3 et 4 n'en contiennent aucun, d'où l'arrêt. En CDD, seule la page 1 en contient. Le second mot-clé n'a apporté aucune offre privée nouvelle. La plupart des intitulés privés associent « marketing » : 30 offres ont été écartées pour ce motif.
+- **7 offres « indéterminé ».** Elles viennent de cabinets ou d'agences sans indice de taille du client et sont comptées à part. Trois sont en PACA : Le Pradet (83), Mougins (06) et Avignon (84). Certaines pourraient relever de A ou de B.
+- **Offre écartée.** Looking (Schiltigheim, 67, CDI) : la page indique « publiée par un centre de formation », ce qui relève de la règle « annonces publiées par des écoles ».
+- **Méthode (commune aux 3 secteurs).**
+  - Source : HelloWork uniquement, 28 pages de listes.
+  - 71 lectures de pages d'offres, dont 3 relectures de vérification. Lecture une par une, au plus 5 en parallèle, sans aucun téléchargement en masse.
+  - 5 lectures interrompues par le plafond d'usage le 08/10 ont été relancées le 09/10.
+  - Effectifs vérifiés par requêtes unitaires à l'API recherche-entreprises.
+- **Période.** Toutes les offres retenues ont une date de publication vérifiée entre le 08/09/2026 et le 08/10/2026.
+- **Ce qui est compté comme compétence.** Les savoir-faire, outils et savoir-être explicitement demandés. Les diplômes et années d'expérience sont exclus.
+- **Regroupements.** Les formulations équivalentes sont fusionnées. Exemples : « PAO (Adobe, Canva) » regroupe InDesign, Photoshop, Illustrator, Canva et la chaîne graphique ; « Environnement public » regroupe la connaissance des collectivités et des institutions.
+- **Limites.** L'extraction repose sur des résumés compacts produits par un modèle, avec un risque d'omission. Les missions ont été codées à la main.
+- **Détail des 67 offres écartées.**
+  - 35 pour un mot exclu dans l'intitulé : 30 « marketing », 4 « relations publiques » ou « presse », 1 « branding ».
+  - 27 variantes hors périmètre : 11 postes d'adjoint, 11 « chef du bureau / de la cellule / du pôle / de la communication », 5 autres.
+  - 1 publiée par un centre de formation.
+  - 1 doublon.
+  - 3 non lues car le plafond de 50 était atteint en C.
+
+### B. Grande entreprise (50 salariés et plus)
+
+**A. Compétences** (N = 9, peu significatif)
+
+| Rang | Compétence | Offres | % |
+|---|---|---|---|
+| 1 | Rédaction | 6/9 | 67 % |
+| 2 | Autonomie | 5/9 | 56 % |
+| 2 | Gestion de projet | 5/9 | 56 % |
+| 4 | Force de proposition | 4/9 | 44 % |
+| 4 | Anglais | 4/9 | 44 % |
+| 4 | Organisation | 4/9 | 44 % |
+| 4 | Relationnel | 4/9 | 44 % |
+| 8 | Connaissance secteur | 3/9 | 33 % |
+| 8 | PAO (Adobe, Canva) | 3/9 | 33 % |
+
+**B. Missions** (N = 9, peu significatif)
+
+| Rang | Mission | Offres | % |
+|---|---|---|---|
+| 1 | Définir et piloter la stratégie et le plan de communication | 7/9 | 78 % |
+| 2 | Piloter la communication interne | 6/9 | 67 % |
+| 3 | Animer les réseaux sociaux | 5/9 | 56 % |
+| 3 | Organiser les événements et visites de sites | 5/9 | 56 % |
+| 3 | Gérer les relations presse et médias | 5/9 | 56 % |
+| 6 | Conseiller la direction et les filiales | 4/9 | 44 % |
+| 6 | Concevoir les supports de communication | 4/9 | 44 % |
+| 6 | Piloter agences et prestataires | 4/9 | 44 % |
+| 6 | Évaluer les actions et suivre les indicateurs | 4/9 | 44 % |
+| 10 | Concevoir et piloter les campagnes de communication | 3/9 | 33 % |
+| 10 | Rédiger et produire les contenus (texte, photo, vidéo) | 3/9 | 33 % |
+| 12 | Encadrer l'équipe communication | 2/9 | 22 % |
+| 12 | Promouvoir les actions, offres et lancements | 2/9 | 22 % |
+| 12 | Gérer la communication de crise et sensible | 2/9 | 22 % |
+| 12 | Garantir la cohérence de l'image et de la charte graphique | 2/9 | 22 % |
+| 12 | Piloter la communication corporate (dont acquisitions) | 2/9 | 22 % |
+| 12 | Appuyer les équipes commerciales (supports, appels d'offres) | 2/9 | 22 % |
+| 12 | Développer les partenariats (médias, locaux, mécénat) | 2/9 | 22 % |
+| 12 | Accompagner le changement et la transformation | 2/9 | 22 % |
+| 12 | Élaborer et suivre le budget communication | 2/9 | 22 % |
+| 12 | Administrer le site internet et les outils digitaux | 2/9 | 22 % |
+
+**C. Transparence**
+- **N = 9**, tous en CDI, publiés entre le 09/09 et le 02/10/2026. Répartition : 13 = 1 (Kem One, Lavéra), reste PACA = 0, reste France = 8. Les résultats sont peu significatifs.
+- **Comment la taille a été établie.**
+  - Effectif indiqué dans l'offre : Kem One (environ 350 salariés sur le site), Léon Vincent (1 200 à 1 400), Veolia (groupe de 220 000).
+  - API officielle : Groupama Paris Val de Loire (tranche 42), Dalkia (53), Gerflor (41), XPO Logistics (filiales en tranches 31 et 32).
+  - Notoriété : IONIS Education Group (aucune entité de ce nom dans l'API) et FORVIA. Pour FORVIA, l'API ne renvoie que la holding de Nanterre (tranche 11), alors que le groupe compte bien plus de 50 salariés.
+- **Intitulés signalés.**
+  - Kem One « RH & Communication » : intitulé mixte, retenu comme demandé. Sa seule mission de communication est la communication interne ; ses missions RH sont exclues du classement.
+  - Groupama : variante « Responsable pôle communication ».
+  - IONIS : groupe d'enseignement privé qui recrute pour lui-même, sans mention « publiée par une école ». À retirer si la règle doit viser tout employeur scolaire.
+- **Doublon.** Gerflor publie le même intitulé à Tarare (69) et à Saint-Paul-Trois-Châteaux (26) ; il est compté une fois.
+- **21 missions affichées** au lieu de 20, car 10 missions sont ex aequo à 2/9.
+- **Pourquoi moins de 50.** Même raison que pour A : une fois exclus « marketing », « directeur » et « brand », les offres privées conformes sont très rares sur HelloWork.
+- **Offres privées écartées.**
+  - Intitulés avec « marketing », dont EDL (Berre-l'Étang, 13), Proman (Manosque, 04) et Michael Page (Fréjus, 83).
+  - « Head of Communication and Marketing » et « Communication & Branding Manager ».
+  - « Responsable de la communication et des relations publiques ».
+  - Matmut « Responsable de projets communication interne » : poste de chef de projet.
+  - « Director People & Communications » (Kone) : hors périmètre.
+
+### C. Secteur public / institutionnel
+
+**A. Compétences**
+
+| Rang | Compétence | Offres | % |
+|---|---|---|---|
+| 1 | Rédaction | 38/50 | 76 % |
+| 2 | Réseaux sociaux | 27/50 | 54 % |
+| 2 | PAO (Adobe, Canva) | 27/50 | 54 % |
+| 4 | Environnement public | 24/50 | 48 % |
+| 5 | Organisation | 20/50 | 40 % |
+| 6 | Rigueur | 19/50 | 38 % |
+| 6 | Gestion de projet | 19/50 | 38 % |
+| 8 | Relationnel | 18/50 | 36 % |
+
+**B. Missions**
+
+| Rang | Mission | Offres | % |
+|---|---|---|---|
+| 1 | Définir et piloter la stratégie et le plan de communication | 38/50 | 76 % |
+| 2 | Encadrer l'équipe communication | 27/50 | 54 % |
+| 3 | Animer les réseaux sociaux | 25/50 | 50 % |
+| 4 | Concevoir les supports de communication | 23/50 | 46 % |
+| 5 | Organiser les événements et visites officielles | 22/50 | 44 % |
+| 5 | Gérer les relations presse et médias | 22/50 | 44 % |
+| 5 | Rédiger et produire les contenus (texte, photo, vidéo) | 22/50 | 44 % |
+| 8 | Administrer le site internet et les outils digitaux | 18/50 | 36 % |
+| 9 | Élaborer et suivre le budget communication | 16/50 | 32 % |
+| 9 | Conseiller la direction, les élus et les services | 16/50 | 32 % |
+| 11 | Piloter prestataires, agences et marchés publics | 13/50 | 26 % |
+| 12 | Gérer la communication de crise et sensible | 12/50 | 24 % |
+| 12 | Assurer la veille médias et l'e-réputation | 12/50 | 24 % |
+| 12 | Piloter la communication interne | 12/50 | 24 % |
+| 12 | Valoriser les projets et politiques publiques | 12/50 | 24 % |
+| 16 | Développer les partenariats (médias, locaux, mécénat) | 9/50 | 18 % |
+| 17 | Renforcer l'image et l'attractivité du territoire | 8/50 | 16 % |
+| 17 | Piloter le magazine ou bulletin municipal | 8/50 | 16 % |
+| 17 | Évaluer les actions et suivre les indicateurs | 8/50 | 16 % |
+
+**C. Transparence**
+- **N = 50**, plafond atteint. Publications entre le 08/09 et le 08/10/2026.
+- **Répartition.**
+  - 13 = 0 : aucun intitulé conforme dans le département. On n'y trouve qu'un « Directeur de la communication » (Fos-sur-Mer), des chargés de communication, un community manager et un « chef du service print » (La Ciotat).
+  - Reste PACA = 4 : Cogolin, Hyères, SCIED du Var (83) et CH du Pays d'Apt (84).
+  - Reste France = 46, dont 2 offres en outre-mer (971 et 988).
+- **Employeurs.** 23 communes, 14 EPCI ou syndicats, 1 département, 1 SDIS, 7 services ou juridictions de l'État, 3 établissements publics (hôpital, école, université) et 1 association (Médecins du Monde).
+- **Contrats.** 47 fonctionnaires, dont 2 postes ouverts aussi aux contractuels, et 3 CDD.
+- **Ordre de sélection.** D'abord les listes « Fonctionnaire » France (pages 1 à 3) dans l'ordre d'affichage, puis 3 CDD issus du mot-clé « chef du service communication ». Arrêt à 50. Trois intitulés mixtes de la page 4 n'ont pas été lus : Colmar, IDIV Yvelines et IPFIP Nord.
+- **Intitulés retenus mais signalés.**
+  - 16 intitulés mixtes : communication associée à l'événementiel, au secrétariat, aux RH, à la culture, au tourisme, au numérique, à la documentation ou aux relations étudiants.
+  - 4 variantes « pôle / unité / service information et communication » : Cany-Barville, Montpellier, Nouméa, Ivry.
+  - 2 intitulés tronqués sur HelloWork (« … ou un Responsable de la communication … ») : CRC Centre-Val de Loire et Cour des comptes.
+- **Données incomplètes.** Ces offres restent comptées dans N, ce qui peut minorer les pourcentages.
+  - Missions non détaillées (SDIS 57), tronquées (Surgères) ou limitées à du secrétariat (Apt).
+  - Aucune compétence explicite : DRCPN Mission Sport, CC Terre des Deux Caps, Médecins du Monde.
+- **Missions exclues du classement.** Les missions hors communication de 11 postes mixtes. Trois missions ex aequo à 7/50 ne sont pas affichées : cohérence de l'image et de la charte, projets transversaux, diffusion de l'information aux publics.
+- **Offres publiques écartées.**
+  - 11 postes d'adjoint, par exemple l'adjoint au chef du bureau de la représentation de l'État et de la communication interministérielle (Avignon, 84) ou le responsable adjoint du pôle prévention-communication (Digne, 04).
+  - 11 variantes « chef du bureau / de la cellule / du pôle / de la communication » non prévues au périmètre (préfectures, police, DGDDI, département du Pas-de-Calais).
+  - 3 intitulés avec « relations publiques » ou « presse ».
+  - Hors périmètre et non comptés : les nombreux « Directeur(trice) de la communication » et les intitulés techniques homonymes (systèmes d'information et de communication, communication des archives).
+
+#### Annexe : offres analysées
+
+| Secteur | Intitulé | Employeur | Dépt | Publication | Contrat | URL |
+|---|---|---|---|---|---|---|
+| A | Responsable Communication | CasaJob (groupe de travail temporaire, poste interne) | 41 | 11/09/2026 | CDD | https://www.hellowork.com/fr-fr/emplois/83308572.html |
+| B | Responsable Ressources Humaines & Communication | Kem One | 13 | 29/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83905893.html |
+| B | Responsable Communication | IONIS Education Group | 75 | 25/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/78381654.html |
+| B | Responsable Communication | Léon Vincent | 33 | 15/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83390991.html |
+| B | Responsable Communication | Veolia Recyclage et Valorisation des Déchets | 76 | 12/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/80105379.html |
+| B | Responsable Pôle Communication Interne & Externe | Groupama Paris Val de Loire | 45 | 02/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84002416.html |
+| B | Responsable Communication Nancy | Dalkia | 54 | 09/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83188916.html |
+| B | Responsable Senior de la Communication Digitale Europe | XPO Logistics | 69 | 14/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83340479.html |
+| B | Group Corporate Communications Manager | Gerflor | 69 | 12/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/78950337.html |
+| B | Europe Regional and Corporate Communications Manager | FORVIA | 92 | 17/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83493214.html |
+| C | Responsable Communication | Commune de Cogolin | 83 | 25/09/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/79350328.html |
+| C | Assistant de Direction et Responsable Communication | Centre hospitalier du Pays d'Apt | 84 | 24/09/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/81674075.html |
+| C | Chef du Service Communication | Ville d'Hyères | 83 | 02/10/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/83991267.html |
+| C | Chef du Service de Communication Interministérielle (SCIED) | Services de l'État dans le Var (préfecture) | 83 | 25/09/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/83769732.html |
+| C | Responsable de Service Communication et Évènementiel | EPCI (Nevers) | 58 | 08/10/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/84201144.html |
+| C | Responsable du Service Communication | Commune de Noisiel | 77 | 07/10/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/83082370.html |
+| C | Responsable du Service Communication | Ville de Vierzon | 18 | 03/10/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/82930159.html |
+| C | Responsable de la Communication | Commune de Vias | 34 | 27/09/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/83813782.html |
+| C | Responsable de la Communication Scientifique et Digitale | ESPCI Paris - PSL | 75 | 05/10/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/83033685.html |
+| C | Responsable de la Communication | Mairie de Carcassonne | 11 | 03/10/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/84048509.html |
+| C | Responsable du Pôle Communication et Identité Territoriale | CC de la Côte d'Albâtre | 76 | 07/10/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/84160631.html |
+| C | Responsable Communication | CC des Falaises du Talou | 76 | 26/09/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/83798210.html |
+| C | Chargé de Communication - Responsable Communication Stratégique et Opérationnelle | Direction territoriale de la Police nationale (Guadeloupe) | 971 | 23/09/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/80493426.html |
+| C | Responsable Communication - Infographiste - Community Manager | Ville de Gevrey-Chambertin | 21 | 27/09/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/83814213.html |
+| C | Responsable Communication | CC Baugeois Vallée | 49 | 24/09/2026 | Fonctionnaire ou contractuel | https://www.hellowork.com/fr-fr/emplois/83705332.html |
+| C | Responsable de la Communication | Commune d'Oullins-Pierre-Bénite | 69 | 02/10/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/83991622.html |
+| C | […] ou un Responsable de la Communication en charge de fonctions documentaires | Chambre régionale des comptes Centre-Val de Loire | 45 | 05/10/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/84079098.html |
+| C | Responsable de Communication - Évènementiel | Commune de Saint-Nicolas-d'Aliermont | 76 | 04/10/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/84067013.html |
+| C | Responsable du Service Communication | Ville d'Ambérieu-en-Bugey | 01 | 26/09/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/83797802.html |
+| C | Responsable de la Communication | Mairie de Mériel | 95 | 22/09/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/82572014.html |
+| C | Responsable Communication et Evénementiel | Commune de Saint-Pathus | 77 | 17/09/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/83461662.html |
+| C | Responsable de la Communication | Mairie de Fleury-Mérogis | 91 | 27/09/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/83814122.html |
+| C | Responsable Communication et OT | CC des 4 Vallées | 45 | 23/09/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/83665744.html |
+| C | Responsable des Communications Digitales | Conseil départemental du Val-d'Oise | 95 | 30/09/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/83917432.html |
+| C | Responsable de la Communication et des Affaires Culturelles | Commune de Val de Briey | 54 | 04/10/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/84066902.html |
+| C | Responsable de la Communication | Syndicat mixte pour la Valorisation des Déchets Azur | 95 | 07/10/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/80822265.html |
+| C | Responsable de Communication Externe et Interne | Commune de Noisy-le-Sec | 93 | 24/09/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/83705181.html |
+| C | Responsable du Service Communication | CC des Deux Vallées | 60 | 30/09/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/82831737.html |
+| C | Responsable de la Communication et Référent des Collections Musique Art et Cinéma | Ville d'Issoire (médiathèque) | 63 | 03/10/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/84047687.html |
+| C | Responsable de la Communication et du Rayonnement de la Mission Sport | Direction des ressources et des compétences de la Police nationale | 75 | 05/10/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/82005904.html |
+| C | Responsable d'Unité Communication | Ville de Montpellier (Pôle Éducation) | 34 | 27/09/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/83814366.html |
+| C | Responsable de la Communication et de l'Évènementiel | CC Roumois Seine | 27 | 30/09/2026 | Fonctionnaire ou contractuel | https://www.hellowork.com/fr-fr/emplois/83918277.html |
+| C | Responsable Communication | SDIS de la Moselle | 57 | 17/09/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/83459099.html |
+| C | Responsable de la Communication de la Transition Numérique et de la Vie Associative | EPCI (L'Isle-sur-Serein) | 89 | 24/09/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/83705740.html |
+| C | Responsable Animations Communication et Culture | Mairie de Surgères | 17 | 17/09/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/83459741.html |
+| C | Responsable Communication | Commune de Gannat | 03 | 08/09/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/82157755.html |
+| C | Responsable du Service Communication Institutionnelle | CC de l'Arc Mosellan | 57 | 25/09/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/83769629.html |
+| C | Responsable du Pôle « Communication Interministérielle » | Haut-commissariat de la République en Nouvelle-Calédonie | 988 | 11/09/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/83264508.html |
+| C | Responsable du Service Information et Communication Numérique | Commune d'Ivry-sur-Seine | 94 | 27/09/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/83813720.html |
+| C | Responsable du Service Communication | CC du Pays de Pouzauges | 85 | 23/09/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/83665788.html |
+| C | Responsable de la Communication | Syndicat des Eaux d'Île-de-France (SEDIF) | 75 | 18/09/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/83501060.html |
+| C | Chargé de Mission Responsable du Service Communication | Commune de Capbreton | 40 | 18/09/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/83500768.html |
+| C | […] ou un Responsable de la Communication Interne | Cour des comptes | 75 | 25/09/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/83771261.html |
+| C | Responsable du Service Communication | CC du Pays de Mortagne | 85 | 11/09/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/83264643.html |
+| C | Chef du Service Communication | CC de la Terre des Deux Caps | 62 | 23/09/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/83665547.html |
+| C | Responsable RH Affaires Scolaires et Périscolaires et Communication | Mairie de Saint-Just-Chaleyssin | 38 | 05/10/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/82048947.html |
+| C | Chef·fe du Service Départemental de la Communication Interministérielle | Préfecture des Hauts-de-Seine | 92 | 17/09/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/83461931.html |
+| C | Responsable de Communication | Mairie de La Roche-sur-Foron | 74 | 01/10/2026 | CDD | https://www.hellowork.com/fr-fr/emplois/83958775.html |
+| C | Responsable Communication Évènementiel Réseaux et Relations Étudiants | Faculté de droit de Saint-Étienne (université) | 42 | 07/10/2026 | CDD | https://www.hellowork.com/fr-fr/emplois/84187141.html |
+| C | Responsable de la Communication Interne | Médecins du Monde (association) | 93 | 07/10/2026 | CDD | https://www.hellowork.com/fr-fr/emplois/84166612.html |
+| Indét. | Responsable Communication | Manpower France (client : établissement du secteur du prestige) | 83 | 01/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83988039.html |
+| Indét. | Responsable Communication & Design | Advance Solutions (client : « groupe à rayonnement international ») | 06 | 15/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83378798.html |
+| Indét. | Responsable Service Télévente, Communication Externe et Digitalisation des Commandes (intitulé mixte) | RH Performances (client : entreprise familiale de charcuterie) | 84 | 28/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/82782937.html |
+| Indét. | Responsable Communication | LHH Recruitment Solutions (client : « acteur reconnu à La Réunion ») | 974 | 03/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/80949635.html |
+| Indét. | Responsable Communication | LHH Recruitment Solutions (client non nommé, ESR probable) | 31 | 18/09/2026 | CDI (en-tête) / CDD de remplacement (texte) | https://www.hellowork.com/fr-fr/emplois/82431289.html |
+| Indét. | Responsable Communication | Manpower France (client non décrit) | 66 | 08/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83154792.html |
+| Indét. | Responsable Communication | LIP Tertiaire (client : « acteur majeur du secteur aéroportuaire » ; mission d'intérim ou CDD direct non précisé) | 63 | 07/10/2026 | CDD 7 mois | https://www.hellowork.com/fr-fr/emplois/84189203.html |
+
+---
+
 ## 5. Directeur communication
 
 **Bilan :** 23 offres analysées (A = 2, B = 2, C = 19). Répartition : 13 = 1, reste PACA = 0, reste France = 22. 19 offres écartées (14 hors périmètre, 2 pour le contrat, 3 de taille indéterminée), plus 13 annonces en doublon.
