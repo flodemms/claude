@@ -492,3 +492,192 @@ Offres vues mais écartées : 4 offres de cabinets dont le client n'est pas dime
 | C | Directeur·trice Communication et Relations Donateurs | Centre Oscar Lambret | 59 | 05/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/79771306.html |
 | C | Directeur – Directrice de la Communication & du Marketing | Firdaous Charity France (association) | 93 | 18/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83510241.html |
 | C | Directeur de la Communication et du Mécénat | Client culturel « non profit » (via Michael Page) | 75 | 08/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84205343.html |
+
+---
+
+## 10. Responsable communication et marketing
+
+**Bilan :** A = 4 offres, B = 12, C = 0 ; 13 = 1, reste PACA = 2, reste France = 25 (sur 28 offres retenues, dont 12 indéterminées comptées à part) ; écartées = 7
+
+### A. TPE / PME / start-up (moins de 50 salariés)
+
+**A. Compétences**
+
+| Rang | Compétence | Offres | % |
+|---|---|---|---|
+| 1 | Marketing digital | 4/4 | 100 % |
+| 2 | Analyse KPI / ROI | 3/4 | 75 % |
+| 3 | Leadership d'équipe | 3/4 | 75 % |
+| 4 | Outils CRM | 3/4 | 75 % |
+| 5 | SEO / SEA | 2/4 | 50 % |
+| 6 | Anglais pro | 2/4 | 50 % |
+| 7 | Autonomie | 2/4 | 50 % |
+| 8 | Gestion de projet | 1/4 | 25 % |
+
+**B. Missions**
+
+| Rang | Mission | Offres | % |
+|---|---|---|---|
+| 1 | Organiser salons, événements et webinaires | 4/4 | 100 % |
+| 2 | Définir et piloter la stratégie marketing-communication | 3/4 | 75 % |
+| 3 | Piloter les campagnes payantes et d'acquisition (SEA, SEO, ads) | 3/4 | 75 % |
+| 4 | Produire contenus éditoriaux et supports | 3/4 | 75 % |
+| 5 | Suivre les KPI, le ROI et le reporting | 3/4 | 75 % |
+| 6 | Gérer le budget marketing-communication | 3/4 | 75 % |
+| 7 | Animer les réseaux sociaux | 2/4 | 50 % |
+| 8 | Manager une petite équipe | 2/4 | 50 % |
+| 9 | Coordonner agences et prestataires | 2/4 | 50 % |
+| 10 | Appuyer les équipes commerciales (argumentaire produit) | 2/4 | 50 % |
+| 11 | Élaborer le plan de communication annuel | 1/4 | 25 % |
+| 12 | Conduire un projet de rebranding | 1/4 | 25 % |
+| 13 | Gérer les relations médias | 1/4 | 25 % |
+| 14 | Piloter la communication interne | 1/4 | 25 % |
+| 15 | Accompagner la transformation de l'entreprise | 1/4 | 25 % |
+| 16 | Piloter le site e-commerce et sa migration | 1/4 | 25 % |
+| 17 | Piloter CRM et emailing | 1/4 | 25 % |
+| 18 | Générer des leads B2B (ABM, bases de prospects) | 1/4 | 25 % |
+| 19 | Automatiser les process marketing | 1/4 | 25 % |
+| 20 | Conduire les projets digitaux, du cadrage au déploiement | 1/4 | 25 % |
+
+**C. Transparence**
+- **N = 4 : résultats peu significatifs (N < 10).** Répartition : 13 = 1 (EDL, Berre-l'Étang), reste PACA = 0, reste France = 3 (75 ×2, 44).
+- **Classement :**
+  - EDL, KEY PREDICT (Central Test) et Palmifrance (client nommé d'ADEIS RH, marque Nishikidori) sont classées par l'API : tranche 12, soit 20 à 49 salariés.
+  - Le client d'Approach People est classé sur indice : la page dit « Rejoignez une belle start-up » (phrase vérifiée), sans effectif.
+  - KEY PREDICT cite des filiales à l'étranger, mais son unité légale française est en tranche 12 (catégorie PME). Elle reste donc en A selon la règle.
+- **Périmètre :** l'intitulé « Responsable Communication et Webmarketing » (Palmifrance) est retenu, car le mot « marketing » y figure.
+- **Ex aequo :** au rang 8 des compétences, sept autres compétences sont aussi à 1/4 : branding, rédaction, e-commerce (Shopify), marketing automation, vision stratégique, rigueur, force de proposition.
+- **Écartées :** aucune ne relève clairement de A. La liste complète figure sous l'annexe.
+- **Indéterminées :** les 12 offres non classables sont exclues des calculs A et B (voir l'annexe).
+- **Limites :** ce sont les mêmes qu'en B (arrêt de l'exploration France, codage sur extraits compacts).
+
+### B. Grande entreprise (50 salariés et plus)
+
+**A. Compétences**
+
+| Rang | Compétence | Offres | % |
+|---|---|---|---|
+| 1 | Marketing digital | 7/12 | 58 % |
+| 2 | Créativité | 7/12 | 58 % |
+| 3 | Leadership d'équipe | 7/12 | 58 % |
+| 4 | Anglais pro | 6/12 | 50 % |
+| 5 | Analyse KPI / ROI | 6/12 | 50 % |
+| 6 | Autonomie | 6/12 | 50 % |
+| 7 | Gestion de projet | 5/12 | 42 % |
+| 8 | Outils CRM | 4/12 | 33 % |
+
+**B. Missions**
+
+| Rang | Mission | Offres | % |
+|---|---|---|---|
+| 1 | Définir et piloter la stratégie marketing-communication | 10/12 | 83 % |
+| 2 | Suivre les KPI, le ROI et le reporting | 8/12 | 67 % |
+| 3 | Manager l'équipe marketing-communication | 8/12 | 67 % |
+| 4 | Concevoir contenus et supports (print, web, événementiel) | 7/12 | 58 % |
+| 5 | Construire et déployer le plan marketing-com annuel | 6/12 | 50 % |
+| 6 | Piloter les campagnes publicitaires et d'acquisition | 6/12 | 50 % |
+| 7 | Organiser salons, événements et webinaires | 6/12 | 50 % |
+| 8 | Outiller et appuyer les forces de vente (supports, appels d'offres, animations) | 6/12 | 50 % |
+| 9 | Animer les réseaux sociaux (LinkedIn…) | 5/12 | 42 % |
+| 10 | Garantir la cohérence de marque et la notoriété | 4/12 | 33 % |
+| 11 | Gérer le budget marketing-communication | 3/12 | 25 % |
+| 12 | Coordonner agences et prestataires | 3/12 | 25 % |
+| 13 | Réaliser études de marché, veille et enquêtes clients | 3/12 | 25 % |
+| 14 | Piloter le site web et le SEO | 2/12 | 17 % |
+| 15 | Piloter la communication interne | 2/12 | 17 % |
+| 16 | Accompagner les lancements de produits et d'offres | 2/12 | 17 % |
+| 17 | Développer la marque employeur | 2/12 | 17 % |
+| 18 | Développer l'e-commerce et les leviers digitaux | 2/12 | 17 % |
+| 19 | Générer des leads B2B | 2/12 | 17 % |
+
+**C. Transparence**
+- **N = 12.** Répartition : 13 = 0, reste PACA = 1 (Proman, Manosque, 04), reste France = 11.
+- **Classement selon l'effectif indiqué dans l'offre :** BILS DEROO (environ 1 800), Samse (environ 1 200), client horticole de RECRUTOYOU (plus de 100).
+- **Classement par l'API :**
+  - E.Leclerc Aulnoye-Aymeries : la société Aulnoydis (tranche 22) a été rapprochée par code postal et activité « hypermarché ».
+  - PIMAN Consultants : tranche 32.
+  - SYSTRA : tranche 32.
+  - Groupama Rhône-Alpes Auvergne : tranche 51.
+  - Proman : catégorie GE, 1 278 agences.
+- **Écarts ou jugements signalés :**
+  - Europe Technologies : l'unité légale est une holding en tranche 12, mais l'API la range en catégorie ETI et le poste concerne un « groupe multisite ». Je l'ai classée B, ce qui s'écarte de la lecture stricte de la tranche.
+  - Technord : effectif « NN » dans l'API. Classée B sur notoriété et indices (groupe présent en France et en Belgique, organisé en Business Units).
+- **Clients de cabinets classés sur indice chiffré (marqués \* en annexe) :**
+  - Les Nouveaux Héritiers : le poste encadre 15 personnes.
+  - A PLACE conseil : 29 magasins, groupe international.
+- **Ex aequo :**
+  - Au rang 8 des compétences, Esprit d'équipe est aussi à 4/12.
+  - Viennent ensuite, à 3/12 : rigueur, organisation, emailing, IA générative, réseaux sociaux, force de proposition.
+  - Missions à 1/12, non listées : conduite du changement, relation client, négociation de contrats, automatisation/IA, structuration de l'offre et merchandising.
+- **Limite 1 (règle d'arrêt) :** la liste France CDI compte 862 résultats. Je l'ai arrêtée après la page 4, car les pages 3 et 4 ne contenaient aucun intitulé conforme ; les listes CDD et Fonctionnaire ont été arrêtées après la page 2. Or l'offre Michael Page (Fréjus), trouvée dans la liste PACA, n'apparaissait dans aucune des 4 premières pages France. Le tri par pertinence de HelloWork disperse donc des intitulés conformes : **l'échantillon France est probablement incomplet**.
+- **Limite 2 (codage) :** j'ai codé les compétences et les missions à partir d'extraits compacts (180 mots au plus), pas du texte intégral. Les outils et qualités secondaires peuvent être sous-comptés.
+- **Limite 3 (indéterminées) :** les 12 indéterminées sont exclues des calculs. Ixora et MYRECRUTEUR sont probablement à 50 salariés ou plus (groupes multi-enseignes ou multi-marques), mais sans élément chiffré.
+- **Limite 4 (contrats) :** les 28 offres retenues sont toutes des CDI. Aucun CDD conforme n'a été trouvé.
+
+### C. Secteur public / institutionnel
+
+**A. Compétences** : N = 0. Aucune offre conforme, donc pas de tableau.
+
+**B. Missions** : N = 0. Sans objet.
+
+**C. Transparence**
+- **Listes lues sans aucun intitulé conforme :**
+  - Fonctionnaire : 13 (2 offres), PACA (7 offres), France (151 résultats, pages 1–2).
+  - CDD : 13 (0), PACA (1), France (125 résultats, pages 1–2).
+- **Intitulés approchants, tous exclus parce qu'il s'agit de postes de directeur :**
+  - « Directeur Communication et Marketing », Région Auvergne-Rhône-Alpes (69).
+  - « Directeur de la Communication, de l'Évènementiel et du Marketing Territorial », Mairie de Graulhet (81).
+  - « Directeur·rice de la Communication & du Marketing », Firdaous Charity France (association, 93, liste CDI).
+- **Pourquoi aucune offre :** dans le public, les postes de ce niveau s'intitulent presque toujours « Responsable (du service) communication », sans le mot « marketing ». J'en ai vu environ 25 dans les listes ; ils sont hors périmètre par définition.
+- Je n'ai pas complété le secteur artificiellement.
+
+#### Annexe : offres analysées
+
+| Secteur | Intitulé | Employeur | Dépt | Publication | Contrat | URL |
+|---|---|---|---|---|---|---|
+| A | Responsable Communication et Marketing H/F | EDL – Edition et Développement Logiciels | 13 | 08/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/81052545.html |
+| A | Responsable Marketing et Communications H/F | KEY PREDICT (Central Test) | 75 | 07/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84188529.html |
+| A | Responsable Communication et Webmarketing H/F | ADEIS RH pour Palmifrance (Nishikidori) | 44 | 28/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83847911.html |
+| A\* | Responsable Marketing & Communication H/F | Approach People Recruitment (client : start-up) | 75 | 07/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/82108638.html |
+| B | Responsable Communication & Marketing H/F | Proman | 04 | 09/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83205762.html |
+| B | Responsable Communication et Marketing H/F | BILS DEROO | 59 | 06/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84136048.html |
+| B | Responsable Communication et Marketing H/F | E.Leclerc Aulnoye-Aymeries (Aulnoydis) | 59 | 02/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/82899460.html |
+| B | Responsable Communication & Marketing H/F | PIMAN Group | 69 | 17/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/81417354.html |
+| B\* | Responsable Marketing et Communication H/F | Les Nouveaux Héritiers (client : marque de mode) | 75 | 02/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84002615.html |
+| B | Responsable Marketing, Communication et Événementiel H/F | Europe Technologies | 44 | 28/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/81794671.html |
+| B | Responsable Marketing Stratégique et Communication H/F | Serpinet Conseil pour Groupama Rhône-Alpes Auvergne | 69 | 29/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83885346.html |
+| B | Responsable Marketing & Communication H/F | Groupe Samse (enseigne SAMSE) | 38 | 02/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84017977.html |
+| B | Responsable Marketing et Communication H/F | SYSTRA | 75 | 17/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83450460.html |
+| B | Responsable Marketing et Communication - BtoB - BtoC H/F | RECRUTOYOU (client horticole, plus de 100 salariés) | 44 | 24/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83715643.html |
+| B\* | Responsable Marketing & Communication - Industrie H/F | Technord | 59 | 05/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84092226.html |
+| B\* | Responsable Marketing Offre et Communication H/F | A PLACE conseil (client : groupe semencier, 29 magasins) | 12 | 15/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83382710.html |
+| Indét. | Responsable Marketing & Communication H/F | Michael Page (client agroalimentaire « à taille humaine ») | 83 | 16/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83419783.html |
+| Indét. | Responsable Communication et Marketing H/F | Mercato de l'emploi (client : grossiste fruits et légumes) | 80 | 24/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/78276753.html |
+| Indét. | Responsable Communication & Marketing Groupe H/F | Ixora Conseil (client : groupe multi-enseignes) | 972 | 15/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/81334049.html |
+| Indét. | Responsable Marketing et Communication H/F | MYRECRUTEUR (client : groupe nautique multi-marques) | 11 | 08/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84198697.html |
+| Indét. | Responsable Marketing & Communication H/F | Aventurine RH (client sans indice de taille) | 971 | 06/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83070468.html |
+| Indét. | Responsable Marketing & Communication H/F | UPTOO (client photovoltaïque, « esprit start-up ») | 92 | 03/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84060769.html |
+| Indét. | Responsable Marketing et Communication - Valence H/F | Alphea Conseil (client : éditeur de logiciels) | 26 | 22/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83608258.html |
+| Indét. | Responsable Marketing et Communication H/F | Dhova (client : stérilisation industrielle) | 72 | 18/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/80303857.html |
+| Indét. | Head Of Communication And Marketing H/F | Optin Recrutement (client high-tech / télécom) | 34 | 24/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/82623309.html |
+| Indét. | Responsable Communication & Marketing H/F | CPA SERRE (GIE, effectif « NN » dans l'API) | 24 | 23/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83673927.html |
+| Indét. | Responsable Marketing et Communication H/F | Zenith IT Consulting (absente de l'API) | 78 | 08/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84206946.html |
+| Indét. | Responsable Marketing & Communication H/F | GR Intérim & Recrutement (client : groupe de voyages haut de gamme) | 75 | 28/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83865860.html |
+
+\* = classée sur indice, sans effectif chiffré ni API.
+
+**Offres écartées (7)**
+- 78276774, Mercato de l'emploi (80) : doublon de 78276753 (même client, même intitulé).
+- 84098915, Ozaé (53) : « Responsable Marketing & Communication - Chef de Projet ». Intitulé hybride écarté au titre de l'exclusion « chef de projet » ; le contenu décrit surtout de la conduite de projets.
+- 81559214, Premi Homme (21) : directeur.
+- 83510241, Firdaous Charity France (93, association) : directeur·rice.
+- 83797712, Région Auvergne-Rhône-Alpes (69) : directeur.
+- 81825122, Mairie de Graulhet (81) : directeur.
+- 83371415, Keltis (69) : intitulé « Référent », hors périmètre.
+
+**Méthode et volume**
+- 16 pages de listes HelloWork lues.
+- 31 lectures de pages d'offres, sous le plafond de 130 (dont une relecture ciblée pour vérifier la mention « start-up »).
+- 18 requêtes à l'API recherche-entreprises.
+- Toutes les lectures sont faites avec WebFetch, au plus 5 en parallèle, sans aucun téléchargement par script.
+- Collecte du 8 octobre 2026, terminée le 9 octobre 2026.
