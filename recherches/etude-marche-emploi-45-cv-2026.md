@@ -126,6 +126,286 @@ En cas d'égalité, les intitulés sont départagés par le nombre de postes pub
 
 ---
 
+## 1. Chargé de communication
+
+**Bilan :** A = 11 offres, B = 26, C = 50 ; 13 = 11, reste PACA = 9, reste France = 67 ; écartées = 3 après lecture (2 expirées, 1 hors périmètre) + 5 doublons, et 13 indéterminées A/B comptées à part
+
+### A. TPE / PME / start-up (moins de 50 salariés)
+
+**A. Compétences** (N = 11)
+
+| Rang | Compétence | Offres | % |
+|---|---|---|---|
+| 1 | PAO / suite Adobe | 10/11 | 91 % |
+| 2 | Rédaction | 9/11 | 82 % |
+| 3 | Organisation/rigueur | 7/11 | 64 % |
+| 4= | Créativité | 6/11 | 55 % |
+| 4= | Autonomie | 6/11 | 55 % |
+| 6 | Canva | 5/11 | 45 % |
+| 7= | Force de proposition | 4/11 | 36 % |
+| 7= | Réseaux sociaux | 4/11 | 36 % |
+
+**B. Missions** (N = 11)
+
+| Rang | Mission | Offres | % |
+|---|---|---|---|
+| 1= | Animer les réseaux sociaux (contenus, planning, modération) | 8/11 | 73 % |
+| 1= | Concevoir les supports print et digitaux (visuels, PLV, catalogues) | 8/11 | 73 % |
+| 1= | Suivre les indicateurs et produire le reporting | 8/11 | 73 % |
+| 4 | Rédiger les contenus web et print | 6/11 | 55 % |
+| 5= | Organiser événements et salons | 5/11 | 45 % |
+| 5= | Réaliser newsletters et emailings | 5/11 | 45 % |
+| 5= | Réaliser photos et vidéos (tournage, montage) | 5/11 | 45 % |
+| 5= | Mettre à jour le site web | 5/11 | 45 % |
+| 9= | Animer la communication interne | 4/11 | 36 % |
+| 9= | Piloter les prestataires (studio, imprimeurs, agences) | 4/11 | 36 % |
+| 11= | Élaborer et déployer le plan de communication | 3/11 | 27 % |
+| 11= | Coordonner les acteurs internes et externes | 3/11 | 27 % |
+| 11= | Valoriser l'image, les projets et les équipes | 3/11 | 27 % |
+| 11= | Assurer la veille (tendances, concurrence) | 3/11 | 27 % |
+| 11= | Définir la ligne et le calendrier éditoriaux | 3/11 | 27 % |
+| 16= | Appuyer les équipes commerciales et marketing | 2/11 | 18 % |
+| 16= | Garantir la charte graphique | 2/11 | 18 % |
+| 16= | Gérer les relations presse | 2/11 | 18 % |
+| 16= | Piloter des campagnes de communication (360°) | 2/11 | 18 % |
+| 16= | Développer la marque employeur | 2/11 | 18 % |
+
+**C. Transparence**
+- Méthode, commune aux 3 secteurs : source unique HelloWork, listes lues les 8 et 9 octobre 2026. J'ai lu 103 pages d'offres sur les 130 autorisées, une par une (5 au plus en parallèle). Listes balayées : 13 (CDI, CDD et Fonctionnaire, 1 page chacune) ; reste PACA (CDI p1-2, CDD p1, Fonctionnaire p1-2) ; France (CDI p1-7, CDD p1-10, Fonctionnaire p1-2). Arrêt après 2 pages consécutives sans intitulé conforme au-delà de la p4. Quand l'offre ne donne pas d'effectif, la taille vient de l'API recherche-entreprises (tranche de l'unité légale). Une offre compte une seule fois par compétence ou par mission ; les compétences « appréciées » comptent comme les compétences exigées.
+- Regroupements, valables pour les 3 secteurs : « Organisation/rigueur » réunit organisation, rigueur, respect des délais, méthode et priorisation. « Réactif, polyvalent » réunit réactivité, polyvalence, adaptabilité et gestion de l'urgence. « Relationnel » réunit aisance relationnelle, diplomatie, écoute et capacité à fédérer. « Rédaction » réunit qualités rédactionnelles, orthographe et storytelling. « PAO / suite Adobe » couvre InDesign, Photoshop, Illustrator, Premiere et les « logiciels de PAO » non nommés. « Pack Office » couvre la bureautique.
+- N = 11 (8 CDI, 3 CDD), publiées du 10/09 au 08/10/2026. Répartition : 13 = 0, reste PACA = 0, reste France = 11 (29 ×2, 10, 44, 49, 53, 54, 59, 67, 69, 72).
+- Pourquoi si peu d'offres :
+  - Le 13 ne compte aucune offre privée conforme.
+  - La PACA n'en compte qu'une (Realisaprint, 06), classée B.
+  - En France, le vivier HelloWork est épuisé : les intitulés conformes se trouvent en CDI p1-3 et en CDD p1 et p6-7.
+  - Sur 53 offres privées lues, 26 sont B, 13 indéterminées et 3 écartées.
+  - Photo RDV (Marignane), cité dans le brief, ne figurait pas dans les listes le 08/10 : il n'est pas compté.
+- Classement : aucune offre A n'indique son effectif ; les 11 sont classées par l'API (tranches 03 à 12). Cas limite majeur : 7 offres viennent d'unités de moins de 50 salariés appartenant à des groupes que l'Insee classe ETI ou GE (Semosia, Polaris, Tisserin Immobilier, XEFI, Atout Groupe, Apex Franchises, Pégase Market). Seules 4 sont des PME au sens de l'Insee (SYD Digital Care, Delta Marketing, BDOR, CRAN). Ce profil A décrit donc surtout de petites équipes de sièges ou de filiales.
+- Écartées, pour l'ensemble du vivier privé A + B :
+  - 3 après lecture : 2 offres expirées (Les Artisans Recrutement, Thélem assurances) et 1 intitulé hors périmètre (« Chef de produit - chargé de communication et réseaux [sociaux] », Valentin Traiteur).
+  - 3 variantes d'une même offre CRAN (langue ou temps de travail différents), traitées comme doublons.
+  - Écartées dès la liste : intitulés contenant « marketing », « community manager », « relations presse/médias » ; postes d'assistant(e) ou de chef de projet ; alternance, stage, apprentissage et service civique ; annonces d'écoles ; postes hors de France.
+- 13 indéterminées, comptées à part :
+  - 9 annonces de cabinets, d'agences d'intérim ou de job boards sans taille du client : Adecco Medical/LHH, LHH en Guyane, Artis, Lynx RH, Mercato de l'emploi, MS Group, Recruteam, Good Recruiter, Manpower.
+  - 1 annonce sans employeur nommé (Equi-ressources).
+  - 3 employeurs sans correspondance ni tranche dans l'API : Crowe France à Fontainebleau, Réseau Pil'Poêle, Société Interfaces.
+- Limites :
+  - Avec N = 11, les résultats sont fragiles : une offre pèse environ 9 points.
+  - Les extraits sont résumés (180 mots au plus) : des outils secondaires sont peut-être sous-comptés.
+  - La liste CDI a été arrêtée en p7 selon la règle. Or la liste CDD contenait encore des offres conformes après 4 pages vides : il peut donc rester des offres CDI plus loin.
+
+### B. Grande entreprise (50 salariés et plus)
+
+**A. Compétences** (N = 26)
+
+| Rang | Compétence | Offres | % |
+|---|---|---|---|
+| 1 | Organisation/rigueur | 21/26 | 81 % |
+| 2= | Rédaction | 16/26 | 62 % |
+| 2= | Relationnel | 16/26 | 62 % |
+| 4 | Autonomie | 15/26 | 58 % |
+| 5= | Gestion de projet | 11/26 | 42 % |
+| 5= | PAO / suite Adobe | 11/26 | 42 % |
+| 7 | Créativité | 10/26 | 38 % |
+| 8= | Anglais / langues | 8/26 | 31 % |
+| 8= | Réactif, polyvalent | 8/26 | 31 % |
+| 8= | Pack Office | 8/26 | 31 % |
+
+**B. Missions** (N = 26)
+
+| Rang | Mission | Offres | % |
+|---|---|---|---|
+| 1= | Organiser événements, salons et congrès | 17/26 | 65 % |
+| 1= | Suivre les KPI et produire le reporting | 17/26 | 65 % |
+| 3 | Concevoir les supports print et digitaux | 15/26 | 58 % |
+| 4 | Piloter les agences et prestataires | 13/26 | 50 % |
+| 5 | Animer les réseaux sociaux (dont LinkedIn) | 12/26 | 46 % |
+| 6= | Élaborer et déployer le plan de communication | 10/26 | 38 % |
+| 6= | Rédiger les contenus web et print | 10/26 | 38 % |
+| 6= | Animer la communication interne | 10/26 | 38 % |
+| 9 | Gérer le budget communication | 9/26 | 35 % |
+| 10= | Mettre à jour le site web et l'intranet | 8/26 | 31 % |
+| 10= | Piloter des campagnes de communication (360°, locales) | 8/26 | 31 % |
+| 12= | Accompagner les services, filiales et réseaux | 7/26 | 27 % |
+| 12= | Coordonner les acteurs internes et externes | 7/26 | 27 % |
+| 12= | Définir la ligne et le calendrier éditoriaux | 7/26 | 27 % |
+| 15= | Développer partenariats et relations parties prenantes | 6/26 | 23 % |
+| 15= | Appuyer les équipes commerciales et marketing | 6/26 | 23 % |
+| 15= | Garantir la charte et l'image de marque | 6/26 | 23 % |
+| 18= | Gérer les relations presse | 5/26 | 19 % |
+| 18= | Réaliser photos et vidéos | 5/26 | 19 % |
+
+**C. Transparence**
+- N = 26 (14 CDI, 12 CDD), publiées du 09/09 au 09/10/2026. Répartition : 13 = 0, reste PACA = 1 (Realisaprint, 06), reste France = 25 (69 ×3, 75 ×3, 64 ×2, 85 ×2, 93 ×2, 14, 21, 22, 29, 34, 35, 42, 50, 53, 56, 73, 86, 92).
+- Classement :
+  - 7 par l'effectif indiqué dans l'offre : Global D (> 200), Noz (6 800), Moulin d'Élise (~200), AG2R (~15 000), Terresis (> 900), Eiffage (direction de 1 000 personnes), Guerbet (~2 600).
+  - 1 par la description du client par le cabinet : Finaïa, client « acteur majeur de son secteur » (indice qualitatif).
+  - 16 par l'API (tranches 21 à 42).
+  - 2 par l'API interrogée par commune et code NAF hypermarché, avec un rattachement déduit : E.Leclerc Loudun (LOUDUNDIS, tranche 21) et l'hypermarché Mousquetaires de Fontaine-lès-Dijon (GREECE 25, tranche 21).
+- Cas limites :
+  - AG2R La Mondiale (groupe paritaire) et Garance (mutuelle) sont classées B comme organismes privés, faute de figurer dans la liste C.
+  - Groupe Wichard est classé B (tranche 22), alors que son site de Saint-Vaast (Facnor) a moins de 50 salariés ; son contrat est incohérent (CDD en en-tête, CDI dans le texte).
+  - Guerbet est retenue malgré un intitulé sans « de ».
+  - Teréga compte pour 2 offres, car les intitulés diffèrent.
+  - RATP Cap Île-de-France est un poste hybride avec une partie d'office manager.
+- Écartées et indéterminées : voir le secteur A, le vivier privé étant commun.
+- Limites : N = 26 reste sous 50 parce que le vivier HelloWork est épuisé. Les 9 offres de cabinets non classables pourraient relever de B. Le profil est tiré par l'événementiel BtoB, les campagnes et le reporting.
+
+### C. Secteur public / institutionnel
+
+**A. Compétences** (N = 50)
+
+| Rang | Compétence | Offres | % |
+|---|---|---|---|
+| 1 | Rédaction | 43/50 | 86 % |
+| 2 | Organisation/rigueur | 30/50 | 60 % |
+| 3 | PAO / suite Adobe | 29/50 | 58 % |
+| 4 | Réactif, polyvalent | 27/50 | 54 % |
+| 5 | Autonomie | 25/50 | 50 % |
+| 6 | Relationnel | 23/50 | 46 % |
+| 7 | Réseaux sociaux | 21/50 | 42 % |
+| 8= | Pack Office | 20/50 | 40 % |
+| 8= | Photo / vidéo | 20/50 | 40 % |
+
+**B. Missions** (N = 50)
+
+| Rang | Mission | Offres | % |
+|---|---|---|---|
+| 1 | Mettre à jour le site web, l'intranet, l'appli et les panneaux | 34/50 | 68 % |
+| 2 | Concevoir les supports print et digitaux (affiches, flyers, brochures) | 33/50 | 66 % |
+| 3 | Animer les réseaux sociaux | 32/50 | 64 % |
+| 4 | Rédiger articles et contenus | 29/50 | 58 % |
+| 5 | Élaborer et déployer le plan de communication | 23/50 | 46 % |
+| 6= | Réaliser photos, vidéos et reportages | 22/50 | 44 % |
+| 6= | Organiser manifestations, cérémonies et événements | 22/50 | 44 % |
+| 8 | Gérer les relations presse (communiqués, dossiers) | 20/50 | 40 % |
+| 9 | Réaliser le magazine ou bulletin municipal | 16/50 | 32 % |
+| 10 | Évaluer les actions et suivre les statistiques | 15/50 | 30 % |
+| 11 | Piloter les prestataires (imprimeurs, agences) | 14/50 | 28 % |
+| 12 | Conseiller élus et direction, accompagner les services | 12/50 | 24 % |
+| 13 | Assurer la veille (médias, e-réputation, tendances) | 11/50 | 22 % |
+| 14 | Suivre le budget communication | 10/50 | 20 % |
+| 15 | Piloter des projets de communication (brief à bilan) | 9/50 | 18 % |
+| 16 | Animer la communication interne | 8/50 | 16 % |
+| 17= | Réaliser des newsletters | 7/50 | 14 % |
+| 17= | Animer partenariats et relations institutionnelles | 7/50 | 14 % |
+
+Viennent ensuite, ex æquo à 6/50 (12 %) : gérer la photothèque et l'archivage ; assurer des tâches administratives ou de cabinet ; piloter des campagnes ; tenir le calendrier éditorial.
+
+**C. Transparence**
+- N = 50, plafond atteint : 37 postes « Fonctionnaire » (dont certains ouverts aux contractuels), 8 CDD et 5 CDI, publiés du 09/09 au 08/10/2026. Répartition : 13 = 11 (10 Fonctionnaire et 1 CDD du GIP Réussite éducative), reste PACA = 8 (06 ×3, 83 ×3, 84, 05), reste France = 31.
+- Typologie : 23 communes, 7 EPCI ou syndicats mixtes, 1 département, 1 région, 7 services de l'État, 4 établissements publics ou d'enseignement supérieur (Monnaie de Paris, EFS, Météo-France, Sciences Po), 1 GIP, 6 associations ou interprofessions (Nordic Alpes du Sud, Cniel, Firdaous Charity, UNIVI, CPTS du Pays Blanc, Campus Mozaïk).
+- Sélection : les 19 offres conformes du 13 et du reste de la PACA sont toutes retenues. La France est complétée dans l'ordre des listes jusqu'au plafond : 10 offres publiques ou associatives des listes CDI et CDD (p1-2), puis 21 offres de la liste Fonctionnaire p1.
+- Offres conformes non lues parce que le plafond était atteint : 3 en fin de p1 et environ 25 en p2 de la liste Fonctionnaire France, plus 28 offres publiques ou associatives repérées en CDD p6-7 (universités, CHU, communes, OT Périgord Noir…). Pour la même raison, la liste Fonctionnaire France (565 résultats) n'a pas été balayée au-delà de la p2.
+- Écartées :
+  - 2 doublons : DGA 83883593, identique à Ministère des Armées 83883430 ; Brunoy CDD 83958166, identique à Brunoy Fonctionnaire.
+  - Intitulés hors périmètre : assistant de communication ; chargé de mission générique (CD13) ; chargé de protocole ; chef de service communication ; chargé de projets communication ; chargé de développement thématique – communication ; « chargé d'animation et de communication prévention des déchets » (P2A, 04) ; « chargé de production culturelle et de communication » ; intitulés en relations presse ou réseaux sociaux ; services civiques ; apprentissage.
+  - Hors de France : Groupe SOS à Madagascar.
+- Indice du brief : les CDD de l'Association Serena (Marseille) ne figuraient le 08/10/2026 ni dans la liste CDD du 13 (6 résultats) ni en p1 de la liste du 13 sans filtre. Ils ne sont pas comptés et sont sans doute expirés.
+- Cas limites :
+  - Sciences Po est publiée sous l'étiquette « centre de formation », mais il s'agit d'un emploi salarié en CDD : l'offre est retenue.
+  - Le Cniel, recruté via le cabinet S&You, est une interprofession, donc classé C.
+  - UNIVI est une association qui gère un établissement de santé privé d'intérêt collectif.
+  - L'offre de Champs-sur-Marne est un CDD affiché sous la rubrique Fonctionnaire.
+- Limites :
+  - Les communes pèsent lourd (23/50), d'où un profil de communication territoriale polyvalente (magazine, panneaux lumineux, cérémonies).
+  - L'offre d'Apatou ne liste aucune compétence.
+  - Les extraits sont résumés.
+
+#### Annexe : offres analysées
+
+| Secteur | Intitulé | Employeur | Dépt | Publication | Contrat | URL |
+|---|---|---|---|---|---|---|
+| A | Chargé de Communication | Semosia | 49 | 02/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84032994.html |
+| A | Chargé de Communication IT | SYD Digital Care | 72 | 05/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84105144.html |
+| A | Chargé de Communication BtoB | Polaris | 29 | 08/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84215740.html |
+| A | Chargé de Communication Lille CDI | Tisserin Immobilier | 59 | 07/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84185904.html |
+| A | Chargé de Communication | XEFI | 69 | 16/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/81370125.html |
+| A | Chargé de Communication | Atout Groupe | 29 | 24/09/2026 | CDD 4 mois | https://www.hellowork.com/fr-fr/emplois/83739874.html |
+| A | CDD - Chargé de Communication Opérationnelle | Apex Franchises (Magasin Vert) | 44 | 10/09/2026 | CDD 1 an | https://www.hellowork.com/fr-fr/emplois/83246216.html |
+| A | Chargé de Communication & Marque Employeur | Delta Marketing | 54 | 05/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84097346.html |
+| A | Chargé de Communication 360 | BDOR | 67 | 13/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/82275275.html |
+| A | Chargé(e) de Communication Français-Allemand - Temps plein | CRAN (via L'Industrie recrute) | 10 | 22/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/72271337.html |
+| A | Chargé de Communication Junior CDD | Pégase Market | 53 | 02/10/2026 | CDD 6 mois | https://www.hellowork.com/fr-fr/emplois/84042545.html |
+| B | Chargé de Communication - Bilingue Italien | Realisaprint | 06 | 06/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84150195.html |
+| B | Chargé de Communication | Client caennais « acteur majeur » (via cabinet Finaïa) | 14 | 05/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84076533.html |
+| B | Chargé de Communication Événementielle | Global D (via L'Industrie recrute) | 69 | 06/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84111882.html |
+| B | Chargé de Communication | E.Leclerc Loudun | 86 | 18/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/78102058.html |
+| B | Graphiste - Chargé de Communication | Fenetrea | 56 | 29/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83888096.html |
+| B | Chargé de Communication | Omerin | 42 | 17/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83483248.html |
+| B | Chargé de Communication | Noz | 53 | 17/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/81422727.html |
+| B | Chargé de Communication Junior-Polyvalent | Moulin d'Élise | 22 | 29/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83884181.html |
+| B | Chargé de Communication Confirmé Multi-Marques | Groupe TDS | 69 | 06/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84130435.html |
+| B | Chargé de Communication | Groupe Wichard – Facnor (via L'Industrie recrute) | 50 | 05/10/2026 | CDD (en-tête) / CDI (texte) | https://www.hellowork.com/fr-fr/emplois/84076567.html |
+| B | Chargé(e) de Communication | AG2R La Mondiale | 75 | 08/10/2026 | CDD | https://www.hellowork.com/fr-fr/emplois/83098943.html |
+| B | Chargé de Communication | Caisse d'Epargne Languedoc Roussillon | 34 | 01/10/2026 | CDD 6 mois | https://www.hellowork.com/fr-fr/emplois/83988677.html |
+| B | Chargé de Communication | MDA | 69 | 29/09/2026 | CDD (remplacement) | https://www.hellowork.com/fr-fr/emplois/83883583.html |
+| B | Chargé de Communication CDD | Veolia Assainissement et Maintenance | 93 | 23/09/2026 | CDD 4 mois | https://www.hellowork.com/fr-fr/emplois/83685182.html |
+| B | Chargé de Communication Événementiel | Terresis (groupe Roullier) | 35 | 21/09/2026 | CDD 6 mois | https://www.hellowork.com/fr-fr/emplois/83599420.html |
+| B | Chargé de Communication Digitale | Crédit Mutuel Océan | 85 | 09/10/2026 | CDD 4-5 mois | https://www.hellowork.com/fr-fr/emplois/83149550.html |
+| B | Chargé de Communication Digitale et Print | Cavac | 85 | 18/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83525583.html |
+| B | Office Manager - Chargé de Communication | RATP Cap Île-de-France | 75 | 18/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83516131.html |
+| B | Chargé de Communication - Projet Lyon-Turin - CDIC | Eiffage Génie Civil / Eiffage Métal | 73 | 23/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83696100.html |
+| B | Chargé de Communication | Hypermarché Groupement Mousquetaires (Fontaine-lès-Dijon) | 21 | 09/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/77762873.html |
+| B | Chargé de Communication Événementiel Clients & Partenariats | Verlingue | 29 | 09/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/81221808.html |
+| B | Chargé de Communication Interne | Garance (mutuelle) | 75 | 07/10/2026 | CDD 9 mois | https://www.hellowork.com/fr-fr/emplois/84166297.html |
+| B | Chargé de Communication et Média CDD | PepsiCo France | 92 | 06/10/2026 | CDD | https://www.hellowork.com/fr-fr/emplois/80979794.html |
+| B | Chargé(e) de Communication Digitale - CDD 10 | Teréga | 64 | 25/09/2026 | CDD ~10,5 mois | https://www.hellowork.com/fr-fr/emplois/83747525.html |
+| B | Chargé de Communication Projets Concertation - CDD | Teréga | 64 | 16/09/2026 | CDD 12 mois | https://www.hellowork.com/fr-fr/emplois/83446826.html |
+| B | Chargé Communication Évènementielle | Guerbet | 93 | 17/09/2026 | CDD 9 mois | https://www.hellowork.com/fr-fr/emplois/83496060.html |
+| C | Chargée - Chargé de Communication | Gendarmerie nationale – BCOM (État) | 13 | 03/10/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/84047420.html |
+| C | Chargé de Communication Digitale | Commune de Châteaurenard | 13 | 04/10/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/84066927.html |
+| C | Chargé de Communication | Commune de Simiane-Collongue | 13 | 02/10/2026 | Fonctionnaire (ou contractuel) | https://www.hellowork.com/fr-fr/emplois/83991710.html |
+| C | Chargé de Communication Sectoriel | Commune d'Aix-en-Provence | 13 | 30/09/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/83917265.html |
+| C | Chargé de Communication | Commune de La Ciotat | 13 | 15/09/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/82334386.html |
+| C | Chargé(e) de la communication | Commune de Carry-le-Rouet | 13 | 17/09/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/83462540.html |
+| C | Chargé de Communication | Terre de Provence Agglomération | 13 | 09/09/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/83179579.html |
+| C | Webmaster - Chargé de Communication Numérique | Région Provence-Alpes-Côte d'Azur | 13 | 03/10/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/84047583.html |
+| C | Agent Chargé de la Communication | Commune de Carnoux-en-Provence | 13 | 09/09/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/81171830.html |
+| C | Chargé de Mission Événementiel et Communication | Commune des Saintes-Maries-de-la-Mer | 13 | 03/10/2026 | Fonctionnaire (ou contractuel) | https://www.hellowork.com/fr-fr/emplois/84047670.html |
+| C | Chargé de Mission Stratégie de Communication | GIP Réussite éducative de Marseille | 13 | 05/10/2026 | CDD 6 mois | https://www.hellowork.com/fr-fr/emplois/84109726.html |
+| C | Chargé de Communication | Commune de Cadenet | 84 | 01/10/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/83958152.html |
+| C | Chargé de Communication Numérique | Commune de Sanary-sur-Mer | 83 | 06/10/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/83075109.html |
+| C | Chargé de Communication | Commune de Saint-Maximin-la-Sainte-Baume | 83 | 27/09/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/83813704.html |
+| C | Chargé de Mission Communication | SMIAGE (syndicat mixte) | 06 | 17/09/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/83461672.html |
+| C | Chargé de Communication Digitale | Département des Alpes-Maritimes | 06 | 18/09/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/83501473.html |
+| C | Chargé de Communication | CA du Pays de Grasse | 06 | 18/09/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/83501371.html |
+| C | Chargé de Communication et Assistance au Cabinet du Maire | Commune de Callas | 83 | 17/09/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/83462501.html |
+| C | Chargé de Communication | Nordic Alpes du Sud (association) | 05 | 10/09/2026 | CDD 12 mois | https://www.hellowork.com/fr-fr/emplois/83243523.html |
+| C | Chargé de Communication | Cniel (via cabinet S&You) | 75 | 28/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83855120.html |
+| C | Chargé de Communication 360° | La Monnaie de Paris (EPIC) | 75 | 01/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/80806184.html |
+| C | Chargé de Communication & Gestion de Projets | Firdaous Charity France (association) | 93 | 07/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84187216.html |
+| C | Animateur Territorial - Chargé de Communication | UNIVI – Hôpital Les Magnolias (DAC 91 Nord) | 91 | 30/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83939000.html |
+| C | Chargé de Communication | GE Santé Services pour la CPTS du Pays Blanc | 44 | 05/10/2026 | CDD 12 mois | https://www.hellowork.com/fr-fr/emplois/83049789.html |
+| C | Chargé de Communication | Sciences Po (Sciences Po Carrières) | 75 | 29/09/2026 | CDD 5 mois | https://www.hellowork.com/fr-fr/emplois/83893716.html |
+| C | Chargé de Communication et Évènementiel | Association Campus Mozaïk | 75 | 29/09/2026 | CDD 6 mois | https://www.hellowork.com/fr-fr/emplois/83902903.html |
+| C | Chargé de Communication de Centre | Ministère des Armées (DGA) | 75 | 29/09/2026 | CDD | https://www.hellowork.com/fr-fr/emplois/83883430.html |
+| C | Chargé de Communication - Développeur de Territoire | EFS | 08 | 17/09/2026 | CDD 12 mois | https://www.hellowork.com/fr-fr/emplois/83476211.html |
+| C | Chargé - Chargée de Communication Externe | Nîmes Métropole | 30 | 22/09/2026 | CDI (contractuel) | https://www.hellowork.com/fr-fr/emplois/83651442.html |
+| C | Chargé(e) de Communication | Syndicat mixte Valence Romans Mobilités | 26 | 07/10/2026 | Fonctionnaire ou CDD 3 ans | https://www.hellowork.com/fr-fr/emplois/84159640.html |
+| C | Chargé de Communication | Préfecture de la Nièvre (État) | 58 | 07/10/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/84159910.html |
+| C | Chargé de Communication | Ministère de l'Intérieur – DCIS (État) | 92 | 28/09/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/81687037.html |
+| C | Chargée - Chargé de Communication | Gendarmerie nationale – CESAN (État) | 94 | 01/10/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/83989576.html |
+| C | Chargé de Communication - Dugny | Commune de Dugny | 93 | 07/10/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/84160314.html |
+| C | Chargé de Communication - Fagnières | Commune de Fagnières | 51 | 03/10/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/84048309.html |
+| C | Chargé de Communication-Graphiste | École d'enseignement supérieur (État), Champs-sur-Marne | 77 | 29/09/2026 | CDD 1 an (rubrique Fonctionnaire) | https://www.hellowork.com/fr-fr/emplois/83906421.html |
+| C | Chargé de Communication - Nîmes | Commune de Nîmes | 30 | 30/09/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/83917773.html |
+| C | Chargé de Communication - Maromme | Commune de Maromme | 76 | 26/09/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/83797545.html |
+| C | Chargé de Communication Digitale | Météo-France | 31 | 26/09/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/80626070.html |
+| C | Chargé de Communication - Ville de Landerneau | Ville de Landerneau | 29 | 08/10/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/84200152.html |
+| C | Chargé de Communication - Montélimar Agglo | Montélimar Agglo | 26 | 06/10/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/84129555.html |
+| C | Chargé de Communication - Mairie de Méricourt | Commune de Méricourt | 62 | 07/10/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/84160269.html |
+| C | Chargé de Communication - Thizy les Bourgs | Commune de Thizy-les-Bourgs | 69 | 07/10/2026 | Fonctionnaire (temps non complet) | https://www.hellowork.com/fr-fr/emplois/84159405.html |
+| C | Chargé de Communication - Commune de Die | Commune de Die | 26 | 04/10/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/84066850.html |
+| C | Chargé de Communication - Valorizon | Syndicat mixte ValOrizon | 47 | 24/09/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/83705059.html |
+| C | Chargé de Communication - Spécialité Webmestre | Direction nationale de la police aux frontières (État) | 75 | 03/10/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/79671730.html |
+| C | Chargé de Communication - Commune de Mulhouse | Commune de Mulhouse | 68 | 03/10/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/84048321.html |
+| C | Chargé de Communication - Mairie de Louvres | Commune de Louvres | 95 | 02/10/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/83991645.html |
+| C | Chargée de Communication - Mairie d'Apatou | Commune d'Apatou | 973 | 06/10/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/83074885.html |
+| C | Chargé de Communication - Mairie de Brunoy | Commune de Brunoy | 91 | 01/10/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/83958133.html |
+
+---
+
 ## 2. Chargé de communication et marketing
 
 **Bilan :** 21 offres analysées (A = 8, B = 9, C = 4). Répartition : 13 = 0, reste PACA = 1, reste France = 20. 7 offres écartées : 4 de taille d'entreprise indéterminée, 2 doublons, 1 alternance affichée en CDI.
