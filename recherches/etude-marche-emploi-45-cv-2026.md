@@ -1779,6 +1779,280 @@ Ex aequo à 2/7 : esprit d'analyse, politiques publiques, expression orale, disc
 
 ---
 
+## 13. Community manager (+ social media manager, gestion des communautés)
+
+**Bilan :** A = 6 offres, B = 19, C = 24 (+ 13 « indéterminées » comptées à part) ; 13 = 2, reste PACA = 3, reste France = 44 (+ 13 indéterminées, toutes hors PACA) ; écartées = 54 (9 après lecture, dont 2 doublons ; 45 sur l'intitulé ou le contrat)
+
+### A. TPE / PME / start-up (moins de 50 salariés)
+
+**A. Compétences** (N = 6 : résultats peu significatifs)
+
+| Rang | Compétence | Offres | % |
+|---|---|---|---|
+| 1 | Réseaux sociaux | 6/6 | 100 % |
+| 2= | Rédaction | 5/6 | 83 % |
+| 2= | Montage vidéo | 5/6 | 83 % |
+| 4= | Canva / Suite Adobe | 4/6 | 67 % |
+| 4= | Analyse de KPI | 4/6 | 67 % |
+| 6= | Community management | 3/6 | 50 % |
+| 6= | Marketing digital | 3/6 | 50 % |
+| 6= | Autonomie | 3/6 | 50 % |
+| 6= | Rigueur | 3/6 | 50 % |
+| 6= | Relationnel | 3/6 | 50 % |
+
+**B. Missions**
+
+| Rang | Mission | Offres | % |
+|---|---|---|---|
+| 1 | Créer et publier des contenus (posts, Stories, visuels) | 6/6 | 100 % |
+| 2= | Animer les communautés (réseaux sociaux, Discord, Steam) | 5/6 | 83 % |
+| 2= | Produire des photos et des vidéos courtes (Reels, TikTok) | 5/6 | 83 % |
+| 2= | Planifier le calendrier et la ligne éditoriale | 5/6 | 83 % |
+| 2= | Suivre les KPI et produire des reportings | 5/6 | 83 % |
+| 6= | Collaborer avec des influenceurs et des créateurs | 3/6 | 50 % |
+| 6= | Coordonner les prestataires et partenaires (shootings, éditeur) | 3/6 | 50 % |
+| 6= | Recueillir les avis et retours de la communauté | 3/6 | 50 % |
+| 9 | Piloter des campagnes sponsorisées (social ads) | 2/6 | 33 % |
+| 10= | Modérer les échanges et répondre aux joueurs | 1/6 | 17 % |
+| 10= | Assurer une veille | 1/6 | 17 % |
+| 10= | Définir la stratégie social media | 1/6 | 17 % |
+| 10= | Organiser des jeux-concours | 1/6 | 17 % |
+| 10= | Rédiger des newsletters | 1/6 | 17 % |
+| 10= | Valoriser l'image de marque | 1/6 | 17 % |
+| 10= | Concevoir des supports print et commerciaux | 1/6 | 17 % |
+| 10= | Accueillir et encaisser les clients (poste hybride) | 1/6 | 17 % |
+
+**C. Transparence**
+- **Méthode (commune aux 3 secteurs)**
+  - Source : HelloWork uniquement, 3 mots-clés × 3 zones × 3 contrats.
+  - 76 pages de liste parcourues. Au-delà de la page 4, j'ai arrêté une liste après 2 pages consécutives sans intitulé conforme.
+  - 72 lectures de pages d'offres sur les 130 autorisées : 70 offres distinctes et 2 relectures ciblées. Lecture une par une, 5 au plus en parallèle.
+  - Toutes les offres retenues ont été publiées entre le 09/09/2026 et le 09/10/2026.
+- **Classement des 6 offres :** toutes via l'API recherche-entreprises, aucune offre n'indiquant d'effectif.
+  - Tranche 11 (10 à 19 salariés) : Com Advisor, Pesage MB, BDOR.
+  - Tranche 12 (20 à 49 salariés) : Tactical Adventures, Ludogram, et BARLEY, qui exploite le Bricomarché de Cognac.
+- **Répartition :** 13 = 0 ; reste PACA = 1 (06) ; reste France = 5.
+- **Contrats :** 5 CDI, 1 CDD.
+- **Biais :** 1 poste hybride (hôte de caisse + réseaux sociaux, environ 60 % des tâches) et 2 offres sur 6 dans le jeu vidéo.
+- **Le secteur A manque d'offres.** 13 offres privées n'ont pas pu être classées et sont comptées à part comme « indéterminées » (voir l'annexe) :
+  - 9 cabinets de recrutement sans effectif du client (3 mentions seulement « taille humaine » ou « PME ») ;
+  - 2 entreprises anonymes ;
+  - 2 magasins du Groupement Mousquetaires introuvables via l'API.
+  
+  Une partie relève probablement de A, mais sans preuve.
+- **Écartée :** Mon Campus (34), un organisme de formation (règle « annonces d'écoles »).
+- **Ex æquo et compétences suivantes :** 5 compétences sont à égalité au rang 6. Viennent ensuite Créativité, Réactivité, Organisation et Veille / e-réputation (2/6 chacune).
+- **Limites communes :**
+  - Le tri par pertinence de HelloWork était instable (pages décalées d'un appel à l'autre), donc quelques offres ont pu échapper au relevé.
+  - Les compétences et missions ont été codées à partir d'extractions compactes (moins de 180 mots par offre). Les fréquences peuvent donc être sous-estimées.
+  - J'ai fait moi-même les regroupements. « Réseaux sociaux » désigne la maîtrise des plateformes nommées. « Relationnel » regroupe écoute, diplomatie et sens du contact.
+
+### B. Grande entreprise (50 salariés et plus)
+
+**A. Compétences** (N = 19)
+
+| Rang | Compétence | Offres | % |
+|---|---|---|---|
+| 1 | Réseaux sociaux | 16/19 | 84 % |
+| 2 | Rédaction | 12/19 | 63 % |
+| 3= | Analyse de KPI | 9/19 | 47 % |
+| 3= | Anglais / langues | 9/19 | 47 % |
+| 3= | Relationnel | 9/19 | 47 % |
+| 6= | Community management | 8/19 | 42 % |
+| 6= | Autonomie | 8/19 | 42 % |
+| 8= | Travail en équipe | 7/19 | 37 % |
+| 8= | Marketing digital | 7/19 | 37 % |
+
+**B. Missions**
+
+| Rang | Mission | Offres | % |
+|---|---|---|---|
+| 1 | Animer les communautés sur les réseaux sociaux | 18/19 | 95 % |
+| 2 | Assurer une veille (tendances, concurrence, marché) | 15/19 | 79 % |
+| 3= | Créer et publier des contenus | 13/19 | 68 % |
+| 3= | Suivre les KPI et produire des reportings | 13/19 | 68 % |
+| 5= | Définir et piloter la stratégie social media | 10/19 | 53 % |
+| 5= | Développer l'influence (influenceurs, créateurs, advocacy, UGC) | 10/19 | 53 % |
+| 7= | Planifier le calendrier et la ligne éditoriale | 7/19 | 37 % |
+| 7= | Modérer les échanges et répondre aux internautes | 7/19 | 37 % |
+| 9= | Surveiller et protéger l'e-réputation | 6/19 | 32 % |
+| 9= | Piloter des campagnes sponsorisées et leur budget | 6/19 | 32 % |
+| 11 | Produire photos et vidéos, couvrir l'actualité en direct | 5/19 | 26 % |
+| 12= | Coordonner prestataires, agences et partenaires | 4/19 | 21 % |
+| 12= | Organiser événements et jeux-concours | 4/19 | 21 % |
+| 12= | Promouvoir offres et événements, valoriser la marque | 4/19 | 21 % |
+| 15= | Mettre à jour le site web (SEO) | 2/19 | 11 % |
+| 15= | Former et accompagner les équipes | 2/19 | 11 % |
+| 17= | Rédiger des newsletters | 1/19 | 5 % |
+| 17= | Gérer les situations sensibles | 1/19 | 5 % |
+| 17= | Tester de nouveaux formats | 1/19 | 5 % |
+
+**C. Transparence**
+- **N et répartition :** N = 19. 13 = 1 (Groupe ONET, CDD de 6 mois) ; reste PACA = 0 ; reste France = 18, dont 13 en Île-de-France.
+- **Classement :**
+  - Effectif indiqué dans l'offre (5) : Comtesse du Barry (plus de 100 collaborateurs), Joko (plus de 120), We Are Social (environ 1 100), Hilti (groupe de 34 000), Aldi (1 300 magasins).
+  - API (9) : ONET Services (tranche 53), Winamax ×2 (32), Henry Schein France (41), E.Leclerc Le Blanc-Mesnil et Bellaing (32), Pierre Frey (22), Septeo Digital & Services (21), La Bresse Labellemontagne (21).
+  - Client décrit (1) : Michael Page, pour un « grand groupe » des biens de consommation.
+  - Notoriété (4) : Casterman et Larousse (API « NN »), Groupe Eram (introuvable), E.Leclerc Aulnoye-Aymeries (entité introuvable ; format hypermarché, les 2 autres centres E.Leclerc vérifiés comptent 250 à 499 salariés).
+- **Contrats :** 13 CDI et 6 CDD.
+  - Larousse : en-tête « CDI », mais le texte décrit un CDD de remplacement.
+  - Septeo : en-tête « CDI », mais un CDD de 6 mois.
+  - La Bresse : CDD saisonnier, poste hybride (relation clientèle + animation de communauté, environ 30 à 40 %).
+- **⚠ Kincy (Marseille, 13), présentée comme un CDI dans l'indice, a été écartée.** L'en-tête affiche « CDI », mais la description indique « Type de contrat : Freelance » et « 20h par semaine ». Avec environ 65 collaborateurs, elle aurait relevé de B.
+- **Autres offres écartées après lecture :**
+  - GEODIS, « French Champions Community Manager » : poste de marketing commercial, sans réseaux sociaux ni communauté.
+  - Daikin, « Community Officer » : intitulé hors liste, poste surtout de webmastering.
+  - Ludogram, « Marketing & Social Manager » : réseaux sociaux minoritaires (environ 20 à 30 %).
+  - Doublons : La Bresse 83691939 (relu) et Michael Page 83228030 (même intitulé, doublon présumé, non relu).
+- **Écartées sur l'intitulé ou le contrat :**
+  - Responsable ou head of : Brico Dépôt, Chronopost, Karavel, Raja.
+  - Influence, brand ou chef de projet social media : Retail Conseil, Technifibre, Havea, Michael Page, Expanscience, Coopérative U.
+  - Intitulés hors liste : Ubisoft (« Community Developer »), Amazon (« Social Campaign Manager »), We Are Social (« Consultant social média »), IWG, LA RELÈVE, Truffaut, plus 4 postes basés à Lisbonne.
+  - Stages : Corum, Les Nouvelles Recrues.
+- **Compétences suivantes :** Créativité, Rigueur et Canva / Suite Adobe (6/19 chacune). Montage vidéo n'atteint que 5/19, nettement moins que dans A et C.
+- **Biais :** grande distribution (3 E.Leclerc et Aldi) et jeux d'argent (Winamax ×2) surreprésentés.
+
+### C. Secteur public / institutionnel
+
+**A. Compétences** (N = 24)
+
+| Rang | Compétence | Offres | % |
+|---|---|---|---|
+| 1 | Rédaction | 17/24 | 71 % |
+| 2 | Réseaux sociaux | 16/24 | 67 % |
+| 3 | Canva / Suite Adobe | 15/24 | 63 % |
+| 4= | Montage vidéo | 13/24 | 54 % |
+| 4= | Réactivité | 13/24 | 54 % |
+| 6 | Relationnel | 11/24 | 46 % |
+| 7 | Créativité | 10/24 | 42 % |
+| 8= | Community management | 9/24 | 38 % |
+| 8= | Autonomie | 9/24 | 38 % |
+| 8= | Web / CMS | 9/24 | 38 % |
+
+**B. Missions**
+
+| Rang | Mission | Offres | % |
+|---|---|---|---|
+| 1 | Animer les communautés sur les réseaux sociaux | 23/24 | 96 % |
+| 2 | Créer et publier des contenus | 21/24 | 88 % |
+| 3 | Produire photos et vidéos, couvrir les événements | 15/24 | 63 % |
+| 4 | Suivre les statistiques et rédiger des bilans | 13/24 | 54 % |
+| 5= | Modérer les échanges et répondre aux usagers | 12/24 | 50 % |
+| 5= | Assurer une veille | 12/24 | 50 % |
+| 5= | Contribuer à la stratégie digitale et au plan de communication | 12/24 | 50 % |
+| 8= | Planifier le calendrier et la ligne éditoriale | 9/24 | 38 % |
+| 8= | Mettre à jour le site web (CMS) | 9/24 | 38 % |
+| 10 | Surveiller l'e-réputation | 6/24 | 25 % |
+| 11 | Valoriser l'action publique et promouvoir les événements | 5/24 | 21 % |
+| 12 | Recueillir l'information auprès des services | 4/24 | 17 % |
+| 13= | Rédiger newsletters et e-mailings | 3/24 | 13 % |
+| 13= | Coordonner prestataires et partenaires | 3/24 | 13 % |
+| 15= | Collaborer avec des créateurs ou des contributeurs | 2/24 | 8 % |
+| 15= | Concevoir des campagnes digitales | 2/24 | 8 % |
+| 15= | Gérer la communication de crise | 2/24 | 8 % |
+| 15= | Optimiser le référencement (SEO) | 2/24 | 8 % |
+| 19= | Tester de nouveaux formats | 1/24 | 4 % |
+| 19= | Gérer les relations presse | 1/24 | 4 % |
+
+**C. Transparence**
+- **N et répartition :** N = 24. 13 = 1 (Aubagne) ; reste PACA = 2 (Mougins et Mandelieu-la-Napoule, 06) ; reste France = 21.
+- **Employeurs :**
+  - 13 communes, dont la Ville de Paris ;
+  - 2 intercommunalités et 3 départements ;
+  - 3 services de l'État : DGPN, ministère des Armées, CESE ;
+  - 2 établissements publics : la Monnaie de Paris, classée en C par notoriété (établissement public industriel et commercial, statut non indiqué dans l'offre), et l'ESPCI ;
+  - 1 structure associative, le SPFS de Thionville (secteur affiché « Association »).
+- **Statuts :** 19 « fonctionnaire » (titulaire ou contractuel rarement précisé), 1 contrat de projet de 12 mois (Cabestany), 2 CDD, 2 CDI.
+- **6 postes hybrides, retenus parce que l'intitulé contient « community manager » ou « animateur des réseaux sociaux » :**
+  - webmaster ×3 : Carcassonne, Alençon, Talence ;
+  - graphiste : Malemort, où les réseaux sociaux ne représentent qu'environ 20 à 25 % des tâches ;
+  - vidéaste : Cabestany ;
+  - multimédia : Bourg-en-Bresse.
+- **2 « communautés » atypiques :** l'intranet RH du ministère des Armées et les start-up incubées de l'ESPCI.
+- **Écartées après lecture :**
+  - CC du Serein, « Chargé de mission community management et marketing territorial » : réseaux sociaux environ 20 %.
+  - Saint-Palais-sur-Mer, « Chargé de communication – création graphique et réseaux sociaux » : réseaux sociaux environ 15 à 20 %, pas le cœur du poste.
+- **Écartées sur l'intitulé ou le contrat :**
+  - Châteaurenard (13), « Chargé de communication digitale » : réseaux sociaux absents de l'intitulé.
+  - Foix et Métropole Rouen Normandie : relations presse.
+  - Guînes : assistant.
+  - Gevrey-Chambertin, DGDDI, DGE ×2, Val d'Oise : responsable.
+  - DGPN « veille réputationnelle » ×2 : veille, intitulé hors liste.
+  - Apprenti community manager (Palaiseau).
+  - 7 missions de Service civique centrées sur les réseaux sociaux (volontariat, ni CDI ni CDD).
+- **Limites :**
+  - La fiche du CD de la Somme n'a pas de rubrique « profil » : aucune compétence comptée.
+  - Compétences suivantes : Rigueur, Analyse de KPI et Connaissance des collectivités (8/24 chacune).
+
+#### Annexe : offres analysées
+
+| Secteur | Intitulé | Employeur | Dépt | Publication | Contrat | URL |
+|---|---|---|---|---|---|---|
+| A | Social Media Manager | Com Advisor | 06 | 29/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/81845913.html |
+| A | Community Manager – CDI | Pesage MB | 30 | 16/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83425601.html |
+| A | Community Lead – Senior Community Manager | Tactical Adventures | 75 | 28/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83863001.html |
+| A | CDD Community Manager – Jeux vidéo | Ludogram | 59 | 29/09/2026 | CDD | https://www.hellowork.com/fr-fr/emplois/83906255.html |
+| A | Bricomarché – Hôte caisse – Chargé des réseaux sociaux (hybride) | Bricomarché Cognac (BARLEY) | 16 | 24/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/82623190.html |
+| A | Social Media Manager – Communication | BDOR | 67 | 03/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/82948918.html |
+| B | Social Media Manager | Groupe ONET | 13 | 03/10/2026 | CDD 6 mois | https://www.hellowork.com/fr-fr/emplois/82962772.html |
+| B | Community Manager CDD | Septeo Digital & Services | 34 | 09/10/2026 | CDD 6 mois | https://www.hellowork.com/fr-fr/emplois/83160167.html |
+| B | Community Manager | E.Leclerc Le Blanc-Mesnil | 93 | 09/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/81145054.html |
+| B | Community Manager | E.Leclerc Aulnoye-Aymeries | 59 | 02/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/82899570.html |
+| B | Chargé de communication & Community Manager | E.Leclerc Bellaing | 59 | 07/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84174522.html |
+| B | Sports Community Manager Germany | Winamax | 75 | 27/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/80652928.html |
+| B | Community Manager de poker – Portugal | Winamax | 75 | 26/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/80652925.html |
+| B | Community Manager | Henry Schein France | 75 | 14/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83333735.html |
+| B | Community Manager CDI 35 h | Comtesse du Barry | 32 | 04/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/81986850.html |
+| B | Community Manager | Éditions Casterman (via Livremploi) | 75 | 25/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/82650151.html |
+| B | Community Manager (CDD) | Éditions Larousse | 75 | 16/09/2026 | CDD de remplacement (en-tête : CDI) | https://www.hellowork.com/fr-fr/emplois/83446709.html |
+| B | Social Media & Community Manager | Pierre Frey | 75 | 05/10/2026 | CDD 6 mois | https://www.hellowork.com/fr-fr/emplois/84097067.html |
+| B | Chargé relation clientèle et animateur de communauté (hybride) | La Bresse-Hohneck (Labellemontagne) | 88 | 28/09/2026 | CDD saisonnier | https://www.hellowork.com/fr-fr/emplois/83849054.html |
+| B | Chargé de missions réseaux sociaux | Aldi | 93 | 17/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83488792.html |
+| B | Social Media Manager Dresco | Groupe Eram | 75 | 17/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83489727.html |
+| B | Senior Social Media Program Manager | Hilti France | 92 | 24/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/80521063.html |
+| B | Social Media Manager | Joko | 75 | 20/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/78135066.html |
+| B | CDD – Social Media Manager | We Are Social | 75 | 06/10/2026 | CDD | https://www.hellowork.com/fr-fr/emplois/84121840.html |
+| B | Social Media & Advocacy Manager | Michael Page (client : grand groupe FMCG) | 75 | 21/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83579492.html |
+| C | Community Manager | Commune d'Aubagne | 13 | 17/09/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/83461180.html |
+| C | Community Manager | Commune de Mougins | 06 | 09/10/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/84240157.html |
+| C | Community Manager | Commune de Mandelieu-la-Napoule | 06 | 17/09/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/83458544.html |
+| C | Community Manager | Ville de Bagnolet | 93 | 08/10/2026 | Fonctionnaire (titulaire ou contractuel) | https://www.hellowork.com/fr-fr/emplois/83088222.html |
+| C | Community Manager | Conseil départemental du Nord | 59 | 03/10/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/84048444.html |
+| C | Community Manager | Département des Hauts-de-Seine | 92 | 30/09/2026 | Fonctionnaire (titulaire ou contractuel) | https://www.hellowork.com/fr-fr/emplois/83917456.html |
+| C | Community Manager | Tours Métropole Val de Loire | 37 | 06/10/2026 | Fonctionnaire (statutaire ou contractuel) | https://www.hellowork.com/fr-fr/emplois/84127787.html |
+| C | Community Manager de la Police nationale | DGPN – SICOP | 75 | 07/10/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/82102020.html |
+| C | Community Manager | Conseil départemental de la Somme | 80 | 27/09/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/83814072.html |
+| C | Concepteur de création graphique et animateur de communauté – CM (hybride) | Commune de Malemort | 19 | 30/09/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/83917868.html |
+| C | Webmaster – Community Manager (hybride) | Commune de Carcassonne | 11 | 03/10/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/84048015.html |
+| C | Chargé(e) de communication numérique – Community Manager | Mairie de Chartres | 28 | 17/09/2026 | Fonctionnaire (statutaire ou contractuel) | https://www.hellowork.com/fr-fr/emplois/83459366.html |
+| C | Community Manager confirmé | Commune du Kremlin-Bicêtre | 94 | 20/09/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/82490125.html |
+| C | Community Manager – Webmaster (hybride) | Communauté urbaine d'Alençon | 61 | 20/09/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/83565268.html |
+| C | Animateur des réseaux sociaux, des journaux électroniques et vidéaste (hybride) | Mairie de Cabestany | 66 | 28/09/2026 | Contrat de projet 12 mois | https://www.hellowork.com/fr-fr/emplois/82758281.html |
+| C | Chargé de projet multimédia – Community Manager (hybride) | Ville de Bourg-en-Bresse | 01 | 17/09/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/83459020.html |
+| C | Community Manager | Ville d'Aulnay-sous-Bois | 93 | 09/09/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/83179918.html |
+| C | Chargé de communication numérique – Community Manager – Webmaster (hybride) | Mairie de Talence | 33 | 17/09/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/83462704.html |
+| C | Community Manager du site Babel (intranet RH) | Ministère des Armées | 37 | 09/10/2026 | CDD | https://www.hellowork.com/fr-fr/emplois/83143084.html |
+| C | Social Media Manager | La Monnaie de Paris | 75 | 22/09/2026 | CDD 4 mois | https://www.hellowork.com/fr-fr/emplois/83631173.html |
+| C | Créateur·trice de contenus Social Media Manager | CESE (service public d'État) | 75 | 17/09/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/83460224.html |
+| C | Content & Social Media Manager | Ville de Paris (Travailler pour Paris) | 75 | 23/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83672794.html |
+| C | Chargé·e d'animation de la communauté start-up | ESPCI Paris | 75 | 26/09/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/81708070.html |
+| C | Community Manager | SPFS Thionville (protection de l'enfance, secteur « Association ») | 57 | 06/10/2026 | CDI à mi-temps | https://www.hellowork.com/fr-fr/emplois/84150993.html |
+| Indét. | Vendeur & Community Manager (hybride) | Olivier Mery (cabinet ; enseigne, 2 magasins) | 77 | 22/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83630205.html |
+| Indét. | Community Manager (& Content Lead) | Keylink (cabinet ; client bien-être animal) | 59 | 14/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83329741.html |
+| Indét. | Community Manager Marketing – Cosmétique | NonStop Consulting (cabinet ; client « à taille humaine ») | 69 | 21/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83590778.html |
+| Indét. | Community Manager & Chargé de contenu digital | Entreprise anonyme (groupe de restauration) | 75 | 21/09/2026 | CDI temps partiel | https://www.hellowork.com/fr-fr/emplois/83587345.html |
+| Indét. | Social Media Manager – Retail | Hyde Recruit (cabinet ; studio « à taille humaine ») | 75 | 09/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/79957598.html |
+| Indét. | Social Media Manager | Entreprise anonyme (pharma, biotech) | 92 | 09/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84253973.html |
+| Indét. | Social Media Manager | Gitec (cabinet ; client non nommé) | 92 | 28/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83854360.html |
+| Indét. | Social Media Manager | Défi RH (cabinet ; client mode multimarque) | 75 | 22/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83626327.html |
+| Indét. | Social Media Manager bilingue polonais | LM5P (cabinet ; client média) | 75 | 29/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/79542217.html |
+| Indét. | Social Media Manager | CAB À TALENTS (cabinet ; client finance) | 75 | 09/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/81131313.html |
+| Indét. | Social Media & Content Manager | SAYCO (cabinet ; client « PME e-commerce ») | 59 | 15/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83394524.html |
+| Indét. | Community Manager | Groupement Mousquetaires (magasin de Fontaine-lès-Dijon) | 21 | 22/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83647622.html |
+| Indét. | Community Manager multi-sites & créateur de contenu | Intermarché Besançon et Dole (Groupement Mousquetaires) | 25 | 26/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/82694034.html |
+
+---
+
 ## 14. Attaché de presse (+ relations médias)
 
 **Bilan :** A = 0 offre, B = 6, C = 14 ; 13 = 1, reste PACA = 2, reste France = 17 ; écartées = 11 (+ 2 offres « indéterminé » comptées à part)
