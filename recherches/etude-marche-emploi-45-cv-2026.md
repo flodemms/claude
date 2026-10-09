@@ -65,6 +65,65 @@ En cas d'égalité, les intitulés sont départagés par le nombre de postes pub
   - chargé d'acquisition digitale (SEA) ;
   - product marketing.
 
+
+## 0 bis. Classement France entière, 2025-2026 (estimation, offres expirées comprises)
+
+**Méthode, en trois étapes :**
+
+1. **Relevé exhaustif des offres en ligne le 8 octobre 2026** sur France Travail, offres des sites partenaires comprises, en CDI et CDD, pour les 15 intitulés exacts.
+   - 7 345 offres ont été lues.
+   - Quand une recherche dépassait le plafond d'affichage (environ 1 000 résultats), elle a été refaite région par région.
+   - Ont été exclus : l'alternance et les stages (979 offres), les postes d'assistant·e (76) et les indépendants ou franchisés (23).
+2. **Passage du stock en ligne au volume de la période.** France Travail a diffusé 7,53 millions d'offres en CDI ou CDD en 2025, et environ 5,16 millions du 1er janvier au 8 octobre 2026.
+   - Le chiffre 2026 est officiel jusqu'en mars, puis estimé : l'activité 2026 est inférieure de 12,6 % à celle de 2025 au premier trimestre.
+   - Le 8 octobre, 521 202 offres en CDI ou CDD étaient en ligne.
+   - Une offre en ligne représente donc environ 14,4 offres diffusées en 2025 et 9,9 en 2026, soit 24,3 sur l'ensemble de la période.
+3. **Volume estimé par intitulé** = offres en ligne × 24,3. Les estimations sont arrondies et ne valent que comme ordres de grandeur.
+
+| Rang | Intitulé (et dimensions ajoutées) | Offres en ligne le 8/10/2026 (CDI / CDD) | dont employeurs publics ¹ | dont Bouches-du-Rhône | Estimation 2025 | Estimation 2026 (au 8/10) | **Estimation 2025-2026** |
+|---|---|---|---|---|---|---|---|
+| 1 | Chargé de mission affaires publiques (+ relations publiques, relations institutionnelles) | 2 (1 / 1) | 0 | 0 | ≈ 30 | ≈ 20 | **≈ 50** |
+| 2 | Responsable affaires publiques (+ relations publiques, relations institutionnelles) | 6 (6 / 0) | 0 | 0 | ≈ 90 | ≈ 60 | **≈ 150** |
+| 3 | Directeur communication | 15 (14 / 1) | 0 | 0 | ≈ 220 | ≈ 150 | **≈ 370** |
+| 4 | Attaché de presse (+ relations presse, relations médias) ² | 16 (10 / 6) | 4 | 1 | ≈ 230 | ≈ 160 | **≈ 390** |
+| 4 | Brand content manager / Brand manager ² | 16 (16 / 0) | 0 | 1 | ≈ 230 | ≈ 160 | **≈ 390** |
+| 6 | Chargé de communication et marketing | 30 (27 / 3) | 1 | 3 | ≈ 430 | ≈ 300 | **≈ 730** |
+| 7 | Responsable communication | 43 (34 / 9) | 5 | 0 | ≈ 620 | ≈ 430 | **≈ 1 050** |
+| 8 | Responsable communication et marketing | 55 (51 / 4) | 0 | 1 | ≈ 800 | ≈ 540 | **≈ 1 340** |
+| 9 | Community manager (+ social media manager, gestion des communautés) | 72 (57 / 15) | 2 | 2 | ≈ 1 040 | ≈ 710 | **≈ 1 750** |
+| 10 | Chargé de marketing digital (+ chargé marketing) | 74 (57 / 17) | 4 | 1 | ≈ 1 070 | ≈ 730 | **≈ 1 800** |
+| 11 | Responsable marketing (+ responsable marketing digital) | 147 (134 / 13) | 1 | 5 | ≈ 2 120 | ≈ 1 450 | **≈ 3 580** |
+| 12 | Chargé de communication | 181 (104 / 77) | 20 | 2 | ≈ 2 620 | ≈ 1 790 | **≈ 4 400** |
+| 13 | Chargé du développement commercial (+ activation commerciale, growth manager) | 194 (169 / 25) | 0 | 11 | ≈ 2 800 | ≈ 1 920 | **≈ 4 720** |
+| 14 | Responsable développement commercial (+ activation commerciale, head of growth) | 211 (210 / 1) | 2 | 6 | ≈ 3 050 | ≈ 2 090 | **≈ 5 140** |
+| 15 | Business developer | 893 (877 / 16) | 2 | 37 | ≈ 12 900 | ≈ 8 830 | **≈ 21 700** |
+
+¹ Détecté par le nom de l'employeur (commune, département, région, établissement public, hôpital, université…). C'est une approximation.
+² Ex aequo.
+
+**Lecture :**
+
+- **L'ordre est presque le même qu'en Bouches-du-Rhône** (section 0). Les intitulés commerciaux dominent. Les affaires publiques, la direction de la communication, l'attaché de presse et le brand management sont rares.
+- **Business developer pèse à lui seul environ 21 700 offres sur la période**, quatre fois plus que l'intitulé suivant.
+- **Chargé de communication** est le premier intitulé de communication pure, avec environ 4 400 offres. C'est aussi celui où le CDD pèse le plus (77 offres sur 181) et où les employeurs publics sont les plus présents (20 sur 181).
+- **Les intitulés de direction et d'affaires publiques sont très sous-représentés sur France Travail.** Ces postes passent surtout par l'Apec, LinkedIn, les cabinets de recrutement et le réseau, qui ne sont pas couverts ici. Leurs volumes réels sont donc nettement plus élevés que ces chiffres.
+- **Recoupement avec les familles de métiers ROME** (flux officiels France Travail en CDI et CDD, 2025-2026) :
+
+  | Famille ROME | Flux officiels 2025-2026 | Part couverte par les intitulés de l'étude |
+  |---|---|---|
+  | Communication (E1103) | ≈ 34 200 offres | ≈ 8 500 pour les 8 intitulés de communication et d'affaires publiques, soit environ 25 % |
+  | Marketing et chef de produit (M1705, M1703) | ≈ 58 000 | ≈ 5 800 pour les 3 intitulés marketing, soit environ 10 % |
+  | Animation de site multimédia (E1101) | ≈ 18 400 | ≈ 1 750 pour community manager, soit environ 10 % |
+  | Stratégie commerciale et vente aux entreprises (M1707, D1402, D1406) | ≈ 268 000 | ≈ 31 600 pour les 3 intitulés commerciaux, soit environ 12 % |
+
+  Ces familles incluent l'alternance et beaucoup d'autres intitulés, d'où ces parts. L'ordre de grandeur est cohérent.
+
+**Limites :**
+
+- **C'est une estimation, pas un comptage.** Elle suppose que toutes les offres restent en ligne aussi longtemps, quel que soit l'intitulé, et que la part de chaque intitulé est stable sur la période.
+- **Source unique : France Travail**, offres partenaires comprises. LinkedIn, l'Apec, Welcome to the Jungle et les offres propres à Indeed ne sont pas couverts.
+- **Mode de comptage :** une même offre publiée dans plusieurs villes compte plusieurs fois, comme dans les statistiques officielles. Si l'on regroupe par employeur et intitulé, les totaux baissent un peu (business developer : 726 offres distinctes au lieu de 893), sans changer l'ordre.
+
 ---
 
 ## 2. Chargé de communication et marketing
