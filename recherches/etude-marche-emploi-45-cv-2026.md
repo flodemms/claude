@@ -599,6 +599,186 @@ Offres vues mais écartées : 4 offres de cabinets dont le client n'est pas dime
 
 ---
 
+## 3. Chargé de marketing digital (+ chargé marketing)
+
+**Bilan :** A = 4 offres, B = 23, C = retiré de l'étude ; 13 = 0, reste PACA = 1, reste France = 26 ; écartées = 7 (+ 2 indéterminées comptées à part)
+
+### A. TPE / PME / start-up (moins de 50 salariés)
+
+**A. Compétences** (N = 4, peu significatif)
+
+| Rang | Compétence | Offres | % |
+|---|---|---|---|
+| 1 | Autonomie | 4/4 | 100 % |
+| 2 | Data / KPI / ROI | 3/4 | 75 % |
+| 2 | Pack Office / Excel | 3/4 | 75 % |
+| 4 | Marketing digital | 2/4 | 50 % |
+| 4 | Rédaction | 2/4 | 50 % |
+| 4 | E-mailing/automation | 2/4 | 50 % |
+| 4 | PAO (Adobe, Canva) | 2/4 | 50 % |
+| 4 | Sens relationnel | 2/4 | 50 % |
+| 4 | Rigueur | 2/4 | 50 % |
+| 4 | Culture sectorielle | 2/4 | 50 % |
+
+*Le tableau a 10 lignes parce que 7 compétences sont ex aequo au rang 4. Douze autres compétences apparaissent dans 1 offre sur 4, dont SEO, CRM, anglais, montage vidéo, outils d'IA et WordPress.*
+
+**B. Missions** (N = 4, peu significatif)
+
+| Rang | Mission | Offres | % |
+|---|---|---|---|
+| 1 | Suivre les KPI et le ROI, produire les reportings | 2/4 | 50 % |
+| 1 | Concevoir les supports de vente et les visuels | 2/4 | 50 % |
+| 1 | Créer et mettre à jour les pages du site web | 2/4 | 50 % |
+| 1 | Produire des contenus (articles, pages, vidéos) | 2/4 | 50 % |
+| 1 | Optimiser le référencement SEO/SEA | 2/4 | 50 % |
+| 1 | Animer les réseaux sociaux (LinkedIn) | 2/4 | 50 % |
+| 1 | Organiser salons, webinaires et événements | 2/4 | 50 % |
+| 1 | Développer l'acquisition digitale et les leads | 2/4 | 50 % |
+| 1 | Assurer la veille concurrentielle | 2/4 | 50 % |
+| 1 | Coordonner prestataires et partenaires | 2/4 | 50 % |
+| 1 | Accompagner les équipes commerciales | 2/4 | 50 % |
+| 12 | Piloter des campagnes multicanales | 1/4 | 25 % |
+| 12 | Concevoir newsletters et e-mailings | 1/4 | 25 % |
+| 12 | Animer les opérations trade en magasin | 1/4 | 25 % |
+| 12 | Gérer le budget marketing | 1/4 | 25 % |
+| 12 | Suivre l'e-réputation et les avis clients | 1/4 | 25 % |
+
+**C. Transparence**
+- N = 4 offres, toutes en CDI, publiées entre le 15/09 et le 08/10/2026. Répartition : 13 = 0, reste PACA = 0, reste France = 4 (69, 75, 76, 92). Comme N < 10, ces résultats sont seulement indicatifs.
+- Classement par taille :
+  - Mitsubishi Pencil France et Semafor (client d'E2i) : API, tranche 12 (20 à 49 salariés). Mitsubishi Pencil France est la filiale d'un grand groupe, mais l'unité légale française compte moins de 50 salariés.
+  - Engel & Völkers France : l'API ne connaît pas d'entité à ce nom exact. Je l'ai rapprochée de « EV MMC France » (enseigne Engel & Völkers, Paris 8e, tranche 12). Ce classement est probable, mais à confirmer.
+  - Client de Cofabrik : l'annonce indique « une vingtaine de personnes » et un chiffre d'affaires d'environ 3 M€.
+- Pourquoi l'échantillon est si petit : sur HelloWork, les structures de moins de 50 salariés publient peu sous ces intitulés (4 offres sur les 29 offres privées conformes, retenues ou indéterminées). Il n'y en a aucune dans le 13 ni en PACA.
+- E2i est une agence d'intérim, mais elle recrute ici en CDI pour son client Semafor. L'offre est donc retenue.
+- Les offres écartées, le balayage et les limites sont communs à A et B : voir la section B.
+
+### B. Grande entreprise (50 salariés et plus)
+
+**A. Compétences** (N = 23)
+
+| Rang | Compétence | Offres | % |
+|---|---|---|---|
+| 1 | Organisation | 15/23 | 65 % |
+| 2 | Sens relationnel | 11/23 | 48 % |
+| 2 | Culture sectorielle | 11/23 | 48 % |
+| 4 | Autonomie | 10/23 | 43 % |
+| 5 | Data / KPI / ROI | 9/23 | 39 % |
+| 6 | Créativité | 8/23 | 35 % |
+| 6 | Pack Office / Excel | 8/23 | 35 % |
+| 6 | Rédaction | 8/23 | 35 % |
+| 6 | PAO (Adobe, Canva) | 8/23 | 35 % |
+
+*Le tableau a 9 lignes parce que 4 compétences sont ex aequo au rang 6. Viennent ensuite :*
+- *7/23 (30 %) : Rigueur, Anglais, Analyse et synthèse, Marketing digital ;*
+- *6/23 : E-mailing/automation, Force de proposition ;*
+- *5/23 : CRM, Gestion de projet, Esprit d'équipe, Réactivité.*
+
+**B. Missions** (N = 23)
+
+| Rang | Mission | Offres | % |
+|---|---|---|---|
+| 1 | Suivre les KPI et le ROI, produire les reportings | 14/23 | 61 % |
+| 1 | Coordonner les projets avec les équipes internes | 14/23 | 61 % |
+| 3 | Construire et déployer le plan d'actions marketing | 11/23 | 48 % |
+| 3 | Piloter des campagnes marketing multicanales | 11/23 | 48 % |
+| 5 | Concevoir les supports de vente (PLV, brochures, argumentaires) | 10/23 | 43 % |
+| 5 | Mettre à jour le site web et les contenus digitaux | 10/23 | 43 % |
+| 7 | Assurer la veille concurrentielle et les études de marché | 9/23 | 39 % |
+| 7 | Coordonner agences, prestataires et fournisseurs | 9/23 | 39 % |
+| 9 | Accompagner les équipes commerciales et le réseau | 8/23 | 35 % |
+| 10 | Animer les réseaux sociaux | 7/23 | 30 % |
+| 10 | Produire des contenus (articles, vidéos, webinaires) | 7/23 | 30 % |
+| 10 | Concevoir newsletters et e-mailings | 7/23 | 30 % |
+| 10 | Gérer les gammes et les lancements produits | 7/23 | 30 % |
+| 14 | Organiser salons et événements | 6/23 | 26 % |
+| 14 | Suivre le budget marketing | 6/23 | 26 % |
+| 14 | Piloter les animations commerciales et promotions | 6/23 | 26 % |
+| 14 | Piloter le CRM et la fidélisation client | 6/23 | 26 % |
+| 18 | Analyser les données clients et marché | 4/23 | 17 % |
+| 18 | Développer l'acquisition et les leads | 4/23 | 17 % |
+
+*Missions moins fréquentes (3/23 chacune) : SEO/SEA, marketing automation, catalogue produits/PIM, fiabilisation des données, communication interne et externe, cohérence de marque, influence.*
+
+**C. Transparence**
+- N = 23 offres (17 CDI, 6 CDD), publiées entre le 09/09 et le 08/10/2026. Répartition : 13 = 0, reste PACA = 1 (Micromania, 06), reste France = 22.
+- Base du classement par taille :
+  - Effectif indiqué dans l'annonce : Micromania (1 200), Emily (125), Krampouz (130), RCA (300), CETIH (environ 1 200 pour le groupe).
+  - API, tranche 21 ou plus : Spirica, Tressol Chabrier, Sonovente (Mega Sound Concept), Rouenel, Puybaret, Crédit Agricole Lorraine, Gemo (Vêtir), Forvis Mazars, Gallimard, Harmonie Mutuelle, Axéréal, Eureden.
+  - Notoriété, l'API n'étant pas concluante : Groupe Bernard (groupe automobile, centre de pièces de rechange dans le 73), E.Leclerc à Ivry, JD Sports (environ 150 magasins en France).
+  - Client décrit par le cabinet : Kreno présente un « groupe industriel international ». Olcani présente un groupe international avec des équipes EMEA ; cet indice est plus faible.
+- J'ai classé en B la mutuelle (Harmonie Mutuelle) et les coopératives (Crédit Agricole, Axéréal, Eureden) : ce sont des organismes privés en concurrence sur leur marché, et ils ne figurent pas dans la liste du secteur C.
+- Cas particuliers retenus :
+  - JD Sports « Marque Partenaire Nike » : le terme exclu « brand » n'apparaît pas dans l'intitulé.
+  - Forvis Mazars « 26-27 » : la mention n'est pas expliquée et l'annonce ne parle pas d'alternance.
+  - RCA : l'en-tête indique CDI mais le texte précise un CDD de 10 mois ; j'ai retenu CDD.
+  - Axéréal : CDD de 8 mois, l'annonce étant aussi ouverte à un stage long.
+  - Krampouz : l'annonce ne liste aucune compétence explicite ; elle compte dans N mais n'apporte aucune compétence.
+- Offres écartées (7) :
+  - Scalian 83391122 : l'en-tête indique CDI, mais le texte parle de « stage ou alternance » et vise un étudiant.
+  - SPL Destination Saint-Malo, via Kernéo, 82915267 : employeur public, donc secteur C retiré.
+  - 3 offres de l'UPEC (76697298, 82986945, 77083494) : université, donc secteur C retiré ; non lues.
+  - Harmonie Mutuelle Rennes 84081839 : doublon de l'offre d'Angers.
+  - « Digital Marketing Officer » d'AGL Group 81328702 : poste au Rwanda, hors France.
+- Offres indéterminées, comptées à part (2) :
+  - Talents Commerciaux 83387703 : client décrit comme un « acteur historique de la distribution de boissons », sans indication de taille.
+  - Sponsor Job La Réunion 83142657 : agence d'intérim, client non décrit, et l'annonce ne permet pas de savoir s'il s'agit d'un CDD ou d'une mission d'intérim.
+- Intitulés hors périmètre écartés lors du tri des listes :
+  - les nombreux « chargé marketing et communication », dont Nestenn (83, CDD), seul autre intitulé marketing trouvé en PACA ;
+  - les « chargé d'études, de projet, de mission, d'actions ou de contenu marketing » ;
+  - « marketing digital et développement commercial » (Transmanut).
+- Balayage effectué :
+  - « chargé marketing », CDI France : pages 1 à 8 sur environ 500 résultats, aucun intitulé conforme après la page 3 ;
+  - « chargé marketing », CDD France : pages 1 à 9 sur 259 résultats, intitulés conformes en pages 1 et 6 ;
+  - « chargé de marketing digital » : listes CDI (40 résultats) et CDD (19) lues en entier ;
+  - Bouches-du-Rhône et PACA (CDI, CDD) : listes lues en entier.
+- Contrôles complémentaires avec d'autres mots-clés (« chargée marketing », « chargé webmarketing », « chargé e-marketing », « marketing officer », « digital marketing specialist ») : ils n'ont ajouté qu'une offre (Eureden).
+- Bouches-du-Rhône : aucune offre conforme sur HelloWork. Les CDI de Nokara (Arles) et de WAM (Aix) cités dans l'indice n'y figurent pas ; la recherche « Nokara » donne 0 résultat.
+- Limites :
+  - Source unique (HelloWork) : 35 annonces conformes en France (34 après dédoublonnage), contre environ 75 sur France Travail, que je n'ai pas pu lire. Le plafond de 50 offres par secteur n'est donc atteint nulle part.
+  - Les comptages reposent sur des extractions compactes de 180 mots au plus. Le regroupement des formulations équivalentes est mon interprétation.
+  - 39 lectures de pages d'offres au total (31 offres distinctes et 8 relectures ciblées), sous le plafond de 130.
+
+### C. Secteur public / institutionnel
+
+Secteur retiré de l'étude (intitulé marketing, pas de CV public prévu)
+
+#### Annexe : offres analysées
+
+| Secteur | Intitulé | Employeur | Dépt | Publication | Contrat | URL |
+|---|---|---|---|---|---|---|
+| A | Chargé de Trade Marketing | Mitsubishi Pencil France | 92 | 24/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83714978.html |
+| A | Chargé·e Marketing Digital Paris | Engel & Völkers France | 75 | 02/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84023986.html |
+| A | Chargé·e de Marketing Digital Contenu & SEO | Semafor (via E2i) | 76 | 08/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84222872.html |
+| A | Chargé de Marketing Digital – Environnement SaaS | Éditeur SaaS lyonnais (via Cofabrik) | 69 | 15/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/81317827.html |
+| B | Chargé Trade Marketing | Micromania | 06 | 15/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83398133.html |
+| B | Chargé de marketing | Groupe Bernard | 73 | 02/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/82894049.html |
+| B | Chargé de Marketing Assurances | Crédit Agricole Lorraine | 54 | 07/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84191023.html |
+| B | Chargé de Marketing Opérationnel | Spirica | 75 | 05/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84100329.html |
+| B | Chargé de Marketing Opérationnel | Tressol Chabrier | 34 | 29/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83887010.html |
+| B | Chargé Marketing Client et Fidélisation | Gemo | 49 | 08/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83090582.html |
+| B | Chargé de Marketing | Groupe industriel sanitaire (via Kreno Consulting) | 95 | 17/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83480573.html |
+| B | Chargé de Marketing B2B | Sonovente.com | 91 | 24/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83715058.html |
+| B | Chargé de Marketing | E.Leclerc | 94 | 15/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83405028.html |
+| B | Chargé de Marketing | Rouenel | 56 | 15/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83389627.html |
+| B | Chargé de Marketing Opérationnel – Produit | Emily | 29 | 21/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/81527452.html |
+| B | Chargé de Marketing Senior – Marque Partenaire Nike | JD Sports | 75 | 10/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/82180753.html |
+| B | Chargé de Marketing Digital et de Gestion du Catalogue Produits | Puybaret | 19 | 08/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84235798.html |
+| B | Chargé de Marketing Digital et E-Commerce | Groupe international (via Olcani) | 75 | 17/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/81423427.html |
+| B | Chargé de Marketing Digital CRM & Marketing Automation 26-27 | Forvis Mazars | 92 | 06/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84151245.html |
+| B | Chargé de Marketing Opérationnel B2B – Senior | Eureden | 29 | 09/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/81215558.html |
+| B | Chargé·e de Webmarketing Folio | Gallimard (via Livremploi) | 75 | 05/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84084581.html |
+| B | Chargé de Marketing Digital (CDD) | RCA | 44 | 06/10/2026 | CDD 10 mois | https://www.hellowork.com/fr-fr/emplois/84120092.html |
+| B | Chargé de Marketing Opérationnel | CETIH | 44 | 16/09/2026 | CDD 9 mois | https://www.hellowork.com/fr-fr/emplois/83435844.html |
+| B | Chargé de Marketing Opérationnel et Digital – Marché des Entrepreneurs | Harmonie Mutuelle | 49 | 05/10/2026 | CDD 6 mois | https://www.hellowork.com/fr-fr/emplois/84081884.html |
+| B | Chargé de Marketing Opérationnel (CDD) | JD Sports | 75 | 12/09/2026 | CDD | https://www.hellowork.com/fr-fr/emplois/80124174.html |
+| B | Chargé de Webmarketing | Axéréal | 45 | 30/09/2026 | CDD 8 mois | https://www.hellowork.com/fr-fr/emplois/83945736.html |
+| B | Chargé de Marketing Opérationnel | Krampouz | 29 | 29/09/2026 | CDD 8-9 mois, temps partiel | https://www.hellowork.com/fr-fr/emplois/83912390.html |
+| Indét. (hors calcul) | Chargé de Trade Marketing – Néerlandophone | Client boissons (via Talents Commerciaux) | 75 | 15/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83387703.html |
+| Indét. (hors calcul) | Chargé Marketing Opérationnel | Client transport (via Sponsor Job, intérim) | 974 | 09/10/2026 | CDD 6 mois | https://www.hellowork.com/fr-fr/emplois/83142657.html |
+
+---
+
 ## 4. Responsable communication
 
 **Bilan :** A = 1 offre, B = 9, C = 50 (+ 7 « indéterminé » comptées à part) ; 13 = 1, reste PACA = 4, reste France = 55 (indéterminé : 13 = 0, reste PACA = 3, reste France = 4) ; écartées = 67.
