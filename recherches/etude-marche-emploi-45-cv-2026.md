@@ -934,3 +934,554 @@ Offres vues mais écartées : 4 offres de cabinets dont le client n'est pas dime
 - 18 requêtes à l'API recherche-entreprises.
 - Toutes les lectures sont faites avec WebFetch, au plus 5 en parallèle, sans aucun téléchargement par script.
 - Collecte du 8 octobre 2026, terminée le 9 octobre 2026.
+
+---
+
+## 11. Chargé de mission affaires publiques (+ relations publiques, relations institutionnelles)
+
+**Bilan :** A = 0 offres, B = 1, C = 12 ; 13 = 0, reste PACA = 0, reste France = 13 ; écartées = 20 offres distinctes (26 annonces avec les doublons ; indéterminé = 0)
+
+### A. TPE / PME / start-up (moins de 50 salariés)
+
+**A. Compétences**
+
+N = 0 : aucune offre, donc pas de tableau.
+
+**B. Missions**
+
+N = 0 : aucune offre, donc pas de tableau.
+
+**C. Transparence**
+
+- **N = 0.** 13 = 0, reste PACA = 0, reste France = 0.
+- **Recherche effectuée :**
+  - 3 mots-clés × 3 contrats (CDI, CDD, Fonctionnaire) × 3 zones (13, PACA, France), soit 27 listes HelloWork et 51 pages de liste ;
+  - 7 pages de contrôle : « chargé de mission affaires publiques », « chargé affaires publiques », « chargé relations publiques », « public affairs », plus un test avec guillemets, qui n'ont aucun effet ;
+  - 30 lectures de pages d'offres (sur 100 autorisées), faites une par une avec WebFetch.
+- **Pourquoi zéro :** le 9 octobre 2026, HelloWork ne publie aucune offre conforme d'une entreprise de moins de 50 salariés, ni d'un cabinet de conseil en affaires publiques. Les deux seules offres privées conformes viennent d'un grand groupe (Orano, classé B) et d'un cabinet de recrutement qui recrute pour une association (classée C).
+- **Écartées :** aucune ne peut être rattachée avec certitude à une structure de moins de 50 salariés. Trois annonces passent par des cabinets ou plateformes dont le client n'est pas connu : RH Partners, Job2beDone et L'Industrie recrute (3 annonces). Elles étaient de toute façon de niveau « responsable ».
+- **Limites :** les start-up et cabinets d'affaires publiques recrutent surtout via LinkedIn, l'APEC, Welcome to the Jungle ou par cooptation, sites que je n'ai pas pu consulter. Ce zéro vaut pour HelloWork, pas pour tout le marché.
+
+### B. Grande entreprise (50 salariés et plus)
+
+**Résultats peu significatifs : N = 1.** Toutes les lignes sont à égalité, l'ordre ne veut rien dire.
+
+**A. Compétences**
+
+| Rang | Compétence | Offres | % |
+|---|---|---|---|
+| 1 | Affaires publiques | 1/1 | 100 % |
+| 1 | Rédaction de notes | 1/1 | 100 % |
+| 1 | Esprit de synthèse | 1/1 | 100 % |
+| 1 | Sens relationnel | 1/1 | 100 % |
+| 1 | Gestion de projet | 1/1 | 100 % |
+| 1 | Autonomie | 1/1 | 100 % |
+| 1 | Réactivité | 1/1 | 100 % |
+| 1 | Esprit d'initiative | 1/1 | 100 % |
+
+**B. Missions**
+
+| Rang | Mission | Offres | % |
+|---|---|---|---|
+| 1 | Évaluer les besoins du projet en affaires publiques | 1/1 | 100 % |
+| 1 | Rechercher des aides publiques à l'innovation | 1/1 | 100 % |
+| 1 | Déployer le plan d'influence | 1/1 | 100 % |
+| 1 | Préparer et suivre le débat public | 1/1 | 100 % |
+| 1 | Proposer des simplifications réglementaires | 1/1 | 100 % |
+| 1 | Appuyer la communication interne | 1/1 | 100 % |
+| 1 | Préparer les entretiens du directeur | 1/1 | 100 % |
+| 1 | Concevoir notes et supports de présentation | 1/1 | 100 % |
+| 1 | Coordonner les équipes pour les instances de gouvernance | 1/1 | 100 % |
+| 1 | Rédiger des synthèses d'activité | 1/1 | 100 % |
+| 1 | Suivre les décisions et l'avancement des actions | 1/1 | 100 % |
+| 1 | Identifier les priorités stratégiques | 1/1 | 100 % |
+| 1 | Émettre alertes et recommandations | 1/1 | 100 % |
+| 1 | Rédiger des notes thématiques (sujets techniques, organisation) | 1/1 | 100 % |
+| 1 | Mobiliser les expertises internes et externes | 1/1 | 100 % |
+| 1 | Appuyer l'équipe sur les sujets transverses | 1/1 | 100 % |
+| 1 | Animer le futur conseil économique (le cas échéant) | 1/1 | 100 % |
+
+**C. Transparence**
+
+- **N = 1.** 13 = 0, reste PACA = 0, reste France = 1 (Manche, 50). Ce résultat ne se généralise pas.
+- **Offre retenue :** Orano, chargé de missions « auprès du directeur des affaires publiques et communication » du projet Aval du futur. Le niveau est « chargé » et l'intitulé contient « affaires publiques ».
+  - Poste junior : Bac+5 (ingénieur ou master), 0 à 1 an d'expérience.
+  - Qualités demandées en plus : rigueur, curiosité.
+- **Taille :** l'offre ne donne pas d'effectif.
+  - L'API renvoie d'abord la holding Orano SA : tranche 02, mais catégorie « GE ».
+  - Les sociétés qui exploitent les sites du Cotentin, Orano Recyclage et Orano Projets, sont en tranche 51 (5 000 à 9 999 salariés).
+  - D'où le classement en B.
+- **Écartées, employeurs privés (8 offres, 9 annonces).** Leur taille n'a pas été vérifiée puisqu'elles sortent du périmètre.
+  - Niveau responsable, qui relève de l'intitulé 12 : Groupement Mousquetaires (91), Biogaran (92), Leo Pharma (92, CDD), Diptyque (75, « relations presse et publiques »).
+  - Autres niveaux :
+    - Michelin, assistante de la directrice des affaires publiques (75, CDD) ;
+    - American Vintage, coordinateur presse, influence et relations publiques (Signes, 83, 2 annonces). C'est la seule offre de PACA dont l'intitulé contient l'un des termes.
+  - Stages : Mars (« Public Affairs », 75), PepsiCo (assistant affaires publiques, 92).
+- **Limites :** les grands groupes recrutent leurs postes d'affaires publiques surtout via LinkedIn, l'APEC et des cabinets. Ce que montre HelloWork est donc très partiel.
+
+### C. Secteur public / institutionnel
+
+**A. Compétences** (N = 12)
+
+| Rang | Compétence | Offres | % |
+|---|---|---|---|
+| 1 | Rédaction | 11/12 | 92 % |
+| 2 | Sens relationnel | 10/12 | 83 % |
+| 3 | Événementiel | 8/12 | 67 % |
+| 4 | Environnement public | 7/12 | 58 % |
+| 5 | Veille | 6/12 | 50 % |
+| 5 | Esprit de synthèse | 6/12 | 50 % |
+| 5 | Discrétion | 6/12 | 50 % |
+| 5 | Organisation | 6/12 | 50 % |
+
+Les compétences suivantes ne tiennent pas dans le tableau :
+
+- ex aequo à 6/12 : travail en équipe, disponibilité ;
+- 5/12 : autonomie, réactivité, bureautique, gestion de projet ;
+- 4/12 : relations presse, réseaux sociaux, rigueur ;
+- 3/12 : permis B, influence et argumentation ;
+- 2/12 : négociation ;
+- 1/12 : anglais.
+
+« Environnement public » regroupe la connaissance des institutions, des collectivités, des acteurs publics et des circuits de décision.
+
+**B. Missions** (N = 12)
+
+| Rang | Mission | Offres | % |
+|---|---|---|---|
+| 1 | Entretenir les relations avec élus, institutions et partenaires | 10/12 | 83 % |
+| 2 | Organiser événements, cérémonies et visites | 9/12 | 75 % |
+| 3 | Valoriser l'image et le rayonnement de l'institution | 7/12 | 58 % |
+| 4 | Rédiger notes, discours et éléments de langage | 6/12 | 50 % |
+| 4 | Assurer une veille institutionnelle et sectorielle | 6/12 | 50 % |
+| 4 | Conseiller et appuyer la direction et les élus | 6/12 | 50 % |
+| 4 | Contribuer à la stratégie de communication et d'influence | 6/12 | 50 % |
+| 4 | Développer et suivre des partenariats | 6/12 | 50 % |
+| 9 | Concevoir supports et publications institutionnels | 5/12 | 42 % |
+| 9 | Coordonner équipes, prestataires et logistique | 5/12 | 42 % |
+| 11 | Représenter la structure lors de rencontres extérieures | 4/12 | 33 % |
+| 11 | Gérer agendas, plannings et fichiers de contacts | 4/12 | 33 % |
+| 11 | Informer habitants et publics, animer la participation | 4/12 | 33 % |
+| 14 | Animer réseaux sociaux et site web | 3/12 | 25 % |
+| 14 | Gérer les relations presse | 3/12 | 25 % |
+| 14 | Suivre grands projets et dossiers sensibles | 3/12 | 25 % |
+| 17 | Préparer et suivre les instances de gouvernance | 2/12 | 17 % |
+| 17 | Animer un réseau interne ou des groupes de travail | 2/12 | 17 % |
+| 17 | Accueillir délégations et visiteurs (protocole) | 2/12 | 17 % |
+| 17 | Suivre budget et régies | 2/12 | 17 % |
+
+Hors tableau : « Mener des actions de médiation culturelle » (2/12, ex aequo) et « Gérer la communication de crise » (1/12).
+
+**C. Transparence**
+
+- **N = 12.** 13 = 0, reste PACA = 0, reste France = 12.
+  - Île-de-France : 6 offres (75 ×2, 78, 91 ×2, 95).
+  - Autres : 59, 44, 47, 29, 971, 972.
+  - Contrats : 9 postes de fonctionnaire (celui d'Étampes est aussi ouvert aux contractuels), 2 CDI (VNF, poste public ouvert aux fonctionnaires de catégorie A ; l'association recrutée via Bridge RH), 1 CDD (ministère des Armées).
+  - Publications entre le 12/09 et le 09/10/2026.
+- **13 et PACA :** aucun intitulé ne contient les termes, quel que soit le contrat. Deux postes voisins du 13 restent hors périmètre faute des termes dans l'intitulé : « Chargé de protocole » à la Région Sud et « Chargé de mission stratégie de communication » (Marseille, CDD).
+- **Choix de classement :**
+  - **Bridge RH & Associés** est un cabinet de recrutement. L'offre décrit son client comme « l'association », avec présidence, déléguée générale, bureau, CA et AG. Je l'ai donc classée en C.
+  - **VNF** a publié la même offre 3 fois, sous la même référence 2026-3536 (IDs 83582498, 83617327, 83813587). Je l'ai comptée une fois.
+  - **ENAP** est une école, mais l'annonce porte sur un poste de fonctionnaire de son unité communication, pas sur une formation. Je l'ai retenue. Si vous appliquez la règle « écoles » à la lettre, retirez-la.
+- **Intitulés limites retenus :**
+  - « relations et communication institutionnelles » (VNF), compté comme une variante de « relations institutionnelles » ;
+  - trois intitulés culturels ou événementiels contenant « relations publiques » (Goussainville, Étampes, Louvre). Ils tirent le profil vers l'événementiel et l'accueil des publics.
+  - Le cœur « affaires publiques » se trouve surtout chez VNF, l'association via Bridge RH, la Riviera du Levant, TE44 et Juvisy-sur-Orge.
+- **Écartées, secteur public (9 offres, 10 annonces) :**
+  - Niveau directeur ou responsable :
+    - ministère des Armées, directeur adjoint du Paris Defence & Strategy Forum « chargé des affaires publiques » (75, CDD) ;
+    - Farébersviller, directeur de la stratégie et des affaires publiques (57) ;
+    - responsables communication et relations publiques de Creil (60), Saint-Jean-le-Blanc (45), CEGN Rochefort (17) et Dtnum (75).
+  - Autres niveaux :
+    - DITP, conseiller relations institutionnelles et internationales (75) ;
+    - DGPN, adjoint au chef du bureau partenariats, relations institutionnelles et communication (75) ;
+    - DGA, animateur des relations publiques internationales et secrétaire (75, 2 annonces).
+- **Méthode de comptage :** chaque offre a été lue une fois pour l'extraction, puis relue avec une grille oui/non justifiée par une preuve. Une compétence est comptée si le profil la cite ou si une mission l'exige directement (par exemple, « rédiger des discours » compte pour Rédaction).
+- **Niveau demandé :** de Bac+2 à Bac+5. L'expérience va de « non précisée » à 5 à 10 ans (VNF).
+- **Limites :**
+  - HelloWork est la seule source utilisée.
+  - Les chiffres sont un instantané des offres en ligne le 9/10/2026 : les offres de 2026 déjà retirées ne sont pas comptées.
+  - La recherche floue est très bruitée : 410 résultats pour « affaires publiques » en CDI, 585 en Fonctionnaire, 2 172 pour « relations publiques » en Fonctionnaire. Je l'ai parcourue jusqu'à la règle d'arrêt, puis j'ai fait des recherches de contrôle, qui n'ont rien ajouté.
+  - **Étude précédente :** deux de ses offres ne sont plus sur HelloWork : MGEN Union, chargé de mission affaires publiques (CDD), et chargé de mission transverse affaires publiques (CDI, employeur non affiché). Ses autres offres de niveau chargé sont soit hors contrat (stage, alternance, intérim), soit retenues ici (Bridge RH, TE44, Juvisy-sur-Orge, Les Anses-d'Arlet).
+
+#### Annexe : offres analysées
+
+| Secteur | Intitulé | Employeur | Dépt | Publication | Contrat | URL |
+|---|---|---|---|---|---|---|
+| B | Chargé de missions auprès du directeur des affaires publiques et communication (projet Aval du futur) | Orano | 50 | 08/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84212327.html |
+| C | Chargé de mission gouvernance et relations institutionnelles | Association non nommée (via Bridge RH & Associés) | 75 | 22/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83647110.html |
+| C | Chargé de relations et communication institutionnelles | Voies navigables de France (DT Nord-Pas-de-Calais) | 59 | 21/09/2026 | CDI (ouvert aux fonctionnaires de catégorie A) | https://www.hellowork.com/fr-fr/emplois/83582498.html |
+| C | Chargé de protocole et relations institutionnelles | Mairie de Poissy | 78 | 09/10/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/84240092.html |
+| C | Chargé de communication et des relations institutionnelles | Commune des Anses-d'Arlet | 972 | 22/09/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/82572076.html |
+| C | Chargé de relations institutionnelles | Territoire d'énergie Loire-Atlantique (TE44) | 44 | 17/09/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/83462641.html |
+| C | Chargé de mission stratégie territoriale, relations institutionnelles et grands projets | Commune de Juvisy-sur-Orge | 91 | 17/09/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/83461972.html |
+| C | Chargé des relations publiques et du protocole | Musée du Louvre | 75 | 05/10/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/84101241.html |
+| C | Chargé de relations publiques | Communauté d'agglomération La Riviera du Levant | 971 | 06/10/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/84129183.html |
+| C | Chargé de médiation culturelle et relations publiques | Mairie de Goussainville (théâtre Sarah-Bernhardt) | 95 | 12/09/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/80090438.html |
+| C | Chargé des relations publiques, du partenariat et des événements | École nationale d'administration pénitentiaire (ENAP) | 47 | 17/09/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/83461632.html |
+| C | Chargé de billetterie projets culturels et relations publiques | Intercommunalité d'Étampes (nom non affiché) | 91 | 06/10/2026 | Fonctionnaire (ou contractuel) | https://www.hellowork.com/fr-fr/emplois/84129331.html |
+| C | Chargé de relations publiques | Ministère des Armées (BAN Lanvéoc) | 29 | 03/10/2026 | CDD | https://www.hellowork.com/fr-fr/emplois/82942795.html |
+
+---
+
+## 12. Responsable affaires publiques (+ relations publiques, relations institutionnelles)
+
+**Bilan :** A = 1 offre, B = 3, C = 7 ; 13 = 0, reste PACA = 0, reste France = 11 ; écartées = 28
+
+### A. TPE / PME / start-up (moins de 50 salariés)
+
+**A. Compétences** (N = 1, peu significatif)
+
+| Rang | Compétence | Offres | % |
+|---|---|---|---|
+| 1 | Aisance orale | 1/1 | 100 % |
+| 2 | Rédaction | 1/1 | 100 % |
+| 3 | Gestion de projet | 1/1 | 100 % |
+| 4 | Organisation | 1/1 | 100 % |
+| 5 | Sens relationnel | 1/1 | 100 % |
+| 6 | Esprit d'initiative | 1/1 | 100 % |
+| 7 | Esprit d'équipe | 1/1 | 100 % |
+| 8 | Adaptabilité | 1/1 | 100 % |
+
+**B. Missions** (l'unique offre n'en décrit que 5)
+
+| Rang | Mission | Offres | % |
+|---|---|---|---|
+| 1 | Concevoir et déployer la stratégie de relations publiques | 1/1 | 100 % |
+| 2 | Promouvoir l'image et la prise de parole de l'entreprise auprès des clients, prospects et partenaires | 1/1 | 100 % |
+| 3 | Organiser des rencontres, ateliers et séminaires | 1/1 | 100 % |
+| 4 | Développer la visibilité auprès des acteurs institutionnels (ANDRH, MEDEF) et de la presse | 1/1 | 100 % |
+| 5 | Créer et animer un club de décideurs (DRH) | 1/1 | 100 % |
+
+**C. Transparence**
+- N = 1, donc résultats non significatifs. Je ne pouvais pas atteindre 15 à 20 missions sans inventer.
+- Répartition : 13 = 0 ; reste PACA = 0 ; reste France = 1 (75).
+- Classement en A : Job2beDone Partners est un cabinet de recrutement qui recrute ici pour lui-même. Le poste est rattaché au CEO et les missions servent à promouvoir le cabinet ; HelloWork affiche seulement sa mention type « poste dans l'entreprise ou chez un client ». Effectif selon l'API : tranche 03 (6 à 9 salariés). L'identifiant est ancien (47569913), mais la page affiche une publication au 25/09/2026 : l'offre a été republiée.
+- Profil demandé : Bac+2 à Bac+5 en communication, RP ou marketing, et 1 an d'expérience. C'est un poste de RP et d'événementiel B2B, sans dimension affaires publiques.
+- Écartées : aucune offre n'a été classée A. Les 14 offres d'entreprises écartées, dont je n'ai pas vérifié la taille puisqu'elles sont hors périmètre, sont listées en B.
+- Méthode :
+  - HelloWork uniquement ;
+  - 4 mots-clés × 3 zones (13, PACA, France) × 3 contrats (CDI, CDD, Fonctionnaire), arrêt après 2 pages sans intitulé conforme ;
+  - recherches de contrôle : « affaires publiques », « responsable relations publiques », « responsable relations institutionnelles », « directeur affaires publiques », « directeur relations institutionnelles », et noms des employeurs de l'étude du 8/10 ;
+  - 17 lectures de pages d'offres au total.
+- Limites :
+  - instantané des offres en ligne le 9/10/2026 ;
+  - LinkedIn, APEC et Welcome to the Jungle (canaux principaux de ces postes) ainsi que France Travail n'ont pas été exploités ;
+  - l'échantillon reste donc très loin de 50 offres par secteur, faute d'offres existantes sur la source accessible. Le métier est rare et concentré en Île-de-France.
+
+### B. Grande entreprise (50 salariés et plus)
+
+**A. Compétences** (N = 3, peu significatif)
+
+| Rang | Compétence | Offres | % |
+|---|---|---|---|
+| 1 | Anglais | 2/3 | 67 % |
+| 2 | Secteur santé | 2/3 | 67 % |
+| 3 | Cadre institutionnel | 2/3 | 67 % |
+| 4 | Sens relationnel | 2/3 | 67 % |
+| 5 | Autonomie | 2/3 | 67 % |
+| 6 | Lobbying, influence | 1/3 | 33 % |
+| 7 | Rédaction | 1/3 | 33 % |
+| 8 | Analyse et synthèse | 1/3 | 33 % |
+
+Regroupements :
+- « Secteur santé » : médicament, autorités sanitaires, système de santé.
+- « Cadre institutionnel » : institutions françaises et européennes, régulation.
+- « Sens relationnel » : sens relationnel et diplomatie.
+- « Rédaction » : inclut la vulgarisation.
+
+Ex aequo à 1/3 : esprit stratégique, filières agricoles, enjeux patients.
+
+**B. Missions**
+
+| Rang | Mission | Offres | % |
+|---|---|---|---|
+| 1 | Définir et piloter la stratégie d'affaires publiques et d'influence | 3/3 | 100 % |
+| 2 | Entretenir les relations avec les décideurs publics (élus, parlementaires, administrations, autorités) | 3/3 | 100 % |
+| 3 | Assurer la veille législative, réglementaire et politique | 3/3 | 100 % |
+| 4 | Analyser les enjeux et formuler des recommandations (notes de synthèse, analyses d'impact) | 3/3 | 100 % |
+| 5 | Suivre les fédérations et organisations professionnelles et y représenter l'entreprise | 3/3 | 100 % |
+| 6 | Rédiger argumentaires, notes de position et éléments de langage | 2/3 | 67 % |
+| 7 | Coordonner les équipes internes sur des projets transverses | 2/3 | 67 % |
+| 8 | Anticiper les risques et gérer les sujets sensibles ou de crise | 2/3 | 67 % |
+| 9 | Préparer et suivre les rendez-vous institutionnels | 1/3 | 33 % |
+| 10 | Suivre les travaux parlementaires et le PLFSS | 1/3 | 33 % |
+| 11 | Contribuer à l'élaboration d'amendements | 1/3 | 33 % |
+| 12 | Concevoir des initiatives de plaidoyer centrées sur les patients | 1/3 | 33 % |
+| 13 | Piloter des prestataires externes | 1/3 | 33 % |
+| 14 | Garantir la conformité (transparence, déclarations HATVP, éthique) | 1/3 | 33 % |
+| 15 | Contribuer aux réflexions sectorielles (modèle du médicament, accès aux soins) | 1/3 | 33 % |
+
+**C. Transparence**
+- N = 3, peu significatif. Aucune offre de cabinet n'a dû être classée « indéterminé ».
+- Répartition : 13 = 0 ; reste PACA = 0 ; reste France = 3 (91, 92, 92).
+- Taille des employeurs :
+  - Groupement Mousquetaires : notoriété (Intermarché) ;
+  - Biogaran : API, tranche 32 (250 à 499 salariés) ;
+  - Laboratoires Leo (Leo Pharma) : API, tranche 41 (500 à 999 salariés).
+- Profil demandé : Bac+3 à Bac+5 (3/3), avec sciences politiques ou droit cités dans 2 offres ; 3 à 7 ans d'expérience (3/3). Deux postes sont dans la pharmacie, un dans la distribution et l'agriculture.
+- Écartées : 14 offres d'entreprises.
+  - Niveau :
+    - Orano, chargé de missions auprès du directeur des affaires publiques (CDI, 50) ;
+    - Michelin, assistant de la directrice des affaires publiques (CDD, 75) ;
+    - Bridge RH, chargé de mission gouvernance et RI (CDI, 75) ;
+    - American Vintage, coordinateur presse, influence et RP (CDI, 83). C'est la seule offre approchante en PACA.
+  - Intitulé :
+    - Diptyque, « Responsable des relations presse et publiques » (CDI, 75, publiée le 14/09/2026) : l'intitulé contient « relations presse » et le poste porte surtout sur la presse ;
+    - CRAN, via L'Industrie recrute, « Responsable Public Relations » (CDI, 10, 3 annonces) : intitulé anglais hors liste, et le contenu réel est de la création vidéo ;
+    - Unibail-Rodamco-Westfield, « Head of Parliamentary & Regulatory Affairs » (CDI, 75, publiée le 22/09/2026) : c'est un vrai poste d'affaires publiques, mais l'intitulé ne figure pas dans la liste. **À arbitrer.**
+  - Contrat (stage ou alternance) : RTE, Unibail-Rodamco-Westfield, Orano, MAIF, GRDF, Roole, Dassault Systèmes.
+- Non retrouvées sur HelloWork (offres citées dans l'étude du 8/10) : Verso Energy (responsable affaires publiques et réglementaires) et Leroy Paysages (responsable relations institutionnelles).
+- Limites : les mêmes qu'en A.
+
+### C. Secteur public / institutionnel
+
+**A. Compétences** (N = 7, peu significatif)
+
+| Rang | Compétence | Offres | % |
+|---|---|---|---|
+| 1 | Rédaction | 5/7 | 71 % |
+| 2 | Rigueur | 4/7 | 57 % |
+| 3 | Autonomie | 3/7 | 43 % |
+| 4 | Disponibilité | 3/7 | 43 % |
+| 5 | Sens relationnel | 3/7 | 43 % |
+| 6 | Esprit d'équipe | 3/7 | 43 % |
+| 7 | Outils com/PAO/web | 3/7 | 43 % |
+| 8 | Management d'équipe | 2/7 | 29 % |
+
+Regroupements :
+- « Rédaction » : qualités rédactionnelles, rédaction soignée, rédaction d'articles, supports écrits.
+- « Sens relationnel » : qualités relationnelles, relations humaines, écoute.
+- « Esprit d'équipe » : inclut le sens du collectif.
+- « Outils com/PAO/web » : bureautique, suite Adobe, intranet, réseaux sociaux.
+
+Ex aequo à 2/7 : esprit d'analyse, politiques publiques, expression orale, discrétion, sens du service public, initiative.
+
+**B. Missions**
+
+| Rang | Mission | Offres | % |
+|---|---|---|---|
+| 1 | Définir et piloter la stratégie de communication | 4/7 | 57 % |
+| 2 | Rédiger notes, éléments de langage, argumentaires et contenus de prise de position | 4/7 | 57 % |
+| 3 | Encadrer une équipe ou un service | 3/7 | 43 % |
+| 4 | Développer les relations avec les institutions, les élus et les partenaires | 3/7 | 43 % |
+| 5 | Gérer les relations avec la presse et les médias | 3/7 | 43 % |
+| 6 | Concevoir les supports de communication (imprimés, numériques, audiovisuels) | 3/7 | 43 % |
+| 7 | Valoriser les actions et projets de la structure auprès des publics | 3/7 | 43 % |
+| 8 | Contribuer à l'organisation des événements et à leur bilan | 3/7 | 43 % |
+| 9 | Assurer une veille (législative, financements, numérique) | 3/7 | 43 % |
+| 10 | Animer un réseau (mandataires, correspondants communication) | 2/7 | 29 % |
+| 11 | Piloter les réseaux sociaux | 2/7 | 29 % |
+| 12 | Conseiller la direction ou les élus (aide à la décision, image, risques) | 2/7 | 29 % |
+| 13 | Suivre des indicateurs et tableaux de bord | 2/7 | 29 % |
+| 14 | Piloter la mise en œuvre de projets et de politiques publiques | 2/7 | 29 % |
+| 15 | Gérer des partenariats privés | 1/7 | 14 % |
+| 16 | Piloter les relations internationales | 1/7 | 14 % |
+| 17 | Gérer le budget communication | 1/7 | 14 % |
+| 18 | Animer la communication interne (infolettre, intranet) | 1/7 | 14 % |
+| 19 | Conduire le changement | 1/7 | 14 % |
+| 20 | Suivre les mandats de représentation dans les instances | 1/7 | 14 % |
+
+**C. Transparence**
+- N = 7, peu significatif.
+- Répartition : 13 = 0 ; reste PACA = 0 ; reste France = 7 (17, 33, 45, 57, 60, 75 ×2).
+- Employeurs :
+  - État : 3 (Armées, gendarmerie, DGFiP) ;
+  - communes : 3 ;
+  - organisation patronale : 1 (Medef Nouvelle-Aquitaine). L'offre est publiée par le cabinet RH Partners et classée selon ce client.
+- Signalements :
+  - 2 intitulés de direction admis : directeur adjoint du Paris Defence & Strategy Forum, et directeur de la stratégie et des affaires publiques de Farébersviller.
+  - L'intitulé du CEGN contient « presse » mais pas « relations presse » : je l'ai retenu. **À arbitrer.**
+  - 4 offres sur 7 sont des postes de communication ou de RP : Creil (médiathèques, médiation culturelle), CEGN, Saint-Jean-le-Blanc et DTNum. Seules 3 relèvent des affaires publiques ou des relations institutionnelles : Medef Nouvelle-Aquitaine, Armées et Farébersviller.
+- Profil demandé : Bac+2 à Bac+5 ; expérience en communication, en politiques publiques ou en animation de réseaux.
+- Écartées : 14 offres publiques, toutes pour leur niveau (chargé, conseiller, adjoint ou animateur) :
+  - relations institutionnelles : VNF (chargé de relations et communication institutionnelles, 3 annonces), DITP (conseiller), Poissy, Les Anses-d'Arlet, DGPN (adjoint), Territoire d'énergie Loire-Atlantique, Juvisy-sur-Orge ;
+  - relations publiques : Ministère des Armées (chargé), DGA (animateur des RP internationales), Étampes, Musée du Louvre, CA Riviera du Levant, Goussainville, ENAP.
+- Non retrouvées sur HelloWork (offres citées dans l'étude du 8/10) : La Coopération Agricole (responsable relations institutionnelles et communication) et OMEVA (directeur plaidoyer et relations institutionnelles).
+- Limites : les mêmes qu'en A. Aucun site d'emploi public spécialisé n'a été consulté.
+
+#### Annexe : offres analysées
+
+| Secteur | Intitulé | Employeur | Dépt | Publication | Contrat | URL |
+|---|---|---|---|---|---|---|
+| A | Responsable de la Communication et des Relations Publiques | Job2beDone Partners (cabinet recrutant pour lui-même ; 6 à 9 salariés) | 75 | 25/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/47569913.html |
+| B | Responsable Affaires Publiques & Relations Agricoles | Groupement Mousquetaires | 91 | 08/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84235963.html |
+| B | Responsable Affaires Publiques | Biogaran | 92 | 15/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83403987.html |
+| B | Responsable Senior Affaires Publiques | Leo Pharma | 92 | 08/10/2026 | CDD | https://www.hellowork.com/fr-fr/emplois/84205968.html |
+| C | Responsable Relations Institutionnelles & Animation | Medef Nouvelle-Aquitaine (via le cabinet RH Partners) | 33 | 24/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83725390.html |
+| C | Directeur adjoint du Paris Defence & Strategy Forum, chargé des affaires publiques (**intitulé de direction**) | Ministère des Armées | 75 | 19/09/2026 | CDD | https://www.hellowork.com/fr-fr/emplois/83560467.html |
+| C | Directeur de la Stratégie et des Affaires Publiques (**intitulé de direction**) | Mairie de Farébersviller | 57 | 25/09/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/83769490.html |
+| C | Responsable Communication et Relations Publiques (médiathèques) | Collectivité de Creil (rubrique « Communes ») | 60 | 30/09/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/82831834.html |
+| C | Responsable de Communication et de Publication Presse et Relations Publiques au cabinet du CEGN | Cabinet du CEGN (gendarmerie nationale) | 17 | 01/10/2026 | Fonctionnaire (contractuels admis) | https://www.hellowork.com/fr-fr/emplois/83989563.html |
+| C | Responsable de Communication et de Relations Publiques | Commune de Saint-Jean-le-Blanc | 45 | 02/10/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/83991546.html |
+| C | Responsable de l'Équipe Relations Publiques de la DTNum | DGFiP, délégation à la transformation numérique | 75 | 19/09/2026 | Fonctionnaire (non-titulaires possibles) | https://www.hellowork.com/fr-fr/emplois/83555425.html |
+
+---
+
+## 14. Attaché de presse (+ relations médias)
+
+**Bilan :** A = 0 offre, B = 6, C = 14 ; 13 = 1, reste PACA = 2, reste France = 17 ; écartées = 11 (+ 2 offres « indéterminé » comptées à part)
+
+### A. TPE / PME / start-up (moins de 50 salariés)
+
+**A. Compétences** : N = 0, aucune offre, donc pas de classement.
+
+**B. Missions** : N = 0, aucune offre, donc pas de classement.
+
+**C. Transparence**
+- N = 0 (13 : 0 ; reste PACA : 0 ; reste France : 0). Au 09/10/2026, HelloWork n'affiche aucune offre conforme d'un employeur identifié comme ayant moins de 50 salariés. Les 3 mots-clés ont été cherchés dans les 3 zones et les 3 contrats, et toutes les pages des listes ont été parcourues.
+- 2 offres conformes sont classées « indéterminé » et comptées à part (voir l'annexe). Elles sont publiées par des cabinets de recrutement pour des agences de conseil dont la taille n'est pas indiquée :
+  - ADEIS RH, pour une agence de communication indépendante au sud de Nantes (44), en CDI ;
+  - Michael Page, pour une agence de conseil en communication financière et corporate à Paris (75), en CDD de 9 mois.
+- Ces 2 postes d'agence portent sur : conseil en relations presse pour un portefeuille de clients, stratégie et plans de relations presse, réseau de journalistes (dont économiques et financiers), media training, revues de presse, sens commercial.
+- 1 offre écartée : « Chargé de communication & relations presse » dans une maison d'édition « à taille humaine » (Perros-Guirec, 22, CDI). Les relations presse n'y sont qu'un axe sur cinq, derrière le digital. Sa taille n'a pas été vérifiée.
+- Limite : ce secteur n'est pas représenté. Pour un CV « PME / agence », il faudra s'appuyer sur le secteur B et sur les 2 offres d'agence.
+
+### B. Grande entreprise (50 salariés et plus)
+
+**A. Compétences**
+
+| Rang | Compétence | Offres | % |
+|---|---|---|---|
+| 1 | Rédaction | 6/6 | 100 % |
+| 1 | Paysage médiatique | 6/6 | 100 % |
+| 3 | Relations presse | 5/6 | 83 % |
+| 3 | Anglais | 5/6 | 83 % |
+| 3 | Organisation | 5/6 | 83 % |
+| 3 | Sens relationnel | 5/6 | 83 % |
+| 7= | Réactivité | 3/6 | 50 % |
+| 7= | Connaissance secteur | 3/6 | 50 % |
+
+**B. Missions**
+
+| Rang | Mission | Offres | % |
+|---|---|---|---|
+| 1 | Rédiger et diffuser les communiqués de presse | 5/6 | 83 % |
+| 1 | Concevoir les dossiers de presse | 5/6 | 83 % |
+| 1 | Entretenir le réseau de journalistes (national, spécialisé, international) | 5/6 | 83 % |
+| 1 | Assurer la veille médias et la revue de presse | 5/6 | 83 % |
+| 1 | Organiser voyages et visites de presse, accueillir les journalistes | 5/6 | 83 % |
+| 1 | Coordonner agences RP, relais internes et filiales | 5/6 | 83 % |
+| 1 | Valoriser l'entreprise, ses dirigeants et ses produits dans les médias | 5/6 | 83 % |
+| 8 | Rédiger éléments de langage, Q&R et briefings | 4/6 | 67 % |
+| 8 | Organiser les conférences de presse | 4/6 | 67 % |
+| 8 | Organiser les interviews des porte-parole | 4/6 | 67 % |
+| 8 | Piloter les événements presse | 4/6 | 67 % |
+| 8 | Traiter les sollicitations des journalistes | 4/6 | 67 % |
+| 8 | Préparer les porte-parole et dirigeants (media training) | 4/6 | 67 % |
+| 14 | Mesurer les retombées (KPI, reporting) | 3/6 | 50 % |
+| 14 | Définir la stratégie de relations médias | 3/6 | 50 % |
+| 14 | Rédiger des contenus éditoriaux (articles, discours) | 3/6 | 50 % |
+
+**C. Transparence**
+- N = 6, donc peu significatif (N < 10). Répartition : 13 : 0 ; reste PACA : 0 ; reste France : 6 (75, 78, 92 ×2, 35, 67). Contrats : 3 CDI et 3 CDD (dont un de 6 mois et un de 9 mois).
+- Taille des employeurs :
+  - Nexter : environ 4 500 salariés, indiqué dans l'offre.
+  - Les autres via l'API recherche-entreprises (tranche d'effectif) : Orange 53 ; SUEZ 41 (SUEZ Eau France 52) ; Hager Electro SAS 51 ; Diptyque 32 ; Groupe Roullier 32, via sa holding CFPR.
+- 3 cas limites retenus :
+  - Diptyque, « relations presse et publiques » : la presse y est majoritaire.
+  - Roullier, « communication externe & relations presse » : les relations presse sont au cœur du poste.
+  - Hager, intitulé anglais « Media Relations » : les relations médias sont au cœur du poste.
+- Offres écartées :
+  - American Vintage (Signes, 83, CDI, 2 annonces identiques), « Coordinateur presse, influence et relations publiques ». La presse y est minoritaire (environ 4 missions sur 10, le reste porte sur l'influence et l'événementiel) et l'intitulé contient « relations publiques », qui relève de l'intitulé 11.
+  - Winamax (75), « Asistent de Prensa Junior » : intitulé « assistant ».
+  - Artemis Success (75), 2 offres « Directeur·rice de clientèle RP & influence » : intitulé « directeur ».
+  - AGL Group, poste « relations médias » situé en Guinée, hors de France.
+- Prérequis, non classés comme compétences : Bac+4/5 ou Bac+5 exigé dans 5/6 offres ; expérience minimale exigée dans 5/6 offres (de 1 à 8 ans).
+- Ex æquo et départage :
+  - Compétences : rigueur, esprit d'initiative et travail en équipe sont aussi à 3/6. Les rangs 7 et 8 ont été départagés par la fréquence sur l'ensemble des 20 offres.
+  - Missions à 2/6 : communication de crise, conseil aux dirigeants, plan de communication, budget, e-réputation, repérage d'angles médiatiques.
+  - Compétence « vulgarisation de sujets techniques » : 2/6.
+
+### C. Secteur public / institutionnel
+
+**A. Compétences**
+
+| Rang | Compétence | Offres | % |
+|---|---|---|---|
+| 1 | Sens relationnel | 14/14 | 100 % |
+| 2 | Réactivité | 13/14 | 93 % |
+| 3 | Rédaction | 11/14 | 79 % |
+| 4 | Organisation | 10/14 | 71 % |
+| 4 | Connaissance secteur | 10/14 | 71 % |
+| 6 | Travail en équipe | 9/14 | 64 % |
+| 7 | Synthèse & analyse | 8/14 | 57 % |
+| 7 | Paysage médiatique | 8/14 | 57 % |
+
+**B. Missions**
+
+| Rang | Mission | Offres | % |
+|---|---|---|---|
+| 1 | Rédiger et diffuser les communiqués de presse | 11/14 | 79 % |
+| 2 | Développer et entretenir le réseau de journalistes | 10/14 | 71 % |
+| 2 | Assurer la veille médias et la revue de presse | 10/14 | 71 % |
+| 4 | Concevoir les dossiers de presse | 9/14 | 64 % |
+| 4 | Organiser conférences et points presse | 9/14 | 64 % |
+| 6 | Mesurer les retombées et établir les bilans | 8/14 | 57 % |
+| 6 | Valoriser projets et actions de l'institution dans les médias | 8/14 | 57 % |
+| 8 | Rédiger éléments de langage, argumentaires et notes | 7/14 | 50 % |
+| 8 | Tenir à jour le fichier presse | 7/14 | 50 % |
+| 8 | Définir la stratégie de relations presse | 7/14 | 50 % |
+| 8 | Contribuer au plan de communication | 7/14 | 50 % |
+| 12 | Organiser les interviews (élus, porte-parole) | 6/14 | 43 % |
+| 12 | Piloter les opérations et événements presse | 6/14 | 43 % |
+| 14 | Organiser visites et voyages de presse, accueillir les journalistes | 5/14 | 36 % |
+| 14 | Gérer la communication de crise | 5/14 | 36 % |
+| 16 | Traiter les sollicitations des médias | 4/14 | 29 % |
+| 16 | Préparer élus et porte-parole aux prises de parole | 4/14 | 29 % |
+| 16 | Produire des contenus éditoriaux (web, articles, newsletters) | 4/14 | 29 % |
+| 16 | Conseiller élus, direction et services | 4/14 | 29 % |
+| 16 | Gérer le budget (presse, partenariats médias) | 4/14 | 29 % |
+
+**C. Transparence**
+- N = 14. Répartition : 13 : 1 (Métropole Aix-Marseille-Provence) ; reste PACA : 2 (Département des Alpes-Maritimes et Métropole Nice Côte d'Azur, tous deux dans le 06) ; reste France : 11.
+- Employeurs : 8 collectivités, EPCI ou établissements publics locaux ; 3 services de l'État (DGA, Viginum, une école du ministère des Armées) ; le Centre Pompidou ; l'Institut Pasteur (fondation, classé C sur notoriété) ; les Scouts et Guides de France (association). Contrats : 10 fonctionnaire, 2 CDD, 2 CDI.
+- 3 cas limites retenus :
+  - Métropole Rouen Normandie, « relations presse et réseaux sociaux » : deux volets d'importance égale.
+  - Ministère des Armées, « Responsable du pôle médias » : le contenu du poste relève des relations médias.
+  - Eurométropole de Strasbourg, « Responsable de département presse » : poste d'encadrement, mais pas de directeur.
+- Offres écartées :
+  - Mairie de Foix (09), Mairie de Palaiseau (91) et commandement des écoles de la gendarmerie (17) : les relations presse y sont minoritaires dans un poste de communication.
+  - Conseil départemental de la Drôme (26), « Attaché de presse » : l'offre est conforme mais sa page ne donne ni missions ni compétences, elle n'est donc pas analysable. Sa référence d'origine est datée du 17/12/2025.
+  - Métropole du Grand Paris (75) : intitulé « directeur ».
+- Doublon fusionné : l'offre DGA 84167140 et l'offre ministère des Armées 84167234 portent la même référence ; elle a été publiée une fois en fonctionnaire et une fois en CDD.
+- Prérequis, non classés comme compétences : expérience minimale exigée dans 6/14 offres ; Bac+5 exigé dans 4/14 ; permis B dans 1/14.
+- Ex æquo hors classement :
+  - Compétences à 7/14 : réseau de journalistes, techniques de relations presse, adaptabilité, disponibilité (soir, week-end, astreinte).
+  - Mission « Animer les réseaux sociaux » à 4/14 : laissée hors du tableau au départage, fait par la fréquence sur l'ensemble des 20 offres.
+- « Connaissance secteur » regroupe surtout les collectivités et l'environnement institutionnel (8 offres sur 14), plus la culture (Pompidou) et le scoutisme (Scouts et Guides de France).
+- Limites :
+  - L'offre de Sytral Mobilités ne décrit aucune mission, seulement les contraintes du poste. Les pourcentages de missions sont donc légèrement sous-estimés.
+  - Les savoir-faire de relations presse figurent surtout dans les missions plutôt que dans les profils.
+- Méthode, valable pour tous les secteurs :
+  - Source unique : HelloWork. J'ai lu 40 pages de liste et fait 51 lectures de pages d'offres, en deux passages : une extraction libre, puis une grille de codes standardisée. Seules les mentions explicites ont été comptées.
+  - Les deux listes de plus de 100 résultats (« relations presse » en CDI et en fonctionnaire) ont été lues en entier, soit 5 pages chacune.
+  - Les offres retenues ont été publiées entre le 09/09 et le 08/10/2026 : l'échantillon est un instantané des offres en ligne au 09/10/2026.
+
+#### Annexe : offres analysées
+
+| Secteur | Intitulé | Employeur | Dépt | Publication | Contrat | URL |
+|---|---|---|---|---|---|---|
+| C | Attaché(e) de presse | Métropole Aix-Marseille-Provence | 13 | 18/09/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/83500908.html |
+| C | Attaché de presse | Département des Alpes-Maritimes | 06 | 25/09/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/83771485.html |
+| C | Attaché de presse | Métropole Nice Côte d'Azur | 06 | 17/09/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/83462353.html |
+| C | Attaché de presse | DGA (ministère des Armées) | 75 | 07/10/2026 | Fonctionnaire / CDD (doublon 84167234) | https://www.hellowork.com/fr-fr/emplois/84167140.html |
+| C | Attaché de presse | Centre Pompidou | 75 | 06/10/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/84130442.html |
+| C | Attaché de presse | Sytral Mobilités | 69 | 03/10/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/84048347.html |
+| C | Attaché de presse RT | Ville de Saint-Ouen-sur-Seine | 93 | 04/10/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/84066891.html |
+| C | Attaché de presse | Région Bourgogne-Franche-Comté | 21 | 30/09/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/83917982.html |
+| C | Chargé de relations presse | Viginum (service de l'État) | 75 | 03/10/2026 | CDD (contractuel) | https://www.hellowork.com/fr-fr/emplois/82951348.html |
+| C | Chargée des relations presse et réseaux sociaux | Métropole Rouen Normandie | 76 | 09/09/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/83201240.html |
+| C | Responsable de département presse | Eurométropole de Strasbourg | 67 | 08/10/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/84201597.html |
+| C | Attachée de presse | Institut Pasteur (fondation) | 75 | 05/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84099035.html |
+| C | Chargé·e de relations médias et contenus | Scouts et Guides de France (association) | 94 | 16/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83448626.html |
+| C | Responsable du pôle médias | Ministère des Armées (école) | 91 | 03/10/2026 | CDD | https://www.hellowork.com/fr-fr/emplois/82939795.html |
+| B | Attaché de presse senior | Orange | 92 | 26/09/2026 | CDD 6 mois | https://www.hellowork.com/fr-fr/emplois/83801488.html |
+| B | Responsable relations presse et contenus | SUEZ | 92 | 25/09/2026 | CDD | https://www.hellowork.com/fr-fr/emplois/83787766.html |
+| B | Adjoint responsable relations presse | Nexter (KNDS France) | 78 | 15/09/2026 | CDD 9 mois | https://www.hellowork.com/fr-fr/emplois/83372694.html |
+| B | Chargé de communication externe & relations presse | Groupe Roullier | 35 | 13/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/82294306.html |
+| B | Responsable des relations presse et publiques | Diptyque Paris | 75 | 14/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/76784743.html |
+| B | Communication Specialist Senior – Executives & Media Relations | Hager | 67 | 07/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84166552.html |
+| Indét. (à part) | Attaché de presse | ADEIS RH (cabinet), pour une agence de communication | 44 | 15/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/64112068.html |
+| Indét. (à part) | Attaché de presse corporate & finance | Michael Page (cabinet), pour une agence de conseil | 75 | 22/09/2026 | CDD 9 mois | https://www.hellowork.com/fr-fr/emplois/83620255.html |
