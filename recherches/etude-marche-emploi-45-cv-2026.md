@@ -1208,6 +1208,212 @@ Secteur retiré de l'étude (intitulé marketing, pas de CV public prévu)
 
 ---
 
+## 6. Responsable marketing (+ responsable marketing digital)
+
+**Bilan :** A = 7 offres, B = 50 ; C retiré ; 13 = 2, reste PACA = 2, reste France = 53 ; écartées = 4 après lecture (+ 13 indéterminées comptées à part, 1 doublon)
+
+### A. TPE / PME / start-up (moins de 50 salariés)
+
+**A. Compétences** (N = 7 : résultats peu significatifs)
+
+| Rang | Compétence | Offres | % |
+|---|---|---|---|
+| 1 | CRM & automation | 5/7 | 71 % |
+| 2 (ex aequo) | Analyse data & KPI | 4/7 | 57 % |
+| 2 (ex aequo) | Anglais | 4/7 | 57 % |
+| 2 (ex aequo) | Force de proposition | 4/7 | 57 % |
+| 2 (ex aequo) | Marketing digital | 4/7 | 57 % |
+| 6 (ex aequo) | Marketing B2B | 3/7 | 43 % |
+| 6 (ex aequo) | IA appliquée | 3/7 | 43 % |
+| 6 (ex aequo) | Autonomie | 3/7 | 43 % |
+
+**B. Missions** (N = 7 : résultats peu significatifs)
+
+| Rang | Mission | Offres | % |
+|---|---|---|---|
+| 1 (ex aequo) | Produire les contenus marketing | 5/7 | 71 % |
+| 1 (ex aequo) | Suivre KPI, ROI et reporting de performance | 5/7 | 71 % |
+| 3 (ex aequo) | Piloter l'acquisition et la génération de leads | 4/7 | 57 % |
+| 3 (ex aequo) | Piloter des campagnes multicanales | 4/7 | 57 % |
+| 3 (ex aequo) | Piloter le site web et la présence digitale | 4/7 | 57 % |
+| 6 (ex aequo) | Piloter CRM, fidélisation et parcours clients | 3/7 | 43 % |
+| 6 (ex aequo) | Organiser événements et salons | 3/7 | 43 % |
+| 6 (ex aequo) | Animer les réseaux sociaux | 3/7 | 43 % |
+| 6 (ex aequo) | Développer partenariats et influence | 3/7 | 43 % |
+| 10 (ex aequo) | Gérer le budget marketing | 2/7 | 29 % |
+| 10 (ex aequo) | Assurer la veille marché et concurrence | 2/7 | 29 % |
+| 10 (ex aequo) | Définir la stratégie marketing | 2/7 | 29 % |
+| 13 (ex aequo) | Construire et déployer le plan marketing | 1/7 | 14 % |
+| 13 (ex aequo) | Manager l'équipe marketing | 1/7 | 14 % |
+| 13 (ex aequo) | Appuyer les équipes commerciales | 1/7 | 14 % |
+
+**C. Transparence**
+- **N = 7, résultats peu significatifs.** 5 CDI et 2 CDD, publiés du 21/09 au 07/10/2026. Six autres missions apparaissent aussi à 1/7 : outils d'aide à la vente, image de marque, supports de communication et relations presse, segmentation et ciblage, coordination transverse, prestataires. Pour départager ces ex aequo, j'ai retenu les trois les plus fréquentes dans le secteur B.
+- **Répartition :** 13 = 0 ; reste de PACA = 0 ; reste de la France = 7 (75 ×3, 34, 38, 59, 67).
+- **Classement des 7 offres :**
+  - Effectif ou indice dans l'offre (3) : client d'Achil (20 salariés), client de Managing (« moins de 50 salariés »), client de Team.is (jeune start-up qui recrute son premier responsable marketing).
+  - API (4) : Kel Quartier (tranche 12), BPS 38 (tranche 12), La Confrérie des Domaines, cliente de Vidal Associates (tranche 11), Ludogram (tranche 12).
+- **Pourquoi moins de 50 offres :**
+  - Les deux mots-clés ont été épuisés dans le 13, en PACA et en France, en CDI et en CDD. La règle d'arrêt a été appliquée : « responsable marketing » CDI France, pages 6 à 8 sans intitulé conforme ; « marketing manager » CDI, pages 7 et 8 sans intitulé conforme ; les listes CDD ont été lues en entier.
+  - Les petites structures publient surtout des postes « responsable marketing et communication », qui relèvent de l'intitulé 10 (28 intitulés de ce type écartés).
+  - Leurs offres passent aussi souvent par des cabinets qui ne décrivent pas le client.
+- **13 offres indéterminées, comptées à part.** Ce sont des cabinets sans indice de taille du client, plus une ESN introuvable dans l'API. Elles figurent en annexe : Vitijob (83), LEA, Palmer, Approach People ×2, Bridge RH, ISI Intérim, LUXE TALENT ×2, REC PARTNERS, AP Consulting, KatchMe (client « scale-up »), Zenith IT Consulting.
+- **Écartées dès la lecture des listes (communes à A et B) :**
+  - 28 intitulés « marketing et/& communication » (intitulé 10), dont EDL (13), Proman (04) et Michael Page (83).
+  - Growth : Meteoria (13), NRJ, Picnic. Acquisition ou performance : Wine RL (13), Staff'U, Onepoint, Caboost (83).
+  - CRM : Ceebly (13), Galileo, Culligan. Chef de groupe marketing : 6. Directeur ou director : 3.
+  - Stage, VIE et étranger : Amazon « Intern », Bruce VIE en Espagne, Roquette en Chine.
+  - Intitulés hybrides technique ou informatique : Apecita (84), Terresis, E.Leclerc, Ceva. « Développement marketing » : CNP, offre en Martinique.
+  - Offres publiques : ministère des Armées (83), service public (31).
+- **Intitulés composés retenus, car le marketing y est central :** « Responsable E-commerce & Marketing digital » (BPS 38) et « Marketing & Social Manager » (Ludogram).
+- **Limites :**
+  - Les données viennent de résumés WebFetch ; je les ai ensuite regroupées moi-même par thème, ce qui laisse une part de subjectivité.
+  - Les savoir-être sont peut-être sous-déclarés.
+  - Bac+5 est demandé dans 5 offres sur 7 (les 2 autres : Bac+2/3 à Bac+5).
+
+### B. Grande entreprise (50 salariés et plus)
+
+**A. Compétences**
+
+| Rang | Compétence | Offres | % |
+|---|---|---|---|
+| 1 (ex aequo) | Anglais | 26/50 | 52 % |
+| 1 (ex aequo) | Analyse data & KPI | 26/50 | 52 % |
+| 3 (ex aequo) | Management d'équipe | 17/50 | 34 % |
+| 3 (ex aequo) | Relationnel | 17/50 | 34 % |
+| 3 (ex aequo) | Leadership | 17/50 | 34 % |
+| 6 (ex aequo) | Travail transverse | 16/50 | 32 % |
+| 6 (ex aequo) | Autonomie | 16/50 | 32 % |
+| 8 (ex aequo) | Marketing digital | 15/50 | 30 % |
+| 8 (ex aequo) | Sens du résultat | 15/50 | 30 % |
+
+**B. Missions**
+
+| Rang | Mission | Offres | % |
+|---|---|---|---|
+| 1 | Suivre KPI, ROI et reporting de performance | 31/50 | 62 % |
+| 2 | Construire et déployer le plan marketing | 21/50 | 42 % |
+| 3 | Définir la stratégie marketing | 19/50 | 38 % |
+| 4 | Manager l'équipe marketing | 17/50 | 34 % |
+| 5 (ex aequo) | Appuyer les équipes commerciales | 16/50 | 32 % |
+| 5 (ex aequo) | Assurer la veille marché et concurrence | 16/50 | 32 % |
+| 5 (ex aequo) | Structurer l'offre et le positionnement (gamme, pricing) | 16/50 | 32 % |
+| 8 | Piloter les lancements (go-to-market) | 15/50 | 30 % |
+| 9 | Piloter des campagnes multicanales | 14/50 | 28 % |
+| 10 (ex aequo) | Gérer le budget marketing | 13/50 | 26 % |
+| 10 (ex aequo) | Créer les outils d'aide à la vente | 13/50 | 26 % |
+| 12 (ex aequo) | Coordonner les équipes transverses | 12/50 | 24 % |
+| 12 (ex aequo) | Organiser événements et salons | 12/50 | 24 % |
+| 14 | Piloter CRM, fidélisation et parcours clients | 11/50 | 22 % |
+| 15 | Produire les contenus marketing | 10/50 | 20 % |
+| 16 (ex aequo) | Développer partenariats et influence | 9/50 | 18 % |
+| 16 (ex aequo) | Mener études de marché et clients | 9/50 | 18 % |
+| 16 (ex aequo) | Piloter l'acquisition et la génération de leads | 9/50 | 18 % |
+| 16 (ex aequo) | Développer notoriété et image de marque | 9/50 | 18 % |
+| 20 | Piloter le site web et la présence digitale | 8/50 | 16 % |
+
+**C. Transparence**
+- **N = 50, quota atteint.** 45 CDI et 5 CDD, publiés du 09/09 au 08/10/2026. Les premières compétences techniques après le top 8 sont CRM & automation, Marketing B2B et Stratégie marketing (14/50 chacune), puis Gestion de projet (13/50). Bac+5 est demandé dans 48 offres sur 50. L'expérience demandée va le plus souvent de 3 à 10 ans.
+- **Répartition :** 13 = 2 (PONANT ; Dan Partners pour un assureur d'environ 250 personnes) ; reste de PACA = 2 (Mane, 06) ; reste de la France = 46.
+- **Classement des 50 offres :**
+  - Effectif ou indice dans l'offre : 13, dont 11 offres de cabinets (groupe ou enseigne nationale ou internationale, 29 magasins…).
+  - API, tranche 21 ou plus : 29.
+  - API, unité légale sous 50 salariés mais groupe classé ETI par l'INSEE : 3 (Groupe Cyril Lignac, HighCo, Numbr ; l'entité Numbr Paris est en tranche 12). J'ai ajouté cette règle moi-même, car la consigne ne prévoit que la tranche de l'API.
+  - Notoriété, faute de correspondance dans l'API : 5 (Crédit Agricole Sud Méditerranée, CNP Assurances IARD, Koesio, O2, EFI Automotive).
+- **Sélection et quota :**
+  - Ordre suivi : 13, puis PACA, puis le reste de la France. Pour le reste de la France, ordre de lecture : d'abord les annonces de cabinets et de petites structures (pour trancher A ou B), puis les employeurs directs dans l'ordre des listes HelloWork.
+  - Groupe Faurie (83446802, 16) a été lue mais n'est pas retenue : c'est la 51e offre B.
+  - 19 offres B conformes repérées n'ont pas été lues (quota atteint) : Fives, Andros, Hellowork, JCDecaux (Head of Marketing Client Success), bioMérieux, Spie Operations, Septeo, Alan, Teisseire, Hana Group, Raja, Vandemoortele, Advenis, agap2, MGEN, Evoriel, Uriage, Swatch Group, Spirit.
+- **Écartées après lecture :**
+  - Mane 60627445 : le descriptif situe le poste à Dubaï.
+  - Isagri 84140144 et MATCHMAKER 84207663 : offres expirées et illisibles.
+  - Doublon : 84202736 (identique à 84202735).
+- **Indice non confirmé :** Mantra et Groupe Blachère sont introuvables sur HelloWork aujourd'hui. Ils n'apparaissent dans aucune liste 13 (CDI ou CDD, deux mots-clés), et les recherches par nom donnent 0 résultat. Au total, j'ai repéré environ 93 intitulés conformes, contre environ 150 annoncés ; l'écart vient surtout des intitulés « + communication ».
+- **Limites :**
+  - Trois offres atypiques sont retenues : Eiffage (en réalité de la gestion d'appels d'offres), Mondelez (annonce « vivier »), « Junior Marketing Manager » chez Mane.
+  - Les savoir-être dominent le top 8.
+  - Lectures : 75 pages d'offres (74 offres et 1 relecture), 42 pages de listes, toujours avec WebFetch et au plus 5 en parallèle. L'API officielle a été interrogée par requêtes unitaires ; aucun script n'a été utilisé sur HelloWork.
+
+### C. Secteur public / institutionnel
+Secteur retiré de l'étude (intitulé marketing, pas de CV public prévu).
+
+#### Annexe : offres analysées
+
+| Secteur | Intitulé | Employeur | Dépt | Publication | Contrat | URL |
+|---|---|---|---|---|---|---|
+| A | Responsable Marketing Digital Orienté Contenu | Kel Quartier | 75 | 07/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/82102952.html |
+| A | Responsable E-Commerce & Marketing Digital | Bois Prises Société 38 (BPS 38) | 38 | 30/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83929060.html |
+| A | Responsable Marketing Opérationnel et Digital | Achil (cabinet) – labo santé/beauté, 20 salariés | 75 | 01/10/2026 | CDD 10 mois | https://www.hellowork.com/fr-fr/emplois/83965749.html |
+| A | Marketing Manager | Managing (cabinet) – PME industrielle < 50 salariés | 67 | 02/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84017182.html |
+| A | First Marketing Manager 360° | Team.is (cabinet) – start-up SaaS B2B énergie | 75 | 02/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83992413.html |
+| A | Responsable Marketing | Vidal Associates (cabinet) – La Confrérie des Domaines | 34 | 21/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83588321.html |
+| A | CDD Marketing & Social Manager | Ludogram | 59 | 05/10/2026 | CDD | https://www.hellowork.com/fr-fr/emplois/83019564.html |
+| B | Responsable Activation Marketing | PONANT | 13 | 18/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83541312.html |
+| B | Marketing Lead | Dan Partners (cabinet) – assureur pro digital ~250 pers. | 13 | 07/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84179307.html |
+| B | Responsable Marketing - Sweet Goods | Mane | 06 | 21/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/81504585.html |
+| B | Junior Marketing Manager | Mane | 06 | 23/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/81607420.html |
+| B | Responsable Marketing | DB Groupe | 45 | 13/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/81256168.html |
+| B | Responsable Marketing Digital & E-Commerce | Tiime | 75 | 08/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84226849.html |
+| B | Head of Marketing Production | Hercules Thrustmaster | 35 | 29/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/81854938.html |
+| B | Responsable Marketing Digital & Social Media | Groupe Cyril Lignac | 75 | 09/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83201225.html |
+| B | Responsable Marketing Client & CRM | Digisap Solutions | 75 | 22/09/2026 | CDD | https://www.hellowork.com/fr-fr/emplois/83604811.html |
+| B | Marketing Manager (CDD 6 mois) | Valiantys | 75 | 19/09/2026 | CDD 6 mois | https://www.hellowork.com/fr-fr/emplois/82481878.html |
+| B | Responsable Marketing | W Hunt (cabinet) – groupe industriel international | 69 | 01/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/76237708.html |
+| B | Responsable Marketing | Adsearch (cabinet) – enseigne nationale retail | 67 | 24/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83741477.html |
+| B | Responsable Marketing & Innovation | Theodore Search (cabinet) – groupe international | 44 | 08/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/81064680.html |
+| B | Responsable Marketing Client | Groupe Premium | 92 | 04/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/82991268.html |
+| B | Responsable Marketing et Acquisition | L'Etincelle RH (cabinet) – Dynamips | 44 | 24/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/82622698.html |
+| B | Marketing Manager | Le CabRH (cabinet) – leader international hôtellerie-restauration | 75 | 08/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84224570.html |
+| B | Responsable Marketing Offres de Services | BWO Recrutement (cabinet) – acteur national | 75 | 14/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83363647.html |
+| B | Retail Marketing Manager | Job2beDone (cabinet) – enseigne internationale | 75 | 11/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/31822910.html |
+| B | Partner Marketing Manager - CDD | Optin Recrutement (cabinet) – acteur international B2B | 34 | 24/09/2026 | CDD 9 mois | https://www.hellowork.com/fr-fr/emplois/83717211.html |
+| B | Responsable Marketing Digital SEO SEA Specialist | Manpower (cabinet) – groupe transport européen | 75 | 21/09/2026 | CDD 5 mois | https://www.hellowork.com/fr-fr/emplois/83603278.html |
+| B | Product Marketing Manager GEO - IA Générative | Hedon Technologies | 31 | 30/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83949613.html |
+| B | Responsable Marketing | Univers Poche (Pocket, 10/18) via Livremploi | 75 | 08/10/2026 | CDD | https://www.hellowork.com/fr-fr/emplois/84202735.html |
+| B | Responsable Offre et Marketing Retail | A PLACE conseil (cabinet) – groupe semences, 29 magasins | 12 | 15/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83382710.html |
+| B | Responsable Marketing | Maison Menissez | 59 | 05/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84078885.html |
+| B | Responsable Marketing | Maison Chancerelle | 29 | 02/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84032849.html |
+| B | Responsable Marketing | Liebherr-Aerospace Toulouse | 31 | 23/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83681755.html |
+| B | Responsable Marketing Chrono Flex | CHRONO Flex | 44 | 08/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84212909.html |
+| B | Responsable Marketing de l'Offre | Groupe Fournier | 74 | 24/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83734925.html |
+| B | Responsable Marketing Offre et CRM | SANEF | 92 | 06/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/79842160.html |
+| B | Responsable Marketing Stratégique | EFI Automotive | 01 | 24/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/81639569.html |
+| B | Responsable Marketing Junior | Desenfans | 59 | 23/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83675547.html |
+| B | Responsable Marketing et Commercial Multisites | Joa | 66 | 28/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83872282.html |
+| B | Responsable Marketing Clients - Expertise Data | Crédit Agricole Sud Méditerranée | 66 | 07/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84188948.html |
+| B | Responsable Marketing de l'Offre DOOH | HighCo | 75 | 25/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83758819.html |
+| B | Responsable Marketing Canal+ Télécom Africa | Canal+ | 92 | 07/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/82113090.html |
+| B | Responsable Marketing Client & Développement du Partenariat LBP | CNP Assurances IARD | 92 | 02/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83989983.html |
+| B | Responsable Marketing International - Segment Santé | Gerflor | 69 | 26/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/80635315.html |
+| B | Responsable Marketing des Offres - Construction | Eiffage Construction | 44 | 21/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/81542727.html |
+| B | Responsable Marketing Solutions Infrastructures Réseaux et IT Sécurisées | Fayat Energies Services | 75 | 07/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84186292.html |
+| B | Marketing Manager | JCDecaux | 92 | 24/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83737292.html |
+| B | Responsable Marketing de l'Offre et de la Demande | O2 | 72 | 17/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83472637.html |
+| B | Responsable Marketing Opérationnel | Koesio | 94 | 11/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/82223249.html |
+| B | Insights Marketing Manager | JCDecaux | 92 | 24/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83737298.html |
+| B | Responsable Marketing - Vivier | Mondelez International | 92 | 12/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/78887139.html |
+| B | Marketing Manager Innovation | Yoplait | 92 | 21/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83598960.html |
+| B | Responsable Marketing Magasin | Galeries Lafayette | 69 | 09/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83215401.html |
+| B | Responsable Marketing International | Vygon | 95 | 09/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83198139.html |
+| B | Responsable Marketing Opérationnel Après-Vente Agricole | Gueudet 1880 | 80 | 15/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83390849.html |
+| B | Responsable Marketing Editorial | CMA CGM | 75 | 09/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/76591356.html |
+| B | Head of Marketing | Numbr | 75 | 14/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/82297246.html |
+| Indét. (non comptée) | Responsable Marketing et Activation Commerciale | Vitijob – domaine viticole du Var | 83 | 03/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84050697.html |
+| Indét. (non comptée) | Responsable Marketing Performance & Outils | LEA (cabinet) – réseau multi-sites | 35 | 15/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/75697628.html |
+| Indét. (non comptée) | Responsable Digital et Marketing | Palmer (cabinet) | 59 | 19/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/82462838.html |
+| Indét. (non comptée) | Responsable Marketing (luxe) | Approach People (cabinet) | 75 | 07/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/82108669.html |
+| Indét. (non comptée) | Responsable Marketing (événementiel) | Approach People (cabinet) | 69 | 07/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/82108508.html |
+| Indét. (non comptée) | Responsable Marketing Fleet | Bridge RH (cabinet) | 75 | 08/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83121396.html |
+| Indét. (non comptée) | Responsable Marketing & Acquisition B2B | ISI Intérim (cabinet) – éditeur de logiciel | 45 | 03/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/81816397.html |
+| Indét. (non comptée) | Responsable Marketing Digital & E-Commerce - Mode haut de gamme | LUXE TALENT (cabinet) | 75 | 09/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84248441.html |
+| Indét. (non comptée) | Responsable Marketing - BTP | REC PARTNERS (cabinet) – groupe génie électrique | 49 | 10/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/79962680.html |
+| Indét. (non comptée) | Retail Marketing Manager France | LUXE TALENT (cabinet) | 75 | 22/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83622512.html |
+| Indét. (non comptée) | Connected Cars - Marketing Manager | AP Consulting (cabinet) | 92 | 12/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/82257406.html |
+| Indét. (non comptée) | Marketing & Acquisition Manager B2B | KatchMe (cabinet) – scale-up | 75 | 24/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83723869.html |
+| Indét. (non comptée) | Responsable Marketing & Acquisition B2B | Zenith IT Consulting (ESN) | 78 | 07/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84180410.html |
+
+---
+
 ## 10. Responsable communication et marketing
 
 **Bilan :** A = 4 offres, B = 12, C = 0 ; 13 = 1, reste PACA = 2, reste France = 25 (sur 28 offres retenues, dont 12 indéterminées comptées à part) ; écartées = 7
