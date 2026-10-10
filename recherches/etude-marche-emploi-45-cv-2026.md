@@ -1034,7 +1034,7 @@ Secteur retiré de l'étude (intitulé marketing, pas de CV public prévu)
 
 ## 5. Directeur communication
 
-**Bilan :** 23 offres analysées (A = 2, B = 2, C = 19). Répartition : 13 = 1, reste PACA = 0, reste France = 22. 19 offres écartées (14 hors périmètre, 2 pour le contrat, 3 de taille indéterminée), plus 13 annonces en doublon.
+**Bilan :** A = 2 offres, B = 2, C = 21 ; 13 = 1, reste PACA = 0, reste France = 24 ; écartées = 20 (15 hors périmètre, 2 pour le contrat, 3 au secteur indéterminé), plus 13 annonces en doublon
 
 ### A. TPE / PME / start-up (moins de 50 salariés)
 
@@ -1073,12 +1073,18 @@ Secteur retiré de l'étude (intitulé marketing, pas de CV public prévu)
 | 9 | Veille et optimisation des pratiques | 1/2 | 50 % |
 
 **C. Transparence**
-
-- **Le secteur A est quasi inexistant pour ce poste.** Aucune offre de TPE, de PME indépendante ou de start-up n'a été trouvée sur HelloWork (France entière, CDI, CDD et fonctionnaire).
-- **Les 2 offres retenues ne sont classées en A que par application stricte de la règle d'effectif :**
-  - IMCAS / Comexposium Healthcare (75) : « team of 40 employees », mais filiale du groupe Comexposium. Le poste est rattaché au directeur marketing ; ce n'est pas le n°1 de la communication du groupe.
-  - Brest en Vue (29) : GIE de 20 à 49 salariés, formé par deux sociétés publiques locales de la métropole de Brest.
-- **Écartées pouvant relever de A :** une offre de directeur artistique ; 13 annonces « Directeur Marketing & Communication externalisé – indépendant » (Dynabuy, contrat indépendant) ; une offre de cabinet au contenu surtout marketing.
+- N = 2 offres analysées, loin de l'objectif de 50. Répartition : 13 = 0, reste PACA = 0, reste France = 2 (75, 29).
+- Balayage profond du 09/10/2026 : aucune offre A supplémentaire. Le secteur A est inchangé.
+- Le secteur A est quasi inexistant. Je n'ai trouvé aucune offre de TPE, de PME indépendante ou de start-up sur HelloWork (France entière, CDI, CDD et Fonctionnaire). Les 2 offres ne sont classées en A que par application de la règle :
+  - IMCAS / Comexposium Healthcare : l'offre indique « team of 40 employees » et l'API donne la tranche 12 (20 à 49 salariés). C'est pourtant une filiale du groupe Comexposium, classé GE par l'API.
+  - Brest en Vue : l'API donne la tranche 12 (20 à 49 salariés). C'est un GIE formé par Brest'aim SEM et Brest'aim SPL (catégorie ETI), délégataire tourisme de Brest Métropole. L'offre est publiée par le cabinet Ulbert & Sautreuil, mais le client y est nommé.
+- Chez IMCAS, le « Director of Communications » est rattaché au Marketing Director : ce n'est pas le n°1 de la communication du groupe.
+- Écartées pouvant relever de A :
+  - Matt Design & Communication (38) : poste de directeur artistique, hors périmètre.
+  - Dynabuy : 13 annonces « Directeur Marketing & Communication externalisé – Indépendant ». Contrat indépendant/freelance ; comptées comme 1 offre et 12 doublons.
+  - Optin Recrutement (34) : « Head of Communication and Marketing ». Intitulé absent de la liste, contenu surtout marketing, client non identifié.
+  - Les 3 offres de taille indéterminée (A ou B) sont détaillées en B.
+- Qualités citées (hors tableau) : organisation et gestion des priorités 2/2. Leadership, rigueur, écoute, pédagogie, sens relationnel et innovation : 1/2 chacune.
 
 ### B. Grande entreprise (50 salariés et plus)
 
@@ -1117,66 +1123,120 @@ Secteur retiré de l'étude (intitulé marketing, pas de CV public prévu)
 | 4 | Mesure et reporting de l'impact des actions | 1/2 | 50 % |
 
 **C. Transparence**
-
-- **Échantillon :** 2 offres (Waterair, plus de 350 collaborateurs ; Intervet / MSD Santé Animale, 200 à 249 salariés, groupe MSD), toutes deux hors PACA.
-- **Écartées :**
-  - postes à dominante RH (Kone), CRM (Chanel) ou commerciale (Altiservice) ;
-  - une offre marquée « pourvue récemment » ;
-  - 3 offres de taille indéterminée (SEM Versailles Habitat, Premi Homme, client d'un cabinet).
-- **Limite :** les postes de directeur de la communication du privé passent probablement par l'APEC, LinkedIn ou des cabinets, inaccessibles ici. C'est une hypothèse, non vérifiée.
+- N = 2 offres analysées, loin de l'objectif de 50. Répartition : 13 = 0, reste PACA = 0, reste France = 2 (Lyon 69 ou Mulhouse 68 ; Beaucouzé 49).
+- Balayage profond du 09/10/2026 : aucune offre B supplémentaire.
+  - Les nouvelles annonces CDI du privé publiées depuis le 08/10 sont toutes hors périmètre : Chief Marketing Officer chez Caboost (marketing seul), directeurs artistiques chez Iserba et Big Time Labs, directeur adjoint marketing & IA chez Notariat Services, responsables marketing-communication.
+  - Ces annonces n'ont pas « communication » dans l'intitulé ; elles ne sont pas comptées parmi les écartées.
+- Classement :
+  - Waterair : l'offre, publiée par le cabinet Proévolution, indique « plus de 350 collaborateurs » (règle 1).
+  - Intervet / MSD Santé Animale (annonce « Inventing for Life ») : l'API donne la tranche 31 (200 à 249 salariés), groupe MSD.
+- MSD : l'intitulé est « Associate Director, Communications – France ». Je l'ai retenu comme niveau directeur : le titulaire est le responsable communication France, membre du Leadership Team et rattaché au responsable communication EURAM.
+- Écartées :
+  - Kone (78), « Director People & Communications » : fonction RH dominante.
+  - Chanel (75), « Client Communication Strategy Director » : communication client/CRM, rattachée au directeur de la stratégie client.
+  - Altiservice (65), « Directeur commercial & communication station » : fonction commerciale dominante.
+  - Ethis RH (Pays de la Loire), « Directeur Marketing, Communication et Développement » (client de plus de 2 000 collaborateurs) : annonce marquée « Pourvu récemment », missions marketing et commerciales sans volet communication propre.
+- Secteur indéterminé (A ou B), compté à part et non analysé :
+  - SEM Versailles Habitat (78), https://www.hellowork.com/fr-fr/emplois/83369238.html : effectif « NN » dans l'API. L'ancien OPH de Versailles, aujourd'hui fermé, était dans la tranche 50-99.
+  - Premi Homme (21), https://www.hellowork.com/fr-fr/emplois/81559214.html : client décrit comme « spécialisé dans l'accompagnement des entreprises », sans effectif.
+  - Michael Page (17), https://www.hellowork.com/fr-fr/emplois/83836048.html : client décrit comme « acteur du secteur Éducation et Formation », non identifié.
+- Autres compétences relevées à 1/2 (MSD) : communication interne, événementiel, mesure de performance, conduite du changement, veille médias, influence.
+- Qualités citées : leadership 2/2, vision stratégique 2/2 ; sens du résultat et rigueur d'exécution (Waterair).
+- Limite : les postes de directeur communication du privé passent probablement par des canaux inaccessibles ici (APEC, LinkedIn, cabinets) ; c'est une hypothèse, non vérifiée. Cadremploi répond à une requête de liste, mais je ne l'ai pas exploité car il est hors protocole.
 
 ### C. Secteur public / institutionnel
 
-**A. Compétences**
+**A. Compétences** (3 ex aequo au 7e rang)
 
 | Rang | Compétence | Offres | % |
 |---|---|---|---|
-| 1 | Management d'équipe | 18/19 | 95 % |
-| 2 | Rédaction | 17/19 | 89 % |
-| 3 | Conduite de projet | 13/19 | 68 % |
-| 4 | Techniques de com. | 11/19 | 58 % |
-| 5 | Culture digitale | 10/19 | 53 % |
-| 6 | Relations presse | 9/19 | 47 % |
-| 6 | Stratégie de com. | 9/19 | 47 % |
-| 6 | Environnement public | 9/19 | 47 % |
+| 1 | Management d'équipe | 18/21 | 86 % |
+| 1 | Rédaction | 18/21 | 86 % |
+| 3 | Conduite de projet | 15/21 | 71 % |
+| 4 | Techniques de com. | 12/21 | 57 % |
+| 5 | Culture digitale | 11/21 | 52 % |
+| 6 | Stratégie de com. | 10/21 | 48 % |
+| 7 | Pilotage budgétaire | 9/21 | 43 % |
+| 7 | Environnement public | 9/21 | 43 % |
+| 7 | Relations presse | 9/21 | 43 % |
 
 **B. Missions**
 
 | Rang | Mission | Offres | % |
 |---|---|---|---|
-| 1 | Management de l'équipe communication | 19/19 | 100 % |
-| 2 | Définition et pilotage de la stratégie de communication | 18/19 | 95 % |
-| 3 | Valorisation des politiques publiques et des projets | 17/19 | 89 % |
-| 4 | Pilotage de la ligne éditoriale et des publications | 14/19 | 74 % |
-| 4 | Conception et supervision des supports (print, web, vidéo) | 14/19 | 74 % |
-| 6 | Pilotage du budget de la direction | 13/19 | 68 % |
-| 6 | Pilotage de la communication digitale (site, réseaux sociaux) | 13/19 | 68 % |
-| 6 | Développement de l'image, de la notoriété et du rayonnement | 13/19 | 68 % |
-| 6 | Accompagnement des services et coordination transversale | 13/19 | 68 % |
-| 10 | Gestion des relations presse et médias | 12/19 | 63 % |
-| 10 | Conseil auprès des élus et de la direction générale | 12/19 | 63 % |
-| 12 | Organisation des événements et temps forts institutionnels | 11/19 | 58 % |
-| 12 | Développement de la communication interne | 11/19 | 58 % |
-| 14 | Gestion des marchés publics et des prestataires | 10/19 | 53 % |
-| 14 | Évaluation des actions et suivi des indicateurs | 10/19 | 53 % |
-| 16 | Gestion de la communication de crise et des sujets sensibles | 9/19 | 47 % |
-| 16 | Développement des partenariats et relations institutionnelles | 9/19 | 47 % |
-| 18 | Veille sur les tendances, médias et innovations | 8/19 | 42 % |
-| 19 | Garantie de la cohérence des messages et de l'image | 7/19 | 37 % |
-| 20 | Pilotage des campagnes de communication | 6/19 | 32 % |
+| 1 | Management de l'équipe communication | 21/21 | 100 % |
+| 2 | Définition et pilotage de la stratégie de communication | 20/21 | 95 % |
+| 3 | Valorisation des politiques publiques et des projets | 18/21 | 86 % |
+| 4 | Conception et supervision des supports (print, web, vidéo) | 17/21 | 81 % |
+| 5 | Accompagnement des services et coordination transversale | 16/21 | 76 % |
+| 6 | Pilotage du budget de la direction | 15/21 | 71 % |
+| 6 | Pilotage de la communication digitale (site, réseaux sociaux) | 15/21 | 71 % |
+| 6 | Pilotage de la ligne éditoriale et des publications | 15/21 | 71 % |
+| 9 | Conseil auprès des élus et de la direction générale | 14/21 | 67 % |
+| 9 | Développement de l'image, de la notoriété et du rayonnement | 14/21 | 67 % |
+| 9 | Gestion des relations presse et médias | 14/21 | 67 % |
+| 12 | Organisation des événements et temps forts institutionnels | 13/21 | 62 % |
+| 12 | Développement de la communication interne | 13/21 | 62 % |
+| 12 | Gestion des marchés publics et des prestataires | 13/21 | 62 % |
+| 15 | Évaluation des actions et suivi des indicateurs | 12/21 | 57 % |
+| 16 | Garantie de la cohérence des messages et de l'image | 10/21 | 48 % |
+| 16 | Gestion de la communication de crise et des sujets sensibles | 10/21 | 48 % |
+| 16 | Développement des partenariats et relations institutionnelles | 10/21 | 48 % |
+| 19 | Veille sur les tendances, médias et innovations | 8/21 | 38 % |
 
 **C. Transparence**
-
-- **Échantillon :** 19 offres.
-  - 16 postes publics (8 communes, 1 département, 1 région, 4 intercommunalités ou métropoles, 2 établissements publics de l'État) ;
-  - 3 CDI d'organismes non lucratifs (Centre Oscar Lambret, Firdaous Charity France, un client culturel « non profit » via Michael Page).
-- **Géographie :** 13 = 1 (Commune de Fos-sur-Mer, publiée le 10/09/2026), reste PACA = 0, reste France = 18, dont 9 en Île-de-France.
-- **Taille des équipes encadrées, quand elle est indiquée :** de 2 agents (Mennecy) à environ 50 (Région Auvergne-Rhône-Alpes).
-- **Qualités les plus citées** (hors tableau) : réactivité 11/19, sens relationnel 10/19, créativité ou innovation 10/19, disponibilité 9/19.
-- **Pourquoi N < 50 :**
-  - HelloWork a été parcouru pour la France entière (CDI, CDD et fonctionnaire), avec une quinzaine de variantes d'intitulé : 1 029 annonces distinctes examinées.
-  - Au 8 octobre 2026, HelloWork ne publie pas d'autres offres conformes. Emploi-territorial.fr en liste au moins 4 autres (Bobigny, Savoie, Guadeloupe, La Réunion), non lues car hors protocole.
-- **Écartées :** postes de directeur adjoint (Castres, Saint-Ouen-sur-Seine) ; directions à dominante projets, qualité ou relations citoyennes ; « Directeur Influence » de NEOMA (intitulé sans « communication ») ; un contrat d'intérim.
+- N = 21 offres analysées, sous l'objectif de 50. Répartition : 13 = 1, reste PACA = 0, reste France = 20, dont 11 en Île-de-France (75 ×3, 91 ×3, 93 ×2, 78, 94, 95) et 1 outre-mer (971).
+- Ce que le balayage profond du 09/10/2026 a changé :
+  - Méthode : lecture par WebFetch uniquement, une page à la fois, 5 au plus en parallèle. Au total : 13 pages de liste et 7 lectures d'offres.
+  - Listes de plus de 100 résultats arrêtées tôt le 08/10, reprises jusqu'à 2 pages consécutives sans intitulé conforme :
+    - sans filtre de contrat, désormais 997 résultats : pages 19 et 20 lues ;
+    - variantes Fonctionnaire (« directeur/directrice de la communication », « directrice communication »), désormais 227 résultats : pages 6 et 7 lues, identiques d'une variante à l'autre ;
+    - variantes CDI, désormais 438 résultats : pages 12 et 13 lues.
+  - Ces pages profondes n'ont donné aucun intitulé conforme. Les listes principales (CDI 426 et Fonctionnaire 218 au 08/10) avaient déjà été lues en entier le 08/10.
+  - Les totaux ayant augmenté pendant la nuit, j'ai aussi lu les listes triées par date (CDI pages 1 et 2, Fonctionnaire page 1, CDD page 1). Cela a ajouté 3 offres conformes, toutes publiées le 09/10 et toutes en C :
+    - Mairie de Montfermeil (93, CDI) ;
+    - Commune du Gosier (971, Fonctionnaire) ;
+    - SIOM de la Vallée de Chevreuse (Villejust, 91, Fonctionnaire).
+  - Une offre a été retirée de l'échantillon : CC Faucigny-Glières (74). Son intitulé HelloWork est devenu le 09/10 « Chef·fe de service Communication », comme le titre d'origine sur emploi-territorial. C'est un niveau chef de service, donc hors périmètre.
+  - Solde : C passe de 19 à 21 offres (+3 −1). A et B sont inchangés.
+  - Aucune nouvelle offre conforme dans les Bouches-du-Rhône ni dans le reste de PACA. Les nouveautés en PACA sont des postes de responsable : service communication de Villefranche-sur-Mer, communication digitale du département des Alpes-Maritimes.
+- Composition :
+  - 17 postes « Fonctionnaire », emplois permanents ouverts aux contractuels.
+  - 4 CDI : la commune de Montfermeil (contractuel), le Centre Oscar Lambret (centre de lutte contre le cancer, personne morale de droit privé non lucrative), Firdaous Charity France (association) et un client culturel non nommé recruté via Michael Page.
+  - Par type d'employeur : 10 communes, 1 département, 1 région, 4 intercommunalités ou syndicats, 2 établissements publics de l'État (musée Guimet, AgroParisTech) et 3 organismes non lucratifs.
+- Bouches-du-Rhône : le seul poste conforme est celui de la commune de Fos-sur-Mer (Fonctionnaire, publié le 10/09/2026). La date limite de candidature affichée sur emploi-territorial était le 09/10/2026.
+- Reste de PACA : aucun poste conforme. Les résultats PACA sont hors périmètre : chef du service communication à Hyères, chef du service de communication interministérielle (SCIED) du Var, responsable communication à Cogolin, chef du service print à La Ciotat, chargés de communication.
+- Écartées :
+  - Castres (81) et Saint-Ouen-sur-Seine (93) : postes de directeur adjoint, pas de niveau directeur.
+  - CC Faucigny-Glières (74) : retirée le 09/10, voir plus haut.
+  - Communauté de communes Les Versants d'Aime (73) : pôle « projets, culture et communication », à dominante projets et financements européens.
+  - Farébersviller (57) : « stratégie et affaires publiques », sans volet communication.
+  - EPT Grand-Orly Seine Bièvre (94) : direction « attractivité et relations citoyennes » couvrant plusieurs pôles.
+  - USSAP (11, association) : « Directeur Qualité, Gestion des Risques & Communication », à dominante qualité.
+  - Neoma BS (76/51) : « Directeur Influence ». Intitulé sans le mot communication, annonce publiée par une école ; plus 1 doublon.
+  - Ministère des Armées (75) : directeur adjoint du Paris Defence & Strategy Forum, affaires publiques, CDD.
+  - Morgan Philips (75), pour une fondation reconnue d'utilité publique : « Directeur Communication et Engagement », contrat intérim.
+- Lecture :
+  - Pour 8 offres, HelloWork n'affiche qu'un extrait ; j'en ai lu le texte complet sur emploi-territorial.fr, sous la même référence. Ce sont : Somme, Graulhet, Cachan, MEL, Région AURA, Saint-Herblain, Gosier et SIOM Vallée de Chevreuse.
+  - Les dates retenues sont les dates « Publiée le » de HelloWork. Ce sont parfois des republications (Graulhet : 27/07/2026 sur emploi-territorial ; client culturel : 13/07/2026 chez Michael Page). Tout est publié en 2026.
+- Points d'attention :
+  - SIOM Vallée de Chevreuse : intitulé mixte (communication, prévention, économie circulaire). Je l'ai retenu car la communication domine : environ 15 missions contre 5 pour la prévention des déchets. emploi-territorial classe le poste au métier « directeur de la communication ». Le profil ne détaille aucune compétence : l'offre compte dans N mais n'apporte aucune compétence au tableau.
+  - Mennecy : petite équipe (2 agents et 1 apprenti), poste opérationnel.
+  - Saint-Herblain : intitulé mixte, mais le service communication représente 15 des 19 agents de la direction.
+  - Client culturel de Michael Page : classé en C sur la base de la mention « Secteur d'activité : Non Profit » de l'annonce d'origine (michaelpage.fr, réf. JN-072026-7061251).
+- Suite des classements (hors tableaux) :
+  - Missions : pilotage des campagnes 6/21 ; structuration de l'organisation et des process 6/21 ; participation au comité de direction 5/21.
+  - Compétences : communication institutionnelle 8/21 ; communication de crise 8/21 ; posture de conseil 7/21 ; marketing territorial 7/21.
+- Qualités les plus citées (hors tableau, car savoir-être) : réactivité 11/21, sens relationnel 11/21, créativité ou innovation 10/21, disponibilité 9/21.
+- Taille des équipes encadrées, quand elle est indiquée : de 2 agents (Mennecy) à environ 50 (Région AURA).
+- Pourquoi N < 50 :
+  - HelloWork France entière (CDI, CDD et Fonctionnaire, toutes pages, avec le balayage profond) ne publie pas d'autres offres conformes au 09/10/2026.
+  - Les annonces listées ont environ 30 jours au plus ; le filtre CDD n'a donné aucun intitulé conforme.
+  - emploi-territorial.fr et choisirleservicepublic.gouv.fr listent encore au moins 3 intitulés « directeur de la communication » absents de HelloWork : Bobigny (93), Savoie (73), La Réunion (974). Je ne les ai ni lus ni comptés, car ils sont hors protocole. Gosier et Villejust, repérés là-bas le 08/10, sont depuis apparus sur HelloWork et font désormais partie de l'échantillon.
+- Règles de comptage : une compétence ou une mission est comptée uniquement si l'offre la mentionne explicitement. Le management est compté dès que l'offre indique une équipe encadrée.
+- Point de méthode à connaître :
+  - Le 08/10, les listes et les offres ont été téléchargées par script. Or les conditions d'utilisation visibles dans le code des pages HelloWork interdisent l'extraction automatisée.
+  - Le balayage du 09/10 s'est donc fait uniquement par WebFetch. Pour les 3 nouvelles offres, WebFetch a renvoyé des paraphrases fidèles et non le texte intégral.
 
 #### Annexe : offres analysées
 
@@ -1184,27 +1244,29 @@ Secteur retiré de l'étude (intitulé marketing, pas de CV public prévu)
 |---|---|---|---|---|---|---|
 | A | Director Of Communications | Comexposium Healthcare / IMCAS | 75 | 19/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/82481119.html |
 | A | Directeur·rice Marketing et Communication de la Destination | Brest en Vue (via Ulbert & Sautreuil) | 29 | 08/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83113924.html |
-| B | Directeur Marketing Digital et Communication Groupe | Waterair (via Proévolution) | 69 ou 68 | 15/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83368011.html |
-| B | Associate Director, Communications – France | Intervet – MSD Santé Animale | 49 | 05/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84099329.html |
-| C | Directeur de la Communication | Commune de Fos-sur-Mer | 13 | 10/09/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/83223841.html |
-| C | Directeur de la Communication | Département de la Somme | 80 | 07/10/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/84160103.html |
-| C | Directeur de la Communication | Ville de Saint-Germain-en-Laye | 78 | 17/09/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/83459936.html |
-| C | Directeur de la Communication | Ville de Soisy-sous-Montmorency | 95 | 08/10/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/84200325.html |
+| B | Directeur Marketing Digital et Communication Groupe | Waterair (via Proévolution) | 69 (ou 68) | 15/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83368011.html |
+| B | Dir. Assoc. Communications Mondiales (Associate Director, Communications – France) | Intervet – MSD Santé Animale (« Inventing for Life ») | 49 | 05/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84099329.html |
+| C | Directeur de la Communication – Commune de Fos-sur-Mer | Commune de Fos-sur-Mer | 13 | 10/09/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/83223841.html |
+| C | Directeur de la Communication – Conseil départemental de la Somme | Département de la Somme | 80 | 07/10/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/84160103.html |
+| C | Directeur de la Communication – Mairie de Saint-Germain-en-Laye | Ville de Saint-Germain-en-Laye | 78 | 17/09/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/83459936.html |
+| C | Directeur de la Communication – Mairie de Soisy-sous-Montmorency | Ville de Soisy-sous-Montmorency | 95 | 08/10/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/84200325.html |
 | C | Directeur de la Communication | Musée national des arts asiatiques – Guimet | 75 | 06/10/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/84125878.html |
 | C | Directeur de la Communication | AgroParisTech | 91 | 18/09/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/83500597.html |
 | C | Directeur de la Communication, de l'Évènementiel et du Marketing Territorial | Ville de Graulhet | 81 | 29/09/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/81825122.html |
 | C | Directeur de la Communication et de l'Évènementiel | Ville de Château-Thierry | 02 | 06/10/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/83075362.html |
 | C | Directeur de la Communication et de la Proximité | Ville de Cachan | 94 | 07/10/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/83082596.html |
 | C | Directeur de la Communication et des Relations Presse | Métropole du Grand Paris | 75 | 07/10/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/84160684.html |
-| C | Directeur·trice de la Communication | CC Faucigny-Glières (service mutualisé avec Bonneville) | 74 | 08/10/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/84200394.html |
 | C | Directeur Communication Externe | Métropole européenne de Lille | 59 | 18/09/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/83500991.html |
 | C | Directeur Communication et Marketing | Région Auvergne-Rhône-Alpes | 69 | 26/09/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/83797712.html |
 | C | Directeur du Service Communication | Ville de Mennecy | 91 | 22/09/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/82572223.html |
-| C | Directeur délégué Communication, Dynamiques et Transformation publique | CC du Canton d'Erstein | 67 | 17/09/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/83461951.html |
+| C | Directeur délégué en charge de la Communication, des Dynamiques et de la Transformation publique | CC du Canton d'Erstein | 67 | 17/09/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/83461951.html |
 | C | Directeur de l'Évaluation, de la Participation citoyenne et de la Communication | Ville de Saint-Herblain | 44 | 17/09/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/83461582.html |
-| C | Directeur·trice Communication et Relations Donateurs | Centre Oscar Lambret | 59 | 05/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/79771306.html |
+| C | Directeur de la Communication (balayage du 09/10) | Ville de Montfermeil | 93 | 09/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84241938.html |
+| C | Directeur de la Communication – Commune de Gosier (balayage du 09/10) | Commune du Gosier | 971 | 09/10/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/84240123.html |
+| C | Directrice Communication Prévention et Économie Circulaire (balayage du 09/10) | SIOM de la Vallée de Chevreuse | 91 | 09/10/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/84239861.html |
+| C | Directeur·trice Communication et Relations Donateurs | Centre Oscar Lambret (centre de lutte contre le cancer) | 59 | 05/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/79771306.html |
 | C | Directeur – Directrice de la Communication & du Marketing | Firdaous Charity France (association) | 93 | 18/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83510241.html |
-| C | Directeur de la Communication et du Mécénat | Client culturel « non profit » (via Michael Page) | 75 | 08/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84205343.html |
+| C | Directeur de la Communication et du Mécénat | Client culturel non nommé, « Non Profit » (via Michael Page) | 75 | 08/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84205343.html |
 
 ---
 
@@ -2425,3 +2487,174 @@ Ex aequo à 2/7 : esprit d'analyse, politiques publiques, expression orale, disc
 | B | Communication Specialist Senior – Executives & Media Relations | Hager | 67 | 07/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84166552.html |
 | Indét. (à part) | Attaché de presse | ADEIS RH (cabinet), pour une agence de communication | 44 | 15/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/64112068.html |
 | Indét. (à part) | Attaché de presse corporate & finance | Michael Page (cabinet), pour une agence de conseil | 75 | 22/09/2026 | CDD 9 mois | https://www.hellowork.com/fr-fr/emplois/83620255.html |
+
+---
+
+## 15. Brand content manager / Brand manager
+
+**Bilan :** A = 4 offres, B = 18 ; C retiré ; 13 = 2, reste PACA = 0, reste France = 20 ; écartées = 16 (+ 5 « indéterminé » comptés à part)
+
+### A. TPE / PME / start-up (moins de 50 salariés)
+
+**A. Compétences**
+
+| Rang | Compétence | Offres | % |
+|---|---|---|---|
+| 1 | Rigueur, exigence | 4/4 | 100 % |
+| 2 | Analyse, data, KPI | 2/4 | 50 % |
+| 3 | Gestion de projet | 2/4 | 50 % |
+| 4 | Sens relationnel | 2/4 | 50 % |
+| 5 | Anglais (écrit, pro) | 2/4 | 50 % |
+| 6 | Adaptabilité | 2/4 | 50 % |
+| 7 | Culture start-up | 2/4 | 50 % |
+| 8 | Italien / espagnol | 2/4 | 50 % |
+
+**B. Missions**
+
+| Rang | Mission | Offres | % |
+|---|---|---|---|
+| 1 | Piloter les agences, freelances et prestataires | 4/4 | 100 % |
+| 2 | Définir la stratégie et le positionnement de la marque | 3/4 | 75 % |
+| 3 | Garantir la cohérence de la marque et en être le référent | 3/4 | 75 % |
+| 4 | Piloter la stratégie de communication | 2/4 | 50 % |
+| 5 | Développer les relations presse et l'influence | 2/4 | 50 % |
+| 6 | Élaborer et piloter les plans marketing | 2/4 | 50 % |
+| 7 | Suivre les performances et mesurer l'impact | 2/4 | 50 % |
+| 8 | Piloter les lancements (produits, international) | 2/4 | 50 % |
+| 9 | Accompagner le déploiement international de la marque | 2/4 | 50 % |
+| 10 | Manager et recruter l'équipe | 2/4 | 50 % |
+| 11 | Gérer les budgets marketing | 2/4 | 50 % |
+| 12 | Piloter l'innovation et le développement produit | 2/4 | 50 % |
+| 13 | Outiller les ventes et le trade marketing | 2/4 | 50 % |
+| 14 | Coordonner les équipes internes (siège, RH) | 2/4 | 50 % |
+| 15 | Assurer la veille concurrentielle | 1/4 | 25 % |
+| 16 | Organiser salons et événements | 1/4 | 25 % |
+| 17 | Analyser marchés et panels, recommander | 1/4 | 25 % |
+| 18 | Construire la marque employeur | 1/4 | 25 % |
+| 19 | Superviser l'expérience de marque en boutique | 1/4 | 25 % |
+
+**C. Transparence**
+- N = 4 : résultats **peu significatifs** (N < 10). Huit compétences sont ex aequo à 1/4 : créativité, management/leadership, autonomie, curiosité, orientation résultats, IA générative, LinkedIn/codes B2B, esprit d'équipe.
+- Répartition : 13 = 2 (Meteoria, Onatera) ; reste PACA = 0 ; reste France = 2 (69 ; 33/75).
+- Contrats : 4 CDI. Bac+5 demandé dans 4/4. Expérience demandée : de 3 à 8 ans (3 offres la chiffrent).
+- Comment chaque offre a été classée A :
+  - Onatera : tranche API 12 (20-49 salariés), mais catégorie « ETI » au niveau du groupe.
+  - Meteoria : effectif API « NN » (inconnu). Société créée le 29/10/2025, un seul établissement, se présente comme « startup ».
+  - Michael Page (Lyon) : le client est décrit avec « une vingtaine de collaborateurs ». Il est adossé à un groupe familial international.
+  - Brand Manager NZ : employeur non nommé (annonce relayée par Vitijob, pôle vin d'Edmond de Rothschild). Entité trouvée par l'API : Compagnie vinicole Baron Edmond de Rothschild, tranche 12, catégorie ETI.
+  - Deux classements (Onatera, Edmond de Rothschild) reposent sur l'unité légale d'une filiale de groupe. Ils sont à revoir si l'on raisonne au niveau du groupe.
+- Écartées : aucune offre identifiée comme A n'a été écartée. Les 5 offres « indéterminé » (cabinets) pourraient relever de A ou de B (détail en section B).
+- Limites : source HelloWork seule ; missions et compétences reformulées par l'outil de lecture ; profils hétérogènes (Head of Brand de scale-up et Brand Manager en grande consommation).
+
+### B. Grande entreprise (50 salariés et plus)
+
+**A. Compétences**
+
+| Rang | Compétence | Offres | % |
+|---|---|---|---|
+| 1 | Anglais courant | 11/18 | 61 % |
+| 2 | Analyse, data, KPI | 10/18 | 56 % |
+| 3 | Travail transverse | 10/18 | 56 % |
+| 4 | Gestion de projet | 8/18 | 44 % |
+| 5 | Sens relationnel | 8/18 | 44 % |
+| 6 | Sens du business | 8/18 | 44 % |
+| 7 | Management d'équipe | 6/18 | 33 % |
+| 8 | Autonomie | 5/18 | 28 % |
+
+**B. Missions**
+
+| Rang | Mission | Offres | % |
+|---|---|---|---|
+| 1 | Suivre les KPI et la performance (ventes, campagnes, contenus) | 15/18 | 83 % |
+| 2 | Coordonner les équipes transverses (R&D, finance, ventes, pays) | 14/18 | 78 % |
+| 3 | Définir la stratégie et le positionnement de la marque | 12/18 | 67 % |
+| 4 | Produire et coordonner les contenus de marque | 8/18 | 44 % |
+| 5 | Élaborer et piloter le plan marketing annuel | 7/18 | 39 % |
+| 6 | Concevoir des campagnes 360° et des activations | 7/18 | 39 % |
+| 7 | Piloter les agences créatives et les prestataires | 7/18 | 39 % |
+| 8 | Manager une équipe (chefs de produit, juniors) | 7/18 | 39 % |
+| 9 | Gérer le budget A&P et le P&L de la marque | 7/18 | 39 % |
+| 10 | Assurer la veille concurrentielle et les tendances | 7/18 | 39 % |
+| 11 | Outiller les ventes (supports, promo, trade) | 6/18 | 33 % |
+| 12 | Piloter gamme, innovation et rénovation | 6/18 | 33 % |
+| 13 | Piloter les lancements (go-to-market) | 6/18 | 33 % |
+| 14 | Déployer la marque à l'international | 6/18 | 33 % |
+| 15 | Garantir la cohérence et la charte de marque | 4/18 | 22 % |
+| 16 | Organiser salons et événements | 4/18 | 22 % |
+| 17 | Animer réseaux sociaux et ligne éditoriale | 3/18 | 17 % |
+| 18 | Piloter le plan média (achats, paid) | 3/18 | 17 % |
+| 19 | Piloter RP et influence | 2/18 | 11 % |
+| 20 | Analyser le marché et formuler des recommandations | 2/18 | 11 % |
+
+**C. Transparence**
+- N = 18. Répartition : 13 = 0, reste PACA = 0, reste France = 18. Départements : 75 (7), 92 (4), 94 (2), 59 (2), puis 44, 81 et 16 (1 chacun). 13 offres sur 18 sont en Île-de-France.
+- Contrats : 14 CDI et 4 CDD (Amazon 1 an, Brown-Forman 9 mois en remplacement, JDE environ 12 mois, Pierre Fabre). Trois de ces CDD affichent « CDI » dans l'en-tête HelloWork ; le texte de l'offre fait foi.
+- Comment chaque offre a été classée B :
+  - Effectif indiqué dans l'offre : Treatwell (~700), JDE (350), Electra (300+), Groupe Faurie (~1 700), Pierre Fabre (10 000+).
+  - API : Vente-unique.com (31), Texdecor, dont Casamance est une enseigne (32), Laboratoires Rivadis (22), Brown-Forman France (22), Youtrust/Yousign (31).
+  - Notoriété : Amazon, BIC, Ubisoft, Kiabi, Groupe Atlantic.
+  - Indice sur le client d'un cabinet : Michael Page (constructeur automobile en organisation matricielle) ; Catenon (« Luxury Division » de marques de parfums).
+- Intitulés français équivalents retenus : « Responsable activation de marque » (Rivadis), « Leader de marque » (Kiabi), « Responsable marketing de marque » (Groupe Faurie). Pour un périmètre strict, retirer ces 3 offres donne B = 15.
+- Regroupements de compétences :
+  - « Analyse, data, KPI » : esprit d'analyse et de synthèse, panels Nielsen/Circana, reporting.
+  - « Travail transverse » : esprit d'équipe, collaboration, environnement matriciel.
+  - « Gestion de projet » : pilotage de projets, organisation, priorisation.
+  - « Sens relationnel » : relationnel, communication, diplomatie.
+  - « Sens du business » : sens commercial ou financier, orientation résultats, CA/marge.
+  - Juste en dessous du top 8 : créativité, campagnes 360°, adaptabilité, Pack Office et culture grande consommation (PGC/FMCG) (4/18 chacune) ; rigueur, IA générative, Photoshop/InDesign (3/18 chacune).
+  - Bac+5 demandé dans 15/18 offres. Expérience médiane : 5 ans (15 offres la chiffrent).
+- **Commun A/B, sources et méthode :**
+  - HelloWork seul, 3 mots-clés × (13, PACA, France) × (CDI, CDD).
+  - Listes France CDI lues jusqu'à la dernière page : « brand manager » (11 pages) et « chef de marque » (10 pages).
+  - 34 lectures de pages d'offres (29 offres distinctes) et 12 requêtes API.
+  - Moins de 30 offres conformes ou voisines existent sur toute la France : l'objectif de 50 par secteur est impossible. Le reste des résultats correspond à des correspondances floues (annonces CXG « évaluateur de marques de luxe », vente en boutique, stages).
+- **Écartées (16) :**
+  - Hors France (2) : Savencia 83860942 (États-Unis), Lilly 84250282 (Canada).
+  - Doublons (2) : Vente-unique 83191785 (même offre que 83804014) ; Approach People 83647168 (même offre que 83692579).
+  - Contenu hors périmètre après lecture (1) : Hercules Thrustmaster « Head of Brand Ecommerce » 83354349, poste e-commerce et vente directe (D2C).
+  - Stage, alternance ou assistant (4) : Lacoste 84234300 ; Coty 83081499 (publiée deux fois, aussi 83449088) ; Electra 83492715 ; PSG 83116187.
+  - Directeur (3) : Jean Lain 81895152, Horus Conseils 83873049, Groupe Faurie 83693831.
+  - Intitulés voisins hors liste (4) : Globe Groupe « Account Manager Brand Activation » 81990401 et « Chef de projet Brand Activation » 81103908 (postes d'agence) ; BPCE « Référent des marques » 81625958 ; Sézane « Chef de projet marque » 81023733.
+- **Indéterminés (5, comptés à part) :** cabinets sans indice de taille du client.
+  - CAB À TALENTS 81290598 : client non décrit ; le descriptif est en fait celui d'un CRM Manager senior, en télétravail complet.
+  - TALEXIM 78107837 : client non décrit.
+  - Altaide 81991857 : l'API la classe en conseil (3 à 5 salariés), donc cabinet. Client décrit comme une « maison premium soutenue par un grand groupe du luxe », sans effectif.
+  - Approach People 83692579 : client décrit comme un « groupe textile français », sans effectif.
+  - SAYCO 84188256 : client décrit comme une « PME », sans effectif.
+- Non comptés car manifestement hors périmètre : brand ambassadors, brand designers, annonces CXG d'évaluateur de marques, brand event/community/supply chain/packaging/solution manager, marque employeur, « marques industrielles » chez Safran, stages chez Pernod Ricard, Coty et Euronext.
+- Limites : l'offre Catenon est très courte (missions seulement) ; le profil de l'offre Treatwell est tronqué sur la page ; les formulations sont des paraphrases ; données arrêtées au 09/10/2026.
+
+### C. Secteur public / institutionnel
+Secteur retiré de l'étude (intitulé marketing, pas de CV public prévu).
+
+#### Annexe : offres analysées
+
+| Secteur | Intitulé | Employeur | Dépt | Publication | Contrat | URL |
+|---|---|---|---|---|---|---|
+| A | Brand & Communication Lead | Meteoria | 13 | 18/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83526426.html |
+| A | Head of Brand | Onatera | 13 | 06/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84142322.html |
+| A | Brand Manager GMS | Michael Page (client grande conso, ~20 sal.) | 69 | 17/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83458033.html |
+| A | Brand Manager Nouvelle-Zélande | Vitijob, pour le groupe Edmond de Rothschild (pôle vin) | 33/75 (fiche : IDF) | 28/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83843676.html |
+| B | Brand Manager Senior | Vente-unique.com | 75 | 26/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83804014.html |
+| B | Brand Manager - Papier Peint | Casamance (Texdecor) | 59 | 09/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/81155589.html |
+| B | Snr Brand Manager Prime Video (CDD 1 an) | Amazon | 92 | 05/10/2026 | CDD 1 an (fiche : CDI) | https://www.hellowork.com/fr-fr/emplois/82045793.html |
+| B | Chef de Marques Atlantic Systèmes | Groupe Atlantic | 94 | 03/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/75220830.html |
+| B | Responsable Activation de Marque | Laboratoire Rivadis | 44 | 20/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/81485578.html |
+| B | Chef de Marque Automobile - Brand Manager | Michael Page (client constructeur auto) | 92 | 29/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83880564.html |
+| B | B2B Brand Manager | Treatwell | 75 | 08/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84234007.html |
+| B | Senior Global Brand Manager | BIC | 92 | 07/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84166529.html |
+| B | Global Brand Manager | BIC | 92 | 22/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83617577.html |
+| B | Senior Brand Manager Jack Daniel's (remplacement maternité) | Brown-Forman France | 75 | 26/09/2026 | CDD 9 mois (fiche : CDI) | https://www.hellowork.com/fr-fr/emplois/83795385.html |
+| B | Global Brand Manager | Ubisoft | 94 | 10/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/82198815.html |
+| B | Brand Manager Senior Senseo | Jacobs Douwe Egberts | 75 | 21/09/2026 | CDD ~12 mois (fiche : CDI) | https://www.hellowork.com/fr-fr/emplois/75855697.html |
+| B | Brand & Content Manager | Yousign (Youtrust) | 75 | 10/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/82180752.html |
+| B | Brand & Content Lead | Electra | 75 | 28/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83847753.html |
+| B | Leader de Marque Kiabi Home | Kiabi | 59 | 22/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83617475.html |
+| B | Senior Brand Manager Luxury Division | Catenon (client parfums de luxe) | 75 | 09/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84280331.html |
+| B | Brand Content Manager Ducray | Pierre Fabre | 81 | 05/10/2026 | CDD | https://www.hellowork.com/fr-fr/emplois/82046346.html |
+| B | Responsable Marketing de Marque Opel-MG-Omoda | Groupe Faurie | 16 | 16/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83446802.html |
+| Indét. (hors analyse) | Head of Brand & Content | CAB À TALENTS | non indiqué (France, télétravail) | 14/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/81290598.html |
+| Indét. (hors analyse) | Brand Content Manager | TALEXIM | 73 | 18/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/78107837.html |
+| Indét. (hors analyse) | Brand Content & Editorial Manager - Luxe | Altaide | 75 | 04/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/81991857.html |
+| Indét. (hors analyse) | Chef de Produit & Brand Manager Workwear | Approach People Recruitment | 75 | 23/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83692579.html |
+| Indét. (hors analyse) | Responsable Création & Brand Content | SAYCO | 59 | 07/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84188256.html |
