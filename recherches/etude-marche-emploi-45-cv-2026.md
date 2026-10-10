@@ -1476,6 +1476,279 @@ Secteur retiré de l'étude (intitulé marketing, pas de CV public prévu).
 
 ---
 
+## 9. Business developer
+
+**Bilan :** A = 43 offres, B = 50 ; C retiré ; 13 = 25, reste PACA = 8, reste France = 86 (sur 119 offres retenues, dont 26 indéterminées comptées à part) ; écartées = 10 après lecture (+ 19 dès la liste)
+
+### A. TPE / PME / start-up (moins de 50 salariés)
+
+**A. Compétences**
+
+| Rang | Compétence | Offres | % |
+|---|---|---|---|
+| 1 | Culture sectorielle | 30/43 | 70 % |
+| 2 | Vente B2B | 25/43 | 58 % |
+| 3 | Prospection/chasse | 23/43 | 53 % |
+| 4 | Sens relationnel | 23/43 | 53 % |
+| 5 | Autonomie | 23/43 | 53 % |
+| 6 | Culture du résultat | 17/43 | 40 % |
+| 7 | Rigueur/organisation | 16/43 | 37 % |
+| 8 | Outils CRM | 15/43 | 35 % |
+
+**B. Missions**
+
+| Rang | Mission | Offres | % |
+|---|---|---|---|
+| 1 | Prospecter de nouveaux clients (téléphone, terrain, e-mail, LinkedIn) | 36/43 | 84 % |
+| 2 | Négocier et conclure les ventes | 28/43 | 65 % |
+| 3 | Analyser les besoins et proposer des solutions sur mesure | 25/43 | 58 % |
+| 4 | Développer et fidéliser un portefeuille clients | 24/43 | 56 % |
+| 5 | Rédiger propositions commerciales et devis | 17/43 | 40 % |
+| 6 | Cibler les comptes et approcher les décideurs | 16/43 | 37 % |
+| 7 | Décrocher des rendez-vous qualifiés | 15/43 | 35 % |
+| 8 | Tenir le CRM et piloter le pipeline | 14/43 | 33 % |
+| 9 | Détecter opportunités et nouveaux marchés | 13/43 | 30 % |
+| 10 | Présenter l'offre et réaliser des démonstrations | 13/43 | 30 % |
+| 11 | Piloter le cycle de vente de bout en bout | 10/43 | 23 % |
+| 12 | Qualifier et traiter les leads entrants | 10/43 | 23 % |
+| 13 | Collaborer avec marketing, technique et opérations | 9/43 | 21 % |
+| 14 | Développer partenariats et réseau de prescripteurs | 9/43 | 21 % |
+| 15 | Représenter l'entreprise sur salons et événements | 8/43 | 19 % |
+| 16 | Définir le plan d'action et structurer la démarche commerciale | 7/43 | 16 % |
+| 17 | Placer et suivre des consultants (ESN, cabinets) | 7/43 | 16 % |
+| 18 | Suivre ses indicateurs et assurer le reporting | 6/43 | 14 % |
+| 19 | Atteindre les objectifs de chiffre d'affaires | 6/43 | 14 % |
+| 20 | Passer le relais et accompagner l'onboarding client | 6/43 | 14 % |
+
+**C. Transparence**
+- **N = 43 : l'objectif de 50 n'est pas atteint.** Le plafond de 130 lectures a été atteint (129 offres et 1 relecture de contrôle). Les employeurs directs repérés comme petits par l'API ont presque tous été lus. Les annonces non lues viennent surtout de cabinets, et 26 des offres lues sont restées indéterminées.
+- **Répartition :** 13 = 7, reste PACA = 1 (83), reste France = 35 (75 ×9, 69 ×7, 59 ×4, 34 ×4, 63 ×2, une offre chacun dans les 54, 35, 92, 44, 47, 31, 67 et 93, plus 1 en Île-de-France sans ville).
+- **Classement :**
+  - 24 offres par l'API (tranches 01 à 12, catégorie PME).
+  - 5 par l'effectif cité dans l'offre : client Madaré d'Intonae (30), Numbr (une quinzaine), KatchMe ×2 (26), client d'Ascalium (« équipe de 15 personnes »).
+  - 7 par l'API sur le client nommé par le cabinet : Hevatech, SIS (Sevme), Ecocean, Adveez, Burotic Store, Easypitch, WiiS.
+  - 7 par l'indice « start-up » ou « petite équipe » pour un client non nommé : Uptoo SaaS B2B, Scalers B2B, SAYCO ×2, Visions d'Avenir, Comeetli Senior, Les Colettes SaaS.
+  - « À taille humaine » seul n'a jamais été jugé suffisant pour classer une offre.
+  - Cas fragiles : le client de Visions d'Avenir est une start-up coentreprise de deux grands groupes ; le chiffre de 15 cité par Ascalium peut désigner une équipe et non l'effectif total.
+- **Contrats :** 42 CDI (dont 1 à temps partiel, Neoptim) et 1 CDD (ADREC).
+  - ADREC et Looking sont des organismes de formation que HelloWork signale « publiée par un centre de formation ». Elles sont retenues, car ce sont des postes internes de vente, sans alternance.
+  - Postes internes de cabinets ou d'agences retenus comme employeurs directs : KatchMe ×2, Aptenia, Géométrie Variable, Eurofirms France.
+- **Regroupements :**
+  - « Culture sectorielle » = connaissance ou expérience du secteur visé (IT, industrie, santé, énergie, formation…).
+  - « Vente B2B » = expérience et techniques de vente B2B, cycles longs, grands comptes.
+  - « Prospection/chasse » = prospection, cold calling, profil chasseur ou conquérant.
+  - Rangs suivants : Persévérance 12/43, Communication 12/43, Négociation/closing 10/43.
+- **Sources :**
+  - HelloWork seulement, recherche « business developer ».
+  - Listes lues : 13 (CDI et CDD p. 1-6), PACA (CDI et CDD p. 1-6), France CDI p. 1-25 (aucun intitulé conforme p. 23-25), France CDD p. 1-2 seulement, faute de lectures.
+  - La recherche « bizdev » ne donne aucun résultat.
+- **Annexe du fichier de répartition (13) :**
+  - 25 des 38 lignes CDI ont été retrouvées et lues, soit 24 offres distinctes : Sevme et L'Industrie recrute pour SIS sont la même offre.
+  - 13 lignes n'existent que sur France Travail (illisible) : Nova Energie, Media-Start, ISIS Santé, Staffing R.A.S, Océan Call, Smoothie Recrutement, Viasphère, Devisubox, Medisur, Uptoo « Industrie », Wall Street Institute, Eloce/Walter Learning, Michael Page. Les 2 CDD (Magora, Studiava) sont dans le même cas.
+  - Offres ajoutées : Hays (publiée le 09/10) et Manpower (CDD).
+- **Écartées dès la liste (19, non lues) :**
+  - École ou alternance : Groupe Alternance Toulon, Rocket School.
+  - VIE : DV Group.
+  - Freelance : Voluntae, Assurément Pas Cher.
+  - Secteur C : CCI Lyon Métropole, association Défi 2 Conseil.
+  - Intitulés hors périmètre : EDF et Fiderim « Business Developer Manager », assimilés à business development manager ; Pharmanimation « Formateur Business Developper ».
+  - Postes à l'étranger : House of Aby (Belgique), fortil (Italie), Saur (Espagne), Team.is (Italie), Workplace (Luxembourg), Clareo (Belgique), Emeria (Benelux), Ekkiden (Suisse), Red Hot Talents (Madrid).
+- **Limites :**
+  - Pour économiser les lectures, au niveau national, j'ai lu en priorité les offres d'employeurs directs dont la taille était vérifiable par l'API. Une partie des annonces de cabinets n'a pas été lue (Approach People, Hyde, Silkhom, Mercato de l'emploi, Talents Commerciaux, plusieurs Uptoo…). L'échantillon penche donc probablement vers les employeurs directs.
+  - L'API était souvent saturée (erreurs 503) : quelques employeurs sans tranche exploitable n'ont pas été lus (Luminari, Kyosei, Dor Digital, Comatec, Emerson Audit, MEOGROUP, EPSA…).
+  - Le codage repose sur des extraits compacts (180 mots au plus).
+  - C'est un instantané : offres en ligne le 9 octobre 2026, publiées du 11/09 au 08/10/2026.
+
+### B. Grande entreprise (50 salariés et plus)
+
+**A. Compétences**
+
+| Rang | Compétence | Offres | % |
+|---|---|---|---|
+| 1 | Culture du résultat | 26/50 | 52 % |
+| 2 | Culture sectorielle | 26/50 | 52 % |
+| 3 | Vente B2B | 25/50 | 50 % |
+| 4 | Sens relationnel | 24/50 | 48 % |
+| 5 | Rigueur/organisation | 23/50 | 46 % |
+| 6 | Autonomie | 19/50 | 38 % |
+| 7 | Prospection/chasse | 18/50 | 36 % |
+| 8 | Esprit d'équipe | 15/50 | 30 % |
+
+**B. Missions**
+
+| Rang | Mission | Offres | % |
+|---|---|---|---|
+| 1 | Prospecter de nouveaux clients (téléphone, terrain, e-mail) | 39/50 | 78 % |
+| 2 | Développer et fidéliser un portefeuille clients | 34/50 | 68 % |
+| 3 | Négocier et conclure les ventes | 33/50 | 66 % |
+| 4 | Suivre ses indicateurs et assurer le reporting | 22/50 | 44 % |
+| 5 | Analyser les besoins et proposer des solutions sur mesure | 21/50 | 42 % |
+| 6 | Tenir le CRM et piloter le pipeline (prévisions) | 17/50 | 34 % |
+| 7 | Assurer la veille marché et concurrentielle | 17/50 | 34 % |
+| 8 | Développer partenariats et réseau de prescripteurs | 14/50 | 28 % |
+| 9 | Atteindre les objectifs de chiffre d'affaires et de marge | 12/50 | 24 % |
+| 10 | Collaborer avec marketing, technique et opérations | 12/50 | 24 % |
+| 11 | Définir le plan d'action commercial | 12/50 | 24 % |
+| 12 | Rédiger propositions commerciales et devis | 11/50 | 22 % |
+| 13 | Représenter l'entreprise sur salons et événements | 11/50 | 22 % |
+| 14 | Recruter, placer et suivre des consultants (ESN, intérim) | 11/50 | 22 % |
+| 15 | Piloter le cycle de vente de bout en bout | 10/50 | 20 % |
+| 16 | Détecter opportunités et nouveaux marchés | 10/50 | 20 % |
+| 17 | Décrocher des rendez-vous qualifiés | 8/50 | 16 % |
+| 18 | Cibler les grands comptes et les décideurs | 8/50 | 16 % |
+| 19 | Répondre aux appels d'offres | 7/50 | 14 % |
+| 20 | Gérer suivi administratif, facturation et recouvrement | 7/50 | 14 % |
+
+**C. Transparence**
+- **N = 50.** Répartition : 13 = 14, reste PACA = 4 (06 ×2, 83 ×2), reste France = 32 (69 ×9, 92 ×4, 91 ×2, 31 ×2, une offre chacun dans 15 autres départements).
+- **Classement :**
+  - 14 offres par l'effectif ou la taille cités dans l'offre : Fatec 175, Equasens +1 300, Alten (BU d'une centaine), client Uptoo +1 000, Hays 9 500, Karavel +1 200, Almond +450, Ekium 2 700, Eowin 650, Ippon +600, Soluxan ≈250, client d'OpenSourcing 80 (vérifié par une relecture), CGI et Assystem (« parmi les plus grands »).
+  - 30 par l'API (tranches 21 à 53).
+  - 5 par la catégorie ETI de l'API alors que l'unité légale affichée compte moins de 50 salariés : House of Aby ×2 (Abylsen Sud 250-499), Viveris (filiales 250-499), XEFI, Shadeline.
+  - 1 par notoriété : Truffaut, sans tranche exploitable dans l'API.
+- **Quasi-doublons :** Walter Learning (« Business Developer » et « … B2B ») et House of Aby (deux intitulés « … Ingénieur d'Affaires Aix en Provence »). Les intitulés diffèrent, donc chaque offre compte selon la règle, mais les textes sont presque identiques.
+- **Cas particuliers :**
+  - HelloWork signale Walter Learning comme « centre de formation ». Retenue : CDI interne de vente de formations.
+  - Postes internes de Hays, Mistertemp' et Samsic Emploi.
+- **Intitulés mixtes retenus**, car ils contiennent « business developer » (comme dans l'annexe du fichier de répartition) : « Ingénieur d'affaires – … », « Ingénieur commercial – … », « … – Account Manager IT », « SDR – … ».
+- **Écartées après lecture (10) :**
+  - Absys Cyborg : localisation « Belgique - France - Royaume-Uni », sans département.
+  - 9 offres B lues après que le quota de 50 a été atteint : DL Partners, Dosne & Forges, Cos2Biz, Audiens Conseil, AXA (Dpt 31), Jobmania ×3 (clients Infolegale et Recom), Uptoo (syndics, client de 1 500 personnes).
+- **Indéterminées (26) :** il s'agit de cabinets ou d'agences dont le client n'est ni nommé ni décrit par sa taille. Elles sont comptées à part et listées en annexe.
+  - 13 = 4 : Team.is, Scalers Broker Media, Uptoo VTC, Manpower (CDD).
+  - Reste PACA = 3 : ETHIC (06/83), De Graët (04), Harry Hope (06).
+  - Reste France = 19.
+- **Limites :** les mêmes qu'en A. Publications du 10/09 au 09/10/2026, toutes en CDI.
+
+### C. Secteur public / institutionnel
+Secteur retiré de l'étude (intitulé commercial, pas de CV public prévu).
+
+#### Annexe : offres analysées
+
+| Secteur | Intitulé | Employeur | Dépt | Publication | Contrat | URL |
+|---|---|---|---|---|---|---|
+| A | Business Developer BtoB | OpenMedias | 13 | 06/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84138103.html |
+| A | Ingénieur d'Affaires - Business Developer | Alierys | 13 | 02/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/82913188.html |
+| A | Business Developer Industrie | Wibast (client Hevatech) | 13 | 25/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83762233.html |
+| A | Business Developer BtoB 13 | Plus que pro | 13 | 06/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84111486.html |
+| A | Business Developer | L'Industrie recrute (client SIS) | 13 | 15/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83405513.html |
+| A | Business Developper Expérimenté | Udicat | 13 | 22/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83649108.html |
+| A | Ingénieur Commercial - Business Developer SaaS B2B | Uptoo (client non nommé) | 13 | 16/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83448657.html |
+| A | Business Developer B2B | Scalers (client start-up non nommée) | 83 | 18/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83532285.html |
+| A | Business Developer | Exens Ingénierie | 69 | 08/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/82135395.html |
+| A | Business Developper - Agence de Communication | Intonae (client Madaré) | 75 | 08/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/81047261.html |
+| A | Business Developer B2B - CDI | Numbr | 54 | 28/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83864444.html |
+| A | Business Developer Chargé de Développement Commercial | Yooliz | 69 | 25/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83757832.html |
+| A | Business Developer - Tech Recruiter | KatchMe (poste interne) | 75 | 01/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/82868634.html |
+| A | Business Developer Data IA | SAYCO (client start-up non nommée) | 59 | 01/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83965636.html |
+| A | Business Developer Senior B2B | Excense | 35 | 29/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/81840070.html |
+| A | Business Developer - Agence de Communication | Linéal | 59 | 01/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/80794844.html |
+| A | Business Developer - Business Manager | NOEMI Conseil | 92 | 03/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/82944735.html |
+| A | Business Developer | W HUB | 59 | 24/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/82606304.html |
+| A | Ingénieur d'Affaires - Business Developer | BCD Conseils | 69 | 28/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/81795043.html |
+| A | Business Developer | Neoptim Consulting | 34 | 14/09/2026 | CDI (temps partiel) | https://www.hellowork.com/fr-fr/emplois/83334472.html |
+| A | Commercial - Business Developer - Data IA & Cybersécurité | Sapiens Consulting | IDF (n. p.) | 06/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84143470.html |
+| A | Business Developper - Commercial Sédentaire CDI | Liberlo | 69 | 06/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84142293.html |
+| A | Business Developer - Account Management | Kubiweb Communication | 69 | 23/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83657681.html |
+| A | Business Developer Chargé de Développement Commercial | Erys Group | 75 | 20/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/79164923.html |
+| A | Business Developer - Chargé de Développement Commercial Staffing | Ascalium (client non nommé) | 75 | 29/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/79507730.html |
+| A | Business Manager - Business Developer - Coordination de Projets | Ekilibre Conseil | 75 | 05/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84092487.html |
+| A | Business Developer Chargé de Développement Commercial BtoB | Géométrie Variable (poste interne) | 34 | 28/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83840324.html |
+| A | Business Developer Chargé de Développement Commercial - CDI | Aptenia (poste interne) | 69 | 08/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84209800.html |
+| A | Business Developer IT Commercial Informatique | Inovera | 44 | 29/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83884346.html |
+| A | Business Developer - Financements Publics | Neoptim Consulting | 47 | 18/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/76900776.html |
+| A | Business Developer Start-Up Mobilité Durable | Visions d'Avenir (client start-up non nommée) | 75 | 25/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/82662901.html |
+| A | Business Developer Senior CDI - E-Learning - Formation | Comeetli (client start-up non nommée) | 63 | 08/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84212373.html |
+| A | Business Developer IT | KatchMe (poste interne) | 75 | 22/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83623054.html |
+| A | Business Developer | Eurofirms France (poste interne) | 34 | 18/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83534739.html |
+| A | Business Developer B2B - Data & SaaS | SAYCO (client start-up non nommée) | 59 | 23/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83695357.html |
+| A | Business Developer | ADREC (organisme de formation) | 63 | 17/09/2026 | CDD | https://www.hellowork.com/fr-fr/emplois/81417946.html |
+| A | Business Developer Environnement & Biodiversité Marine | LM5P - Le Mouton à 5 Pattes (client Ecocean) | 34 | 11/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83301170.html |
+| A | Business Developer - Responsable Commercial - Marché de la Restauration | Looking (organisme de formation) | 67 | 11/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83279312.html |
+| A | Business Developer SaaS - CDI | Les Colettes (client start-up non nommée) | 69 | 29/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/78490347.html |
+| A | Business Developer International - Europe | Les Colettes (client Adveez) | 31 | 04/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/76310689.html |
+| A | Business Developer Solutions Innovantes | Uptoo (client Burotic Store) | 75 | 03/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84052952.html |
+| A | Business Developper Écrans Interactifs | Uptoo (client Easypitch) | 93 | 22/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83637837.html |
+| A | Business Developer - Commercial Logiciel E-Santé | Uptoo (client WiiS) | 75 | 25/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83778710.html |
+| B | Business Developer | Lease Protect | 13 | 09/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84249715.html |
+| B | Business Developer | Safetykleen | 13 | 06/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84150386.html |
+| B | Business Developer | Walter Learning | 13 | 01/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/77395332.html |
+| B | Business Developer France | Fatec Group | 13 | 07/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84167517.html |
+| B | Business Developer | Equasens (filiale Calimed) | 13 | 23/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/81612407.html |
+| B | Business Developer - Zone PACA | Tecofi | 13 | 30/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83926552.html |
+| B | Business Developer - Solutions de Paiement | Monext | 13 | 28/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/73039685.html |
+| B | Business Developer - Achat Energie - BtoB | OpenSourcing (client PME énergie non nommée) | 13 | 01/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83982481.html |
+| B | Business Developer B2B | Walter Learning | 13 | 16/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/71402301.html |
+| B | Business Developer - Ingénieur d'Affaires Aix en Provence | House of Aby (groupe Abylsen) | 13 | 29/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83885008.html |
+| B | Business Developer - IT - Vitrolles | Alten | 13 | 05/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/73223263.html |
+| B | Business Developer Industrie - Marché Italien | Uptoo (client groupe industriel non nommé) | 13 | 16/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83419836.html |
+| B | Business Developer IT - Ingénieur d'Affaires Aix en Provence | House of Aby (groupe Abylsen) | 13 | 09/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83168513.html |
+| B | Business Developer - Account Manager IT | Hays France (poste interne) | 13 | 09/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84267042.html |
+| B | Leboncoin Business Developer Immobilier | Uptoo (client Leboncoin) | 06 | 08/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84228022.html |
+| B | Business Developer Formation | Socotec | 83 | 16/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/71413729.html |
+| B | CDI - Business Developer Drone | Naval Group | 83 | 17/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/82355931.html |
+| B | Business Developer Senior - Beauté & Santé de la Peau - Santé Intime de la Femme | Shadeline | 06 | 05/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84096918.html |
+| B | Business Developer | Luxium Solutions | 77 | 07/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84179859.html |
+| B | Business Developer | RYDGE Conseil | 92 | 06/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84141065.html |
+| B | Business Developer | Hellowork group | 35 | 06/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/81007834.html |
+| B | Business Developer | Oney | 59 | 06/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/79876713.html |
+| B | Business Developer | Picard Surgelés | 92 | 05/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83048102.html |
+| B | Business Developer | CGI | 44 | 05/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/82042123.html |
+| B | Business Developer | Ippon Technologies | 69 | 05/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84077775.html |
+| B | Business Developer | XEFI (marque LittleBill) | 69 | 30/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83943650.html |
+| B | Business Developer | SGS France | 94 | 01/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/80783949.html |
+| B | Business Developer | Michelin | 63 | 29/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83900306.html |
+| B | Business Developer | Fill Up Média | 91 | 02/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84000004.html |
+| B | Ingénieur Commercial - Business Developer | Viveris | 92 | 08/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/75360253.html |
+| B | Business Developer MICE | Groupe Karavel (FRAM Signature) | 75 | 01/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83985988.html |
+| B | New Business Developer | Samsic Groupe (Samsic Emploi) | 11 | 01/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83966875.html |
+| B | Business Developer Cybersécurité | Almond | 69 | 01/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/80798709.html |
+| B | Business Developer Energie | Antargaz | 87 | 29/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83901306.html |
+| B | Business Developpeur Sédentaire | Solocal Group | 54 | 28/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83850155.html |
+| B | Business Developer Régie Publicitaire | SNCF Connect & Tech | 93 | 09/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83144833.html |
+| B | Business Developer Secteur Naval | Ekium | 56 | 08/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/81044474.html |
+| B | SDR - Business Developer | Soluxan | 69 | 30/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83941722.html |
+| B | Business Developer Conseiller Commercial Sédentaire | Paymed (filiale Crédit Agricole) | 69 | 02/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84029050.html |
+| B | Business Developer | Celetis | 90 | 01/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/79624546.html |
+| B | Business Developer | Prodomo | 69 | 28/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/82784301.html |
+| B | Business Developer | fortil group | 69 | 25/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83784613.html |
+| B | Business Developer BtoB | Cozynergy | 31 | 28/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83850557.html |
+| B | Ingénieur d'Affaires - Business Developer | Groupe Betem | 31 | 08/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83094033.html |
+| B | Ingénieur d'Affaires - Business Developer | Ingeliance Technologies | 69 | 02/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84034185.html |
+| B | Business Developer | Eowin | 69 | 18/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/80301546.html |
+| B | Business Developer - Secteur du Recrutement | Mistertemp' (poste interne) | 08 | 06/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84117551.html |
+| B | Business Developer Marketplace | Truffaut | 91 | 22/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/73888963.html |
+| B | Business Developer | Ingeniance | 92 | 10/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/41582619.html |
+| B | Ingénieur Commercial - Business Developer - Secteur Nucléaire | Assystem | 37 | 07/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84193620.html |
+| Indét. | Business Developer Assurances Immobilier | Team.is (client non nommé) | 13 | 02/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83997859.html |
+| Indét. | Business Developer - Broker Media | Scalers (client non nommé) | 13 | 25/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83780862.html |
+| Indét. | Business Developer - VTC | Uptoo (client non nommé) | 13 | 10/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83238021.html |
+| Indét. | Business Developer Mutuelle Santé | Manpower France (client mutuelle non nommé) | 13 | 23/09/2026 | CDD 6 mois | https://www.hellowork.com/fr-fr/emplois/83701303.html |
+| Indét. | Commercial Événementiel - Business Developer | ETHIC Recrutement (client non nommé) | 06/83 | 05/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83012003.html |
+| Indét. | Business Developer | De Graët Consulting (client PME non nommée) | 04 | 19/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83555156.html |
+| Indét. | Business Developer - Grands Comptes | Harry Hope (client non nommé) | 06 | 21/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83583477.html |
+| Indét. | Business Developer | REFEA (client non nommé) | 75 | 06/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/82056987.html |
+| Indét. | Business Developer | Co-Efficience (client non nommé) | 69 | 01/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83977023.html |
+| Indét. | Business Developer Junior CDI - E-Learning - Formation | Comeetli (client non nommé) | 63 | 08/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84212364.html |
+| Indét. | Business Developer | Comeetli (client non nommé) | 75 | 08/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84212353.html |
+| Indét. | Business Developer Europe | Olcani (client non nommé) | 77 | 14/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83336564.html |
+| Indét. | Business Developer - Secteur Intérim | Henoris (client non nommé) | 69 | 21/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83581950.html |
+| Indét. | Business Developper - Ingénieur d'Affaires | Batka (poste rattaché à Keytech) | 59 | 28/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/71569719.html |
+| Indét. | Business Developer Grands Comptes - Foodtech | Uptoo (client non nommé) | 75 | 27/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83814752.html |
+| Indét. | Business Developer International - Bras Droit du Dirigeant | elleboss (client cabinet de conseil non nommé) | 75 | 03/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/82932872.html |
+| Indét. | Business Developer Agence de Design | Talents Commerciaux (client non nommé) | 75 | 13/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/81274879.html |
+| Indét. | Commercial Business Developer BtoB - Marketing Digital | Version CC (client non nommé) | 19 | 30/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83951325.html |
+| Indét. | Business Déveloper - Ouverture Développement Hôtelier | Dhova (client hôtel non nommé) | 72 | 09/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83215229.html |
+| Indét. | Business Developer Tech - IA | Les Colettes (client non nommé) | 69 | 28/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/79482281.html |
+| Indét. | Business Developer - Financement & Immobilier | Les Colettes (client non nommé) | 75 | 26/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/79412399.html |
+| Indét. | Business Developer International - SaaS | Red Hot Talents (client scale-up non nommée) | 31 | 18/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83533508.html |
+| Indét. | Business Developer - Retail Tech & Data | Uptoo (client non nommé) | 75 | 17/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83477168.html |
+| Indét. | Business Developer SaaS Hôtellerie | Uptoo (client non nommé) | 92 | 21/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83595378.html |
+| Indét. | Business Developer International - Solutions Vidéo Logiciel & IA | Uptoo (client non nommé) | 75 | 02/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84028779.html |
+| Indét. | Business Developer - Décarbonation | Uptoo (client non nommé) | 75 | 05/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84077071.html |
+
+---
+
 ## 10. Responsable communication et marketing
 
 **Bilan :** A = 4 offres, B = 12, C = 0 ; 13 = 1, reste PACA = 2, reste France = 25 (sur 28 offres retenues, dont 12 indéterminées comptées à part) ; écartées = 7
