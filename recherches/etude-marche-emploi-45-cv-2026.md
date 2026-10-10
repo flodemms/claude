@@ -1,6 +1,11 @@
-# Étude du marché de l'emploi 2026 : 15 intitulés × 3 secteurs (45 CV génériques)
+# Étude du marché de l'emploi 2026 : 16 intitulés, 38 CV génériques (secteurs A, B, C)
 
-**Statut :** en cours. Le classement des 15 intitulés (section 0) est terminé ; les sections 1 à 15 sont ajoutées au fil des vagues d'analyse.
+**Statut :** en cours. Les classements (sections 0 et 0 bis) sont terminés ; les sections 1 à 16 sont ajoutées au fil des vagues d'analyse.
+
+**Périmètre (mise à jour du 10 octobre 2026) :**
+- Le secteur C est retiré pour les intitulés liés au marketing ou au commercial (2, 3, 6, 7, 8, 9, 10, 15) : aucun CV public n'est prévu pour eux.
+- Un 16ᵉ intitulé, « Conseiller communication », est ajouté pour le seul secteur public, au niveau de forte responsabilité.
+- Total : 15 combinaisons A + 15 combinaisons B + 8 combinaisons C (intitulés 1, 4, 5, 11, 12, 13, 14, 16) = 38.
 
 ## Méthodologie
 
@@ -23,6 +28,8 @@
 - **Note de conformité :** l'article 8.2 des CGU de HelloWork interdit l'extraction automatisée de données du site sans licence écrite. La poursuite de l'étude avec cette source relève d'un choix explicite de la commanditaire, qui en assume la responsabilité. Les offres sont lues une par une, à rythme modéré ; le dépôt ne reproduit pas leur texte intégral, seulement l'analyse et les liens.
 
 ## 0. Classement des 15 intitulés selon le nombre de CDI et de CDD dans les Bouches-du-Rhône (ordre croissant)
+
+**Note :** l'intitulé 16 (conseiller communication, secteur public uniquement), ajouté le 10 octobre 2026, n'entre pas dans ce classement ni dans le suivant.
 
 **Méthode :** relevé du 8 octobre 2026. Le décompte est exhaustif sur France Travail (filtres CDI puis CDD, département 13) et HelloWork (filtres CDI puis CDD, Bouches-du-Rhône). Les CDD ont été intégrés à la demande.
 
