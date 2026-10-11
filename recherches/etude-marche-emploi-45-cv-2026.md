@@ -415,194 +415,235 @@ Viennent ensuite, ex æquo à 6/50 (12 %) : gérer la photothèque et l'archivag
 
 ## 2. Chargé de communication et marketing
 
-**Bilan :** 21 offres analysées (A = 8, B = 9, C = 4). Répartition : 13 = 0, reste PACA = 1, reste France = 20. 7 offres écartées : 4 de taille d'entreprise indéterminée, 2 doublons, 1 alternance affichée en CDI.
+**Bilan :** A = 9 offres, B = 10, C = retiré ; 13 = 0, reste PACA = 1, reste France = 18 ; écartées = 8 (4 secteur indéterminé, 2 doublons, 1 alternance, 1 annonce d'école)
 
 ### A. TPE / PME / start-up (moins de 50 salariés)
-
-**A. Compétences** (N = 8 : fréquences peu significatives)
-
-| Rang | Compétence | Offres | % |
-|---|---|---|---|
-| 1 | Autonomie | 7/8 | 88 % |
-| 1 | Organisation | 7/8 | 88 % |
-| 3 | PAO / graphisme | 6/8 | 75 % |
-| 4 | Marketing digital | 5/8 | 63 % |
-| 4 | Réseaux sociaux | 5/8 | 63 % |
-| 4 | Rédaction | 5/8 | 63 % |
-| 4 | Rigueur | 5/8 | 63 % |
-| 4 | Culture sectorielle | 5/8 | 63 % |
-
-Viennent ensuite, à 4/8 (50 %) : Suite Adobe, Pack Office, Créativité, Force de proposition, Sens relationnel.
-
-**B. Missions** (N = 8)
-
-| Rang | Mission | Offres | % |
-|---|---|---|---|
-| 1 | Création de supports de communication print et digitaux | 8/8 | 100 % |
-| 2 | Animation des réseaux sociaux | 7/8 | 88 % |
-| 3 | Conception d'outils d'aide à la vente (plaquettes, catalogues, fiches produits) | 6/8 | 75 % |
-| 4 | Déploiement du plan de communication et marketing | 5/8 | 63 % |
-| 4 | Rédaction de contenus éditoriaux (articles, posts, actualités) | 5/8 | 63 % |
-| 4 | Pilotage des campagnes emailing et marketing direct | 5/8 | 63 % |
-| 4 | Organisation d'événements et de salons | 5/8 | 63 % |
-| 4 | Production de contenus photo et vidéo | 5/8 | 63 % |
-| 4 | Suivi des KPI et reporting des actions | 5/8 | 63 % |
-| 4 | Veille concurrentielle et tendances | 5/8 | 63 % |
-| 11 | Mise en place des campagnes et opérations marketing | 4/8 | 50 % |
-| 11 | Gestion et mise à jour du site internet | 4/8 | 50 % |
-| 13 | Garantie du respect de la charte graphique et de l'identité visuelle | 3/8 | 38 % |
-| 14 | Accompagnement des équipes commerciales et du réseau | 2/8 | 25 % |
-| 14 | Gestion des bases de données clients / CRM | 2/8 | 25 % |
-| 14 | Optimisation du référencement SEO / SEA | 2/8 | 25 % |
-| 14 | Mise en forme des réponses aux appels d'offres | 2/8 | 25 % |
-| 14 | Mise en place de PLV et signalétique | 2/8 | 25 % |
-| 14 | Coordination avec les équipes internes | 2/8 | 25 % |
-
-**C. Transparence**
-
-- **Échantillon :** 8 offres lues en entier, 6 CDI et 2 CDD, publiées entre le 11/09 et le 08/10/2026.
-- **Géographie :** 13 = 0, reste PACA = 1 (Nestenn, La Garde, 83), reste France = 7.
-- **Classement en A :** 1 offre par l'effectif annoncé (PME de 15 salariés) ; 7 par la tranche d'effectif de l'API Recherche d'entreprises (de 6-9 à 20-49 salariés).
-- **Points d'attention :**
-  - Nestenn est le siège d'un réseau national de franchise, mais l'entité qui recrute déclare 20 à 49 salariés.
-  - L'offre CRAN, affichée en octobre 2026, semble être une republication d'une offre de 2025.
-- **Pourquoi si peu d'offres (vaut pour A, B et C) :**
-  - Bouches-du-Rhône : aucun intitulé conforme sur HelloWork (13 CDI, 2 CDD et 24 postes publics examinés).
-  - PACA : 1 seul intitulé conforme.
-  - France entière : 28 intitulés conformes seulement, parmi environ 1 100 annonces CDI, CDD et fonctionnaire examinées.
-  - Les recherches de contrôle sur « chargé de communication » et « chargé marketing » redonnent exactement les mêmes 28.
-  - Au moins 94 offres conformes de nom étaient des alternances, 9 des stages et 4 de l'intérim : toutes sont exclues.
-- **3 CDI connus dans le 13 non analysés :** Société d'affinage et apprêts de métaux, Systerel et Transdev sont publiés sur France Travail mais introuvables sur HelloWork. Or les pages d'offres France Travail ne sont pas lisibles par l'outil.
-- **Codage :** les compétences proviennent du profil et des outils cités (y compris les « atouts »), les missions des rubriques « missions ». Regroupements :
-  - « Suite Adobe » = Photoshop, Illustrator, InDesign, Premiere, After Effects ;
-  - « Analyse de données » = KPI, reporting, Analytics, Excel, Power BI.
-
-### B. Grande entreprise (50 salariés et plus)
 
 **A. Compétences** (N = 9 : fréquences peu significatives)
 
 | Rang | Compétence | Offres | % |
 |---|---|---|---|
-| 1 | Organisation | 8/9 | 89 % |
-| 2 | Autonomie | 6/9 | 67 % |
-| 2 | Créativité | 6/9 | 67 % |
-| 2 | Force de proposition | 6/9 | 67 % |
-| 5 | Curiosité | 5/9 | 56 % |
-| 5 | Esprit d'équipe | 5/9 | 56 % |
-| 5 | Rédaction | 5/9 | 56 % |
+| 1 | Autonomie | 8/9 | 89 % |
+| 2 | Organisation | 7/9 | 78 % |
+| 2 | PAO / graphisme | 7/9 | 78 % |
+| 4 | Réseaux sociaux | 6/9 | 67 % |
+| 5 | Créativité | 5/9 | 56 % |
 | 5 | Sens relationnel | 5/9 | 56 % |
+| 5 | Rédaction | 5/9 | 56 % |
+| 5 | Rigueur | 5/9 | 56 % |
+| 5 | Marketing digital | 5/9 | 56 % |
+| 5 | Culture sectorielle | 5/9 | 56 % |
 
-Les premières compétences techniques arrivent juste après, à 4/9 (44 %) : Suite Adobe, Canva, PAO / graphisme, Pack Office, Analyse de données. Rigueur et adaptabilité sont au même niveau.
+Six compétences sont à égalité au 5e rang (5/9). Je les liste toutes, soit 10 lignes au lieu de 8, pour ne pas en écarter deux arbitrairement. Viennent ensuite, à 4/9 (44 %) : Suite Adobe, Pack Office, Photo / vidéo, Analyse de données et Force de proposition.
 
 **B. Missions** (N = 9)
 
 | Rang | Mission | Offres | % |
 |---|---|---|---|
 | 1 | Création de supports de communication print et digitaux | 9/9 | 100 % |
-| 2 | Organisation d'événements et de salons | 8/9 | 89 % |
-| 3 | Mise en place des campagnes et opérations marketing | 7/9 | 78 % |
-| 3 | Animation des réseaux sociaux | 7/9 | 78 % |
-| 3 | Animation de la communication interne | 7/9 | 78 % |
-| 6 | Déploiement du plan de communication et marketing | 6/9 | 67 % |
-| 6 | Conception d'outils d'aide à la vente (catalogues, fiches produits) | 6/9 | 67 % |
-| 6 | Suivi des KPI et reporting des actions | 6/9 | 67 % |
-| 9 | Rédaction de contenus éditoriaux (articles, posts, actualités) | 4/9 | 44 % |
-| 9 | Pilotage des campagnes emailing et marketing direct | 4/9 | 44 % |
-| 9 | Gestion et mise à jour du site internet | 4/9 | 44 % |
-| 9 | Garantie du respect de la charte graphique et de l'identité visuelle | 4/9 | 44 % |
-| 9 | Coordination des prestataires (agences, imprimeurs) | 4/9 | 44 % |
-| 9 | Valorisation et lancement des offres et produits | 4/9 | 44 % |
-| 15 | Accompagnement des équipes commerciales et du réseau | 3/9 | 33 % |
-| 15 | Suivi du budget et des délais | 3/9 | 33 % |
-| 15 | Veille concurrentielle et tendances | 3/9 | 33 % |
-| 15 | Gestion de la relation client | 3/9 | 33 % |
-| 15 | Gestion de l'e-réputation (avis clients) | 3/9 | 33 % |
-| 15 | Gestion des partenariats, sponsoring et mécénat | 3/9 | 33 % |
+| 2 | Animation des réseaux sociaux | 8/9 | 89 % |
+| 3 | Conception d'outils d'aide à la vente (plaquettes, catalogues, fiches produits) | 7/9 | 78 % |
+| 4 | Déploiement du plan de communication et marketing | 6/9 | 67 % |
+| 4 | Rédaction de contenus éditoriaux (articles, posts, newsletters) | 6/9 | 67 % |
+| 4 | Pilotage des campagnes emailing et marketing direct | 6/9 | 67 % |
+| 4 | Organisation d'événements et de salons | 6/9 | 67 % |
+| 4 | Production de contenus photo et vidéo | 6/9 | 67 % |
+| 4 | Suivi des KPI et reporting des actions | 6/9 | 67 % |
+| 4 | Veille concurrentielle et tendances | 6/9 | 67 % |
+| 11 | Gestion et mise à jour du site internet | 5/9 | 56 % |
+| 12 | Mise en place des campagnes et opérations marketing | 4/9 | 44 % |
+| 13 | Garantie du respect de la charte graphique | 3/9 | 33 % |
+| 14 | Accompagnement des équipes commerciales et du réseau | 2/9 | 22 % |
+| 14 | Valorisation et lancement des offres et produits | 2/9 | 22 % |
+| 14 | Coordination des prestataires (agences, imprimeurs) | 2/9 | 22 % |
+| 14 | Gestion des bases de données clients / CRM | 2/9 | 22 % |
+| 14 | Optimisation du référencement SEO / SEA | 2/9 | 22 % |
+| 14 | Mise en forme des réponses aux appels d'offres | 2/9 | 22 % |
+| 14 | Mise en place de PLV et signalétique | 2/9 | 22 % |
+| 14 | Coordination avec les équipes internes | 2/9 | 22 % |
+
+Huit missions sont à égalité au 14e rang (2/9) ; elles sont toutes listées, ce qui donne 21 lignes.
 
 **C. Transparence**
+- **Échantillon.** N = 9 : 7 CDI et 2 CDD (Nestenn, 7 mois de remplacement ; Younight). Publication entre le 11/09 et le 09/10/2026.
+- **Géographie.** 13 = 0 ; reste PACA = 1 (Nestenn, La Garde, 83) ; reste France = 8 (10, 25, 35, 67, 69, 74, 85, 92).
+- **Apport du balayage profond (10/10) : 1 offre.** « Chargé de Communication et Marketing » chez Copy Serv'Info (CSI), distributeur informatique à Saint-Félix (74).
+  - L'offre est publiée le 09/10/2026 en CDI, par le cabinet Proximethic (affiché « FAB Group »).
+  - CSI indique « 17 collaborateurs », d'où le classement en A.
+  - Publiée après le premier passage, elle a été trouvée grâce à la liste triée par date.
+  - Effet sur les tableaux : elle renforce Réseaux sociaux, Photo / vidéo et Analyse de données. Elle ajoute aussi « relation client » et « avis Google », chacun cité dans 1 offre sur 9.
+  - Elle exige un master précis : « toute candidature ne disposant pas de ce diplôme sera écartée ».
+- **Classement en A.**
+  - Effectif indiqué dans l'offre : 2 cas (client de Talents Commerciaux, « PME de 15 collaborateurs » ; CSI, 17 collaborateurs).
+  - Tranche d'effectif via l'API recherche-entreprises : 7 cas.
+    - Nestenn : tranche 12 (20-49 salariés).
+    - Younight by Vicartem : 12.
+    - CRAN : 12.
+    - Brochard Agriculture : 11 (10-19).
+    - ICD International : 12, sous la raison sociale INT Communications Data Networks (SIREN 345397673).
+    - Literie Bonnet : 03 (6-9).
+    - Rive Gauche Entreprise, franchisé CBRE : 03.
+- **Points d'attention.**
+  - Nestenn est le siège d'un réseau national de franchise, mais l'entité employeuse déclare 20-49 salariés.
+  - L'offre Younight est rédigée pour Vicartem REIM, société du même groupe.
+  - La « culture sectorielle » est presque toujours citée comme un simple atout.
+  - L'offre CRAN est affichée « publiée le 04/10/2026 », mais sa référence (…-250707) suggère une première diffusion en juillet 2025.
+- **Écartée dans ce secteur : 1 doublon.** L'offre CRAN est publiée deux fois avec un texte identique (Nogent-sur-Seine et Romilly-sur-Seine) ; je n'en compte qu'une.
+- **Offres privées non affectées à A ou B.** 4 offres de cabinets sans indice de taille (voir l'annexe).
+- **Méthode, premier passage du 08/10.**
+  - Les 3 mots-clés donnent des résultats identiques.
+  - Bouches-du-Rhône (13) : 13 CDI et 2 CDD, aucun intitulé conforme.
+  - PACA : 26 CDI et 8 CDD, un seul intitulé conforme (Nestenn).
+  - Contrôle élargi « communication marketing » : 127 CDI et 14 CDD dans le 13, 212 CDI et 31 CDD en PACA. Rien de plus.
+  - France : 438 CDI et 240 CDD, toutes les pages lues. On obtient 24 intitulés conformes dans le privé.
+  - Contre-vérification avec « chargé de communication » et « chargé marketing », lues en entier : mêmes intitulés.
+  - Le secteur C a été retiré le 10/10 : ses 4 offres ne sont plus comptées.
+- **Méthode, balayage profond du 10/10** (WebFetch uniquement, 5 lectures en parallèle au plus).
+  - Les totaux ont augmenté : 438 → 443 CDI et 240 → 245 CDD. J'ai donc lu les listes triées par date (pages 1 et 2 en CDI comme en CDD) jusqu'à retrouver des annonces déjà vues le 08/10. Trois nouveaux intitulés conformes : Axess, CSI et NEOMA.
+  - Listes de plus de 100 résultats arrêtées tôt le 08/10, reprises jusqu'à la page 6 (2 pages de suite sans intitulé conforme après la page 4) :
+    - « communication marketing », CDI (3 466 résultats) : page 2, 10 intitulés conformes, tous déjà dans l'échantillon ; pages 3 à 6, aucun ;
+    - « communication marketing », CDD (737 résultats) : pages 2 à 6, aucun ;
+    - « marketing communication digital », CDI (428 résultats) : pages 2 à 6, aucun.
+  - Les listes triées par date de ces deux dernières recherches (dont les totaux ont augmenté) n'ont rien donné.
+  - Listes non relues :
+    - recherches « chargée de … » : même total et mêmes 30 annonces en page 1 que la forme masculine, déjà lue en entier ;
+    - listes « Fonctionnaire » : secteur C retiré ;
+    - listes alternance et stage : contrats exclus.
+  - Total : 25 pages de listes lues et 7 lectures d'offres (3 offres), pour un plafond de 100.
+  - Le tri par pertinence n'a fait apparaître aucune offre conforme supplémentaire. Les 2 ajouts sont des offres publiées après le 08/10.
+- **Limites communes à A et B.**
+  1. **Source unique.** HelloWork n'affiche que les offres en ligne, ici publiées entre le 11/09 et le 09/10/2026. L'échantillon est donc un instantané de l'automne 2026 et non de toute l'année ; c'est pourquoi on reste loin des 50 offres par secteur.
+  2. **Les 3 CDI connus du 13** (Société d'affinage et apprêts de métaux, Systerel, Transdev) sont absents de HelloWork. Au 10/10, la liste des CDI du 13 compte toujours 13 annonces, sans intitulé conforme.
+  3. **Périmètre strict.** Au 08/10, sur 1 949 annonces parcourues :
+     - 323 sont intitulées « chargé(e) … communication » sans « marketing » ;
+     - 39 contiennent « communication » et « marketing » mais ne sont pas conformes : 20 Responsable, 6 Assistant, 5 Directeur ou Head, 1 Chef de projet, 7 autres.
+  4. **Contrats exclus.** Beaucoup d'intitulés conformes relèvent de contrats exclus : au moins 94 en alternance (10 pages lues sur 1 308 résultats), 9 en stage et 4 en intérim.
+  5. **Codage manuel.**
+     - Les compétences viennent du profil et des outils cités, y compris ceux présentés comme un atout.
+     - Les missions viennent des sections « missions ».
+     - Regroupements utilisés :
+       - Suite Adobe = Photoshop, Illustrator, InDesign, Premiere ou After Effects ;
+       - Analyse de données = KPI, reporting, Analytics, GA4, Looker Studio, Excel ou Power BI ;
+       - Sens relationnel = aisance ou qualités relationnelles, ou aisance avec des interlocuteurs variés ;
+       - Force de proposition inclut l'esprit d'initiative.
+  6. **Mode de lecture.**
+     - Les 17 offres A/B du 08/10 ont été téléchargées directement par script et lues en texte intégral.
+     - Les 2 offres ajoutées le 10/10 ont été lues avec WebFetch. Comme l'outil résume et refuse de recopier le texte intégral, j'ai vérifié chaque élément codé par une question OUI/NON avec citation.
+     - Les CGU de HelloWork (article 8.2) interdisent l'extraction automatisée de données sans licence.
 
-- **Échantillon :** 9 offres, 7 CDI et 2 CDD, publiées entre le 16/09 et le 30/09/2026. 13 = 0, reste PACA = 0, reste France = 9.
-- **Classement en B :** 5 offres par l'effectif annoncé (de 60 à 4 300 salariés) ; 4 par l'API (de 50-99 à 500-999 salariés).
-- **Points d'attention :**
-  - EVADEA : l'API indique 20-49 salariés (données 2024), mais l'offre annonce 60. La règle 1 (effectif de l'offre) a été appliquée.
-  - Une offre (La Bresse-Hohneck) a un intitulé conforme mais correspond en réalité à un poste saisonnier de relation clientèle et d'animation de communauté. Elle est retenue en le signalant ; sans elle, B = 8.
-- **Particularité de B :** la communication interne (7/9) et la relation client / e-réputation y ressortent nettement plus qu'en A et C.
+### B. Grande entreprise (50 salariés et plus)
 
-### C. Secteur public / institutionnel
-
-**A. Compétences** (N = 4 : fréquences non significatives, chaque offre compte pour 25 points)
+**A. Compétences** (N = 10 : échantillon réduit, fréquences à lire avec prudence)
 
 | Rang | Compétence | Offres | % |
 |---|---|---|---|
-| 1 | Organisation | 4/4 | 100 % |
-| 1 | Rigueur | 4/4 | 100 % |
-| 1 | Créativité | 4/4 | 100 % |
-| 1 | Sens relationnel | 4/4 | 100 % |
-| 1 | Esprit de synthèse | 4/4 | 100 % |
-| 1 | Gestion de projet | 4/4 | 100 % |
-| 1 | PAO / graphisme | 4/4 | 100 % |
-| 1 | Pack Office | 4/4 | 100 % |
+| 1 | Organisation | 9/10 | 90 % |
+| 2 | Autonomie | 7/10 | 70 % |
+| 2 | Créativité | 7/10 | 70 % |
+| 2 | Force de proposition | 7/10 | 70 % |
+| 5 | Esprit d'équipe | 6/10 | 60 % |
+| 5 | Sens relationnel | 6/10 | 60 % |
+| 7 | Suite Adobe | 5/10 | 50 % |
+| 7 | PAO / graphisme | 5/10 | 50 % |
+| 7 | Analyse de données | 5/10 | 50 % |
+| 7 | Rédaction | 5/10 | 50 % |
+| 7 | Rigueur | 5/10 | 50 % |
+| 7 | Curiosité | 5/10 | 50 % |
 
-Viennent ensuite :
-- à 3/4 : Autonomie, Esprit d'équipe, Rédaction ;
-- à 2/4 : Culture territoriale, Réseaux sociaux, Marketing digital, Photo / vidéo, Management d'équipe.
+Six compétences sont à égalité au 7e rang (5/10) ; elles sont toutes listées, soit 12 lignes au lieu de 8. Viennent ensuite, à 4/10 (40 %) : Canva, Pack Office, CRM / emailing et Adaptabilité.
 
-**B. Missions** (N = 4)
+**B. Missions** (N = 10)
 
 | Rang | Mission | Offres | % |
 |---|---|---|---|
-| 1 | Création de supports de communication print et digitaux | 4/4 | 100 % |
-| 1 | Rédaction de contenus éditoriaux (articles, actualités, newsletters) | 4/4 | 100 % |
-| 1 | Déploiement du plan de communication et marketing | 4/4 | 100 % |
-| 1 | Organisation d'événements (salons, portes ouvertes, webinaires) | 4/4 | 100 % |
-| 1 | Gestion et mise à jour du site internet | 4/4 | 100 % |
-| 6 | Animation des réseaux sociaux | 3/4 | 75 % |
-| 6 | Valorisation des offres et services (formations, services publics) | 3/4 | 75 % |
-| 6 | Coordination des prestataires (agences, imprimeurs) | 3/4 | 75 % |
-| 6 | Production de contenus photo et vidéo | 3/4 | 75 % |
-| 6 | Coordination avec les équipes internes | 3/4 | 75 % |
-| 11 | Mise en place des campagnes de promotion | 2/4 | 50 % |
-| 11 | Pilotage des campagnes emailing et newsletters | 2/4 | 50 % |
-| 11 | Optimisation du référencement SEO / SEA | 2/4 | 50 % |
-| 11 | Suivi des KPI et reporting des actions | 2/4 | 50 % |
-| 11 | Garantie du respect de la charte graphique | 2/4 | 50 % |
-| 11 | Animation d'un réseau d'ambassadeurs | 2/4 | 50 % |
-| 11 | Veille et benchmarking | 2/4 | 50 % |
+| 1 | Organisation d'événements et de salons | 9/10 | 90 % |
+| 1 | Création de supports de communication print et digitaux | 9/10 | 90 % |
+| 3 | Mise en place des campagnes et opérations marketing | 8/10 | 80 % |
+| 3 | Animation des réseaux sociaux | 8/10 | 80 % |
+| 5 | Déploiement du plan de communication et marketing | 7/10 | 70 % |
+| 5 | Animation de la communication interne | 7/10 | 70 % |
+| 5 | Suivi des KPI et reporting des actions | 7/10 | 70 % |
+| 8 | Conception d'outils d'aide à la vente (catalogues, fiches produits) | 6/10 | 60 % |
+| 9 | Pilotage des campagnes emailing et marketing direct | 5/10 | 50 % |
+| 9 | Valorisation et lancement des offres et produits | 5/10 | 50 % |
+| 9 | Rédaction de contenus éditoriaux (articles, posts, newsletters) | 5/10 | 50 % |
+| 9 | Gestion et mise à jour du site internet | 5/10 | 50 % |
+| 13 | Garantie du respect de la charte graphique | 4/10 | 40 % |
+| 13 | Coordination des prestataires (agences, imprimeurs) | 4/10 | 40 % |
+| 13 | Gestion des partenariats, sponsoring et mécénat | 4/10 | 40 % |
+| 13 | Veille concurrentielle et tendances | 4/10 | 40 % |
+| 17 | Accompagnement des équipes commerciales et du réseau | 3/10 | 30 % |
+| 17 | Suivi du budget et des délais | 3/10 | 30 % |
+| 17 | Gestion de l'e-réputation (avis clients) | 3/10 | 30 % |
+| 17 | Gestion de la relation client | 3/10 | 30 % |
 
 **C. Transparence**
+- **Échantillon.** N = 10 : 8 CDI (dont Axess, voir plus bas) et 2 CDD (Thélem, 3 mois ; La Bresse, saisonnier). Publication entre le 16/09 et le 08/10/2026.
+- **Géographie.** 13 = 0 ; reste PACA = 0 ; reste France = 10 (26, 44 ×2, 45, 49, 50, 59, 64, 77, 88).
+- **Apport du balayage profond (10/10) : 1 offre.** « Chargé de Marketing & Communication » chez Axess, à Valence (26).
+  - Axess compte « plus de 300 personnes » et l'offre a été publiée le 08/10/2026, après le premier passage.
+  - Contrat : l'en-tête indique CDI, mais le texte dit « Contrat : CDD d'un an - Temps plein ». Je la retiens car CDI et CDD sont tous deux admis ; ce point est à vérifier.
+  - Effet sur les tableaux : Suite Adobe, PAO / graphisme, Analyse de données et Rigueur passent à 5/10. Elle ajoute aussi la génération de leads, le SEO / SEA et le sponsoring.
+- **Classement en B.**
+  - Effectif indiqué dans l'offre : 6 cas.
+    - E.Leclerc Le Châtelet-en-Brie : « une centaine de collaborateurs ».
+    - HOUSE OF ABY : « 4 300 experts ».
+    - Crowe France / Becouze : « 230 collaborateurs ».
+    - Client d'Avenue des Talents : « environ 75 collaborateurs ».
+    - EVADEA : « 60 collaborateurs ».
+    - Axess : « plus de 300 personnes ».
+  - Tranche d'effectif via l'API : 4 cas.
+    - Thélem assurances : tranche 41 (500-999 salariés).
+    - La Bresse Labellemontagne : 21 (50-99).
+    - Groupe Partouche : 21.
+    - D.2.N : 22 (100-199).
+- **Points d'attention.**
+  - EVADEA : l'API indique 20-49 salariés (données 2024) mais l'offre en annonce 60. J'ai appliqué la règle 1 (effectif de l'offre).
+  - Groupe Partouche : le groupe (tranche 50-99) est notoire, mais la société locale du casino déclare 20-49 salariés.
+  - La Bresse-Hohneck : l'intitulé est conforme à la lettre, mais le poste réel combine relation client et animation de communauté, en CDD saisonnier. Sans cette offre, B = 9.
+- **Écartées.** Aucune offre écartée n'est propre à B. Les écartées du privé figurent en annexe, dont E.Leclerc Saint-Dizier (affichée en CDI mais en réalité un contrat d'apprentissage) et NEOMA (annonce publiée par une école).
+- **Limites.** Les mêmes qu'en A.
 
-- **Échantillon :** 4 offres publiées entre le 22/09 et le 08/10/2026 : 2 universités (Paris-Saclay, PSL), 1 commune (Courbevoie), 1 syndicat intercommunal (SIEA de l'Ain). 13 = 0, PACA = 0.
-- **Dans le 13, les postes publics existent mais sans le mot « marketing » :** 11 « chargé(e) de communication » ont été vus (communes de La Ciotat, Aix-en-Provence, Simiane-Collongue, Châteaurenard, Carry-le-Rouet, Carnoux, Saintes-Maries-de-la-Mer, Terre de Provence Agglomération, Région Sud…). Ils relèvent de l'intitulé 1.
-- **Aucune association, fédération ni fondation** ne recrute sous cet intitulé dans les résultats.
-- **Limites :** avec N = 4, les classements ne sont qu'indicatifs. Pour une offre, les missions ont été lues sur l'annonce liée d'emploi-territorial.fr.
+### C. Secteur public / institutionnel
+
+Secteur retiré de l'étude (intitulé marketing, pas de CV public prévu)
 
 #### Annexe : offres analysées
 
 | Secteur | Intitulé | Employeur | Dépt | Publication | Contrat | URL |
 |---|---|---|---|---|---|---|
-| A | Chargé de Marketing & Communication Visuelle | Nestenn (siège Nestenn France) | 83 | 30/09/2026 | CDD 7 mois | https://www.hellowork.com/fr-fr/emplois/83928643.html |
-| A | Chargé - Chargée de Communication Marketing Français Anglais | CRAN (via L'Industrie recrute) | 10 | 04/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/69753804.html |
-| A | Chargé de Marketing et Communication | Brochard Agriculture (via L'Industrie recrute) | 85 | 28/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/82784651.html |
-| A | Chargé de Communication & Marketing Immobilier | Younight Hospitality (pour Vicartem REIM) | 35 | 11/09/2026 | CDD | https://www.hellowork.com/fr-fr/emplois/83300781.html |
-| A | Chargé de Communication - Acquisition - Marketing | Talents Commerciaux, pour une PME de 15 salariés | 69 | 29/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83899814.html |
-| A | Chargé Marketing & Communication B2B SaaS - E-Invoicing | ICD International | 92 | 30/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83941569.html |
-| A | Chargé de Communication et Marketing | Literie Bonnet | 25 | 08/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84209492.html |
-| A | Chargé Marketing & Communication | Rive Gauche CBRE (Rive Gauche Entreprise) | 67 | 19/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/82475156.html |
-| B | Chargé de Communication Marketing | Thélem assurances | 45 | 21/09/2026 | CDD 3 mois | https://www.hellowork.com/fr-fr/emplois/83599999.html |
-| B | Chargé de Relation Clientèle et Animateur de Communauté - Communication - Marketing | La Bresse Labellemontagne | 88 | 23/09/2026 | CDD saisonnier | https://www.hellowork.com/fr-fr/emplois/83691939.html |
-| B | Chargé de Communication & Marketing | E.Leclerc Le Châtelet-en-Brie | 77 | 25/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83787567.html |
-| B | Chargé de Communication & Marketing Villeneuve d'Ascq | HOUSE OF ABY | 59 | 25/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83776160.html |
-| B | Chargé Communication & Marketing | Groupe Partouche (casino de Salies-de-Béarn) | 64 | 16/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83437871.html |
-| B | Chargé Marketing et Communication | D2N Négociant Agricole | 50 | 21/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83596445.html |
-| B | Chargé de Marketing et Communication - Angers | Crowe France (Becouze) | 49 | 16/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/81336041.html |
-| B | Chargé de Marketing Opérationnel Animation Commerciale & Communication | Avenue des Talents, pour un distributeur B2B d'environ 75 salariés | 44 | 16/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83418699.html |
-| B | Chargé Marketing et Communication | EVADEA (via Apecita) | 44 | 30/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83929178.html |
-| C | Chargé de Marketing et Communication | Université Paris-Saclay | 91 | 05/10/2026 | CDD (contractuel) | https://www.hellowork.com/fr-fr/emplois/83049146.html |
-| C | Chargé de Mission Communication et Marketing Digital | Commune de Courbevoie | 92 | 22/09/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/82572116.html |
-| C | Chargé Communication - Marketing | SIEA de l'Ain (EPCI) | 01 | 08/10/2026 | Fonctionnaire (ouvert aux contractuels) | https://www.hellowork.com/fr-fr/emplois/84201083.html |
-| C | Chargé de Marketing - Communication - Direction de la Formation | Université PSL | 75 | 22/09/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/83633517.html |
+| A | Chargé de Marketing & Communication Visuelle H/F | Nestenn (siège Nestenn France) | 83 | 30/09/2026 | CDD 7 mois (remplacement) | https://www.hellowork.com/fr-fr/emplois/83928643.html |
+| A (ajout 10/10) | Chargé de Communication et Marketing H/F | Copy Serv'Info (CSI), via le cabinet Proximethic (affiché FAB Group) | 74 | 09/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84265440.html |
+| A | Chargé - Chargée de Communication Marketing Français Anglais - Temps Plein H/F | CRAN (via L'Industrie recrute) | 10 | 04/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/69753804.html |
+| A | Chargé de Marketing et Communication H/F | Brochard Agriculture (via L'Industrie recrute) | 85 | 28/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/82784651.html |
+| A | Chargé de Communication & Marketing Immobilier - CDD H/F | Younight Hospitality (poste pour Vicartem REIM) | 35 | 11/09/2026 | CDD | https://www.hellowork.com/fr-fr/emplois/83300781.html |
+| A | Chargé de Communication - Acquisition - Marketing H/F | Talents Commerciaux (cabinet), pour une PME de 15 salariés (vêtements professionnels) | 69 | 29/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83899814.html |
+| A | Chargé Marketing & Communication B2b Saas - E-Invoicing H/F | ICD International | 92 | 30/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83941569.html |
+| A | Chargé de Communication et Marketing H/F | Literie Bonnet | 25 | 08/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84209492.html |
+| A | Chargé Marketing & Communication H/F | Rive Gauche CBRE (Rive Gauche Entreprise) | 67 | 19/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/82475156.html |
+| B (ajout 10/10) | Chargé de Marketing & Communication H/F | Axess (Axess Adcom) | 26 | 08/10/2026 | CDI affiché (le texte indique un CDD d'un an) | https://www.hellowork.com/fr-fr/emplois/84222426.html |
+| B | Chargé de Communication Marketing H/F | Thélem assurances | 45 | 21/09/2026 | CDD 3 mois | https://www.hellowork.com/fr-fr/emplois/83599999.html |
+| B | Chargé de Relation Clientèle et Animateur de Communauté - Communication - Marketing H/F | La Bresse-Hohneck / La Bresse Labellemontagne (affiché « domaines-skiables ») | 88 | 23/09/2026 | CDD saisonnier | https://www.hellowork.com/fr-fr/emplois/83691939.html |
+| B | Chargé de Communication & Marketing H/F | E.Leclerc Le Châtelet-en-Brie | 77 | 25/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83787567.html |
+| B | Chargé de Communication & Marketing Villeneuve d'Ascq H/F | HOUSE OF ABY | 59 | 25/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83776160.html |
+| B | Charge Communication & Marketing H/F | Groupe Partouche (casino de Salies-de-Béarn) | 64 | 16/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83437871.html |
+| B | Chargé Marketing et Communication H/F | D2N Négociant Agricole | 50 | 21/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83596445.html |
+| B | Chargé de Marketing et Communication - Angers H/F | Crowe France (Becouze) | 49 | 16/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/81336041.html |
+| B | Charge de Marketing Operationnel Animation Commerciale & Communication H/F | Avenue des Talents (cabinet), pour un distributeur B2B d'environ 75 salariés | 44 | 16/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83418699.html |
+| B | Chargé Marketing et Communication H/F | EVADEA (via Apecita) | 44 | 30/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83929178.html |
 
-Offres vues mais écartées : 4 offres de cabinets dont le client n'est pas dimensionné (Managing, Aaron Lewis, Morgan Philips, Actual group / KAPTIV), 2 doublons (KAPTIV, CRAN) et 1 alternance affichée en CDI (E.Leclerc Saint-Dizier).
+Offres vues mais écartées :
+
+| Motif | Intitulé | Employeur | Dépt | Publication | Contrat | URL |
+|---|---|---|---|---|---|---|
+| Secteur indéterminé | Chargé de Marketing et Communication H/F | Managing (cabinet), pour une « société familiale » d'emballages, sans effectif indiqué | 67 | 14/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/75540489.html |
+| Secteur indéterminé | Chargé de Marketing - Communication H/F | Aaron Lewis (cabinet), pour une « importante PME familiale » du paramédical, sans effectif indiqué | 60 | 16/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83425167.html |
+| Secteur indéterminé | Chargé Marketing et Communication - Secteur Investissements - Immobilier - Private Assets H/F | Morgan Philips (cabinet), pour une société de gestion immobilière d'un groupe de gestion privée, sans effectif indiqué | 75 | 11/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83282909.html |
+| Secteur indéterminé | Chargé de Marketing & Communication Externe H/F | Actual group / KAPTIV (cabinet), pour une société d'économie mixte non nommée (mobilité) | 974 | 18/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83516797.html |
+| Doublon | Chargé de Marketing et Communication Externe H/F | Emploi DomTom / KAPTIV : même client et même texte que l'offre 83516797 | 974 | 29/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83895983.html |
+| Doublon | Chargé - Chargée de Communication Marketing Français Anglais - Temps Plein H/F | CRAN via L'Industrie recrute : texte identique à l'offre 69753804 | 10 | 20/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/71583517.html |
+| Contrat (alternance) | Chargé Marketing - Communication H/F | E.Leclerc Saint-Dizier : affichée CDI, mais contrat d'apprentissage ou de professionnalisation de 12 mois minimum | 52 | 03/10/2026 | Alternance | https://www.hellowork.com/fr-fr/emplois/78652269.html |
+| Annonce d'école (ajout 10/10) | Chargé de Marketing Communication H/F | NEOMA Business School, poste à la Fondation NEOMA. Exclue par la règle « annonces publiées par des écoles » ; une fondation relèverait de toute façon du secteur C, retiré | 51 | 09/10/2026 | CDD 4 mois | https://www.hellowork.com/fr-fr/emplois/84252944.html |
 
 ---
 
@@ -1480,6 +1521,594 @@ Secteur retiré de l'étude (intitulé marketing, pas de CV public prévu).
 | Indét. (non comptée) | Connected Cars - Marketing Manager | AP Consulting (cabinet) | 92 | 12/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/82257406.html |
 | Indét. (non comptée) | Marketing & Acquisition Manager B2B | KatchMe (cabinet) – scale-up | 75 | 24/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83723869.html |
 | Indét. (non comptée) | Responsable Marketing & Acquisition B2B | Zenith IT Consulting (ESN) | 78 | 07/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84180410.html |
+
+---
+
+## 7. Chargé du développement commercial (+ activation commerciale, growth manager)
+
+**Bilan :** A = 23 offres, B = 50 ; C retiré ; 13 = 5 (A 2, B 3), reste PACA = 0, reste France = 68 (A 21, B 47) ; écartées = 11 (+ 33 annonces en doublon ; 25 indéterminées comptées à part)
+
+### A. TPE / PME / start-up (moins de 50 salariés)
+
+**A. Compétences** (N = 23)
+
+| Rang | Compétence | Offres | % |
+|---|---|---|---|
+| 1 | Culture sectorielle | 15/23 | 65 % |
+| 2 | Sens relationnel | 12/23 | 52 % |
+| 2 | Autonomie | 12/23 | 52 % |
+| 4 | Aisance orale | 10/23 | 43 % |
+| 5 | Organisation | 9/23 | 39 % |
+| 5 | Orienté résultats | 9/23 | 39 % |
+| 7 | Vente B2B | 8/23 | 35 % |
+| 7 | Rigueur | 8/23 | 35 % |
+
+*Définitions :*
+- *« Culture sectorielle » : connaissance d'un secteur exigée ou appréciée (assurance, BTP, industrie, immobilier, etc.).*
+- *« Vente B2B » : expérience ou compétence en vente ou en relation commerciale B2B.*
+
+*Viennent ensuite :*
+- *7/23 (30 %) : Esprit d'équipe ;*
+- *6/23 (26 %) : CRM, Rédaction, Prospection, Aisance téléphonique ;*
+- *4/23 (17 %) : Analyse et synthèse, Anglais, Curiosité, Data / KPI, Permis B / mobilité, Adaptabilité, Persévérance.*
+
+**B. Missions** (N = 23)
+
+| Rang | Mission | Offres | % |
+|---|---|---|---|
+| 1 | Prospecter de nouveaux clients (terrain, téléphone, digital) | 16/23 | 70 % |
+| 2 | Développer et fidéliser un portefeuille clients | 13/23 | 57 % |
+| 3 | Négocier et conclure les ventes et contrats | 11/23 | 48 % |
+| 4 | Identifier et qualifier besoins, leads et opportunités | 8/23 | 35 % |
+| 4 | Mener rendez-vous, visites et démonstrations | 8/23 | 35 % |
+| 6 | Assurer le suivi administratif des dossiers et contrats | 7/23 | 30 % |
+| 7 | Élaborer propositions commerciales, offres et devis | 6/23 | 26 % |
+| 7 | Recruter et suivre candidats ou intérimaires | 6/23 | 26 % |
+| 9 | Participer aux salons et organiser des événements | 5/23 | 22 % |
+| 10 | Suivre les KPI et produire le reporting | 4/23 | 17 % |
+| 10 | Animer un réseau de prescripteurs et partenaires | 4/23 | 17 % |
+| 10 | Coordonner avec les équipes techniques et internes | 4/23 | 17 % |
+| 13 | Conseiller les clients et proposer des solutions adaptées | 3/23 | 13 % |
+| 13 | Traiter les demandes et leads entrants | 3/23 | 13 % |
+| 13 | Tenir le CRM et le pipeline à jour | 3/23 | 13 % |
+| 13 | Accompagner et former clients ou partenaires | 3/23 | 13 % |
+| 13 | Remonter les retours terrain au produit et au marketing | 3/23 | 13 % |
+| 13 | Faire évoluer l'offre et son positionnement | 3/23 | 13 % |
+| 13 | Animer la communication et les supports marketing | 3/23 | 13 % |
+
+*Missions moins fréquentes :*
+- *2/23 : optimiser le tunnel de conversion, assurer la veille ;*
+- *1/23 chacune : ventes additionnelles, stratégie commerciale, prise de rendez-vous pour l'équipe, relances, automatisation des leads, acquisition payante, lancements produits, formation des équipes commerciales, pilotage de missions.*
+
+**C. Transparence**
+- **Échantillon :** N = 23 offres, toutes en CDI. Une seule est à temps partiel : Engel & Völkers, 24 h. Elles ont été publiées du 20/09 au 09/10/2026.
+- **Intitulés :** 21 « chargé(e) de développement commercial » et 2 growth managers (Meteoria, Yubo).
+- **Répartition :**
+  - 13 = 2 : Nawah à Rousset, via L'Industrie recrute ; Meteoria à Marseille 6e ;
+  - reste PACA = 0 ;
+  - reste France = 21, dont Paris 7, Rhône 2 et Bas-Rhin 2.
+- **Classement par taille :**
+  - effectif indiqué dans l'offre : Comatec (30), Ascalium (environ 15), agence d'assurance de Saint-Étienne (2 CDI, 1 alternant, 1 intérimaire) ;
+  - API, tranche inférieure à 50 : Nawah (12), Mikit France (12), Satis Solutions pour Prime Talent (12), Process Technology Grand Est (03), Arkalya (03), Aptenia France (12), Yooliz (12), ICG-Studinfo (03), ADG-One Work (03), Retinax (02), J.C. Conseil (01), Géométrie Variable (03), Erys Group (11), agence MMA de Sélestat (02), Numbr Paris (12), Twelve-App pour Yubo (12), entités Interaction de Toulouse (03 et 11) ;
+  - classements probables, à confirmer : Meteoria (API « NN », société créée fin octobre 2025) ; Springboard Holding (API « NN », un restaurant et une salle de réalité virtuelle) ; Engel & Völkers France (rapprochée d'EV MMC France, tranche 12, comme en section 3).
+- **Points de vigilance sur la taille :**
+  - Groupe Interaction et Numbr : l'unité locale compte moins de 50 salariés, mais l'Insee classe le réseau en ETI.
+  - Aptenia annonce 20 M€ de chiffre d'affaires et +140 % de croissance ; sa tranche Insee 12 est peut-être dépassée.
+  - L'offre JC Conseil est publiée sous le nom « Renault Group ».
+- **Intitulés doubles retenus (signalés) :**
+  - 6 « Business Developer / Chargé de développement commercial » : Aptenia, Yooliz, Comatec, Géométrie Variable, Erys, Ascalium ;
+  - mentions ajoutées : « & Planning » (Onework), « & Relation Clients » (Retinax), « – Chargé de Clientèle » (JC Conseil), « et Formation » (Process Technology), « Événementiel et Communication » (Springboard), « Product Marketing & » (Meteoria).
+- **Mission « recruter » :** 6 offres sur 23 comportent une part de recrutement : agences d'intérim, cabinets de placement et un CFA. C'est ce qui explique ce rang.
+- **Cas particuliers :**
+  - ICG-Studinfo est un CFA, mais le poste est un CDI salarié de l'école. Je l'ai retenu, car la règle vise les alternances publiées par les écoles.
+  - Retinax indique « CDI, possibilité d'alternance ».
+- **Renvoi :** les offres écartées, les indéterminées, le balayage et les limites sont communs à A et B (voir la section B).
+
+### B. Grande entreprise (50 salariés et plus)
+
+**A. Compétences** (N = 50)
+
+| Rang | Compétence | Offres | % |
+|---|---|---|---|
+| 1 | Culture sectorielle | 31/50 | 62 % |
+| 2 | Sens relationnel | 30/50 | 60 % |
+| 3 | Vente B2B | 22/50 | 44 % |
+| 4 | Organisation | 19/50 | 38 % |
+| 5 | CRM | 16/50 | 32 % |
+| 5 | Autonomie | 16/50 | 32 % |
+| 5 | Esprit d'équipe | 16/50 | 32 % |
+| 8 | Orienté résultats | 15/50 | 30 % |
+
+*Viennent ensuite :*
+- *14/50 (28 %) : Rigueur ;*
+- *13/50 (26 %) : Persévérance ;*
+- *12/50 (24 %) : Analyse et synthèse ;*
+- *10/50 (20 %) : Prospection, Pack Office / Excel, Négociation ;*
+- *9/50 (18 %) : Écoute, Rédaction.*
+
+**B. Missions** (N = 50)
+
+| Rang | Mission | Offres | % |
+|---|---|---|---|
+| 1 | Prospecter de nouveaux clients (terrain, téléphone, digital) | 37/50 | 74 % |
+| 2 | Développer et fidéliser un portefeuille clients | 24/50 | 48 % |
+| 3 | Négocier et conclure les ventes et contrats | 23/50 | 46 % |
+| 4 | Suivre les KPI et produire le reporting | 22/50 | 44 % |
+| 5 | Tenir le CRM et le pipeline à jour | 18/50 | 36 % |
+| 6 | Identifier et qualifier besoins, leads et opportunités | 17/50 | 34 % |
+| 7 | Animer un réseau de prescripteurs et partenaires | 15/50 | 30 % |
+| 8 | Élaborer propositions commerciales, offres et devis | 14/50 | 28 % |
+| 9 | Participer aux salons et organiser des événements | 13/50 | 26 % |
+| 9 | Contribuer à la stratégie et au plan d'actions commerciales | 13/50 | 26 % |
+| 9 | Coordonner avec les équipes techniques et internes | 13/50 | 26 % |
+| 12 | Mener rendez-vous, visites et démonstrations | 12/50 | 24 % |
+| 12 | Traiter les demandes et leads entrants | 12/50 | 24 % |
+| 14 | Répondre aux appels d'offres | 10/50 | 20 % |
+| 15 | Relancer prospects et clients | 9/50 | 18 % |
+| 15 | Assurer la veille marché et concurrentielle | 9/50 | 18 % |
+| 17 | Accompagner et former clients ou partenaires | 7/50 | 14 % |
+| 18 | Décrocher des rendez-vous qualifiés pour l'équipe | 6/50 | 12 % |
+| 18 | Animer la communication et les supports marketing | 6/50 | 12 % |
+| 18 | Assurer le suivi administratif des dossiers et contrats | 6/50 | 12 % |
+
+*Missions moins fréquentes :*
+- *5/50 : conseiller les clients ;*
+- *4/50 : former et outiller les équipes commerciales ;*
+- *3/50 : ventes additionnelles ;*
+- *2/50 chacune : recrutement, automatisation des leads, tunnel de conversion.*
+
+**C. Transparence**
+- **Échantillon :** N = 50 offres : 49 CDI, dont 1 à temps partiel (Oui Care), et 1 CDD (Lactalis, 6 à 8 mois). Elles ont été publiées du 10/09 au 09/10/2026.
+- **Intitulés :** 45 « chargé(e) de développement commercial » et 5 growth managers (Amazon, Shine, PayFit, Didomi, Hublo).
+- **Répartition :**
+  - 13 = 3 : Koord, Walter Learning, Ortec Group ;
+  - reste PACA = 0 ;
+  - reste France = 47, dont Paris et Hauts-de-Seine 11, Rhône 6.
+- **Plafond de 50 offres :**
+  - Ordre suivi : le 13, puis le reste de PACA, puis le reste de la France dans l'ordre des listes (« chargé de développement commercial », puis « growth manager »). Le plafond a été atteint avec Hublo.
+  - 4 offres conformes, toutes en B par notoriété, n'ont donc pas été lues : TF1 « Organic Growth Manager » (78590690), Withings « Growth Manager B2B – Europe » (83755143), Ubisoft « Growth Marketing Manager » (82876353), Younited Credit « Growth Marketing Manager » (80334009).
+  - Conséquence : les growth managers sans préfixe sont sous-représentés en B.
+- **Classement par taille :**
+  - effectif indiqué : TGS France (1 750), D&S Groupe (600), Orisha (plus de 2 300), Eiffage Énergie Systèmes (1 000 et 160), Emerson (200), Vallier (140), Sobeca (groupe de 3 000), Oreve-Ortec (14 500), Hublo (plus de 200) ;
+  - client décrit par le cabinet : Talentua (groupe national, plus de 220 points de vente), Prosper (scale-up d'environ 100 personnes), Dosne & Forges (450) ;
+  - API, tranche de 50 ou plus : Walter Learning/Eloce (21), Ortec Services (32), Bio3G (32), Rydge Conseil (51), Nettec (32), Centre Relations Clients (21-22), Parera (32), Denis Matériaux (32), Cegos (32), Resonance (31), Riva.com (21), Banides (21), Netman (41), Didomi SAS (21) ;
+  - notoriété : In Extenso, Oui Care, Crédit Agricole Assurances, Isagri, Verlingue, IONIS (2 offres), Dalkia, Carrefour, Groupama Méditerranée, Gerflor, Mondial Relay, ENGIE, Eiffage Construction, APRIL, EQIOM, DEKRA, Lactalis, Amazon, Shine (groupe Cegid), PayFit ;
+  - classements probables, à confirmer :
+    - Koord : unité créée en 2025, tranche « NN » ; la holding Telemedicare/Sogecare est en tranche 22 ;
+    - Foselev Hauts-de-France : tranche « NN » ; le groupe Foselev est une ETI, avec des filiales de 50 à 499 salariés ;
+    - client de LEA : décrit comme un « groupe du conseil aux entreprises », indice faible.
+- **Cas particuliers :**
+  - Excelliance, agence d'intérim (tranche 11), publie pour Centre Relations Clients, présenté comme l'entreprise.
+  - IONIS (2 offres) : postes salariés d'école en CDI, retenus et signalés.
+  - L'offre ENGIE « agricole » porte sur l'achat de biomasse auprès d'exploitants.
+  - L'offre Emerson porte surtout sur la gestion des appels d'offres.
+- **Intitulés doubles retenus (signalés) :**
+  - 3 « Business Developer / Chargé de développement commercial » : Prosper, Emerson, Dosne & Forges ;
+  - mentions ajoutées : « et de Clientèle » (Oui Care), « & Support Ventes » (Gerflor), « & Admissions » (IONIS) ;
+  - growth managers avec préfixe : Startups Portfolio, Customer, Customer Retention &, GTM, RevOps.
+- **Offres indéterminées, comptées à part (25 ; liste en annexe) :**
+  - 21 offres de cabinets ou d'agences dont le client n'est pas décrit ou n'a pas de taille indiquée ;
+  - 2 agences de réseaux franchisés introuvables dans l'API : Aquila RH à Aubagne, Temporis à Légny ;
+  - 2 employeurs directs en tranche « NN » : ACIEF, AF2A ;
+  - 4 de ces offres sont dans le 13 : Team.is, SO'Focus, Agea-RH, Aquila RH. Team.is et SO'Focus décrivent le même client (un assureur dédié aux professionnels de l'immobilier) avec le même salaire : c'est probablement la même offre.
+- **Offres écartées (11) :**
+  - 2 associations, donc secteur C retiré : TALENDI (83437664) ; poste au CFAI Aquitaine, association ADAIAQ (81320342) ;
+  - 3 doublons repérés à la lecture : offre TALENDI relayée par L'Industrie recrute (83234259) ; offre de Groupe Parera relayée par Start People (81859076) ; Team.is Paris (83996143), même client que Team.is Marseille ;
+  - 2 offres retirées du site (« n'est plus disponible ») : Team.is Aurillac (83798749) et Clermont-Ferrand (83762202) ;
+  - 4 offres hors plafond B (voir plus haut).
+- **Annonces en double non lues (33, même employeur et même intitulé) :**
+  - Mikit (5), Bio3G (5), Stem groupe (3), TGS France (2), Agea-RH (2), AF2A (2) ;
+  - 1 chacune : Walter Learning, In Extenso, Team.is, Eiffage Énergie Systèmes (CDD), Emerson, Groupe Firalp, Foselev, Aptenia, IONIS, Groupama, Gerflor, Optin, Numbr, Engel & Völkers (CDD).
+- **Intitulés hors périmètre écartés au tri :**
+  - « Conseiller développement commercial » (MGEN) ;
+  - « Chargé de recrutement & développement commercial » (Temporis, DUO Santé) ;
+  - « Chargé d'affaires – développement commercial » ;
+  - « Commercial chargé du développement » (Kalhyge, D Medica) ;
+  - « Head of Growth » (Onatera, qui relève de l'intitulé 8) ;
+  - « Revenue Growth Manager » (PPG, et un poste de directeur chez Adsearch) ;
+  - intitulés growth où l'expression n'est pas d'un seul tenant : Growth & Acquisition Manager, Growth & Lead Gen Manager (Hunteed), Growth & Revenue Manager (Edenred), Growth & Acquisition Marketing Manager (Cafeyn) ;
+  - product, project ou content managers « growth » ;
+  - « Business Developer » seul (intitulé 15).
+- **Balayage HelloWork, mot-clé « chargé de développement commercial » :**
+  - 13 en CDI : pages 1 à 6 sur 2 554 résultats, offres conformes en page 1 seulement ;
+  - 13 en CDD : pages 1 à 6 sur 286, aucune offre conforme hormis AF2A, localisée « France » ;
+  - PACA en CDI (pages 1 à 5 sur 5 143) et en CDD (pages 1 à 5 sur 731) : rien hors du 13 ;
+  - France en CDI : pages 1 à 20 sur 64 959, offres conformes jusqu'en page 18, aucune en pages 19 et 20 ;
+  - France en CDD : pages 1 à 6 sur 8 173, offres conformes en page 1 seulement.
+- **Balayage HelloWork, mot-clé « growth manager » :**
+  - 13 et PACA : 3 résultats en CDI, 0 en CDD ;
+  - France : 96 résultats en CDI, lus en entier ; 0 en CDD.
+- **Recherches de contrôle :** « chargé d'activation commerciale » (CDI et CDD), « activation commerciale » et « growth marketing manager » n'ajoutent aucune offre. Il n'existe aucune offre « chargé(e) d'activation commerciale » en CDI ou CDD.
+- **Limites :**
+  - Source unique, HelloWork : 104 offres distinctes conformes (142 annonces). France Travail en affiche environ 190, mais ses pages sont illisibles. Dans le 13, 5 CDI vus seulement sur France Travail n'ont pas pu être lus : Coda Interim, INDY RH, Conseils d'Any, Galian-SMABTP et un employeur non affiché.
+  - Le secteur A reste à 23 offres : les listes ne contiennent pas d'autre offre conforme, et 25 offres restent indéterminées faute de taille connue (une partie relève probablement de A).
+  - Période : offres encore en ligne les 9 et 10 octobre 2026, publiées entre le 10/09 et le 09/10/2026.
+  - Codage : extractions compactes de 180 mots au plus ; le regroupement des formulations est mon interprétation.
+  - Lectures : 105 pages d'offres (98 offres classées et 7 écartées), sous le plafond de 130 ; tailles vérifiées avec l'API Recherche d'entreprises.
+
+### C. Secteur public / institutionnel
+
+Secteur retiré de l'étude (intitulé commercial, pas de CV public prévu).
+
+#### Annexe : offres analysées
+
+| Secteur | Intitulé | Employeur | Dépt | Publication | Contrat | URL |
+|---|---|---|---|---|---|---|
+| A | Chargé·e de Développement Commercial | Nawah (via L'Industrie recrute) | 13 | 04/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83007342.html |
+| A | Product Marketing & Growth Manager | Meteoria | 13 | 21/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83597638.html |
+| A | Chargé de Développement Commercial | Mikit | 27 | 08/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83095575.html |
+| A | Chargé de Développement Commercial | Groupe Interaction (agence de Toulouse) | 31 | 01/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83987524.html |
+| A | Chargé de Développement Commercial | Prime Talent (groupe Satis Solutions) | 25 | 03/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84053021.html |
+| A | Chargé de Développement Commercial et Formation | Process Technology (via Sofitex) | 57 | 07/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/78736496.html |
+| A | Chargé de Développement Commercial | Arkalya (via Fonction:Support) | 67 | 22/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83626867.html |
+| A | Business Developer / Chargé de Développement Commercial | Aptenia | 69 | 08/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84209800.html |
+| A | Business Developer / Chargé de Développement Commercial | Yooliz | 69 | 25/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83757832.html |
+| A | Chargé de Développement Commercial Événementiel et Communication | Springboard Holding | 56 | 09/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83151465.html |
+| A | Business Developer Chargé de Développement Commercial | Comatec | Grand Est | 23/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83677279.html |
+| A | Chargé de Développement Commercial en CFA | ICG-Studinfo (Inted Group) | 75 | 08/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/82143214.html |
+| A | Chargé de Développement Commercial & Planning – Grande Distribution | Onework | 92 | 07/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84169729.html |
+| A | Business Developer – Chargé de Développement Commercial Staffing | Ascalium | 75 | 29/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/79507730.html |
+| A | Chargé de Développement Commercial & Relation Clients | Retinax (Remplax) | 75 | 02/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/82917655.html |
+| A | Chargé de Développement Commercial – Chargé de Clientèle | JC Conseil (annonce sous « Renault Group ») | 33 | 24/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/50693572.html |
+| A | Business Developer, Chargé de Développement Commercial BtoB | Géométrie Variable | 34 | 28/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83840324.html |
+| A | Business Developer / Chargé de Développement Commercial | Erys Group | 75 | 20/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/79164923.html |
+| A | Chargé de Développement Commercial BtoB – Sélestat | Agence MMA de Sélestat (via Alphea Conseil) | 67 | 02/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84026059.html |
+| A | Chargé de Développement Commercial – les Yvelines 78 | Numbr | 75 | 23/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/81666988.html |
+| A | Chargé de Développement Commercial Assurances | Agence d'assurance de Saint-Étienne (via Manpower) | 42 | 06/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84120986.html |
+| A | Chargé·e de Développement Commercial – SDR – Mi-temps | Engel & Völkers France | 75 | 29/09/2026 | CDI temps partiel | https://www.hellowork.com/fr-fr/emplois/83899459.html |
+| A | Growth Manager | Yubo | 75 | 09/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84246429.html |
+| B | Chargé de Développement Commercial | Koord | 13 | 30/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83949264.html |
+| B | Chargé de Développement Commercial | Walter Learning | 13 | 16/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/71402334.html |
+| B | Chargé de Développement Commercial – Environnement International | Ortec Group | 13 | 18/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/75176081.html |
+| B | Chargé de Développement Commercial | Groupe national de l'ameublement (via Talentua) | 93 | 09/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/79926979.html |
+| B | Chargé de Développement Commercial | TGS France | 33 | 09/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84275600.html |
+| B | Chargé de Développement Commercial | D&S Groupe (Quadance) | 50 | 08/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84225069.html |
+| B | Chargé de Développement Commercial | Bio3G | 88 | 08/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/82129976.html |
+| B | Chargé de Développement Commercial | Orisha | 85 | 08/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84198229.html |
+| B | Chargé de Développement Commercial | Rydge Conseil | 31 | 05/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84091011.html |
+| B | Chargé de Développement Commercial | Nettec (Stem Groupe) | 77 | 03/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/76320981.html |
+| B | Chargé de Développement Commercial | In Extenso | 45 | 01/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/78556092.html |
+| B | Chargé de Développement Commercial | Centre Relations Clients (via Excelliance) | 21 | 03/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84050384.html |
+| B | Chargé de Développement Commercial | Eiffage Énergie Systèmes (Prestaprim) | 93 | 30/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83925609.html |
+| B | Chargé de Développement Commercial | Groupe Parera | 63 | 28/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/82784479.html |
+| B | Chargé de Développement Commercial | Denis Matériaux (Plitec) | 35 | 24/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83711228.html |
+| B | Chargé de Développement Commercial et de Clientèle | Oui Care | 69 | 08/10/2026 | CDI temps partiel | https://www.hellowork.com/fr-fr/emplois/78778604.html |
+| B | Chargé de Développement Commercial | Cegos | 69 | 24/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83735647.html |
+| B | Business Developer Chargé de Développement Commercial | Scale-up SaaS (via Prosper) | 33 | 07/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84168212.html |
+| B | Business Developer Chargé de Développement Commercial | Emerson Audit & Conseil | 75 | 01/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/82841511.html |
+| B | Chargé de Développement Commercial Télécom | Resonance (Groupe Firalp) | 69 | 05/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/77618370.html |
+| B | Chargé de Développement Commercial | Crédit Agricole Assurances (Pacifica) | 75 | 22/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/71659501.html |
+| B | Chargé de Développement Commercial 59 | Foselev Hauts-de-France | 59 | 01/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83976467.html |
+| B | Chargé Développement Commercial | Rivacom (groupe Advenn) | 29 | 01/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83965432.html |
+| B | Chargé de Développement Commercial | Isagri | 60 | 20/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/73735341.html |
+| B | Chargé de Développement Commercial Spécialisé Immobilier | Verlingue | 92 | 09/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/75395596.html |
+| B | Chargé de Développement Commercial & Admissions | IONIS Education Group | 75 | 26/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/80635872.html |
+| B | Chargé de Développement Commercial | IONIS Education Group | 69 | 18/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83542306.html |
+| B | Chargé de Développement Commercial | Dalkia | 59 | 18/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83511786.html |
+| B | Chargé de Développement Commercial | Vallier Energies | 74 | 18/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83527138.html |
+| B | Chargé de Développement Commercial Transport | Carrefour | 77 | 03/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/82970235.html |
+| B | Chargé de Développement Commercial en Expertise Comptable | Groupe de conseil aux entreprises (via LEA) | 44 | 08/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/78768962.html |
+| B | Chargé de Développement Commercial Entreprises | Groupama Méditerranée | 66 | 25/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83784092.html |
+| B | Chargé de Développement Commercial & Support Ventes – Retail | Gerflor | 69 | 04/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/80930028.html |
+| B | Chargé de Développement Commercial Points Relais | Mondial Relay | 31 | 28/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/78439306.html |
+| B | Chargé de Développement Commercial | Sobeca (Groupe Firalp) | 67 | 13/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/80115634.html |
+| B | Chargée / Chargé de Développement Commercial Agricole – Rouen | ENGIE | 76 | 24/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83712825.html |
+| B | Chargé Développement Commercial Export – France | Banides (via L'Industrie recrute) | 76 | 07/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84168673.html |
+| B | Business Developer Chargé de Développement Commercial | Acteur national de la transmission d'entreprises (via Dosne & Forges) | 92 | 12/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/80055277.html |
+| B | Chargé·e de Développement Commercial | Netman | 76 | 02/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84025263.html |
+| B | Chargée / Chargé de Développement Commercial | Eiffage Construction | 73 | 10/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83241598.html |
+| B | Chargé de Développement Commercial – Épargne & Retraite | APRIL | 69 | 14/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/77917254.html |
+| B | Chargé de Développement Commercial Export & Recyclés | EQIOM | 67 | 16/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83436276.html |
+| B | Chargé Développement Commercial Nord et Grand-Est | Oreve (Ortec Group) | 51 | 23/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/77127922.html |
+| B | Chargé·e de Développement Commercial | DEKRA France | 92 | 24/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83718644.html |
+| B | Chargé Développement Commercial Agrofourniture Élevage Laitier | Lactalis | 53 | 30/09/2026 | CDD 6-8 mois | https://www.hellowork.com/fr-fr/emplois/83940245.html |
+| B | Startups Portfolio Growth Manager, AWS Startups EMEA | Amazon | 92 | 06/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84152966.html |
+| B | Customer Growth Manager | Shine | 75 | 25/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83754915.html |
+| B | Customer Retention & Growth Manager | PayFit | 75 | 04/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84067550.html |
+| B | GTM Growth Manager | Didomi | 75 | 20/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/81483694.html |
+| B | RevOps Growth Manager | Hublo | 75 | 17/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83492719.html |
+| Indét. (hors calcul) | Chargé de Développement Commercial | Assureur dédié aux pros de l'immobilier (via Team.is) | 13 | 02/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83996179.html |
+| Indét. (hors calcul) | Chargé de Développement Commercial & Recrutement | Aquila RH (agence d'Aubagne) | 13 | 05/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84072663.html |
+| Indét. (hors calcul) | Chargé de Développement Commercial Assurance | Client non décrit (via SO'Focus) | 13 | 26/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/80666988.html |
+| Indét. (hors calcul) | Chargé de Développement Commercial en Assurance | Client non décrit (via Agea-RH) | 13 | 24/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83716582.html |
+| Indét. (hors calcul) | Chargé de Développement Commercial | Aide à domicile pour seniors (via NGR) | 75 | 05/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83026348.html |
+| Indét. (hors calcul) | Chargé de Développement Commercial | Agence de communication et marketing (via le cabinet Jeanne) | 44 | 03/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84065653.html |
+| Indét. (hors calcul) | Chargé de Développement Commercial | Solutions de cartes multiservices (via Artus Recrutements) | 37 | 01/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/77440009.html |
+| Indét. (hors calcul) | Chargé de Développement Commercial | Scale-up lilloise (via Cabinet 360°) | 59 | 28/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/80692795.html |
+| Indét. (hors calcul) | Chargé de Développement Commercial (zone Sud-Est) | Réseau de quincaillerie et d'outillage (via LHH) | 86 | 26/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/82710834.html |
+| Indét. (hors calcul) | Business Developer Chargé de Développement Commercial | Conseil en propriété intellectuelle (via Proch'Emploi Beauvais) | 60 | 05/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84075165.html |
+| Indét. (hors calcul) | Business Developer / Chargé de Développement Commercial | ACIEF | 50 | 30/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83927452.html |
+| Indét. (hors calcul) | Chargé de Développement Commercial | Prestataire de développement commercial B2B (via Partnaire) | 44 | 23/09/2026 | CDI temps partiel | https://www.hellowork.com/fr-fr/emplois/83669163.html |
+| Indét. (hors calcul) | Chargé de Développement Commercial et Recrutement | Temporis Interim (agence de Légny) | 69 | 02/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84002259.html |
+| Indét. (hors calcul) | Business Developer, Chargé de Développement Commercial | Industriel de la Plastics Vallée (via Bugey Ain'terim) | 39 | 27/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83812942.html |
+| Indét. (hors calcul) | Chargé de Développement Commercial – Résidence Senior | Résidences seniors (via Adsearch) | 68 | 30/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83914925.html |
+| Indét. (hors calcul) | Chargé(e) de Développement Commercial BTP | Bâtiments clés en main (via YV Conseil) | 76 | 28/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/76190954.html |
+| Indét. (hors calcul) | Chargé de Développement Commercial E-Commerce – Marketplace | PME ardennaise (via Osé recrutement) | 08 | 30/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83926741.html |
+| Indét. (hors calcul) | Business Developpeur Chargé de Développement Commercial | Industriel de l'électronique (via Vertical RH) | 45 | 18/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/80299816.html |
+| Indét. (hors calcul) | Chargé de Développement Commercial Terrain – Secteur Assurance | Assureur non nommé (via Optin Recrutement) | 94 | 06/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84150130.html |
+| Indét. (hors calcul) | Chargé de Développement Commercial BTP | Bâtiment et services techniques (via Collabkey) | 94 | 22/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83623177.html |
+| Indét. (hors calcul) | Chargé de Développement Commercial Assurance | Assureur non nommé (via MD Skills) | 75 | 01/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/76273986.html |
+| Indét. (hors calcul) | Business Developer Chargé de Développement Commercial | Industriel (via Defi 2 Conseil) | 21 | 28/09/2026 | CDD 18 mois | https://www.hellowork.com/fr-fr/emplois/76114232.html |
+| Indét. (hors calcul) | Chargé de Développement Commercial – Secteur Formation | AF2A (groupe Platinum Executive Education) | France (non précisé) | 05/10/2026 | CDD 12 mois | https://www.hellowork.com/fr-fr/emplois/82026268.html |
+| Indét. (hors calcul) | Community-Led Growth Manager Edtech | EdTech internationale (via La Relève) | 75 | 05/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/82035218.html |
+| Indét. (hors calcul) | Growth Manager | Économie circulaire, régénération de piles (via Impactup) | 75 | 12/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/78890408.html |
+
+---
+
+## 8. Responsable développement commercial (+ activation commerciale, head of growth)
+
+**Bilan :** A = 7 offres, B = 50 (+ 31 « indéterminé » comptées à part) ; C retiré ; 13 = 4, reste PACA = 1, reste France = 52 ; écartées = 131
+
+### A. TPE / PME / start-up (moins de 50 salariés)
+
+**A. Compétences** (N = 7, résultats peu significatifs ; 9 lignes, car 4 compétences sont ex aequo au 6ᵉ rang)
+
+| Rang | Compétence | Offres | % |
+|---|---|---|---|
+| 1 | Analyse/chiffres | 4/7 | 57 % |
+| 1 | Autonomie | 4/7 | 57 % |
+| 1 | Connaissance secteur | 4/7 | 57 % |
+| 1 | Organisation/rigueur | 4/7 | 57 % |
+| 1 | Vente B2B | 4/7 | 57 % |
+| 6 | Esprit d'équipe | 3/7 | 43 % |
+| 6 | Négociation | 3/7 | 43 % |
+| 6 | Relationnel | 3/7 | 43 % |
+| 6 | Sens du résultat | 3/7 | 43 % |
+
+**B. Missions** (N = 7, résultats peu significatifs)
+
+| Rang | Mission | Offres | % |
+|---|---|---|---|
+| 1 | Prospecter et conquérir de nouveaux clients | 6/7 | 86 % |
+| 2 | Fidéliser et développer le portefeuille clients | 5/7 | 71 % |
+| 2 | Négocier et conclure les contrats | 5/7 | 71 % |
+| 2 | Suivre les KPI et assurer le reporting | 5/7 | 71 % |
+| 5 | Définir et déployer la stratégie et le plan d'action commercial | 4/7 | 57 % |
+| 5 | Assurer la veille marché et concurrentielle | 4/7 | 57 % |
+| 7 | Analyser et qualifier les besoins clients | 3/7 | 43 % |
+| 7 | Élaborer offres, chiffrages et devis | 3/7 | 43 % |
+| 9 | Construire et suivre le budget | 2/7 | 29 % |
+| 9 | Promouvoir les offres auprès des décideurs | 2/7 | 29 % |
+| 9 | Représenter l'entreprise (salons, événements) | 2/7 | 29 % |
+| 12 | Animer le terrain : visites, démos, formations clients | 1/7 | 14 % |
+| 12 | Développer l'activité à l'international | 1/7 | 14 % |
+| 12 | Développer un réseau de prescripteurs et partenaires | 1/7 | 14 % |
+| 12 | Manager et recruter l'équipe | 1/7 | 14 % |
+| 12 | Piloter l'activité et le pipeline dans le CRM | 1/7 | 14 % |
+| 12 | Superviser acquisition, CRM, data et service client | 1/7 | 14 % |
+| 12 | Tester de nouveaux canaux de croissance (test & learn) | 1/7 | 14 % |
+| 12 | Traiter les demandes entrantes et réclamations | 1/7 | 14 % |
+
+**C. Transparence**
+- **N = 7.** Ce sont tous des CDI, publiés entre le 11/09 et le 10/10/2026 (date affichée par la page). Répartition : 13 = 1 (Onatera, Aix-en-Provence), reste PACA = 0, reste France = 6. **Résultats peu significatifs (N < 10).**
+- **Profil des offres.** Un poste de head of growth (Onatera : acquisition, CRM, data, management de l'équipe growth) et 6 postes de vente B2B terrain. Les missions propres au growth ne sont présentes qu'une fois.
+- **Classement en A.** Aucune offre n'indique d'effectif chiffré. Les 7 sont classées par l'API, en tranche 11 ou 12 :
+  - tranche 11 : Green Creative (l'offre dit aussi « une PME »), ATSI Centre Ouest (pour Groupe ATSI, « entreprise à taille humaine »), Artemis Group ;
+  - tranche 12 : Ma Boutique O Naturel (Onatera), Liphatech, Écloserie marine de Gravelines Ichtus (pour Gloria Maris), CMG Conseil.
+- **Cas limites.**
+  - 4 offres viennent d'unités de moins de 50 salariés que l'Insee rattache à des groupes classés ETI : Onatera (35 M€ de chiffre d'affaires), Liphatech, Artemis Group (holding), CMG Conseil.
+  - Pour Gloria Maris, Groupe ATSI et CMG Conseil, l'entité a été identifiée par le nom, l'activité et la région. L'identification est probable, pas certaine.
+  - Ce profil A décrit donc surtout de petites structures adossées à des groupes.
+- **Pourquoi moins de 50, France entière.**
+  - HelloWork compte environ 125 offres conformes distinctes en CDI ou CDD, soit 167 annonces avant dédoublonnage.
+  - Elles viennent surtout de grandes entreprises ou de cabinets qui ne donnent pas la taille du client.
+  - Toutes les offres dont la taille n'était pas évidente ont été lues pour repérer les A.
+- **31 offres « indéterminé », comptées à part et listées en annexe.**
+  - Ce sont des cabinets sans indice de taille du client, des clients décrits seulement comme « PME » ou « à taille humaine » (même règle que dans l'étude), et une agence absente de l'API (Nexus Geo).
+  - Répartition : 13 = 1 (Work & You, Aubagne), reste PACA = 0, reste France = 30.
+  - Certaines relèvent probablement de A.
+- **Méthode (commune aux 2 secteurs).**
+  - **Source :** HelloWork uniquement.
+  - **Listes lues avec « responsable développement commercial » :**
+    - 13 : CDI, 29 résultats ; CDD, 0 ;
+    - PACA : CDI, 2 pages, 51 résultats ; CDD, 1 résultat hors sujet ;
+    - France CDI : 833 résultats, pages 1 à 16, puis 22 et 28 ; aucun intitulé conforme à partir de la page 12 ;
+    - France CDD : 12 résultats, dont 1 conforme.
+  - **Listes lues avec « head of growth » :** 13 (2 résultats), PACA (2), France CDI (28), France CDD (0).
+  - **Contrôles ajoutés :**
+    - « responsable activation commerciale » : 1 seul résultat, un intitulé mixte, écarté ;
+    - recherche Equans dans le 13 : 0 résultat.
+  - **Lectures d'offres :** 92 sur les 130 autorisées, dont 1 relecture pour vérifier une date. 2 lectures interrompues par le plafond d'usage ont été relancées. Lecture une par une, au plus 5 en parallèle, sans téléchargement en masse ; le texte des offres n'est pas recopié.
+  - **Effectifs :** environ 40 requêtes unitaires à l'API recherche-entreprises.
+  - **Dédoublonnage :** même employeur et même intitulé, hors lieu, = 1 offre.
+- **Ce qui est compté comme compétence.** Les savoir-faire, outils et qualités explicitement demandés. Les diplômes et années d'expérience sont exclus. Regroupements :
+  - « Connaissance secteur » : connaissance ou expérience d'un secteur ;
+  - « Vente B2B » : vente de services ou de solutions aux entreprises ;
+  - « Organisation/rigueur » : organisation, rigueur, méthode, sens de la structure ;
+  - « Sens du résultat » : orientation résultats, goût du challenge, rentabilité ;
+  - « Relationnel » : aisance relationnelle, écoute, relation client.
+- **Indice du brief (7 CDI du 13).**
+  - **Retenus (5) :**
+    - Aserti Electronic, Alphea Conseil et Fed Business en B ;
+    - Onatera en A ;
+    - Work & You en « indéterminé ».
+  - **Equans :** absente de HelloWork (offre vue sur France Travail, dont les pages sont illisibles).
+  - **Walter Learning (head of growth) :** écartée, car la page indique « publiée par un centre de formation ». C'est la règle « annonces publiées par des écoles », appliquée comme pour Looking dans l'étude. C'est pourtant un poste interne en CDI. Elle serait en B (ELOCE, tranche 21) si on la réintègre.
+- **Détail des 131 annonces écartées.**
+  - 52 pour l'intitulé :
+    - 18 « directeur / directrice du développement commercial » ;
+    - 17 intitulés mixtes ou variantes (« responsable de pôle / de secteur / de site… », « responsable X et développement commercial », « responsable commercial & développement », « responsable marketing et activation commerciale » dans le Var) ;
+    - 11 autres métiers (chef de projet, chargé, team leader) ;
+    - 3 « responsable (du) développement » sans « commercial », dont Dachser à Marseille ;
+    - 1 « head of acquisition & growth » ;
+    - 1 « assistant » ;
+    - 1 vivier de candidatures (WeMaintain, « Talent Pool »).
+  - 1 publiée par un centre de formation (Walter Learning).
+  - 42 doublons :
+    - 40 repérés en liste : 5 Alphea Conseil, 4 Boisdron, 3 Partnaire, 3 HR Link, 3 Innoval/Apecita, etc. ;
+    - 2 repérés à la lecture : Artus Intérim (même poste qu'Api Restauration à Bourges) et CM Recrutement « … CGP » (même client, mêmes missions).
+  - 36 offres de grandes entreprises non lues, car le plafond de 50 était atteint en B.
+- **Limites.**
+  - L'extraction repose sur des résumés compacts produits par un modèle, avec un risque d'omission.
+  - Les missions et compétences ont été codées à la main.
+  - Il s'agit d'un instantané : offres publiées en 2026 et encore en ligne début octobre 2026.
+
+### B. Grande entreprise (50 salariés et plus)
+
+**A. Compétences** (N = 50)
+
+| Rang | Compétence | Offres | % |
+|---|---|---|---|
+| 1 | Connaissance secteur | 33/50 | 66 % |
+| 2 | Autonomie | 26/50 | 52 % |
+| 3 | Relationnel | 20/50 | 40 % |
+| 4 | Organisation/rigueur | 17/50 | 34 % |
+| 4 | Sens du résultat | 17/50 | 34 % |
+| 4 | Vente B2B | 17/50 | 34 % |
+| 7 | Anglais | 15/50 | 30 % |
+| 7 | Négociation | 15/50 | 30 % |
+
+**B. Missions** (N = 50)
+
+| Rang | Mission | Offres | % |
+|---|---|---|---|
+| 1 | Prospecter et conquérir de nouveaux clients | 40/50 | 80 % |
+| 2 | Négocier et conclure les contrats | 28/50 | 56 % |
+| 3 | Coordonner les équipes internes (technique, exploitation) | 24/50 | 48 % |
+| 4 | Suivre les KPI et assurer le reporting | 22/50 | 44 % |
+| 5 | Élaborer offres, chiffrages et devis | 20/50 | 40 % |
+| 6 | Définir et déployer la stratégie et le plan d'action commercial | 18/50 | 36 % |
+| 6 | Fidéliser et développer le portefeuille clients | 18/50 | 36 % |
+| 6 | Répondre aux appels d'offres | 18/50 | 36 % |
+| 9 | Assurer la veille marché et concurrentielle | 13/50 | 26 % |
+| 9 | Développer le chiffre d'affaires et les marges | 13/50 | 26 % |
+| 9 | Piloter l'activité et le pipeline dans le CRM | 13/50 | 26 % |
+| 9 | Promouvoir les offres auprès des décideurs | 13/50 | 26 % |
+| 9 | Suivre la mise en place des contrats jusqu'au démarrage | 13/50 | 26 % |
+| 14 | Analyser et qualifier les besoins clients | 11/50 | 22 % |
+| 14 | Développer un réseau de prescripteurs et partenaires | 11/50 | 22 % |
+| 14 | Manager et recruter l'équipe | 11/50 | 22 % |
+| 14 | Représenter l'entreprise (salons, événements) | 11/50 | 22 % |
+| 18 | Détecter les opportunités et nouveaux marchés | 9/50 | 18 % |
+| 19 | Accompagner et former les équipes ou le réseau | 5/50 | 10 % |
+| 19 | Développer l'activité à l'international | 5/50 | 10 % |
+
+**C. Transparence**
+- **N = 50.**
+  - Contrats : 49 CDI et 1 CDD. Le CDD est Kardham : 6 à 18 mois selon le texte, alors que l'en-tête affiche « CDI » et qu'une prestation externe est évoquée.
+  - Publication entre le 09/09 et le 09/10/2026.
+  - Répartition : 13 = 3 (Aserti Electronic et les clients d'Alphea Conseil et de Fed Business), reste PACA = 1 (SAPIAN, 06), reste France = 46.
+- **Comment la taille a été établie.**
+  - 17 par l'effectif indiqué dans l'offre, dont 7 pour un client de cabinet (Alphea > 140, Hexagon > 100, ACCEO > 600, UPTOO 50, Talents Business > 100, Partnaire 115, Charier 1 800).
+  - 9 par l'API, tranches 21 à 51 : Aserti Electronic, MAPE, Cimme Sodimat, Gutenberg Networks, Ziehl-Abegg France, Innoval, Partners Finances, Sysco France, ASERTI Metrology.
+  - 3 par la notoriété : Sodexo, Eiffage Construction, Eiffage Énergie Systèmes.
+  - 21 sur indice qualitatif, marquées B* en annexe. Le client est décrit comme « acteur majeur », « leader », « de premier plan », « fleuron industriel », « groupe national ou international » ou « d'envergure nationale ». C'est la même règle que dans l'étude (Finaïa, Kreno).
+- **Sélection.**
+  - Les offres de cabinets et de petites structures ont été lues en priorité, pour repérer les A.
+  - Les places restantes en B ont été complétées avec des grandes entreprises, dans l'ordre de la liste HelloWork.
+  - 36 offres B n'ont pas été lues : Convivio, Vitalrest, Derichebourg Facility, Agrial, Renault Group, Seris, Newrest, E.Leclerc, Elis, Safran, Jean Lain Mobilité, Les Jardins d'Arcadie, LDC, Veolia, AXA, Manergy, Onet, Kiloutou, Idex, CBRE GWS, Chausson Matériaux, Eaton, Groupe Legendre, Equans France, Elcimaï, ACCEO, Egis, CAP Ingelec, Artelia, Dynaren, Isor, Groupe Carrier, Latécoère, Thales, Kardham (second intitulé) et Orange (seul CDD conforme).
+  - Conséquence : l'échantillon surreprésente les offres passées par un cabinet ou une agence (29 sur 50).
+- **Intitulés signalés.**
+  - 3 head of growth avec une précision marketing : Deskeo (« & Digital Marketing »), Electra (« Marketing ») et Treatwell (« Marketing & GTM »). C'est un profil acquisition et marketing distinct. Leurs missions propres (acquisition payante, coût d'acquisition et ROI, pilotage des agences, conversion, test & learn) n'apparaissent qu'une fois chacune et ne figurent pas dans le tableau.
+  - Actual group : poste sur un campus d'enseignement supérieur du groupe, sans mention « publiée par une école ». Il est retenu, comme IONIS dans l'étude.
+  - Groupe Empruntis et Partners Finances : développement de réseaux de franchisés, mandataires ou apporteurs d'affaires, sur des postes salariés en CDI.
+- **Doublons possibles, signalés.**
+  - Scalers (33 et 62) : même description du client, mais deux intitulés différents. Ces offres sont comptées deux fois.
+  - Derichebourg Intérim : même poste que les annonces Derichebourg Facility dans les Landes. Compté une fois.
+  - Innoval : lu via Apecita ; c'est le même poste qu'Innoval publie lui-même. Compté une fois.
+- **Lecture des tableaux.**
+  - La prospection apparaît surtout dans les missions (80 %). Comme compétence explicitement demandée, elle n'arrive qu'au 9ᵉ rang (13/50, 26 %).
+  - Suivent CRM (11/50), Analyse/chiffres (10/50), Appels d'offres (9/50) et Leadership (9/50).
+- **Plafond.** Les 50 offres sont atteintes.
+
+### C. Secteur public / institutionnel
+
+Secteur retiré de l'étude (intitulé commercial, pas de CV public prévu).
+
+#### Annexe : offres analysées
+
+| Secteur | Intitulé | Employeur | Dépt | Publication | Contrat | URL |
+|---|---|---|---|---|---|---|
+| A | Head Of Growth | Onatera | 13 | 06/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84142388.html |
+| A | Responsable Développement Commercial Nord-Est - Lutte Contre les Nuisibles | Liphatech | HdF / Grand Est (non précisé) | 16/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83434577.html |
+| A | Responsable Développement Commercial Export | Green Creative | 49 | 30/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83952365.html |
+| A | Responsable du Développement Commercial | Gloria Maris Gravelines | 59 | 11/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/82222456.html |
+| A | Responsable du Développement Commercial | Groupe ATSI | 44 | 09/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84262069.html |
+| A | Responsable du Développement Commercial - Sécurité Humaine | Artemis Group | 93 | 24/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/82629386.html |
+| A | Responsable Développement Commercial | CMG Conseil (recrute pour son compte) | 91 | 10/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/77725668.html |
+| B | Responsable Développement Commercial | Aserti Electronic | 13 | 01/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83983458.html |
+| B | Responsable du Développement Commercial en Sécurité Électronique - Itinérant - Marseille | Alphea Conseil (client : distributeur sécurité, > 140 salariés) | 13 | 02/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84001555.html |
+| B* | Responsable Développement Commercial | Fed Business (client : groupe familial international transport-logistique) | 13 | 02/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84032043.html |
+| B | Responsable Développement Commercial BtoB | SAPIAN | 06 | 21/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83595747.html |
+| B* | Responsable Développement Commercial | HR Link (client : restauration collective et propreté, envergure nationale) | 01 | 01/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/80846672.html |
+| B | Responsable de Développement Commercial | Api Restauration | 18 | 12/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83310699.html |
+| B | Responsable Développement Commercial | Partnaire (client : groupe industriel, 115 salariés) | 33 (poste 44 ou télétravail) | 09/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84255473.html |
+| B* | Responsable Développement Commercial | Scalers (client : acteur majeur restauration collective) | 33 | 28/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83871639.html |
+| B* | Responsable Développement Commercial Nouvelle Aquitaine | LB Ressources (client : leader restauration collective) | 33 | 03/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84065563.html |
+| B | Responsable Développement Commercial - Propreté - Services aux Entreprise - Landes | Derichebourg Intérim (groupe Derichebourg) | 40 | 06/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84118105.html |
+| B | Responsable Développement Commercial Packaging | Gutenberg Agency | 42 | 06/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84150089.html |
+| B | Responsable Développement Commercial - Industrie - Plasturgie | Hexagon (client : > 100 salariés) | 44 | 14/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83359262.html |
+| B* | Responsable Développement Commercial Clés en Mains | Boisdron et Associés (client : groupe immobilier familial) | 44 | 23/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/81612569.html |
+| B | Responsable Développement Commercial | Charier (via cabinet) | 44 | 07/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84189626.html |
+| B* | Responsable Développement Commercial - Risques d'Entreprise | Servyr | 51 | 09/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83198020.html |
+| B | Responsable Développement Commercial | APRIL | 51 | 07/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/80727756.html |
+| B* | Responsable Developpement Commercial France | Menway Emploi (client : fleuron industriel) | 54 | 24/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83734359.html |
+| B* | Responsable Developpement Commercial Export | Menway Emploi (client : acteur industriel majeur) | 54 | 23/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83678502.html |
+| B* | Responsable Développement Commercial International | Lynx RH (client : acteur majeur agroalimentaire) | 56 | 06/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84134236.html |
+| B | Responsable Développement Commercial | Sysco France | 56 | 05/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84109619.html |
+| B | Responsable Développement Commercial Location | Groupe Cimme (Cimme Sodimat) | 59 | 03/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/82953623.html |
+| B | Responsable Développement Commercial | KARDHAM | 59 | 09/10/2026 | CDD 6-18 mois (en-tête : CDI) | https://www.hellowork.com/fr-fr/emplois/79931887.html |
+| B | Responsable Développement Commercial | Eiffage Énergie Systèmes | 59 | 28/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83867176.html |
+| B | Responsable du Développement Commercial | Groupe Mape | 62 | 04/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84071223.html |
+| B* | Responsable Développement Commercial - Activité Logistique | Kyosei (client : acteur majeur logistique-transport) | 62 | 28/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/79479439.html |
+| B* | Responsable Développement Commercial B2b - Restauration Collective | Scalers (client : acteur majeur restauration collective) | 62 | 02/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84042862.html |
+| B | Responsable Développement Commercial | Innoval (via Apecita) | 62 | 23/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83690097.html |
+| B | Responsable Développement Commercial Côte d'Opale | Partners Finances | 62 | 08/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83128328.html |
+| B* | Responsable Développement Commercial BTP | HR Link (client : acteur majeur location engins TP) | 67 | 27/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/82728011.html |
+| B* | Responsable du Développement Commercial | Cabinet non nommé (client : groupe multi-implantations) | 69 | 08/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84206642.html |
+| B* | Responsable du Développement Commercial | Cabinet non nommé (client : groupe national multi-technique de premier plan) | 69 | 27/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/81747294.html |
+| B | Responsable Développement Commercial Industriel | Fonction:Support (client : Ziehl-Abegg) | 69 | 22/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83626182.html |
+| B | Responsable du Développement Commercial - Industrie - Conseil | Talents Business (client : > 100 salariés) | 69 | 01/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83987342.html |
+| B | Responsable Développement Commercial | Actual group (campus Groupe Esup) | 69 | 05/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83054542.html |
+| B | Head Of Growth & Digital Marketing | Deskeo | 75 | 03/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84044726.html |
+| B | Head Of Growth Marketing | Electra | 75 | 21/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/81505684.html |
+| B | Head Of Growth Marketing & Gtm | Treatwell | 75 | 18/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83542439.html |
+| B* | Responsable Développement Commercial | NGR (client : acteur majeur maintien à domicile) | 75 | 22/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83637988.html |
+| B | Responsable Développement Commercial - CVC | UPTOO (client : groupement, équipe centrale de 50) | 75 | 19/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83555374.html |
+| B* | Responsable Développement Commercial - Géothermie & Réseaux de Chaleur | Liane RH (client : acteur industriel international) | 75 | 18/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/78068713.html |
+| B* | Responsable Développement Commercial Région Parisienne | FindYourStaff (client : acteur européen de référence) | 75 | 13/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/81258523.html |
+| B* | Responsable Développement Commercial | Dosne & Forges Conseil (client : groupe à réseau national) | IdF (non précisé) | 09/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83157980.html |
+| B | Responsable Développement Commercial | Sodexo | 78 | 06/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84148487.html |
+| B | Responsable Développement Commercial | Eiffage Construction | 79 | 05/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/78683776.html |
+| B* | Responsable Développement Commercial | Cabinet non nommé (client : groupe majeur de services) | 91/78 | 17/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83467546.html |
+| B | Responsable Développement Commercial - Energie B2b | Acute Search (client : ACCEO, > 600 salariés) | 91 | 05/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/79789569.html |
+| B* | Responsable Développement Commercial | BERYL & CHARLES (client : groupe français de plus de 60 ans) | 92 | 26/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/79394467.html |
+| B* | Responsable Développement Commercial Grands Comptes | TGC (client adossé à un groupe logistique international) | 93 | 05/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84088714.html |
+| B | Responsable Développement Commercial | Groupe Empruntis | 93 | 01/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83982238.html |
+| B | Responsable Développement Commercial | ASERTI Metrology | 94 | 07/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/82092081.html |
+| Indét. | Responsable Développement Commercial Évenementiel | Work & You (client : stands événementiels) | 13 | 15/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83378591.html |
+| Indét. | Responsable du Développement Commercial - Aéronautique & Défense | GSE Conseil (client : sous-traitant EMS) | non précisé (télétravail) | 13/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/81251163.html |
+| Indét. | Head Of Growth Marketing | CAB À TALENTS (client : entreprise digitale) | 75 | 20/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/81498894.html |
+| Indét. | Responsable Développement Commercial | LHH Recruitment Solutions (client : e-commerce) | 77 | 08/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84218533.html |
+| Indét. | Responsable Développement Commercial | GVH Partners (client : services aux bâtiments) | 78 | 08/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83095957.html |
+| Indét. | Responsable Développement Commercial - PME en Croissance | SAYCO (client : PME, sans effectif) | 59 | 06/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84124719.html |
+| Indét. | Responsable Développement Commercial Industrie | Evaden (client « à taille humaine ») | 69 | 20/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/81481706.html |
+| Indét. | Responsables Développement Commercial GEO | Nexus Geo (absente de l'API) | 75 | 06/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/82054328.html |
+| Indét. | Responsable Développement Commercial - Réseau Pharmaceutique | Achil (client : groupement de pharmacies) | 75 | 16/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/76876062.html |
+| Indét. | Responsable du Développement Commercial Immobilier | Alveor (client : AMO immobilier) | 37 | 21/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83573366.html |
+| Indét. | Responsable Développement Commercial France & Export | Tercio (client non décrit) | 69 | 05/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84084332.html |
+| Indét. | Responsable du Développement Commercial | Actual Talent (client : communication-marketing) | 75 | 07/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/79862010.html |
+| Indét. | Responsable Développement Commercial et Accompagnement | GDB Conseil & Recrutement (client : services RH) | 75 | 06/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84150144.html |
+| Indét. | Responsable du Développement Commercial | L'Industrie recrute (client non nommé) | 59 | 30/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83942100.html |
+| Indét. | Responsable Développement Commercial - Secteur Industriel | L'Industrie recrute (client : C.TECH, absent de l'API) | 25 | 09/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/73443245.html |
+| Indét. | Responsable Développement Commercial Zone | ACE Emploi (client « à taille humaine ») | 69 | 03/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84048926.html |
+| Indét. | Responsable Développement Commercial Industrie | Taleah (client : sous-traitance mécanique) | 85 | 02/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84020329.html |
+| Indét. | Responsable Développement Commercial | NonStop Consulting (client : dispositifs médicaux) | 80 | 21/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83599005.html |
+| Indét. | Responsable du Développement Commercial | DL Partners (client « à taille humaine ») | 01 | 29/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/80739904.html |
+| Indét. | Responsable Développement Commercial | Entreprise anonyme (restauration médico-sociale) | 08 | 23/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83690897.html |
+| Indét. | Responsable Développement Commercial Animation & Marketing | CALYPSO RH (client non nommé) | 67 | 08/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84229792.html |
+| Indét. | Responsable du Développement Commercial en Assurances | CM Recrutement (client : gestion de patrimoine, réseau d'indépendants) | 33 | 08/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/82132822.html |
+| Indét. | Responsable de Développement Commercial Façades | C&T Consultants (client « en croissance ») | 75 | 08/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/78780047.html |
+| Indét. | Responsable du Développement Commercial - Management de Transition | UPTOO (client : cabinet de management de transition) | 75 | 06/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84141280.html |
+| Indét. | Responsable Développement Commercial - Lignes de Conditionnement Pharmaceutique | Cezam Recrutement (client « à taille humaine ») | 67 | 28/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83840733.html |
+| Indét. | Responsable du Développement Commercial Industrie - Mobilité Bilingue Anglais | Talents Commerciaux (client : mobilité) | 75 | 07/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/82104032.html |
+| Indét. | Responsable du Développement Commercial BTP | Hays (client « à taille humaine ») | 38 | 25/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83764954.html |
+| Indét. | Responsable Développement Commercial | Hays (client « à taille humaine ») | 44 | 11/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83306685.html |
+| Indét. | Responsable du Développement Commercial - Métallurgie - Chasseur B To B | Manpower France (client : métallurgie) | 69 | 16/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83448042.html |
+| Indét. | Responsable Développement Commercial | Adecco (client « à taille humaine ») | 75 | 02/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84003570.html |
+| Indét. | Responsable Développement Commercial | Adéquat Intérim (client : négoce électrique) | 61 | 29/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83913522.html |
+
+\* B* = classée B sur indice qualitatif, sans effectif chiffré ni API. Indét. = taille inconnue, comptée à part et exclue des tableaux.
 
 ---
 
