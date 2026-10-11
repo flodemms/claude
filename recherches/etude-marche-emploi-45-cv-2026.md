@@ -133,6 +133,36 @@ En cas d'égalité, les intitulés sont départagés par le nombre de postes pub
 
 ---
 
+## 0 ter. Postes publics publiés en 2026 sur Choisir le service public (données ouvertes)
+
+**Pourquoi cette section :** les échantillons des sections 1 à 16 ne contiennent que des offres encore en ligne début octobre 2026. Pour les 8 intitulés qui auront un CV public, les données ouvertes de l'État permettent de mesurer la demande publique sur toute l'année, offres expirées comprises.
+
+**Source et méthode :**
+- Jeu de données « Les offres diffusées sur Choisir le Service Public » (DGAFP, data.gouv.fr, Licence Ouverte), fichier arrêté au 13 septembre 2026 et mis en ligne le 5 octobre 2026 : 261 536 offres, dont 258 268 publiées pour la première fois en 2026.
+- Offres retenues : première publication entre le 1er janvier et le 13 septembre 2026, avec les mêmes définitions d'intitulés que les classements 0 et 0 bis. « Chef du service communication » est compté avec responsable communication, comme dans la section 4. Pour l'intitulé 16, sont exclus les conseillers en séjour, les secrétariats et les intitulés « auprès de ».
+- Dédoublonnage : un même intitulé publié deux fois par le même employeur au même endroit compte pour 1.
+- Le fichier ne contient pas le texte des missions : il sert à compter et à décrire les postes, pas à en extraire les missions.
+
+| Intitulé (CV public) | Offres 2026 | dont 13 | dont reste PACA | Versant : territorial / État / hospitalier | Catégorie A ou A+ | Métier de référence le plus fréquent (répertoire des métiers de la fonction publique) |
+|---|---|---|---|---|---|---|
+| 1. Chargé de communication | 1 305 | 30 | 46 | 990 / 296 / 6 | 34 % | Chargé de communication (86 %) |
+| 4. Responsable communication | 225 | 4 | 8 | 167 / 53 / 4 | 62 % | Responsable de la communication (48 %) |
+| 5. Directeur communication | 158 | 8 | 2 | 131 / 26 / 0 | 96 % | Responsable de la communication (92 %) |
+| 11. Chargé de mission affaires publiques, relations publiques ou institutionnelles | 32 | 1 | 1 | 24 / 8 / 0 | 53 % | Chargé de communication (44 %) |
+| 12. Responsable affaires publiques, relations publiques ou institutionnelles | 16 | 0 | 0 | 10 / 6 / 0 | 62 % | Chargé d'accueil, de relation et de service à l'usager (31 %) |
+| 13. Community manager | 113 | 7 | 7 | 89 / 24 / 0 | 52 % | Chargé de communication (51 %) |
+| 14. Attaché de presse (+ relations presse ou médias) | 62 | 4 | 5 | 45 / 16 / 0 | 82 % | Chargé de communication (65 %) |
+| 16. Conseiller communication | 10 | 1 | 1 | 3 / 7 / 0 | 90 % | Responsable de la communication (40 %) |
+
+**Lecture pour les CV publics :**
+- **La demande publique se concentre sur le chargé de communication** : 1 305 offres en huit mois et demi, dont 30 dans les Bouches-du-Rhône, loin devant les responsables (225) et les directeurs (158).
+- **La fonction publique territoriale domine** (environ trois offres sur quatre) ; l'État vient ensuite. Les postes hospitaliers sont rares.
+- **Le vocabulaire des employeurs publics :** les directeurs et les conseillers communication sont rangés sous le métier « Responsable de la communication », et la plupart des attachés de presse sous « Chargé de communication ». Reprendre ces intitulés de métier dans les CV publics aide à passer les filtres des sites d'emploi public.
+- **Relations publiques dans le public (intitulés 11 et 12) :** ces postes relèvent souvent du protocole, des cérémonies, de l'événementiel et de l'action culturelle (accueil des publics, salles de spectacle et de cinéma, centres du service national), plus que des affaires publiques au sens du lobbying. Les CV publics de ces deux intitulés doivent mettre en avant le protocole et les relations avec les élus et les partenaires.
+- **Conseiller communication (16) :** 10 offres seulement, dont 9 de catégorie A et 7 à l'État. C'est un poste de cadre placé auprès d'un exécutif (détail en section 16).
+
+---
+
 ## 1. Chargé de communication
 
 **Bilan :** A = 11 offres, B = 26, C = 50 ; 13 = 11, reste PACA = 9, reste France = 67 ; écartées = 3 après lecture (2 expirées, 1 hors périmètre) + 5 doublons, et 13 indéterminées A/B comptées à part
@@ -2411,7 +2441,7 @@ Secteur retiré de l'étude (intitulé commercial, pas de CV public prévu).
 
 ## 10. Responsable communication et marketing
 
-**Bilan :** A = 5 offres, B = 13, C = 0 (secteur retiré) ; 13 = 1, reste PACA = 2, reste France = 28 (sur 31 offres retenues, dont 13 indéterminées comptées à part) ; écartées = 6
+**Bilan :** A = 5 offres, B = 13, C = secteur retiré ; 13 = 1, reste PACA = 2, reste France = 28 (sur 31 offres retenues, dont 13 indéterminées comptées à part) ; écartées = 6
 
 ### A. TPE / PME / start-up (moins de 50 salariés)
 
@@ -2425,16 +2455,16 @@ Secteur retiré de l'étude (intitulé commercial, pas de CV public prévu).
 | 4 | Leadership d'équipe | 3/5 | 60 % |
 | 5 | Outils CRM | 3/5 | 60 % |
 | 6 | SEO / SEA | 2/5 | 40 % |
-| 7 | Gestion de projet | 2/5 | 40 % |
-| 8 | Autonomie | 2/5 | 40 % |
+| 7 | Autonomie | 2/5 | 40 % |
+| 8 | Gestion de projet | 2/5 | 40 % |
 
 **B. Missions**
 
 | Rang | Mission | Offres | % |
 |---|---|---|---|
 | 1 | Organiser salons, événements et webinaires | 5/5 | 100 % |
-| 2 | Définir et piloter la stratégie et les actions marketing-com | 4/5 | 80 % |
-| 3 | Piloter les campagnes d'acquisition (ads, SEA, emailing, LinkedIn) | 4/5 | 80 % |
+| 2 | Définir et piloter la stratégie marketing-communication | 4/5 | 80 % |
+| 3 | Piloter les campagnes d'acquisition (ads, SEA, emailing) | 4/5 | 80 % |
 | 4 | Produire contenus et supports (articles, vidéos, livres blancs) | 4/5 | 80 % |
 | 5 | Suivre les KPI, le ROI et le reporting | 3/5 | 60 % |
 | 6 | Gérer le budget marketing-communication | 3/5 | 60 % |
@@ -2449,23 +2479,23 @@ Secteur retiré de l'étude (intitulé commercial, pas de CV public prévu).
 | 15 | Accompagner la transformation de l'entreprise | 1/5 | 20 % |
 | 16 | Piloter le site e-commerce et sa migration | 1/5 | 20 % |
 | 17 | Piloter CRM et emailing | 1/5 | 20 % |
-| 18 | Générer des leads B2B (ABM, bases de prospects) | 1/5 | 20 % |
+| 18 | Générer des leads B2B (ABM, prospection) | 1/5 | 20 % |
 | 19 | Automatiser les process marketing | 1/5 | 20 % |
-| 20 | Conduire les projets digitaux, du cadrage au déploiement | 1/5 | 20 % |
+| 20 | Conduire les projets digitaux | 1/5 | 20 % |
 
 **C. Transparence**
 - **N = 5 : résultats peu significatifs (N < 10).** Répartition : 13 = 1 (EDL, Berre-l'Étang), reste PACA = 0, reste France = 4 (75 ×3, 44).
-- **Ajout du balayage profond :** une offre, SkyVisor (Paris, publiée le 08/10/2026, CDI), classée par l'API en tranche 11 (10 à 19 salariés). Le balayage n'a rien ajouté pour le 13 ni pour PACA.
-- **Classement des autres offres :**
-  - EDL, KEY PREDICT (Central Test) et Palmifrance (client nommé d'ADEIS RH, marque Nishikidori) : API, tranche 12 (20 à 49 salariés).
-  - Client d'Approach People : indice « start-up » (phrase vérifiée sur la page), sans effectif.
-  - KEY PREDICT cite des filiales à l'étranger, mais son unité légale française est en tranche 12. Elle reste en A selon la règle.
-- **Périmètre :** j'ai retenu « Responsable Communication et Webmarketing » (Palmifrance), car le mot « marketing » y figure.
+- **Classement par l'API :**
+  - EDL, KEY PREDICT (Central Test) et Palmifrance (client nommé d'ADEIS RH, marque Nishikidori) : tranche 12, soit 20 à 49 salariés.
+  - SkyVisor : tranche 11, soit 10 à 19 salariés.
+- **Classement sur indice :** le client d'Approach People est décrit comme une « start-up » (phrase vérifiée sur la page), sans effectif.
+- **Cas particulier :** KEY PREDICT cite des filiales à l'étranger, mais son unité légale française est en tranche 12 (catégorie PME). Elle reste donc en A.
+- **Ajout du balayage profond du 11/10 :** une offre, SkyVisor (« Marketing & Communication Manager », Paris, publiée le 08/10/2026). Le détail des listes relues est en B.
+- **Périmètre :** « Responsable Communication et Webmarketing » (Palmifrance) est retenu, car le mot « marketing » y figure.
 - **Ex aequo :**
-  - Au rang 8 des compétences, force de proposition et CMS (Shopify, WordPress) sont aussi à 2/5.
-  - À 1/5 : branding, rédaction, e-commerce, IA, marketing automation, rigueur, créativité, vision stratégique.
-- **Écartées :** aucune ne relève clairement de A (liste complète sous l'annexe).
-- **Limites :** ce sont les mêmes qu'en B.
+  - À 2/5 : force de proposition, CMS (Shopify, WordPress).
+  - À 1/5 : créativité, rigueur, rédaction, e-commerce, IA, marketing automation, vision stratégique, branding.
+- **Indéterminées :** les 13 offres non classables sont exclues des calculs A et B (voir l'annexe).
 
 ### B. Grande entreprise (50 salariés et plus)
 
@@ -2494,7 +2524,7 @@ Secteur retiré de l'étude (intitulé commercial, pas de CV public prévu).
 | 6 | Organiser salons, événements et webinaires | 7/13 | 54 % |
 | 7 | Outiller et appuyer les forces de vente (supports, appels d'offres, animations) | 7/13 | 54 % |
 | 8 | Construire et déployer le plan marketing-com annuel | 6/13 | 46 % |
-| 9 | Animer les réseaux sociaux (LinkedIn…) | 5/13 | 38 % |
+| 9 | Animer les réseaux sociaux | 5/13 | 38 % |
 | 10 | Garantir la cohérence de marque et la notoriété | 4/13 | 31 % |
 | 11 | Piloter le site web et le SEO | 3/13 | 23 % |
 | 12 | Gérer le budget marketing-communication | 3/13 | 23 % |
@@ -2508,7 +2538,6 @@ Secteur retiré de l'étude (intitulé commercial, pas de CV public prévu).
 
 **C. Transparence**
 - **N = 13.** Répartition : 13 = 0, reste PACA = 1 (Proman, Manosque, 04), reste France = 12.
-- **Ajout du balayage profond :** une offre, Altarea (Paris, publiée le 10/10/2026, environ 2 000 salariés). Le contrat est un CDD selon l'intitulé et le texte, un CDI selon l'en-tête ; l'offre est retenue puisque les deux contrats sont admis.
 - **Classement selon l'effectif indiqué dans l'offre :** BILS DEROO (environ 1 800), Samse (environ 1 200), Altarea (environ 2 000), client horticole de RECRUTOYOU (plus de 100).
 - **Classement par l'API :**
   - E.Leclerc Aulnoye-Aymeries : la société Aulnoydis (tranche 22) a été rapprochée par code postal et activité « hypermarché ».
@@ -2517,22 +2546,26 @@ Secteur retiré de l'étude (intitulé commercial, pas de CV public prévu).
   - Groupama Rhône-Alpes Auvergne : tranche 51.
   - Proman : catégorie GE.
 - **Écarts ou jugements signalés :**
-  - Europe Technologies : l'unité légale est une holding en tranche 12, mais l'API la range en catégorie ETI et le poste concerne un groupe multisite. Je l'ai classée B, ce qui s'écarte de la lecture stricte de la tranche.
+  - Europe Technologies : l'unité légale est une holding en tranche 12, mais l'API la range en catégorie ETI et le poste concerne un « groupe multisite ». Je l'ai classée B, ce qui s'écarte de la lecture stricte de la tranche.
   - Technord : effectif « NN » dans l'API. Classée B sur notoriété et indices (groupe présent en France et en Belgique, organisé en Business Units).
-  - Clients de cabinets classés sur indice chiffré : Les Nouveaux Héritiers (le poste encadre 15 personnes) et A PLACE conseil (29 magasins).
+- **Clients de cabinets classés sur indice chiffré (marqués \* en annexe) :**
+  - Les Nouveaux Héritiers : le poste encadre 15 personnes.
+  - A PLACE conseil : 29 magasins.
+- **Ajouts du balayage profond (lectures du 11/10/2026) :**
+  - **Résultat net :** +1 B (Altarea, CDD alors que l'en-tête indique CDI, Paris, publiée le 10/10/2026), +1 A (SkyVisor), +1 indéterminée (Impactup Cabinet Conseil). Deux republications sont écartées comme doublons (GR Intérim, Alphea Conseil).
+  - **France CDI par pertinence, pages 5–6 :** la liste compte désormais 835 résultats (862 le 8/10). Aucun intitulé conforme, donc arrêt.
+  - **France CDD par pertinence, pages 3–5 :** 131 résultats (125 le 8/10). Un seul intitulé conforme, chez un employeur public (Toulouse), ignoré car le secteur C est retiré.
+  - **Tri par date déclenché par une hausse du total :** seule la liste France CDD a augmenté. Pages 1–4 lues : rien pour A ou B, arrêt après deux pages vides.
+  - **Tri par date lu par précaution :** les autres totaux ont baissé (13 CDI : 34 → 33 ; PACA CDI : 56 → 55 ; France CDI : 862 → 835), mais j'ai lu leur tri par date pour repérer les offres nouvelles. 13 CDI et PACA CDI (page 1) : rien de nouveau. France CDI, pages 1–8 : les trois ajouts sont dans les pages 1–4 ; les pages 5–8 ne contenaient plus que des offres déjà retenues, donc arrêt.
+- **Reclassement des indéterminées :**
+  - CPA SERRE, API retentée : le GIE est à effectif « NN ». Ses membres sont Comptoir de Produits Agricoles (20 à 49 salariés, catégorie ETI) et Graines Loras (1 à 2 salariés). Le seuil de 50 n'est pas tranché, l'offre reste indéterminée.
+  - Zenith IT Consulting, API retentée : aucune correspondance, et la page ne donne ni raison sociale ni SIREN. L'offre reste indéterminée. ZENITH IO (Chatou, 6 à 9 salariés) est une correspondance possible mais non confirmée, que je n'ai pas utilisée.
+  - Les 10 autres sont des clients de cabinets non nommés : l'API ne peut pas s'appliquer. Ixora et MYRECRUTEUR sont probablement à 50 salariés ou plus, mais sans élément chiffré.
 - **Ex aequo :**
-  - Au rang 8 des compétences, organisation, esprit d'équipe et force de proposition sont aussi à 4/13.
-  - Missions à 1/13, non listées : conduite du changement, relation client, négociation de contrats, automatisation/IA, offre et merchandising.
-- **Indéterminées (13, exclues des calculs A et B, listées en annexe) :**
-  - J'ai retenté l'API pour les deux employeurs nommés ; ils restent indéterminés.
-  - CPA SERRE : le GIE a un effectif « NN ». Ses membres sont le Comptoir de Produits Agricoles (20 à 49 salariés, catégorie ETI) et Graines Loras (1 à 2 salariés). Le seuil de 50 n'est pas tranché.
-  - Zenith IT Consulting : toujours introuvable dans l'API, et la page ne donne ni raison sociale ni SIREN. « Zenith IO » (Chatou, 6 à 9 salariés) est une correspondance possible, non confirmée et donc non utilisée.
-  - Les 11 autres sont des clients de cabinets non nommés, pour lesquels l'API est inapplicable.
-  - Ixora et MYRECRUTEUR sont probablement à 50 salariés ou plus (groupes multi-enseignes ou multi-marques), mais sans élément chiffré.
-- **Secteur C :** quatre intitulés relevant du public ou des associations ont été vus et ignorés, dont un CDD conforme apparu pendant le balayage (Toulouse, employeur public).
-- **Limite 1 (dispersion) :**
-  - En tri par pertinence, les pages 5 et 6 de la liste France CDI (835 résultats) ne contenaient aucun intitulé conforme : la lecture s'est donc arrêtée là.
-  - L'offre Michael Page (Fréjus) n'apparaît toujours dans aucune des pages France lues. Seule une lecture exhaustive (tri par date, pages 9 à 28, soit environ 20 pages de liste) garantirait d'avoir toutes les offres conformes.
+  - Au rang 8 des compétences, trois autres compétences sont aussi à 4/13 : organisation, esprit d'équipe, force de proposition.
+  - Viennent ensuite, à 3/13 : Suite Adobe/PAO, rédaction, rigueur, emailing, IA générative, réseaux sociaux.
+  - Missions à 1/13, non listées : conduite du changement, relation client, négociation de contrats, automatisation/IA, structuration de l'offre et merchandising.
+- **Limite 1 (dispersion persistante) :** l'offre Michael Page de Fréjus, connue par la liste PACA, n'apparaît toujours dans aucune des pages France lues (pertinence pages 1–6, date pages 1–8). Seule une lecture exhaustive des 28 pages permettrait de retrouver toutes les offres dispersées ; je ne l'ai pas faite, conformément à la règle d'arrêt.
 - **Limite 2 (codage) :** compétences et missions codées à partir d'extraits compacts (180 mots au plus), pas du texte intégral.
 
 ### C. Secteur public / institutionnel
@@ -2547,7 +2580,7 @@ Secteur retiré de l'étude (intitulé marketing, pas de CV public prévu)
 | A | Responsable Marketing et Communications H/F | KEY PREDICT (Central Test) | 75 | 07/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84188529.html |
 | A | Responsable Communication et Webmarketing H/F | ADEIS RH pour Palmifrance (Nishikidori) | 44 | 28/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83847911.html |
 | A\* | Responsable Marketing & Communication H/F | Approach People Recruitment (client : start-up) | 75 | 07/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/82108638.html |
-| A (ajout) | Marketing & Communication Manager - Renewable Energies SaaS H/F | SkyVisor | 75 | 08/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84226938.html |
+| A † | Marketing & Communication Manager - Renewable Energies SaaS H/F | SkyVisor | 75 | 08/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84226938.html |
 | B | Responsable Communication & Marketing H/F | Proman | 04 | 09/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83205762.html |
 | B | Responsable Communication et Marketing H/F | BILS DEROO | 59 | 06/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84136048.html |
 | B | Responsable Communication et Marketing H/F | E.Leclerc Aulnoye-Aymeries (Aulnoydis) | 59 | 02/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/82899460.html |
@@ -2560,7 +2593,7 @@ Secteur retiré de l'étude (intitulé marketing, pas de CV public prévu)
 | B | Responsable Marketing et Communication - BtoB - BtoC H/F | RECRUTOYOU (client horticole, plus de 100 salariés) | 44 | 24/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83715643.html |
 | B\* | Responsable Marketing & Communication - Industrie H/F | Technord | 59 | 05/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84092226.html |
 | B\* | Responsable Marketing Offre et Communication H/F | A PLACE conseil (client : groupe semencier, 29 magasins) | 12 | 15/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83382710.html |
-| B (ajout) | Responsable Marketing & Communications - CDD H/F | Altarea | 75 | 10/10/2026 | CDD (en-tête : CDI) | https://www.hellowork.com/fr-fr/emplois/83214350.html |
+| B † | Responsable Marketing & Communications - CDD H/F | Altarea (groupe Altarea Cogedim) | 75 | 10/10/2026 | CDD (en-tête : CDI) | https://www.hellowork.com/fr-fr/emplois/83214350.html |
 | Indét. | Responsable Marketing & Communication H/F | Michael Page (client agroalimentaire « à taille humaine ») | 83 | 16/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83419783.html |
 | Indét. | Responsable Communication et Marketing H/F | Mercato de l'emploi (client : grossiste fruits et légumes) | 80 | 24/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/78276753.html |
 | Indét. | Responsable Communication & Marketing Groupe H/F | Ixora Conseil (client : groupe multi-enseignes) | 972 | 15/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/81334049.html |
@@ -2570,39 +2603,27 @@ Secteur retiré de l'étude (intitulé marketing, pas de CV public prévu)
 | Indét. | Responsable Marketing et Communication - Valence H/F | Alphea Conseil (client : éditeur de logiciels) | 26 | 22/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83608258.html |
 | Indét. | Responsable Marketing et Communication H/F | Dhova (client : stérilisation industrielle) | 72 | 18/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/80303857.html |
 | Indét. | Head Of Communication And Marketing H/F | Optin Recrutement (client high-tech / télécom) | 34 | 24/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/82623309.html |
-| Indét. | Responsable Communication & Marketing H/F | CPA SERRE (GIE, effectif « NN », API retentée) | 24 | 23/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83673927.html |
-| Indét. | Responsable Marketing et Communication H/F | Zenith IT Consulting (absente de l'API, retentée) | 78 | 08/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84206946.html |
+| Indét. | Responsable Communication & Marketing H/F | CPA SERRE (GIE, effectif « NN » ; API retentée) | 24 | 23/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83673927.html |
+| Indét. | Responsable Marketing et Communication H/F | Zenith IT Consulting (absente de l'API ; retentée) | 78 | 08/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84206946.html |
 | Indét. | Responsable Marketing & Communication H/F | GR Intérim & Recrutement (client : groupe de voyages haut de gamme) | 75 | 28/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83865860.html |
-| Indét. (ajout) | Responsable Marketing et Communication H/F | Impactup Cabinet Conseil (client : soins capillaires naturels) | 75 | 08/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84233626.html |
+| Indét. † | Responsable Marketing et Communication H/F | Impactup Cabinet Conseil (client : soins capillaires naturels) | 75 | 08/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84233626.html |
 
-\* = classée sur indice, sans effectif chiffré ni API. « ajout » = trouvée par le balayage profond du 11/10/2026.
+\* = classée sur indice, sans effectif chiffré ni API.
+† = ajoutée par le balayage profond du 11/10/2026.
 
-**Offres écartées (6, hors secteur C)**
+**Offres écartées (6, périmètre A/B)**
 - 78276774, Mercato de l'emploi (80) : doublon de 78276753 (même client, même intitulé).
-- 84245434, GR Intérim & Recrutement (75) : republiée le 09/10/2026 avec le même client et le même intitulé que 83865860, donc doublon (trouvée par le balayage).
-- 84229910, Alphea Conseil (26) : republiée le 08/10/2026 avec le même client et le même intitulé que 83608258, donc doublon (trouvée par le balayage).
-- 84098915, Ozaé (53) : « Responsable Marketing & Communication - Chef de Projet ». Intitulé hybride, écarté au titre de l'exclusion « chef de projet ».
+- 84245434, GR Intérim & Recrutement (75) : republication du 09/10/2026 du même poste pour le même client, doublon de 83865860.
+- 84229910, Alphea Conseil (26) : republication du 08/10/2026 pour le même client, doublon de 83608258.
+- 84098915, Ozaé (53) : « Responsable Marketing & Communication - Chef de Projet ». Intitulé hybride écarté au titre de l'exclusion « chef de projet ».
 - 81559214, Premi Homme (21) : directeur.
 - 83371415, Keltis (69) : intitulé « Référent », hors périmètre.
 
-**Ce que le balayage profond du 11/10/2026 a ajouté**
-- **Évolution des totaux depuis le 8/10 :**
-  - France CDI : 862 → 835 (baisse).
-  - France CDD : 125 → 131 (hausse), d'où la lecture du tri par date.
-  - 13 CDI : 34 → 33. PACA CDI : 56 → 55. 13 CDD : 0. PACA CDD : 1.
-- **Listes en tri par pertinence :**
-  - France CDI pages 5–6 : aucun intitulé conforme, donc arrêt.
-  - France CDD pages 3–5 (fin de liste) : un seul intitulé conforme, public, donc ignoré.
-- **Listes en tri par date :**
-  - France CDD pages 1–4 : arrêt après les pages 3 et 4, sans intitulé conforme.
-  - Par précaution, malgré la baisse des totaux : 13 CDI page 1 et PACA CDI page 1 (rien de nouveau), et France CDI pages 1–8.
-  - Pour France CDI, les nouveautés sont toutes dans les pages 1 à 4 ; les pages 5 à 8 n'ont fait réapparaître que des offres déjà retenues, donc arrêt.
-- **Résultat :** 3 nouvelles offres conformes (SkyVisor en A, Altarea en B, Impactup en indéterminée) et 2 republications écartées comme doublons. Aucune nouvelle offre dans le 13 ni en PACA.
-
 **Méthode et volume**
-- **Première passe (8/10) :** 16 pages de listes, 31 lectures d'offres, 18 requêtes API.
-- **Balayage profond (11/10) :** 22 pages de listes, 6 lectures d'offres supplémentaires (sur 100 autorisées), soit 37 au total. 16 requêtes API, dont 10 en échec temporaire (erreur 503) puis relancées.
-- **Garde-fous :** toutes les lectures sont faites avec WebFetch, au plus 5 en parallèle, sans téléchargement par script ni recopie intégrale des offres.
+- 38 pages de listes HelloWork lues : 16 le 8/10, 22 le 11/10.
+- 37 lectures de pages d'offres : 31, puis 6 lors du complément (plafond : 100).
+- 34 requêtes à l'API recherche-entreprises, dont 10 en échec temporaire (erreur 503) le 11/10, réussies ensuite.
+- Toutes les lectures sont faites avec WebFetch, au plus 5 en parallèle, sans aucun téléchargement par script.
 
 ---
 
@@ -3702,3 +3723,24 @@ La fiche ne contient que 13 missions, et je n'en ai ajouté aucune. Le minimum d
 | Secteur | Intitulé | Employeur | Dépt | Publication | Contrat | URL |
 |---|---|---|---|---|---|---|
 | C | Conseillère communication et responsable de la cellule H/F | SGAMI Sud, cabinet de la préfète de police déléguée (État) | 13 | Non affichée ; 2026 déduite (vacance 01/09/2026, date limite 31/12/2026) | Titulaire ou contractuel, catégorie A | https://choisirleservicepublic.gouv.fr/offre-emploi/MINT_BA013PNA-125001/ |
+
+#### Complément : les offres « conseiller communication » publiées en 2026 (données ouvertes)
+
+Les données ouvertes de Choisir le service public (section 0 ter) recensent 10 offres publiées pour la première fois entre le 1er janvier et le 13 septembre 2026. Le fichier ne contient pas le texte des missions, et ces offres sont aujourd'hui dépubliées, sauf celle du SGAMI Sud analysée ci-dessus.
+
+| Publication | Employeur | Lieu | Intitulé | Métier de référence | Catégorie |
+|---|---|---|---|---|---|
+| 27/03/2026 | État-major des armées | Paris (75) | Conseiller / chef cellule communication | Responsable de la communication | A |
+| 15/04/2026 | État-major des armées (poste au Service européen pour l'action extérieure) | Bruxelles (étranger) | Conseiller en stratégie de communication | Chargé de communication | A |
+| 20/04/2026 | Université de La Réunion | La Réunion (974) | Conseiller en communication institutionnelle, protocole et affaires stratégiques | Responsable éditorial | A |
+| 19/05/2026 | Ministère de l'Europe et des Affaires étrangères | Paris (75) | Conseiller communication stratégique, Afrique du Nord et Moyen-Orient | Conseiller politique en administration centrale | A |
+| 27/05/2026 | Agence pour l'enseignement français à l'étranger | Seine-Saint-Denis (93) | Conseiller communication et presse | Responsable de la communication | A |
+| 10/06/2026 | Métropole européenne de Lille | Nord (59) | Conseiller communication | Chargé de communication | A |
+| 13/06/2026 | Armée de l'air et de l'espace | Paris (75) | Conseiller de communication | Cadre dirigeant d'un service territorial | A |
+| 05/08/2026 | SGAMI Sud, cabinet de la préfète de police déléguée | Bouches-du-Rhône (13) | Conseillère communication et responsable de la cellule | Responsable de la communication | A |
+| 03/09/2026 | Commune de Saint-Maximin-la-Sainte-Baume | Var (83) | Conseiller en communication du maire | Responsable de la communication | A |
+| 10/09/2026 | Commune de Bram | Aude (11) | Conseiller en communication | Chargé de communication | B |
+
+**Lecture pour le CV (profil C1, forte responsabilité) :**
+- 9 offres sur 10 sont de catégorie A et 7 sur 10 relèvent de l'État (ministères, armées, préfecture) : c'est un poste de cadre, souvent en cabinet, au contact direct d'un exécutif (préfet, ministre, maire, président d'université).
+- Le métier de référence le plus fréquent est « Responsable de la communication ». Pour les compétences et les missions, s'appuyer d'abord sur 4-C (responsable communication, public, 50 offres) et 5-C (directeur communication, public, 21 offres), puis ajouter ce qui est propre au conseil : conseil à l'exécutif, communication de crise, éléments de langage, relations presse et veille médiatique, comme dans l'offre analysée ci-dessus.
