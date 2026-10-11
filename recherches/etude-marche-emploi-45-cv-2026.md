@@ -829,7 +829,7 @@ Secteur retiré de l'étude (intitulé marketing, pas de CV public prévu)
 
 ## 4. Responsable communication
 
-**Bilan :** A = 1 offre, B = 9, C = 50 (+ 7 « indéterminé » comptées à part) ; 13 = 1, reste PACA = 4, reste France = 55 (indéterminé : 13 = 0, reste PACA = 3, reste France = 4) ; écartées = 67.
+**Bilan :** A = 1 offre, B = 17, C = 50 (+ 7 « indéterminé » comptées à part) ; 13 = 1, reste PACA = 5, reste France = 62 (indéterminé : 13 = 0, reste PACA = 2, reste France = 5) ; écartées = 77.
 
 ### A. TPE / PME / start-up (moins de 50 salariés)
 
@@ -861,92 +861,103 @@ Secteur retiré de l'étude (intitulé marketing, pas de CV public prévu)
 | 1 | Rendre compte à la direction (reporting) | 1/1 | 100 % |
 
 **C. Transparence**
-- **N = 1** (CasaJob, Villerbon, 41, CDD). Répartition : 13 = 0, reste PACA = 0, reste France = 1. Les résultats ne sont pas significatifs.
+- **N = 1** (CasaJob, Villerbon, 41, CDD). Répartition : 13 = 0, reste PACA = 0, reste France = 1. Résultats non significatifs.
 - **Classement en A.** C'est un poste interne d'un groupe de travail temporaire (« remplacement sur notre poste »). L'API officielle place les entités CasaJob trouvées (BVAT 3, BVAT 7) en tranche 02 (3 à 5 salariés). L'entité juridique exacte qui recrute n'est pas identifiée.
-- **Pourquoi moins de 50, France entière.** Sur HelloWork (CDI, France), les intitulés conformes ne figurent qu'en pages 1 et 2 (environ 60 intitulés contenant « communic » sur 1 348 résultats). Les pages 3 et 4 n'en contiennent aucun, d'où l'arrêt. En CDD, seule la page 1 en contient. Le second mot-clé n'a apporté aucune offre privée nouvelle. La plupart des intitulés privés associent « marketing » : 30 offres ont été écartées pour ce motif.
-- **7 offres « indéterminé ».** Elles viennent de cabinets ou d'agences sans indice de taille du client et sont comptées à part. Trois sont en PACA : Le Pradet (83), Mougins (06) et Avignon (84). Certaines pourraient relever de A ou de B.
-- **Offre écartée.** Looking (Schiltigheim, 67, CDI) : la page indique « publiée par un centre de formation », ce qui relève de la règle « annonces publiées par des écoles ».
-- **Méthode (commune aux 3 secteurs).**
-  - Source : HelloWork uniquement, 28 pages de listes.
-  - 71 lectures de pages d'offres, dont 3 relectures de vérification. Lecture une par une, au plus 5 en parallèle, sans aucun téléchargement en masse.
-  - 5 lectures interrompues par le plafond d'usage le 08/10 ont été relancées le 09/10.
+- **Balayage profond.** Il n'a trouvé aucune nouvelle offre conforme émanant d'une structure identifiée de moins de 50 salariés.
+- **Pourquoi moins de 50, France entière.** Une fois écartés « marketing », « directeur » et « brand », HelloWork ne publie que très peu d'offres privées conformes. Leur taille est par ailleurs souvent impossible à établir (offres de cabinets).
+- **7 offres « indéterminé », comptées à part.** Ce sont des cabinets ou agences dont le client n'est jamais nommé.
+  - 2 en PACA : Manpower (Le Pradet, 83) et RH Performances (Avignon, 84).
+  - 5 hors PACA : LHH (974), LHH (31), Manpower (66), LIP Tertiaire (63) et Randstad professional (92, nouvelle).
+  - Les 7 pages initiales ont été relues pour chercher le nom du client : il n'apparaît nulle part, donc l'API ne peut pas servir. Certaines de ces offres pourraient relever de A.
+- **Offre écartée.** Looking (Schiltigheim, 67, CDI) : la page indique « publiée par un centre de formation ».
+- **Méthode (commune aux trois secteurs).**
+  - Source : HelloWork uniquement. 63 pages de listes lues (28 au premier passage, 35 au balayage profond).
+  - 88 lectures de pages d'offres (71 puis 17), dont 10 relectures de vérification. Lecture une par une avec WebFetch, au plus 5 en parallèle, sans aucun téléchargement en masse.
+  - Trois interruptions par le plafond d'usage ; les lectures concernées ont été relancées.
   - Effectifs vérifiés par requêtes unitaires à l'API recherche-entreprises.
-- **Période.** Toutes les offres retenues ont une date de publication vérifiée entre le 08/09/2026 et le 08/10/2026.
-- **Ce qui est compté comme compétence.** Les savoir-faire, outils et savoir-être explicitement demandés. Les diplômes et années d'expérience sont exclus.
-- **Regroupements.** Les formulations équivalentes sont fusionnées. Exemples : « PAO (Adobe, Canva) » regroupe InDesign, Photoshop, Illustrator, Canva et la chaîne graphique ; « Environnement public » regroupe la connaissance des collectivités et des institutions.
+- **Balayage profond (10 et 11/10).**
+  - Les listes de plus de 100 résultats ont été reprises au-delà de la page 4, jusqu'à 2 pages consécutives sans intitulé conforme : CDI France pages 5-6 ; CDD France pages 4-7 ; mot-clé « chef du service communication » CDI pages 3-8 et CDD page 3.
+  - Les listes triées par date ont aussi été lues (paramètre `st=date`, ordre chronologique constaté) : CDI et CDD France, CDI du second mot-clé, et page 1 des listes 13 et PACA.
+  - Évolution des totaux : CDI France 1 348 → 1 328 ; CDD France 229 → 235 ; CDI « chef du service communication » 508 → 497 ; PACA CDI 75 → 74 ; PACA CDD 7 → 6 ; 13 CDI 45 → 44 ; 13 CDD stable à 2.
+- **Période.** Toutes les offres retenues ont une date de publication vérifiée entre le 08/09/2026 et le 10/10/2026.
+- **Ce qui est compté comme compétence.** Les savoir-faire, outils et savoir-être explicitement demandés. Les diplômes et années d'expérience sont exclus. Les formulations équivalentes sont regroupées (par exemple, « PAO (Adobe, Canva) » couvre InDesign, Photoshop, Illustrator, Canva et la chaîne graphique).
 - **Limites.** L'extraction repose sur des résumés compacts produits par un modèle, avec un risque d'omission. Les missions ont été codées à la main.
-- **Détail des 67 offres écartées.**
-  - 35 pour un mot exclu dans l'intitulé : 30 « marketing », 4 « relations publiques » ou « presse », 1 « branding ».
-  - 27 variantes hors périmètre : 11 postes d'adjoint, 11 « chef du bureau / de la cellule / du pôle / de la communication », 5 autres.
+- **Détail des 77 offres écartées.**
+  - 39 pour un mot exclu dans l'intitulé : 34 « marketing » (dont 4 trouvées au balayage profond), 4 « relations publiques » ou « presse », 1 « branding ».
+  - 29 variantes hors périmètre : 12 postes d'adjoint ; 11 « chef du bureau / de la cellule / du pôle / de la communication » ; 6 autres (responsable de projets, d'unité numérique, webmestre, de boutique, correspondant régional, catégorie achats).
   - 1 publiée par un centre de formation.
-  - 1 doublon.
-  - 3 non lues car le plafond de 50 était atteint en C.
+  - 2 doublons.
+  - 6 relevant de C au-delà du plafond de 50 (3 au premier passage, 3 au balayage profond).
 
 ### B. Grande entreprise (50 salariés et plus)
 
-**A. Compétences** (N = 9, peu significatif)
+**A. Compétences** (5 compétences ex aequo au 8e rang)
 
 | Rang | Compétence | Offres | % |
 |---|---|---|---|
-| 1 | Rédaction | 6/9 | 67 % |
-| 2 | Autonomie | 5/9 | 56 % |
-| 2 | Gestion de projet | 5/9 | 56 % |
-| 4 | Force de proposition | 4/9 | 44 % |
-| 4 | Anglais | 4/9 | 44 % |
-| 4 | Organisation | 4/9 | 44 % |
-| 4 | Relationnel | 4/9 | 44 % |
-| 8 | Connaissance secteur | 3/9 | 33 % |
-| 8 | PAO (Adobe, Canva) | 3/9 | 33 % |
+| 1 | Rédaction | 9/17 | 53 % |
+| 1 | Gestion de projet | 9/17 | 53 % |
+| 3 | Autonomie | 8/17 | 47 % |
+| 4 | Anglais | 7/17 | 41 % |
+| 4 | PAO (Adobe, Canva) | 7/17 | 41 % |
+| 4 | Relationnel | 7/17 | 41 % |
+| 7 | Organisation | 6/17 | 35 % |
+| 8 | Connaissance secteur | 5/17 | 29 % |
+| 8 | Com digitale | 5/17 | 29 % |
+| 8 | Rigueur | 5/17 | 29 % |
+| 8 | Force de proposition | 5/17 | 29 % |
+| 8 | Management d'équipe | 5/17 | 29 % |
 
-**B. Missions** (N = 9, peu significatif)
+**B. Missions**
 
 | Rang | Mission | Offres | % |
 |---|---|---|---|
-| 1 | Définir et piloter la stratégie et le plan de communication | 7/9 | 78 % |
-| 2 | Piloter la communication interne | 6/9 | 67 % |
-| 3 | Animer les réseaux sociaux | 5/9 | 56 % |
-| 3 | Organiser les événements et visites de sites | 5/9 | 56 % |
-| 3 | Gérer les relations presse et médias | 5/9 | 56 % |
-| 6 | Conseiller la direction et les filiales | 4/9 | 44 % |
-| 6 | Concevoir les supports de communication | 4/9 | 44 % |
-| 6 | Piloter agences et prestataires | 4/9 | 44 % |
-| 6 | Évaluer les actions et suivre les indicateurs | 4/9 | 44 % |
-| 10 | Concevoir et piloter les campagnes de communication | 3/9 | 33 % |
-| 10 | Rédiger et produire les contenus (texte, photo, vidéo) | 3/9 | 33 % |
-| 12 | Encadrer l'équipe communication | 2/9 | 22 % |
-| 12 | Promouvoir les actions, offres et lancements | 2/9 | 22 % |
-| 12 | Gérer la communication de crise et sensible | 2/9 | 22 % |
-| 12 | Garantir la cohérence de l'image et de la charte graphique | 2/9 | 22 % |
-| 12 | Piloter la communication corporate (dont acquisitions) | 2/9 | 22 % |
-| 12 | Appuyer les équipes commerciales (supports, appels d'offres) | 2/9 | 22 % |
-| 12 | Développer les partenariats (médias, locaux, mécénat) | 2/9 | 22 % |
-| 12 | Accompagner le changement et la transformation | 2/9 | 22 % |
-| 12 | Élaborer et suivre le budget communication | 2/9 | 22 % |
-| 12 | Administrer le site internet et les outils digitaux | 2/9 | 22 % |
+| 1 | Définir et piloter la stratégie et le plan de communication | 14/17 | 82 % |
+| 2 | Organiser les événements et visites de sites | 10/17 | 59 % |
+| 3 | Animer les réseaux sociaux | 9/17 | 53 % |
+| 4 | Rédiger et produire les contenus (texte, photo, vidéo) | 8/17 | 47 % |
+| 4 | Concevoir les supports de communication | 8/17 | 47 % |
+| 4 | Évaluer les actions et suivre les indicateurs | 8/17 | 47 % |
+| 7 | Conseiller la direction et les filiales | 7/17 | 41 % |
+| 7 | Piloter la communication interne | 7/17 | 41 % |
+| 7 | Piloter agences et prestataires | 7/17 | 41 % |
+| 10 | Encadrer l'équipe communication | 6/17 | 35 % |
+| 10 | Garantir la cohérence de l'image et de la charte graphique | 6/17 | 35 % |
+| 10 | Gérer les relations presse et médias | 6/17 | 35 % |
+| 13 | Concevoir et piloter les campagnes de communication | 5/17 | 29 % |
+| 14 | Élaborer et suivre le budget communication | 4/17 | 24 % |
+| 15 | Promouvoir les actions, offres et lancements | 3/17 | 18 % |
+| 15 | Administrer le site internet et les outils digitaux | 3/17 | 18 % |
 
 **C. Transparence**
-- **N = 9**, tous en CDI, publiés entre le 09/09 et le 02/10/2026. Répartition : 13 = 1 (Kem One, Lavéra), reste PACA = 0, reste France = 8. Les résultats sont peu significatifs.
+- **N = 17** (16 CDI, 1 CDD), publiés entre le 09/09 et le 10/10/2026. Répartition : 13 = 1 (Kem One, Lavéra), reste PACA = 1 (Mougins, 06), reste France = 15. L'échantillon reste restreint.
+- **Apport du balayage profond : 8 offres (N passe de 9 à 17).**
+  - 4 offres anciennes, dispersées au-delà de la page 4 des listes par pertinence (pages 5 et 6 du mot-clé « chef du service communication ») : Ingredia (62), Garance (75), IKEA Ardon (45), Mars (30).
+  - 3 offres publiées après le premier passage, repérées dans les listes triées par date : Biogaran (92, 09/10), SUEZ (92, CDD, 09/10), Groupe Chavigny (37, 10/10).
+  - 1 reclassement : l'offre d'Advance Solutions (Mougins, 06) passe d'« indéterminé » à B. Relue, la page décrit le client comme un groupe international avec plusieurs filiales, pays et sites (pharma, biotech, chimie). Le client n'est pas nommé : c'est un classement sur indice, sans API.
 - **Comment la taille a été établie.**
-  - Effectif indiqué dans l'offre : Kem One (environ 350 salariés sur le site), Léon Vincent (1 200 à 1 400), Veolia (groupe de 220 000).
-  - API officielle : Groupama Paris Val de Loire (tranche 42), Dalkia (53), Gerflor (41), XPO Logistics (filiales en tranches 31 et 32).
-  - Notoriété : IONIS Education Group (aucune entité de ce nom dans l'API) et FORVIA. Pour FORVIA, l'API ne renvoie que la holding de Nanterre (tranche 11), alors que le groupe compte bien plus de 50 salariés.
+  - Effectif indiqué dans l'offre : Kem One (environ 350 salariés sur le site), Léon Vincent (1 200 à 1 400), Veolia (groupe de 220 000), Ingredia (480), Mars (campus de plus de 800).
+  - API officielle : Groupama Paris Val de Loire (tranche 42), Dalkia (53), Gerflor (41), XPO (filiales en tranches 31 et 32), Biogaran (32), SUEZ (41), Garance (32), IKEA (53). Pour Chavigny, l'API donne des entités du groupe en tranches 32, 21 et 12 ; l'entité qui recrute n'est pas identifiée.
+  - Notoriété : IONIS Education Group (aucune entité de ce nom dans l'API) et FORVIA. Pour FORVIA, l'API ne renvoie que la holding (tranche 11), alors que le groupe compte bien plus de 50 salariés.
 - **Intitulés signalés.**
-  - Kem One « RH & Communication » : intitulé mixte, retenu comme demandé. Sa seule mission de communication est la communication interne ; ses missions RH sont exclues du classement.
+  - Kem One « RH & communication » : intitulé mixte, retenu comme demandé.
   - Groupama : variante « Responsable pôle communication ».
-  - IONIS : groupe d'enseignement privé qui recrute pour lui-même, sans mention « publiée par une école ». À retirer si la règle doit viser tout employeur scolaire.
-- **Doublon.** Gerflor publie le même intitulé à Tarare (69) et à Saint-Paul-Trois-Châteaux (26) ; il est compté une fois.
-- **21 missions affichées** au lieu de 20, car 10 missions sont ex aequo à 2/9.
-- **Pourquoi moins de 50.** Même raison que pour A : une fois exclus « marketing », « directeur » et « brand », les offres privées conformes sont très rares sur HelloWork.
+  - IONIS : groupe d'enseignement privé recrutant pour lui-même.
+  - Garance « communication de marque » : proche de l'exclusion « brand ». Retenu parce que le mot « brand » n'y figure pas ; à retirer si l'exclusion vaut aussi pour « marque ».
+  - IKEA « Responsable de département communication & aménagement intérieur » : intitulé mixte, missions surtout managériales et commerciales.
+- **Missions exclues du classement.** Les missions hors communication de 3 offres ne sont pas classées (N inchangé) : RH chez Kem One, aménagement chez Advance Solutions, commerce chez IKEA. Dix missions citées 2 fois sur 17 ne sont pas affichées.
+- **Doublon.** Gerflor publie le même intitulé à Tarare (69) et à Saint-Paul-Trois-Châteaux (26, republiée le 11/10) ; il est compté une fois.
+- **Pourquoi moins de 50.** La plupart des intitulés privés associent « marketing ». Plusieurs offres de cabinets restent « indéterminé » faute de client nommé.
 - **Offres privées écartées.**
-  - Intitulés avec « marketing », dont EDL (Berre-l'Étang, 13), Proman (Manosque, 04) et Michael Page (Fréjus, 83).
+  - 34 intitulés avec « marketing », dont EDL (13), Proman (04), Michael Page (Fréjus, 83), et, au balayage profond, Impactup, Altarea, SkyVisor et Les Nouvelles Recrues.
   - « Head of Communication and Marketing » et « Communication & Branding Manager ».
   - « Responsable de la communication et des relations publiques ».
-  - Matmut « Responsable de projets communication interne » : poste de chef de projet.
-  - « Director People & Communications » (Kone) : hors périmètre.
+  - Matmut (responsable de projets communication interne) et Thales (responsable catégorie achats prestations communication).
+  - Hors périmètre : « Director of Communications » (Comexposium), « Dir. Assoc. Communications Mondiales », « Director People & Communications » (Kone).
 
 ### C. Secteur public / institutionnel
 
-**A. Compétences**
+**A. Compétences** (inchangé)
 
 | Rang | Compétence | Offres | % |
 |---|---|---|---|
@@ -959,7 +970,7 @@ Secteur retiré de l'étude (intitulé marketing, pas de CV public prévu)
 | 6 | Gestion de projet | 19/50 | 38 % |
 | 8 | Relationnel | 18/50 | 36 % |
 
-**B. Missions**
+**B. Missions** (inchangé)
 
 | Rang | Mission | Offres | % |
 |---|---|---|---|
@@ -991,20 +1002,25 @@ Secteur retiré de l'étude (intitulé marketing, pas de CV public prévu)
   - Reste France = 46, dont 2 offres en outre-mer (971 et 988).
 - **Employeurs.** 23 communes, 14 EPCI ou syndicats, 1 département, 1 SDIS, 7 services ou juridictions de l'État, 3 établissements publics (hôpital, école, université) et 1 association (Médecins du Monde).
 - **Contrats.** 47 fonctionnaires, dont 2 postes ouverts aussi aux contractuels, et 3 CDD.
-- **Ordre de sélection.** D'abord les listes « Fonctionnaire » France (pages 1 à 3) dans l'ordre d'affichage, puis 3 CDD issus du mot-clé « chef du service communication ». Arrêt à 50. Trois intitulés mixtes de la page 4 n'ont pas été lus : Colmar, IDIV Yvelines et IPFIP Nord.
+- **Ordre de sélection.** D'abord les listes « Fonctionnaire » France (pages 1 à 3) dans l'ordre d'affichage, puis 3 CDD issus du mot-clé « chef du service communication ». Arrêt à 50. Trois intitulés mixtes de la page 4 n'ont pas été lus : Colmar, IDIV Yvelines, IPFIP Nord.
 - **Intitulés retenus mais signalés.**
   - 16 intitulés mixtes : communication associée à l'événementiel, au secrétariat, aux RH, à la culture, au tourisme, au numérique, à la documentation ou aux relations étudiants.
-  - 4 variantes « pôle / unité / service information et communication » : Cany-Barville, Montpellier, Nouméa, Ivry.
-  - 2 intitulés tronqués sur HelloWork (« … ou un Responsable de la communication … ») : CRC Centre-Val de Loire et Cour des comptes.
+  - 4 variantes « pôle / unité / service information et communication ».
+  - 2 intitulés tronqués sur HelloWork : CRC Centre-Val de Loire et Cour des comptes.
 - **Données incomplètes.** Ces offres restent comptées dans N, ce qui peut minorer les pourcentages.
   - Missions non détaillées (SDIS 57), tronquées (Surgères) ou limitées à du secrétariat (Apt).
   - Aucune compétence explicite : DRCPN Mission Sport, CC Terre des Deux Caps, Médecins du Monde.
-- **Missions exclues du classement.** Les missions hors communication de 11 postes mixtes. Trois missions ex aequo à 7/50 ne sont pas affichées : cohérence de l'image et de la charte, projets transversaux, diffusion de l'information aux publics.
+- **Missions exclues du classement.** Les missions hors communication de 11 postes mixtes. Trois missions ex aequo à 7/50 ne sont pas affichées : cohérence de l'image et de la charte, projets transversaux, diffusion de l'information.
+- **Balayage profond (réservé à A et B ; C inchangé).** Trois nouvelles offres conformes relevant de C ont été repérées mais pas intégrées :
+  - Département des Alpes-Maritimes, « Responsable de la communication digitale » (Nice, 06, CDI). Située en PACA, elle passerait en priorité si C était rouvert.
+  - Client « organisation professionnelle » de Michael Page, « Responsable communication organisation professionnelle » (Paris, CDI).
+  - Palais de Tokyo, « Responsable innovation et communication numérique » (Paris, CDD de 3 mois). Classé C par notoriété : la page ne précise pas sa nature juridique.
+  - Doublon : l'offre Université Jean-Monnet (84223685) est déjà retenue sous le numéro 84187141.
 - **Offres publiques écartées.**
-  - 11 postes d'adjoint, par exemple l'adjoint au chef du bureau de la représentation de l'État et de la communication interministérielle (Avignon, 84) ou le responsable adjoint du pôle prévention-communication (Digne, 04).
-  - 11 variantes « chef du bureau / de la cellule / du pôle / de la communication » non prévues au périmètre (préfectures, police, DGDDI, département du Pas-de-Calais).
+  - 12 postes d'adjoint, par exemple à Avignon (84) et à Digne (04).
+  - 11 variantes « chef du bureau / de la cellule / du pôle / de la communication » (préfectures, police, DGDDI, département du Pas-de-Calais).
   - 3 intitulés avec « relations publiques » ou « presse ».
-  - Hors périmètre et non comptés : les nombreux « Directeur(trice) de la communication » et les intitulés techniques homonymes (systèmes d'information et de communication, communication des archives).
+  - Hors périmètre et non comptés : les « Directeur(trice) de la communication » et les intitulés techniques homonymes.
 
 #### Annexe : offres analysées
 
@@ -1012,6 +1028,7 @@ Secteur retiré de l'étude (intitulé marketing, pas de CV public prévu)
 |---|---|---|---|---|---|---|
 | A | Responsable Communication | CasaJob (groupe de travail temporaire, poste interne) | 41 | 11/09/2026 | CDD | https://www.hellowork.com/fr-fr/emplois/83308572.html |
 | B | Responsable Ressources Humaines & Communication | Kem One | 13 | 29/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83905893.html |
+| B | Responsable Communication & Design | Client d'Advance Solutions : groupe international multi-filiales (pharma, biotech, chimie) | 06 | 15/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83378798.html |
 | B | Responsable Communication | IONIS Education Group | 75 | 25/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/78381654.html |
 | B | Responsable Communication | Léon Vincent | 33 | 15/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83390991.html |
 | B | Responsable Communication | Veolia Recyclage et Valorisation des Déchets | 76 | 12/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/80105379.html |
@@ -1020,6 +1037,13 @@ Secteur retiré de l'étude (intitulé marketing, pas de CV public prévu)
 | B | Responsable Senior de la Communication Digitale Europe | XPO Logistics | 69 | 14/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83340479.html |
 | B | Group Corporate Communications Manager | Gerflor | 69 | 12/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/78950337.html |
 | B | Europe Regional and Corporate Communications Manager | FORVIA | 92 | 17/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83493214.html |
+| B | Responsable Communication Interne | Biogaran | 92 | 09/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84266580.html |
+| B | Responsable Communication Externe en CDD | SUEZ | 92 | 09/10/2026 | CDD | https://www.hellowork.com/fr-fr/emplois/82106890.html |
+| B | Responsable Communication Groupe | Groupe Chavigny | 37 | 10/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83213412.html |
+| B | Responsable Communication Produits | Ingredia | 62 | 18/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83517644.html |
+| B | Responsable de Pôle Communication de Marque et Contenus | Garance (groupe mutualiste) | 75 | 25/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83755372.html |
+| B | Responsable de Département Communication & Aménagement Intérieur | IKEA (magasin d'Ardon) | 45 | 28/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/82812043.html |
+| B | Global Senior Scientific Communications Manager - Functional Complements | Mars (Royal Canin) | 30 | 01/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/77057839.html |
 | C | Responsable Communication | Commune de Cogolin | 83 | 25/09/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/79350328.html |
 | C | Assistant de Direction et Responsable Communication | Centre hospitalier du Pays d'Apt | 84 | 24/09/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/81674075.html |
 | C | Chef du Service Communication | Ville d'Hyères | 83 | 02/10/2026 | Fonctionnaire | https://www.hellowork.com/fr-fr/emplois/83991267.html |
@@ -1071,12 +1095,12 @@ Secteur retiré de l'étude (intitulé marketing, pas de CV public prévu)
 | C | Responsable Communication Évènementiel Réseaux et Relations Étudiants | Faculté de droit de Saint-Étienne (université) | 42 | 07/10/2026 | CDD | https://www.hellowork.com/fr-fr/emplois/84187141.html |
 | C | Responsable de la Communication Interne | Médecins du Monde (association) | 93 | 07/10/2026 | CDD | https://www.hellowork.com/fr-fr/emplois/84166612.html |
 | Indét. | Responsable Communication | Manpower France (client : établissement du secteur du prestige) | 83 | 01/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83988039.html |
-| Indét. | Responsable Communication & Design | Advance Solutions (client : « groupe à rayonnement international ») | 06 | 15/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83378798.html |
 | Indét. | Responsable Service Télévente, Communication Externe et Digitalisation des Commandes (intitulé mixte) | RH Performances (client : entreprise familiale de charcuterie) | 84 | 28/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/82782937.html |
 | Indét. | Responsable Communication | LHH Recruitment Solutions (client : « acteur reconnu à La Réunion ») | 974 | 03/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/80949635.html |
 | Indét. | Responsable Communication | LHH Recruitment Solutions (client non nommé, ESR probable) | 31 | 18/09/2026 | CDI (en-tête) / CDD de remplacement (texte) | https://www.hellowork.com/fr-fr/emplois/82431289.html |
 | Indét. | Responsable Communication | Manpower France (client non décrit) | 66 | 08/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83154792.html |
 | Indét. | Responsable Communication | LIP Tertiaire (client : « acteur majeur du secteur aéroportuaire » ; mission d'intérim ou CDD direct non précisé) | 63 | 07/10/2026 | CDD 7 mois | https://www.hellowork.com/fr-fr/emplois/84189203.html |
+| Indét. | Responsable Communication | Randstad professional (client : entreprise du bâtiment, Hauts-de-Seine) | 92 | 11/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83269188.html |
 
 ---
 
@@ -3567,3 +3591,106 @@ Secteur retiré de l'étude (intitulé marketing, pas de CV public prévu).
 | Indét. (hors analyse) | Brand Content & Editorial Manager - Luxe | Altaide | 75 | 04/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/81991857.html |
 | Indét. (hors analyse) | Chef de Produit & Brand Manager Workwear | Approach People Recruitment | 75 | 23/09/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/83692579.html |
 | Indét. (hors analyse) | Responsable Création & Brand Content | SAYCO | 59 | 07/10/2026 | CDI | https://www.hellowork.com/fr-fr/emplois/84188256.html |
+
+---
+
+## 16. Conseiller communication
+
+**Bilan :** A et B hors étude ; C = 1 offre ; 13 = 1, reste PACA = 0, reste France = 0 ; écartées = 22
+
+### A. TPE / PME / start-up (moins de 50 salariés)
+Secteur hors étude (intitulé réservé au secteur public).
+
+### B. Grande entreprise (50 salariés et plus)
+Secteur hors étude (intitulé réservé au secteur public).
+
+### C. Secteur public / institutionnel
+
+**A. Compétences**
+
+N = 1, donc résultats peu significatifs : toutes les compétences viennent d'une seule fiche et sont ex aequo à 100 %. Les compétences notées « requises » sur la fiche sont placées en tête.
+
+| Rang | Compétence | Offres | % |
+|---|---|---|---|
+| 1 | Rédaction | 1/1 | 100 % |
+| 2 | Expression orale | 1/1 | 100 % |
+| 3 | Bureautique | 1/1 | 100 % |
+| 4 | Relations humaines | 1/1 | 100 % |
+| 5 | Adaptabilité | 1/1 | 100 % |
+| 6 | Culture médias | 1/1 | 100 % |
+| 7 | Communication crise | 1/1 | 100 % |
+| 8 | Management d'équipe | 1/1 | 100 % |
+
+La même fiche demande aussi (1/1 chacune) : gestion de projet, connaissance de l'environnement institutionnel, rigueur, forte disponibilité (astreintes de nuit et de week-end).
+
+**B. Missions**
+
+La fiche ne contient que 13 missions, et je n'en ai ajouté aucune. Le minimum de 15 n'est donc pas atteint.
+
+| Rang | Mission | Offres | % |
+|---|---|---|---|
+| 1 | Définir et déployer la stratégie de communication de l'autorité préfectorale | 1/1 | 100 % |
+| 2 | Coordonner la communication des services rattachés | 1/1 | 100 % |
+| 3 | Gérer les relations presse | 1/1 | 100 % |
+| 4 | Organiser conférences de presse et opérations médiatiques | 1/1 | 100 % |
+| 5 | Animer les réseaux sociaux institutionnels | 1/1 | 100 % |
+| 6 | Piloter la communication de crise | 1/1 | 100 % |
+| 7 | Assurer une veille médiatique permanente | 1/1 | 100 % |
+| 8 | Rédiger éléments de langage et interventions | 1/1 | 100 % |
+| 9 | Proposer et conduire des projets de communication externe | 1/1 | 100 % |
+| 10 | Animer un réseau de chargés de communication (forces de sécurité intérieure) | 1/1 | 100 % |
+| 11 | Assurer l'interface avec les partenaires et l'administration centrale | 1/1 | 100 % |
+| 12 | Encadrer une cellule communication (2 agents, 1 alternant) | 1/1 | 100 % |
+| 13 | Organiser les astreintes de la cellule | 1/1 | 100 % |
+
+**C. Transparence**
+- **N = 1 offre analysée**, sur Choisir le service public (CSP). HelloWork : 0 intitulé conforme. Avec une seule fiche, ces tableaux ne sont pas significatifs et ne suffisent pas, seuls, à fonder un CV générique.
+- **Répartition** : 13 = 1 ; reste PACA = 0 ; reste France = 0.
+- **Employeur** : État (fonction publique d'État), SGAMI Sud, cabinet de la préfète de police déléguée, à Marseille.
+- **Niveau du poste** : catégorie A avec encadrement. Métier de référence sur la fiche : « Responsable de la communication ». Le poste est placé sous la cheffe du bureau du cabinet et son adjoint, avec des liens directs avec la préfète de police déléguée et la directrice de cabinet. Astreintes toutes les 3 à 4 semaines.
+- **Date de publication** : la fiche ne l'affiche pas. Elle indique seulement une vacance au 01/09/2026 et une date limite au 31/12/2026. L'année 2026 est donc déduite, pas lue sur la page.
+- **22 offres écartées** :
+  - **10 dépubliées** au moment de la lecture (la page affiche « offre dépubliée », sans contenu) ; je les ai repérées par moteur de recherche. Au moins 5 datent de 2026 d'après leur référence ou l'extrait du moteur. Trois intitulés sont limites (DREIC, DGEF, CD93).
+    - AEFE, 93 : [2026-2290552](https://choisirleservicepublic.gouv.fr/offre-emploi/conseiller-ou-conseillere-communication-et-presse-fh-reference-2026-2290552/)
+    - Université de La Réunion, 974 : [2026-2258470](https://choisirleservicepublic.gouv.fr/offre-emploi/conseillerere-en-communication-institutionnelle-protocole-et-affaires-strategiques-reference-2026-2258470/)
+    - Armées, 75 : [DEF_19-00063679](https://choisirleservicepublic.gouv.fr/offre-emploi/conseillerchef-cellule-communication-reference-DEF_19-00063679/)
+    - Service d'infrastructure de la défense (SID) Atlantique, 29 : [DEF_27-00059172](https://choisirleservicepublic.gouv.fr/offre-emploi/conseiller-communication-reference-DEF_27-00059172/)
+    - CESA, Armée de l'air et de l'espace, 75 : [DEF_03-00067014](https://choisirleservicepublic.gouv.fr/offre-emploi/conseiller-de-communication-reference-DEF_03-00067014/)
+    - Conseil départemental de Seine-Saint-Denis, conseiller technique au cabinet du président, 93 : [O093260401001243](https://choisirleservicepublic.gouv.fr/offre-emploi/un-conseiller-technique-au-cabinet-du-president-du-departement-de-la-seine-saint-denis--hf-reference-O093260401001243/)
+    - Ministère de l'Europe et des Affaires étrangères (MEAE), stratégies narratives, 75 : [MAE_0cf1b098](https://choisirleservicepublic.gouv.fr/offre-emploi/conseiller-communication-strategique---charge-des-strategies-narratives-fh-reference-MAE_0cf1b098-b69c-457c-b23a-cbc0c19af23f/)
+    - MEAE, communication stratégique Afrique, 75 : [MAE_57a6c773](https://choisirleservicepublic.gouv.fr/offre-emploi/MAE_57a6c773-8a4f-4eb3-8549-7ca812c18e8c/)
+    - DREIC, 75 : [2026-2293709](https://choisirleservicepublic.gouv.fr/offre-emploi/conseiller-aupres-de-la-deleguee-en-charge-de-l-animation-des-reseaux-et-de-la-communication-hf-dreic-reference-2026-2293709/)
+    - DGEF, 75 : [MINT_BA075ACA-114161](https://choisirleservicepublic.gouv.fr/offre-emploi/dgef---conseiller-initiative-marianne-et-strategie-de-communication--reference-MINT_BA075ACA-114161/)
+  - **8 publiées avant 2026** (de 2023 à 2025), d'après la date limite ou la référence visibles dans l'extrait du moteur. Pages non lues.
+    - MEAE, conseiller communication stratégique, date limite 08/12/2025 : [MAE_2623b052](https://choisirleservicepublic.gouv.fr/offre-emploi/conseiller-communication-strategique-fh-reference-MAE_2623b052-ab30-4d79-bb8f-e4f25228b0d3/)
+    - AEFE : [2025-1806550](https://choisirleservicepublic.gouv.fr/offre-emploi/conseiller--conseillere-presse-et-communication-reference-2025-1806550/)
+    - DILCRAH : [2025-1818280](https://choisirleservicepublic.gouv.fr/offre-emploi/conseiller--conseillere-communication-et-relations-presse-hf-reference-2025-1818280/)
+    - Représentation permanente de la France au Conseil de l'Europe : [MAE_4ef17494](https://choisirleservicepublic.gouv.fr/offre-emploi/conseiller-politique-presse-et-communication-fh--reference-MAE_4ef17494-4de7-46a0-8633-7b7b1f8258a3/)
+    - Cabinet de la Direction générale des entreprises (DGE) : [MEF_2025-25339](https://choisirleservicepublic.gouv.fr/offre-emploi/conseiller-communication-et-parlementaire---cabinet-du-directeur-general-des-entreprises---dg-o-32-hf-reference-MEF_2025-25339/)
+    - Communauté d'agglomération de Lens-Liévin : [O062251008000905](https://choisirleservicepublic.gouv.fr/offre-emploi/conseiller-technique-en-communication---communaute-d-agglomeration-de-lens---lievin-reference-O062251008000905/)
+    - Annecy, cabinet du maire : [O074240701382758](https://choisirleservicepublic.gouv.fr/offre-emploi/conseiller-communication-et-presse-cabinet-du-maire-hf---mairie-d-annecy-commune-nouvelle-reference-O074240701382758/)
+    - Préfecture de police des Bouches-du-Rhône (13), 2023 : [MINT_BA013PNA-68793](https://choisirleservicepublic.gouv.fr/offre-emploi/conseiller-communication-et-statistiques-hf-reference-MINT_BA013PNA-68793/)
+  - **1 hors France** : conseiller en stratégie de communication au service européen pour l'action extérieure (SEAE StratCom), poste à Bruxelles : [DEF_19-00064639](https://choisirleservicepublic.gouv.fr/offre-emploi/conseiller-en-strategie-de-communication--seae-stratcom-europe-de-lest-et-asie-centrale-reference-DEF_19-00064639/)
+  - **3 intitulés hors périmètre** :
+    - Conseiller en séjour, chargé de communication, Intercom Bernay (27). Présente sur HelloWork et CSP, comptée une seule fois : [83550822](https://www.hellowork.com/fr-fr/emplois/83550822.html)
+    - Conseiller en séjour / référent communication digitale, Aups (83) : [O083260223000995](https://choisirleservicepublic.gouv.fr/offre-emploi/conseillerere-en-sejour--referente-communication-digitale-reference-O083260223000995/)
+    - Conseiller relations institutionnelles et internationales, Direction interministérielle de la transformation publique (DITP), 75 : [83880517](https://www.hellowork.com/fr-fr/emplois/83880517.html)
+  - Les autres résultats HelloWork (conseiller beauté, clientèle, commercial, numérique, etc.) ne sont pas conformes à l'intitulé et ne sont pas comptés.
+- **Méthode HelloWork** : 20 pages de liste lues (13, PACA et France, en Fonctionnaire, CDD et CDI).
+  - CDD France : 6 pages sur 6.
+  - CDI France : pages 1 à 6 sur 8. Arrêt après les pages 5 et 6, sans intitulé conforme.
+  - Une variante « conseiller en communication » a aussi été testée.
+- **Méthode CSP** :
+  - La recherche par mots-clés du site est illisible avec WebFetch : la page est tronquée dans le panneau de filtres, avant la liste des offres. Testé avec mots-clés, domaine et organisme.
+  - J'ai donc repéré les offres par une soixantaine de requêtes de moteur de recherche et par les blocs « offres recommandées ».
+  - 15 lectures de pages d'offres sur les 100 autorisées.
+- **Limites** :
+  - CSP retire les offres closes ou pourvues, et l'archive web n'est pas accessible. La plupart des offres 2026 ne sont donc plus lisibles.
+  - L'index du moteur de recherche est partiel.
+  - Le jeu open data de la DGAFP sur data.gouv.fr recense toutes les offres CSP (CSV hebdomadaire d'environ 120 Mo, Licence Ouverte). Je ne l'ai pas exploité : il faut le télécharger en masse par script, ce que les garde-fous excluent, et son API tabulaire répond HTTP 410. C'est la piste pour obtenir un vrai échantillon 2026, si la commanditaire l'autorise.
+
+#### Annexe : offres analysées
+
+| Secteur | Intitulé | Employeur | Dépt | Publication | Contrat | URL |
+|---|---|---|---|---|---|---|
+| C | Conseillère communication et responsable de la cellule H/F | SGAMI Sud, cabinet de la préfète de police déléguée (État) | 13 | Non affichée ; 2026 déduite (vacance 01/09/2026, date limite 31/12/2026) | Titulaire ou contractuel, catégorie A | https://choisirleservicepublic.gouv.fr/offre-emploi/MINT_BA013PNA-125001/ |
