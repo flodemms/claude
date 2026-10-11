@@ -1,6 +1,6 @@
 # Étude du marché de l'emploi 2026 : 16 intitulés, 38 CV génériques (secteurs A, B, C)
 
-**Statut :** en cours. Les classements (sections 0 et 0 bis) sont terminés ; les sections 1 à 16 sont ajoutées au fil des vagues d'analyse.
+**Statut :** terminé le 11 octobre 2026. Classements et comptages : sections 0, 0 bis et 0 ter. Compétences et missions par intitulé et par secteur : sections 1 à 16, reprises CV par CV dans la [synthèse](synthese-38-cv-missions-competences.md).
 
 **Périmètre (mise à jour du 10 octobre 2026) :**
 - Le secteur C est retiré pour les intitulés liés au marketing ou au commercial (2, 3, 6, 7, 8, 9, 10, 15) : aucun CV public n'est prévu pour eux.
@@ -21,11 +21,11 @@
 
   Pour une offre de cabinet de recrutement, le classement se fait selon le client décrit. Si l'effectif reste inconnu, l'offre est comptée à part comme « indéterminée ».
 - **Géographie :** d'abord les Bouches-du-Rhône (13), puis le reste de PACA, puis le reste de la France, dans la limite de 50 offres par combinaison. La proportion 13 / PACA / France est indiquée pour chaque combinaison.
-- **Sources lues :** HelloWork (pages d'offres lisibles). France Travail sert au comptage (ses pages d'offres ne sont pas lisibles par l'outil). Recoupement prévu avec les fiches ROME, les référentiels APEC et des études de cabinets (section finale).
+- **Sources lues :** HelloWork (pages d'offres lisibles) et, pour l'intitulé 16, Choisir le service public. France Travail sert au comptage (ses pages d'offres ne sont pas lisibles par l'outil), comme les données ouvertes de Choisir le service public pour les postes publics de 2026 (section 0 ter). L'étude ne comporte pas de recoupement avec les référentiels métiers (ROME, APEC) ni avec des études de cabinets.
 - **Plateformes inaccessibles :** APEC, Indeed, LinkedIn, Welcome to the Jungle.
 - **Rigueur :** quand une combinaison n'atteint pas 50 offres, l'effectif réel est indiqué tel quel, sans extrapolation.
-- **Période réellement couverte :** les plateformes n'affichent que les offres encore en ligne. Les échantillons regroupent donc des offres publiées en 2026 et encore en ligne début octobre 2026, la plupart publiées entre mi-septembre et début octobre. Les offres expirées plus tôt dans l'année ne sont plus consultables.
-- **Note de conformité :** l'article 8.2 des CGU de HelloWork interdit l'extraction automatisée de données du site sans licence écrite. La poursuite de l'étude avec cette source relève d'un choix explicite de la commanditaire, qui en assume la responsabilité. Les offres sont lues une par une, à rythme modéré ; le dépôt ne reproduit pas leur texte intégral, seulement l'analyse et les liens.
+- **Période réellement couverte :** les plateformes n'affichent que les offres encore en ligne. Les échantillons regroupent donc des offres publiées en 2026 et encore en ligne début octobre 2026, la plupart publiées entre mi-septembre et début octobre. Les offres expirées plus tôt dans l'année ne sont plus consultables. Seule exception : la section 0 ter compte toutes les offres publiques publiées du 1er janvier au 13 septembre 2026, expirées comprises.
+- **Note de conformité :** l'article 8.2 des CGU de HelloWork interdit l'extraction automatisée de données du site sans licence écrite. La poursuite de l'étude avec cette source relève d'un choix explicite de la commanditaire, qui en assume la responsabilité. Les offres sont lues une par une, à rythme modéré ; le dépôt ne reproduit pas leur texte intégral, seulement l'analyse et les liens. Exception signalée : lors du premier passage (8 octobre), les analyses des intitulés 2 et 5 ont téléchargé par script une partie des pages d'offres ; c'est indiqué dans leurs sections, et leurs compléments ont été lus page par page.
 
 ## 0. Classement des 15 intitulés selon le nombre de CDI et de CDD dans les Bouches-du-Rhône (ordre croissant)
 

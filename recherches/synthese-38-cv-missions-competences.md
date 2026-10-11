@@ -4,7 +4,7 @@ Extrait de l'[étude détaillée](etude-marche-emploi-45-cv-2026.md) : pour chaq
 
 - **Secteurs :** A = TPE / PME / start-up (moins de 50 salariés) ; B = Entreprise de 50 salariés et plus ; C = Secteur public et institutionnel.
 - **Fiabilité :** moins de 10 offres = peu significatif ; 10 à 19 = indicatif ; 20 et plus = solide.
-- **Petits échantillons :** quand un CV repose sur moins de 10 offres (ou aucune), compléter avec le même intitulé dans les autres secteurs et avec le recoupement des référentiels métiers (section 17 de l'étude).
+- **Petits échantillons :** quand un CV repose sur moins de 10 offres (ou aucune), compléter avec le même intitulé dans les autres secteurs.
 - **Tableau de bord :** « — » = combinaison hors étude (pas de CV prévu) ; 0 = CV prévu, mais aucune offre trouvée.
 
 ## Tableau de bord (nombre d'offres analysées)
@@ -175,7 +175,7 @@ Extrait de l'[étude détaillée](etude-marche-emploi-45-cv-2026.md) : pour chaq
 
 ### 3-A · TPE / PME / start-up (moins de 50 salariés) : 4 offres (peu significatif)
 
-**Échantillon très réduit :** compléter avec 3-B (23 offres) et avec le recoupement des référentiels (section 17 de l'étude).
+**Échantillon très réduit :** compléter avec 3-B (23 offres).
 
 **Compétences :** Autonomie (100 %) · Data / KPI / ROI (75 %) · Pack Office / Excel (75 %) · Marketing digital (50 %) · Rédaction (50 %) · E-mailing/automation (50 %) · PAO (Adobe, Canva) (50 %) · Sens relationnel (50 %) · Rigueur (50 %) · Culture sectorielle (50 %)
 
@@ -230,7 +230,7 @@ Extrait de l'[étude détaillée](etude-marche-emploi-45-cv-2026.md) : pour chaq
 
 ### 4-A · TPE / PME / start-up (moins de 50 salariés) : 1 offre (peu significatif)
 
-**Échantillon très réduit :** compléter avec 4-C (50 offres) et 4-B (17 offres), et avec le recoupement des référentiels (section 17 de l'étude).
+**Échantillon très réduit :** compléter avec 4-C (50 offres) et 4-B (17 offres).
 
 **Compétences :** PAO (Adobe, Canva) (100 %) · Photo / vidéo (100 %) · Réseaux sociaux (100 %) · SEO / référencement (100 %) · Rédaction (100 %) · Organisation (100 %) · Rigueur (100 %) · Connaissance secteur (100 %)
 
@@ -301,7 +301,7 @@ Extrait de l'[étude détaillée](etude-marche-emploi-45-cv-2026.md) : pour chaq
 
 ### 5-A · TPE / PME / start-up (moins de 50 salariés) : 2 offres (peu significatif)
 
-**Échantillon très réduit :** compléter avec 5-C (21 offres) et avec le recoupement des référentiels (section 17 de l'étude).
+**Échantillon très réduit :** compléter avec 5-C (21 offres).
 
 **Compétences :** Management d'équipe (100 %) · Conduite de projet (100 %) · Anglais (50 %) · Culture digitale (50 %) · Ligne éditoriale (50 %) · InDesign / Canva (50 %) · Marketing (50 %) · Conduite changement (50 %)
 
@@ -326,7 +326,7 @@ Extrait de l'[étude détaillée](etude-marche-emploi-45-cv-2026.md) : pour chaq
 
 ### 5-B · Entreprise de 50 salariés et plus : 2 offres (peu significatif)
 
-**Échantillon très réduit :** compléter avec 5-C (21 offres) et avec le recoupement des référentiels (section 17 de l'étude).
+**Échantillon très réduit :** compléter avec 5-C (21 offres).
 
 **Compétences :** Anglais (100 %) · Culture digitale (100 %) · Management d'équipe (50 %) · Stratégie de com. (50 %) · Relations presse (50 %) · Com. de crise (50 %) · Gestion de marque (50 %) · Rédaction (50 %)
 
@@ -663,11 +663,11 @@ Extrait de l'[étude détaillée](etude-marche-emploi-45-cv-2026.md) : pour chaq
 
 ### 11-A · TPE / PME / start-up (moins de 50 salariés) : aucune offre
 
-Aucune offre conforme en 2026 : s'appuyer sur 11-B et 11-C, et sur le recoupement des référentiels (section 17 de l'étude).
+Aucune offre conforme en 2026 : s'appuyer sur 11-B et 11-C.
 
 ### 11-B · Entreprise de 50 salariés et plus : 1 offre (peu significatif)
 
-**Échantillon très réduit :** compléter avec 11-C (12 offres) et avec le recoupement des référentiels (section 17 de l'étude).
+**Échantillon très réduit :** compléter avec 11-C (12 offres).
 
 **Compétences :** Affaires publiques (100 %) · Rédaction de notes (100 %) · Esprit de synthèse (100 %) · Sens relationnel (100 %) · Gestion de projet (100 %) · Autonomie (100 %) · Réactivité (100 %) · Esprit d'initiative (100 %)
 
@@ -724,7 +724,7 @@ Aucune offre conforme en 2026 : s'appuyer sur 11-B et 11-C, et sur le recoupemen
 
 ### 12-A · TPE / PME / start-up (moins de 50 salariés) : 1 offre (peu significatif)
 
-**Échantillon très réduit :** compléter avec 12-C (7 offres) et avec le recoupement des référentiels (section 17 de l'étude).
+**Échantillon très réduit :** compléter avec 12-C (7 offres).
 
 **Compétences :** Aisance orale (100 %) · Rédaction (100 %) · Gestion de projet (100 %) · Organisation (100 %) · Sens relationnel (100 %) · Esprit d'initiative (100 %) · Esprit d'équipe (100 %) · Adaptabilité (100 %)
 
@@ -738,7 +738,7 @@ Aucune offre conforme en 2026 : s'appuyer sur 11-B et 11-C, et sur le recoupemen
 
 ### 12-B · Entreprise de 50 salariés et plus : 3 offres (peu significatif)
 
-**Échantillon très réduit :** compléter avec 12-C (7 offres) et avec le recoupement des référentiels (section 17 de l'étude).
+**Échantillon très réduit :** compléter avec 12-C (7 offres).
 
 **Compétences :** Anglais (67 %) · Secteur santé (67 %) · Cadre institutionnel (67 %) · Sens relationnel (67 %) · Autonomie (67 %) · Lobbying, influence (33 %) · Rédaction (33 %) · Analyse et synthèse (33 %)
 
@@ -874,7 +874,7 @@ Aucune offre conforme en 2026 : s'appuyer sur 11-B et 11-C, et sur le recoupemen
 
 ### 14-A · TPE / PME / start-up (moins de 50 salariés) : aucune offre
 
-Aucune offre conforme en 2026 : s'appuyer sur 14-B et 14-C, et sur le recoupement des référentiels (section 17 de l'étude).
+Aucune offre conforme en 2026 : s'appuyer sur 14-B et 14-C.
 
 ### 14-B · Entreprise de 50 salariés et plus : 6 offres (peu significatif)
 
@@ -932,7 +932,7 @@ Aucune offre conforme en 2026 : s'appuyer sur 14-B et 14-C, et sur le recoupemen
 
 ### 15-A · TPE / PME / start-up (moins de 50 salariés) : 4 offres (peu significatif)
 
-**Échantillon très réduit :** compléter avec 15-B (18 offres) et avec le recoupement des référentiels (section 17 de l'étude).
+**Échantillon très réduit :** compléter avec 15-B (18 offres).
 
 **Compétences :** Rigueur, exigence (100 %) · Analyse, data, KPI (50 %) · Gestion de projet (50 %) · Sens relationnel (50 %) · Anglais (écrit, pro) (50 %) · Adaptabilité (50 %) · Culture start-up (50 %) · Italien / espagnol (50 %)
 
